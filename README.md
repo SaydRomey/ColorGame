@@ -1,213 +1,187 @@
 
-# ColorGame
+# 🎨 [The Realm]: A Color-Shattered World
 
-Heavy-Lore color themed fantasy RPG Game project
-
-🎮 GAME DESIGN BRAINSTORM
-
-🔹 Working Title
-
-"Chromarealm: Echoes of Hue"\
-(A world shaped by color, where every hue holds power and history.)
+Welcome to the design archive for [**The Realm**], \
+a narrative-rich, hue-fractured fantasy world where emotion, memory, and magic are bound to color.
 
 ---
 
-## 🧭 WORLD CONCEPT
+## 📘 Table of Contents
 
-### 🌍 The Chromarealm
+- [🎮 Game Design Basics](#-game-design-basics)
+- [🌍 World Overview](#-world-overview)
+- [📜 Timeline & History](#-timeline--history)
+- [🧬 Main Character – The Prismwalker](#-main-character--the-prismwalker)
+- [🧠 Personality System](#-personality-system)
+- [🌀 In-Game Visual Concepts](#-in-game-visual-concepts)
+- [🪄 Myths & Omens](#-myths--omens)
+- [🎨 Color Codex](#-color-codex)
+- [🗂️ File Structure & Visual Assets](#-file-structure--visual-assets)
 
-A fractured world where colors hold dominion over land, magic, and memory.\
-Each region corresponds to a color family (Greenwood, Crimson Wastes, Cerulean Reach, etc.), 
-shaped by the associated hue’s emotion, element, and aesthetic.\
-These aren't just biomes—they reflect the cultural philosophy of their chromatic faction.
+## 📘 Table of Contents
 
-Colors were once unified under a prismatic core, a source of balance, \
-until it shattered—scattering color-fragments across the world and birthing conflicting philosophies.
-
----
-
-### 🎭 MAIN CHARACTER
-
-#### ✨ The Prismwalker
-
-You play as a colorless entity (a being of “Eigengrau,” the color of darkness before perception), 
-capable of absorbing and wielding colors by reclaiming fragments from each region.\
-As you gather colors, your appearance, powers, and moral choices evolve.
-
-Key abilities:
-- Huebinding: Absorb a region’s color to gain themed abilities.
-- Chromatic Shift: Switch between up to 3 equipped colors mid-combat or puzzle.
-- Color Dialogue: Some NPCs only respond to specific color alignments.
+- [🎮 Game Design Basics](#game-design-basics)
+- [🌍 World Overview](#world-overview)
+- [📜 Timeline & History](#timeline--history)
+- [🧬 Main Character – The Prismwalker](#main-character--the-prismwalker)
+- [🧠 Personality System](#personality-system)
+- [🌀 In-Game Visual Concepts](#in-game-visual-concepts)
+- [🪄 Myths & Omens](#myths--omens)
+- [🎨 Color Codex](#color-codex)
+- [🎭 NPCs by Color Archetype](#npcs-by-color-archetype)
+- [🗂️ File Structure & Visual Assets](#file-structure--visual-assets)
 
 ---
 
-### 🎯 GOAL
+## 🎮 Game Design Basics
 
-Reforge the Prismatic Core by recovering the ancient color artifacts, 
-resolving the rifts between color factions, and confronting the Tyrian Purge, 
-the imperial remnant corrupted by color hoarding and control.
-
----
-
-### 🕹 GAME TYPE & MECHANICS
-
-#### Genre:
-
-Action-RPG / Exploration / Narrative / Light Strategy\
-Think Hyper Light Drifter + Hollow Knight + Disco Elysium with a touch of Magic: The Gathering’s color philosophy.
+Heavy-Lore color themed fantasy RPG Game project \
+[See Game Desing Document - First Draft](./docs/gdd-draft.md)
 
 ---
 
-### Core Mechanics:
+## 🌍 World Overview
 
-#### 🎨 Color Binding System
+> “The Prism shattered. Now the hues rule alone.”
 
-Absorb color from:
-- Artifacts (e.g., “Malachite Fang,” “Citrine Lens”)
-- Bosses (e.g., “Skobeloff Diver”)
-- Shrines / Biomes
+[**Read full world breakdown ›**](./docs/world.md)
 
-Each color grants:
-- Passive traits (e.g., stealth, persuasion)
-- Active abilities (e.g., illusions, time-slow, elemental attacks)
-- Narrative filters (e.g., only Chartreuse-bound can speak to Carthusian spirits)
+![World Map Preview](./assets/world-map-overview.png)
 
-You can equip 3 colors at a time; switching mid-combat or mid-puzzle is essential.
+<details>
+<summary><strong>Region Snapshots</strong></summary>
 
----
-
-#### 🧩 Puzzles
-
-Color-coded environmental puzzles:
-- Wisteria fog only parts for a wearer of its Veil
-- Burnt Sienna statues animate when the proper pigment is painted
-- Use Orange Peel Charm to sprint across decaying bridges
+- 🟢 **Huevale** — Verdant growth & stealth puzzles  
+- 🔴 **Vireya** — Ember-forged battlefield zone  
+- 🔵 **Iriseld** — Floating sea-cliff archipelago  
+- 🟣 **Myrrala** — Twilight glades of illusion  
+- 🟡 **Luxeran** — Mirage-laced golden desert  
+- 🤎 **Auralith** — Rusted ruins & fossil memory  
+- ⚫ **Nullshade** — The broken, colorless core  
+</details>
 
 ---
 
-#### 🗺 Exploration
+## 📜 Timeline & History
 
-Metroidvania-style world with 6+ main regions based on hue groups.\
-Each unlocks new traversal mechanics (e.g., flight in Cerulean Reach, vine-riding in Greenwood).
+> “All color was once one — until we tried to own it.”
 
----
+[**See full timeline ›**](./docs/timeline.md)
 
-#### ⚔️ Combat
-
-Real-time but rhythmic, color effects interact:
-- Red vs. Green = explosive clashes
-- Purple vs. Yellow = drains or amplifies
-- Bistre vs. Any Light Color = distorts perception
+- 🕊️ Age of Light — Unified Core  
+- 🔮 Age of Echoes — Color Orders rise  
+- ⚔️ Color War & Nullshade Plague  
+- 💥 The Shattering — Realms fracture  
+- 🌑 The Dimming Cycle — Your era begins  
 
 ---
 
-#### 📚 Lore & Social Mechanics
+## 🧬 Main Character – The Prismwalker
 
-Discover Tomes of Hue to deepen regional history.\
-Align with color factions to unlock special storylines and upgrades.
+[**Character breakdown ›**](./docs/main-character.md)
 
-Decisions can “tint” your soul: \
-your dialogue options, quest access, and endings change based on accumulated hues.
+> “Born without color. Bound to none. Shaped by every hue.”
 
----
+![Prismwalker Concept Art](./assets/prismwalker-sketch.png)
 
-#### 💡 ART STYLE & TONE
-
-- Painterly pixel art or stylized 2.5D, with heavy use of dynamic lighting and color overlays.
-
-- Colors “bleed” when used, smearing or illuminating the scene.
-
-- UI reacts to your current bound colors.
+- Customizable visual
+- Dialogue influenced by color
+- Combat system with Huebinding & Prismatic Burst
 
 ---
 
-#### 🏁 POSSIBLE ENDINGS
+## 🧠 Personality System
 
-- Harmony Ending: Reforged Prism Core; color flows freely; your form dissolves into light.
+[**Full system ›**](./docs/personality-system.md)  
+[**Mixed personality breakdown ›**](./docs/personality-system-mixed.md)
 
-- Monochrome Ending: Choose one color to dominate; others fade.
+> "Your hues don't just affect your skills — they shape your voice."
 
-- No Color Ending: Refuse all hues; the world returns to silence and darkness (Eigengrau ascends).
+<details>
+<summary><strong>Examples:</strong></summary>
 
-- Spectrum War Ending: Let factions war eternally; you become a myth.
-
-
----
----
-
-## TODO:
-
-🧭 1. Faction & Culture Design (World Depth)
-
-Purpose: Populate the world with societies, customs, beliefs, and conflicts.
-
-Design 1–2 factions per region (e.g., Crimson Reclaimers in Vireya, Glasswright Guild in Iriseld)
-
-Establish belief systems, aesthetics, values, and rivalries
-
-Create color-based etiquette or taboos (e.g., in Luxeran, yellow is sacred and can’t be worn by outsiders)
-
+- 🔴 Red + 🔵 Blue = "The Calculated Flame"
+- 🟢 Green + 🤎 Brown = "The Earthbound"
+- 🔴 + 🟣 + 🤎 = "The Ruined Crown"
+</details>
 
 ---
 
-🛡️ 2. Combat & Ability System (Gameplay Mechanics)
+## 🌀 In-Game Visual Concepts
 
-Purpose: Define how the player interacts with the world mechanically.
+[**Full visuals ›**](./docs/in-game-visuals.md)
 
-Develop the color-binding combat system (active/passive powers per hue)
+![Huebound Skin Concept](./assets/hue-skin-example.png)
 
-Create status effects tied to colors (e.g., green = regeneration, red = frenzy, purple = confusion)
-
-Establish weapon classes or magic schools tied to the color families
-
-
----
-
-📜 3. Quests & Narrative Arcs (Story Structure)
-
-Purpose: Add personal, world-scale, and faction-based stories.
-
-Write main quest outline: Reforging the Prism, dealing with the Tyrian Purge
-
-Create side quests per region based on faction tensions, lost artifacts, or moral choices
-
-Add a few twist quests (e.g., NPC is colorless and hiding it)
-
+- Veins and aura based on hues
+- Prism Core glow
+- Clothing & trail effects by hue
+- HUD integration suggestion
 
 ---
 
-🪶 4. Artifact & Item System
+## 🪄 Myths & Omens
 
-Purpose: Deepen exploration and creativity.
+[**Prophecies & cryptic sayings ›**](./docs/myths-and-omens.md)
 
-Finalize each color artifact (you already have great ones!) and add rare variants
+> “The first color was silence.”  
+> “When the sun weeps amber, even the blind must wear masks.”
 
-Define crafting/alchemy mechanics based on combining pigments or relics
+<details>
+<summary><strong>Sorted by Hue</strong></summary>
 
-Create a color infusion system for gear
-
-
----
-
-🏙️ 5. Key Locations, Dungeons, Shrines
-
-Purpose: Build the physical play space and memorable encounters.
-
-Flesh out major cities and hubs in each region
-
-Design a color-themed dungeon per biome (e.g., Verdant Labyrinth, Crimson Arena, Blooming Archive)
-
-Place shrines or Prism Gates that unlock traversal/powers
-
+- 🟢 Nature & decay  
+- 🔴 Passion & war  
+- 🔵 Wisdom & sorrow  
+- 🟣 Magic & fate  
+- 🟡 Light & illusion  
+- 🤎 Death & memory  
+</details>
 
 ---
 
-📖 6. NPC Roster & Dialogue Trees
+## 🎨 Color Codex
 
-Purpose: Make the world feel alive and reactive.
+[**See complete color/style list ›**](./docs/colors.md)
 
-Create 1–2 major NPCs per region (e.g., a mentor, a rival, a betrayer)
+Includes:
 
-Add dialogue variations depending on color-bound status
+- ✅ Hex codes
+- ✅ Color symbolism
 
-Write color-aligned greetings, insults, and lore drops
+<details>
+<summary>Example:</summary>
+
+|   | Name | Hex | Description |
+|---|------|-----|-------------|
+| ![#40826D](https://placehold.co/15x15/40826D/40826D.png) | **Viridian** | `#40826D` | Bluish green; used in pigments and enchantment ink |
+</details>
+
+---
+
+## NPCs by Color Archetype
+
+[**See basic color/npc list ›**](./docs/npcs.md)
+
+Includes:
+
+- ✅ Character + Item ideas
+- ✅ Usage in worldbuilding
+
+<details>
+<summary>Example:</summary>
+
+**Xanadu Warden**  
+*Guardian of the Forgotten Gardens; poet-scout cloaked in ancient gray-green*  
+**Item:** *Xanadu Stone* – Ancient mossy relic; grants visions of lost utopias when held in moonlight.
+</details>
+
+---
+
+## 🗂️ File Structure & Visual Assets
+
+```
+TODO
+```
+
+---
