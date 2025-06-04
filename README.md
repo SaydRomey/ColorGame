@@ -15,7 +15,9 @@ a narrative-rich, hue-fractured fantasy world where emotion, memory, and magic a
 - [🧠 Personality System](#-personality-system)
 - [🌀 In-Game Visual Concepts](#-in-game-visual-concepts)
 - [🪄 Myths & Omens](#-myths--omens)
+- [🎭 NPC Characters](#-npc-characters)
 - [🎨 Color Codex](#-color-codex)
+- [🌑 Endgame](#-endgame)
 - [🗂️ File Structure & Visual Assets](#-file-structure--visual-assets)
 
 ---
@@ -127,6 +129,33 @@ Heavy-Lore color themed fantasy RPG Game project \
 
 ---
 
+## 🎭 NPC Characters
+
+[**See npc list ›**](./docs/npcs.md)
+
+Includes:
+
+- ✅ Character + Item ideas
+- ✅ Usage in worldbuilding
+- ✅ Dialogue
+
+<details>
+<summary>Example:</summary>
+
+**Xanadu Warden**  
+*Guardian of the Forgotten Gardens; poet-scout cloaked in ancient gray-green*  
+**Item:** *Xanadu Stone* – Ancient mossy relic; grants visions of lost utopias when held in moonlight.
+> "Gardens grow again, even over bones."\
+> “This garden grew thorns when we fled.”\
+> "If you listen, the moss remembers where you buried the truth."\
+> “Hold the stone in moonlight — it’ll show you what we forgot.”  
+
+**When leading the player into ancient ruins:**  
+> “Roots grow around memory. Tread softly — some stones grieve.”
+</details>
+
+---
+
 ## 🎨 Color Codex
 
 [**See complete color/style list ›**](./docs/colors.md)
@@ -144,28 +173,11 @@ Includes:
 | ![#40826D](https://placehold.co/15x15/40826D/40826D.png) | **Viridian** | `#40826D` | Bluish green; used in pigments and enchantment ink |
 </details>
 
----
-
-## NPCs by Color Archetype
-
-[**See basic color/npc list ›**](./docs/npcs.md)
-
-Includes:
-
-- ✅ Character + Item ideas
-- ✅ Usage in worldbuilding
-
-<details>
-<summary>Example:</summary>
-
-**Xanadu Warden**  
-*Guardian of the Forgotten Gardens; poet-scout cloaked in ancient gray-green*  
-**Item:** *Xanadu Stone* – Ancient mossy relic; grants visions of lost utopias when held in moonlight.
-</details>
 
 ---
 
-## Endgame Ideas (SPOILER!!!)
+## 🌑 Endgame
+> [!WARNING] (SPOILER!!!)
 
 [**See what happens in the final moments (wip)](./docs/endgame.md)
 
