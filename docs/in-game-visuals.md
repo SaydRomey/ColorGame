@@ -8,11 +8,14 @@
 Faint glowing cracks or veins appear on their skin, arms, or neck.  
 Each hue has its own zone:
 
-| Hue  | Visual Zone              |
-|------|--------------------------|
-| Green | Vines along limbs       |
-| Red   | Pulsing near the heart  |
-| Blue  | Around temples and fingers |
+| Hue    | Visual Zone                |
+|--------|----------------------------|
+| Green  | Vines along limbs          |
+| Red    | Pulsing near the heart     |
+| Blue   | Around temples and fingers |
+| Purple |
+| Yellow |
+| Brown  |
 
 If three hues are bound, they can “mix” toward the chest/core.
 
@@ -44,10 +47,13 @@ Thin outline glow or shimmering particles surrounding them:
 Movement leaves a ghost trail in the active hue(s):
 
 | Hue    | Trail Effect            |
-|--------|--------------------------|
-| Purple | Dreamy sparkles         |
+|--------|-------------------------|
+| Green  |
 | Red    | Embers                  |
+| Blue   |
+| Purple | Dreamy sparkles         |
 | Yellow | Flickers like sunlight  |
+| Brown  |
 
 ---
 

@@ -18,19 +18,6 @@ a narrative-rich, hue-fractured fantasy world where emotion, memory, and magic a
 - [🎨 Color Codex](#-color-codex)
 - [🗂️ File Structure & Visual Assets](#-file-structure--visual-assets)
 
-## 📘 Table of Contents
-
-- [🎮 Game Design Basics](#game-design-basics)
-- [🌍 World Overview](#world-overview)
-- [📜 Timeline & History](#timeline--history)
-- [🧬 Main Character – The Prismwalker](#main-character--the-prismwalker)
-- [🧠 Personality System](#personality-system)
-- [🌀 In-Game Visual Concepts](#in-game-visual-concepts)
-- [🪄 Myths & Omens](#myths--omens)
-- [🎨 Color Codex](#color-codex)
-- [🎭 NPCs by Color Archetype](#npcs-by-color-archetype)
-- [🗂️ File Structure & Visual Assets](#file-structure--visual-assets)
-
 ---
 
 ## 🎮 Game Design Basics
@@ -175,6 +162,12 @@ Includes:
 *Guardian of the Forgotten Gardens; poet-scout cloaked in ancient gray-green*  
 **Item:** *Xanadu Stone* – Ancient mossy relic; grants visions of lost utopias when held in moonlight.
 </details>
+
+---
+
+## Endgame Ideas (SPOILER!!!)
+
+[**See what happens in the final moments (wip)](./docs/endgame.md)
 
 ---
 

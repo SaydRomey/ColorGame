@@ -25,6 +25,9 @@ Depending on who you ask, the Prismwalker is:
 These lines can be used by NPCs, etched into ruins, sung by cults, or appear in visions.  
 They are written to feel ancient and ambiguous — usable in quests, dialogue, or region lore.
 
+🎭 [**See NPC character's dialogues**](./npcs.md)
+
+
 ### 🟢 Greens — Growth, Decay, Nature
 
 > “When roots twist to strangle and vines whisper secrets, the forest prepares to choose a master.”  
@@ -73,223 +76,115 @@ They are written to feel ancient and ambiguous — usable in quests, dialogue, o
 
 ---
 
-### ⚫ Nullshade / Colorless Core
+### ⚫ Nullshade — The Colorless Core
 
 > “No hue, no truth, no shape. It comes to erase.”  
 > “The first color was silence.”  
-> “When you see nothing… run.”
+
+These can be scattered throughout the **Nullshade zone**:  
+- **Crystal Monoliths** show fragmented quotations of the Prismara.  
+- **Floating shards** echo whispers when passed.  
+- **Broken architecture** carries etched lines of regret or cryptic warnings.  
+- **Voidlings**, if they communicate at all, do so in fractured syllables or thoughts like cracked mirrors.
+
+**Etchings in Broken Crystal**  
+> “To fracture the Prism is to unravel time.”  
+> “The Core did not fall. It was fled from.”  
+> “Six truths were carved — the seventh was silence.”  
+> “We hoarded hue like breath… until the world suffocated.”  
+
+**Spectral Whispers (heard in slow-time zones):**  
+> *"Color is choice. You chose too many."*  
+> *"It watches through unblinking shards."*  
+> *"There was a name. You wore it once."*  
+> *"Memory isn’t gone. It’s grayed to pain."*  
+> *"Don’t trust the next reflection. It isn’t yours."*  
+
+**Echoes of the Prismara (fading fragments):**  
+> “Balance isn’t stillness — it’s motion in agreement.”  
+> “We sang in hues, and it was enough. Until we envied the chorus.”  
+> “Do not bind your soul to a single color. That was our first lie.”  
+
+**Final Warnings (approaching the Core):**  
+> *"The Prism does not forgive. It reflects."*  
+> *"Every hue leads here eventually."*  
+> *"To fix it… you must fracture, too."*  
+
+**Voidling Murmurs (subtle ambient whispers):**  
+> *"Unhue yourself."*  
+> *"Be blank."*  
+> *"The first silence was a gift."*  
+> *"You brought color. We bring rest."*  
+
+#### 🪨 Glyph Fragments (Environmental Puzzle Text)
+Carved into floating shards, stone ruins, or prism-locked gates.  
+These can hint at past sins, metaphysics, or unlock mechanics:
+
+1. "Six stand. One breaks. None remain whole."
+2. "The mirror sees only the first lie."
+3. "Hue is hunger made beautiful."
+4. "Echo what you are not, and the gate will fade."
+5. "A colorless path must be taken by halves."
+6. "Where time forgets to move, step backward into now."
+7. "We built a prism to house the truth. It burned."
+8. "The seventh hue never had a name."
+
+(These may be used as activation phrases, clues to perspective puzzles, or translated via an artifact.)
+
+#### 🧩 Nullshade Puzzle Riddles
+Used on sealed doors, prism relics, or forgotten altars, often requiring perspective changes, color negation, or rotating shards.
+
+1. “I am seen by none but all reflect me. What am I?”
+   → **Answer:** *The Void*
+
+2. “Split me and I multiply. Bind me and I vanish. I color your world, but have none. What am I?”
+   → **Answer:** *Light*
+
+3. “I follow each color but belong to none. I am the space between choices. Who am I?”
+   → **Answer:** *The Prismwalker*
+
+4. “Born from the bloom, bled into war. I held the sum, and now I am sore. What was I?”
+   → **Answer:** *The Prismatic Core*
+
+5. “I speak in silence, echo the dead, walk without shadow, and name what you fled.”
+   → **Answer:** *Memory*
+
+Optional Mechanic: Wrong answers cause the **shard gates** to shimmer and fracture the UI subtly, or freeze time for a moment.
 
 ---
 
-## 🎭 Character-Linked Omens
+### 👁️‍🗨️ **Boss Encounter Dialogue – Prism Wound / Final Nullshade Entity**
 
-Use these lines in dialogue, carvings, memory echoes, or journal fragments.  
-Each reflects the character’s personality, domain, or worldview.
+The final boss may be a **spectral entity**, corrupted **Prismara remnant**, or even the ghost of the **Prismatic Core itself**—mirroring your decisions and color-balance.
 
-### 🟢 Greens — Nature, Stealth, Rebirth, Decay
+**👤 Before Fight (Entity Phase 1):**
+> *"You bring balance? Or burden?"*  
+> *"You came empty. That was wise."*  
+> *"We tried to hold all hues. Now they hold us."*  
+> *"Even nothingness has memory. You are its echo."*
 
-**Xanadu Warden**  
-> "Gardens grow again, even over bones."  
-> "If you listen, the moss remembers where you buried the truth."
+**⚔️ During Fight:**
+> *"Fragment by fragment, I remember you."*  
+> *"Every hue you burn… makes me real."*  
+> *"Your silence screams louder than their war."*  
+> *"The Core broke. So must you."*
 
-**Viridian Alchemist**  
-> "Balance is pigment and patience."  
-> "When the ink runs dry, the spell is complete."
-
-**Feldgrau Veteran**  
-> "Cover the blade in green, and the blood won't shine."  
-> "I've seen ghosts lose their war... and still stand guard."
-
-**Skobeloff Diver**  
-> "Below the blue, there’s only pressure and memory."  
-> "The deeper you dive, the older the lies become."
-
-**Chartreuse Initiate**  
-> "Joy ferments like herbs — bitter, then healing."  
-> "Laugh, and the gods might laugh with you. Or at you."
-
-**Malachite Oracle**  
-> "When the stone speaks, silence obeys."  
-> "Change is the only truth the roots trust."
-
-**Smaragdine Knight**  
-> "Armor grown, not forged, binds better to purpose."  
-> "Even the emerald bleeds green in war."
-
-**Celadon Archivist**  
-> "Each glaze holds a lifetime. Crack it, and you hear the end."  
-> "Nothing fades — only layers build."
-
-**Limerick Druid**  
-> "Rhyme binds more than rope. Ask the fox."  
-> "When the wind sings your name backward, don’t answer."
-
-**Harlequin Trickblade**  
-> "Chaos is the only pattern sharp enough to cut fate."  
-> "I laugh when death forgets its cue."
-
-**Saproot Cultist**  
-> "The god sleeps in bark — dream too loud and it might wake."  
-> "Rot is just birth with teeth."
+**💀 Final Phase / Defeat Trigger:**
+> *"Reforge me… or forget me. It is the same end."*  
+> *"Truth was never in the colors. It was in the cracks."*  
+> *"All hues fade. All names blur. What will yours become?"*
 
 ---
 
-### 🔴 Reds — Passion, Conflict, Ritual, Sacrifice
+## Final Boss Scene
 
-**Amaranth the Undying**  
-> "Rebirth is a mercy. I’ve done it too many times."  
-> "The bloom is beautiful... just before it drinks."
-
-**Vermilion Duelist**  
-> "Only blood can sign a name in fire."  
-> "A blade’s purpose is to be answered."
-
-**Nacarat the Fox**  
-> "The desert buries liars quickly. And cleanly."  
-> "Mirages don’t lie — they just let you dream wrong."
-
-**Falu Homesteader**  
-> "If the hearth dies, so do the hills."  
-> "Redwood walls don't fall... they remember why they stand."
-
-**Alizarin, the Crimson Weaver**  
-> "Threads bind what memory cannot."  
-> "I sew fate. Careful what color you bleed."
-
-**Cinnabar Mask**  
-> "Smiles are masks. Mine just fits better."  
-> "A ritual is only wrong if no one claps."
-
-**Coquelicot Banner**  
-> "Poppies bloom where martyrs fall."  
-> "Raise a flag, bury a name. It’s the same gesture."
+More dialogue in the final boss script (SPOILER ALERT!!)  
+[**See what happens in the final moments (wip)](./docs/endgame.md)
 
 ---
 
-### 🔵 Blues — Wisdom, Wind, Mystery, Sorrow
+- Actual **symbolic glyph icons or language patterns** for in-world puzzles?
+- A full **boss fight script** with multiple emotional/visual transitions?
 
-**Zaffre Glasswright**  
-> "Glass keeps what words forget."  
-> "Look too deep, and you’ll find what looked back."
-
-**Glaucous Wing**  
-> "Wings are for silence, not escape."  
-> "The sky mourns every fall — listen."
-
-**Cerulean Skydancer**  
-> "You rise only when you fall with grace."  
-> "The wind doesn’t forget who defies it."
-
-**Eigengrau the Unseeing**  
-> "Not all shadows are cast by light."  
-> "The color you see in dreams is me."
-
-**Payne’s Shade**  
-> "Illusion needs a frame... and a witness."  
-> "Every masterpiece begins in gray."
-
----
-
-### 🟣 Purples — Magic, Duality, Elegance, Secrets
-
-**Wisteria Enchantress**  
-> "Charm is a quieter curse."  
-> "I weave kindness like silk — hard to notice until you're bound."
-
-**Periwinkle Siren**  
-> "Not all drowning starts with water."  
-> "My voice is a mirror. What did you say?"
-
-**Mauveine Spark**  
-> "Chaos doesn’t knock. It bursts into color."  
-> "Mix coal and genius, and pray you’re not flammable."
-
-**Heliotrope Devotee**  
-> "The sun doesn't follow the flower. It's the other way 'round."  
-> "Devotion is light that blinds from behind."
-
-**Razzmatazz Sprite**  
-> "Fun is dangerous when it’s your only defense."  
-> "If it giggles in the dark... it’s probably me."
-
-**Fandango Duelstar**  
-> "A dance is just a duel without grief."  
-> "If they watch you bleed, make it beautiful."
-
-**Thulian Emissary**  
-> "Truth is a rare gem. Most aren’t polished enough to see it."  
-> "I don’t lie. I just leave out the easy parts."
-
-**Pomp & Power Chancellor**  
-> "Control wears robes, not armor."  
-> "Kings bow to the voice behind the curtain."
-
-**Liseran Caretaker**  
-> "Rebirth always costs something — even if it’s love."  
-> "Lilies bloom in mourning, not celebration."
-
-**Quinacridone Blade**  
-> "Style without edge is decoration."  
-> "Every duel writes a stroke in my masterpiece."
-
-**Tyrian Purge**  
-> "Purple once ruled gods. Now it rots empires."  
-> "I remember every betrayal — even the ones you forgot."
-
-**Puce Ratling**  
-> "Trust bleeds. Gold lies."  
-> "Bet your soul if you like. I already folded mine."
-
----
-
-### 🟡 Yellows & Oranges — Light, Trade, Ego, Illusion
-
-**Gamboge Monk**  
-> "Lacquer what you can’t clean."  
-> "Even peace bruises when it lands too hard."
-
-**Eburnean Priestess**  
-> "Ivory cracks from pressure, not time."  
-> "A roll of the dice echoes louder than a prayer."
-
-**Citrine Artisan**  
-> "Jewels are emotions you can wear."  
-> "Happiness is the easiest lie to sell."
-
-**Aureolin Flame**  
-> "Light writes in searing ink."  
-> "The sun favors the daring — until it burns them."
-
-**Orangepeel Courier**  
-> "Speed is safety. Talk later."  
-> "The scent hits before the shadow does."
-
-**Fulvous Hunter**  
-> "Dust whispers louder than prey."  
-> "Your shadow’s too loud. I’ll take care of it."
-
----
-
-### 🤎 Browns/Neutrals — Memory, Endurance, Decay, Silence
-
-**Isabelline Widow**  
-> "Wash your grief, and you’ll lose its weight."  
-> "Dust tells stories the living forget."
-
-**Burnt Sienna Sculptor**  
-> "Stone remembers better than blood."  
-> "Each chip is a truth I don’t speak."
-
-**Bistre Archivist**  
-> "Soot smears, but it preserves."  
-> "Ink lies. Burnt pages confess."
-
-**Mikado Warlord**  
-> "Style is strength with discipline."  
-> "A cut made with grace leaves a cleaner wound."
-
-**Caput Mortuum Ascetic**  
-> "Death isn’t the end — it’s the element most resist."  
-> "Let rot teach you what gold never will."
 
 ---
