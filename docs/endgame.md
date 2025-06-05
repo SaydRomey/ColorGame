@@ -1,11 +1,12 @@
 
 # Endgame
 
-![Endgame Sketch](../assets/final-boss-color-sketch.png)
-<!-- ![Endgame Sketch](../assets/final-boss.png) -->
+<img src="../assets/final-boss-color-sketch.png" alt="Endgame Sketch" width="500">
+
+<!-- <img src="../assets/final-boss.png" alt="Endgame Sketch" width="500"> -->
 
 
-Complete boss fight script for the final encounter in ⚫ Nullshade – The Colorless Core.
+Complete boss fight script for the final encounter in ⚫ Nullshade – The Colorless Core.  
 Written with emotional and visual transitions, combat phases, and player dialogue hooks.
 
 ## 🧩 **BOSS FIGHT: The Fractured Core**

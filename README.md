@@ -35,7 +35,9 @@ Heavy-Lore color themed fantasy RPG Game project \
 
 [**Read full world breakdown ›**](./docs/world.md)
 
-![World Map Preview](./assets/world-map-overview.png)
+<!-- ![World Map Preview](./assets/world-map-overview.png) -->
+<img src="./assets/world-map-overview.png" alt="World Map Preview" width="500">
+
 
 <details>
 <summary><strong>Region Snapshots</strong></summary>
@@ -71,7 +73,7 @@ Heavy-Lore color themed fantasy RPG Game project \
 
 > “Born without color. Bound to none. Shaped by every hue.”
 
-![Prismwalker Concept Art](./assets/prismwalker-sketch.png)
+<img src="./assets/prismwalker-sketch.png" alt="Prismwalker Concept Art" width="500">
 
 - Customizable visual
 - Dialogue influenced by color
@@ -100,7 +102,7 @@ Heavy-Lore color themed fantasy RPG Game project \
 
 [**Full visuals ›**](./docs/in-game-visuals.md)
 
-![Huebound Skin Concept](./assets/hue-skin-example.png)
+<img src="./assets/hue-skin-example.png" alt="Huebound Skin Concept" width="500">
 
 - Veins and aura based on hues
 - Prism Core glow

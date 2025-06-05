@@ -69,6 +69,8 @@ World shaped by the shattering of the Prismatic Core, with shards embedding them
 - **Gameplay:** Endgame zone, multidimensional color puzzles, spectral boss fights  
 - **Purpose:** Final boss area / moral decision point — where the final decision about color and balance takes place
 
+[**See Nullshade in more details**](./regions/nullshade.md)
+
 ---
 
 ### 🟢 Huevale – *The Verdant Frontier (Green)*

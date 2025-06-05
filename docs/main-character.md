@@ -1,6 +1,8 @@
 
 # 🌈 The Prismwalker
 
+[**More details on the Prismwalker**](./prismwalker.md)
+
 ---
 
 ## 🧬 Core Concept
