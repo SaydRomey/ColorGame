@@ -1,18 +1,17 @@
 
-# Endgame
+# 🧩 **BOSS FIGHT: The Fractured Core**
+
+> Complete boss fight script for the final encounter in [Nullshade – The Colorless Core](./regions/nullshade.md). \
+> Written with emotional and visual transitions, combat phases, and player dialogue hooks.
+
+**Location:** Prism Wound (crater at the heart of Nullshade)  
+**Boss Identity:** The shattered consciousness of the Prismatic Core, broken into volatile fragments of memory, color, and silence.  
+**Final choice, final truth:** Do you reforge the Core, or let the world remain fractured?
 
 <img src="../assets/final-boss-color-sketch.png" alt="Endgame Sketch" width="500">
-
 <!-- <img src="../assets/final-boss.png" alt="Endgame Sketch" width="500"> -->
 
-
-Complete boss fight script for the final encounter in ⚫ Nullshade – The Colorless Core.  
-Written with emotional and visual transitions, combat phases, and player dialogue hooks.
-
-## 🧩 **BOSS FIGHT: The Fractured Core**
-> Location: Prism Wound (crater at the heart of Nullshade)  
-> Boss Identity: The shattered consciousness of the Prismatic Core — broken into volatile fragments of memory, color, and silence.  
-> Final choice, final truth: Do you reforge the Core, or let the world remain fractured?
+---
 
 ## **🌑 PRE-FIGHT — Entering the Core**
 

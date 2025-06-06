@@ -31,7 +31,7 @@
 
 ## ✨ PRISMWALKER PROGRESSION — Becoming the Huebound
 
-### 🧱 1. Nullborn Form (What You Shared)
+### 🧱 1. Nullborn Form
 
 - Hooded, featureless.
 

@@ -1,7 +1,5 @@
 
-# Nullshade
-
-### ⚫ Nullshade – *The Colorless Core*
+# ⚫ Nullshade – *The Colorless Core*
 
 - **Name:** Nullshade  
 - **Biome:** Crater, void ravines, crystal monoliths, floating debris, broken geometry  

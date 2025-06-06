@@ -10,7 +10,6 @@
 ## 0. First
 
 - Consolidate lore across docs
-- Regroup NPCs details in npcs.md (like omen, for example)
 - 
 
 ---
