@@ -1,6 +1,12 @@
 
 # TODO:
 
+## Links
+
+> [Crystal shader to check](https://thegodotbarn.com/contributions/snippet/52/crystal-mesh-generator)  
+> [Colors In-Depth](https://www.w3schools.com/colors/default.asp)  
+> 
+
 ## 0. First
 
 - Consolidate lore across docs

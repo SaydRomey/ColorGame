@@ -1,6 +1,8 @@
 
 # Prismwalker
 
+> [Tool to find shard shape](https://www.smorf.nl/index.php)
+
 ## 🩻 Phase: Nullshade Origin / Unbound State
 
 ### Visual:
