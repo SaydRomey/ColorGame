@@ -133,7 +133,8 @@ Heavy-Lore color themed fantasy RPG Game project \
 
 ## 🎭 NPC Characters
 
-[**See npc list ›**](./docs/npcs.md)
+<!-- [**See npc list ›**](./docs/npcs.md) -->
+[**See npc list ›**](./docs/NPCs/npcs-overview.md)
 
 Includes:
 

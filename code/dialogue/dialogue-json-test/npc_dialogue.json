@@ -1,0 +1,23 @@
+{
+  "npcs": [
+    {
+      "name": "Viridian Alchemist",
+      "hue": "Green",
+      "dialogue_tree": {
+        "greeting": "Balance is pigment and patience.",
+        "choices": [
+          {
+            "prompt": "Ask about the ink",
+            "response": "A drop of this will make a promise eternal — or a lie irreversible.",
+            "next": null
+          },
+          {
+            "prompt": "Request a spell recipe",
+            "response": "Write it with care. Ink has memory… and moods.",
+            "next": null
+          }
+        ]
+      }
+    }
+  ]
+}

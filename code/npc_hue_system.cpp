@@ -1,5 +1,13 @@
-
 // npc_hue_system.cpp
+
+/* TOCHECK
+
+Making NPCs react to the player's current bound hue(s)
+Changing dialogue outcomes based on color affinity
+Integrating reputation or hostility systems by hue
+
+*/
+
 #include "npc_hue_system.hpp"
 
 // ---- Utility: Convert HueType to string ----
