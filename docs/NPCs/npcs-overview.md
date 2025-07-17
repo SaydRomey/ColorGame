@@ -13,14 +13,15 @@ List of some "main" NPC characters with:
 
 ---
 
-<details><summary><b>🟢 Greens</b></summary>
+<details><summary><b>🟢 Greens - Nature, growth, alchemy, stealth</b></summary>
 
-## 🟢 Greens — Nature, growth, alchemy, stealth
+<!-- ### 🟢 Greens — Nature, growth, alchemy, stealth -->
 
 <div align="center">
   <h3>Xanadu Warden</h3>
+  <i>Guardian of the Forgotten Gardens</i></br>
   <img src="../../assets/npc-sketches/green/xanadu.png" alt="Xanadu Warden" width="200">
-  </br><i>Guardian of the Forgotten Gardens; poet-scout cloaked in ancient gray-green</i></br></br>
+  </br><i>Poet-scout cloaked in ancient gray-green</i></br></br>
 </div>
 
 > "Gardens grow again, even over bones."  
@@ -32,6 +33,8 @@ List of some "main" NPC characters with:
 > “Roots grow around memory. Tread softly — some stones grieve.”
 
 **Item:** *Xanadu Stone* – Ancient mossy relic; grants visions of lost utopias when held in moonlight.
+
+<!-- - [Philodendron Xanadu](https://en.wikipedia.org/wiki/Thaumatophyllum_xanadu) -->
 
 ---
 
@@ -135,6 +138,8 @@ List of some "main" NPC characters with:
 > [!NOTE]
 > (Maybe he could only speak in limericks ?)
 
+<details><summary>See <i>Limerick Druid's dialogue in limericks</i></summary>
+
 #### 🌿 **Limerick Druid – Dialogue in Limericks**
 
 **Upon First Meeting:**
@@ -178,6 +183,7 @@ List of some "main" NPC characters with:
 > But step with intent,\
 > And you may just prevent\
 > What the vines had been planning instead.
+</details>
 
 ---
 
@@ -205,9 +211,31 @@ List of some "main" NPC characters with:
 **When defending their faith:**  
 > “Worship the rot. It’s the only thing that listens forever.”
 
+---
+
+<div align="center">
+  <h3>Thalera the Rootborn</h3>
+  <i>Verdant Ghost formed from roots and vines</i></br>
+  <img src="../../assets/npc-sketches/green/thalera.png" alt="Thalera the Rootborn" width="200">
+  </br><i>Translucent figure with green-glowing antlers</i></br></br>
+</div>
+
+> “Your feet are bare. Your breath uncolored.  
+> You do not belong, Prismwalker.”  
+>  
+> “Yet… you carry the Root’s grief in your steps.”
+
+[**See Verdant Ghost in Example Scene**](../scene-example.md#npc-encounter)  
+
+<!-- - [Thalera Moth](https://en.wikipedia.org/wiki/Thalera) -->
+
+---
+
 </details>
 
 ---
+
+<details><summary><b>🔴 Reds</b></summary>
 
 ### 🔴 Reds — Passion, war, sacrifice, rebellion
 
@@ -300,7 +328,11 @@ List of some "main" NPC characters with:
 **When giving the brooch to the player:**  
 > “This doesn’t make you a hero. It makes you the next.”
 
+</details>
+
 ---
+
+<details><summary><b>🔵 Blues</b></summary>
 
 ### 🔵 Blues — Wisdom, storms, sorrow, mystery
 
@@ -367,7 +399,11 @@ List of some "main" NPC characters with:
 **While casting a large-scale illusion:**  
 > “The world is easier to fix when you paint over it first.”
 
+</details>
+
 ---
+
+<details><summary><b>🟣 Purples</b></summary>
 
 ### 🟣 Purples — Magic, dreams, fate, illusion
 
@@ -385,6 +421,7 @@ List of some "main" NPC characters with:
 ---
 
 **Periwinkle Siren**  
+<!-- Pervenche Periwinkle -->
 *Melodic sea-fae; lures sailors with shimmering, lavender-toned scales*  
 **Item:** *Periwinkle Pearl* – Held by sea witches; grants underwater breathing and mild hypnosis powers.
 > "Not all drowning starts with water."\
@@ -499,7 +536,11 @@ List of some "main" NPC characters with:
 **During combat in radiant fields:**  
 > “Strike like a stanza. Parry like a rhyme.”
 
+</details>
+
 ---
+
+<details><summary><b>🟡 Yellows & Oranges</b></summary>
 
 ### 🟡 Yellows & Oranges — Sunlight, trickery, vitality, illusion
 
@@ -579,7 +620,11 @@ List of some "main" NPC characters with:
 **While stalking a dangerous target:**  
 > “This sand remembers feet. Yours, especially.”
 
+</details>
+
 ---
+
+<details><summary><b>🤎 Browns & Neutrals</b></summary>
 
 ### 🤎 Browns & Neutrals — Memory, decay, silence, alchemy
 
@@ -646,12 +691,14 @@ List of some "main" NPC characters with:
 **When offering alchemical aid:**  
 > “It won’t taste like hope. But it’ll buy you time.”
 
+</details>
+
 ---
 
-
-
-
+<details><summary><b>Void/Gray/Multicolor/Unaligned entities</b></summary>
 
 ### Void/Gray/Multicolor/Unaligned entities (?)
+
+</details>
 
 ---

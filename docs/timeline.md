@@ -74,3 +74,5 @@ A colorless being — the Prismwalker — has appeared, able to wield any hue.\
 Some see them as the Core’s heir… others as its final mistake.\
 The goal is whispered in every tongue: 
 Reforge the Prism, or let the hues burn themselves out forever.
+
+---

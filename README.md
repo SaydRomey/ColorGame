@@ -16,6 +16,7 @@ a narrative-rich, hue-fractured fantasy world where emotion, memory, and magic a
 - [🌀 In-Game Visual Concepts](#-in-game-visual-concepts)
 - [🪄 Myths & Omens](#-myths--omens)
 - [🎭 NPC Characters](#-npc-characters)
+- [👹 Enemies & Monsters](#-enemies--monsters)
 - [🎨 Color Codex](#-color-codex)
 - [🌑 Endgame](#-endgame)
 - [🗂️ File Structure & Visual Assets](#-file-structure--visual-assets)
@@ -38,18 +39,32 @@ Heavy-Lore color themed fantasy RPG Game project \
 <!-- ![World Map Preview](./assets/world-map-overview.png) -->
 <img src="./assets/world-map-overview.png" alt="World Map Preview" width="500">
 
+### Region Snapshots
 
-<details>
-<summary><strong>Region Snapshots</strong></summary>
+<!-- <details><summary><strong>See Region Snapshots</strong></summary> -->
 
-- 🟢 **Huevale** — Verdant growth & stealth puzzles  
-- 🔴 **Vireya** — Ember-forged battlefield zone  
-- 🔵 **Iriseld** — Floating sea-cliff archipelago  
-- 🟣 **Myrrala** — Twilight glades of illusion  
-- 🟡 **Luxeran** — Mirage-laced golden desert  
-- 🤎 **Auralith** — Rusted ruins & fossil memory  
-- ⚫ **Nullshade** — The broken, colorless core  
-</details>
+🟢 **Huevale** — Verdant growth & stealth puzzles  
+<img src="./assets/regions/player-in-huevale.png" alt="Player in Huevale" width="300"></br>
+
+🔴 **Vireya** — Ember-forged battlefield zone  
+<img src="./assets/regions/player-in-vireya.png" alt="Player in Vireya" width="300"></br>
+
+🔵 **Iriseld** — Floating sea-cliff archipelago  
+<img src="./assets/regions/player-in-iriseld.png" alt="Player in Iriseld" width="300"></br>
+
+🟣 **Myrrala** — Twilight glades of illusion  
+<img src="./assets/regions/player-in-myrrala.png" alt="Player in Myrrala" width="300"></br>
+
+🟡 **Luxeran** — Mirage-laced golden desert  
+<img src="./assets/regions/player-in-luxeran.png" alt="Player in Luxeran" width="300"></br>
+<img src="./assets/regions/player-in-luxeran-eburnea.png" alt="Player in Eburnea" width="300"></br>
+
+🤎 **Auralith** — Rusted ruins & fossil memory  
+<img src="./assets/regions/player-in-auralith.png" alt="Player in HueAuralith" width="300"></br>
+
+⚫ **Nullshade** — The broken, colorless core  
+<img src="./assets/regions/player-in-nullshade.png" alt="Player in Nulshade" width="300"></br>
+<!-- </details> -->
 
 ---
 
@@ -109,6 +124,10 @@ Heavy-Lore color themed fantasy RPG Game project \
 - Clothing & trail effects by hue
 - HUD integration suggestion
 
+### 📷 Example Scene
+
+[**See an in-game scene example ›**](./docs/scene-example.md)  
+
 ---
 
 ## 🪄 Myths & Omens
@@ -156,6 +175,12 @@ Includes:
 **When leading the player into ancient ruins:**  
 > “Roots grow around memory. Tread softly — some stones grieve.”
 </details>
+
+---
+
+## 👹 Enemies & Monsters
+
+[**See enemy list**](./docs/enemies/enemies.md)
 
 ---
 

@@ -183,8 +183,9 @@ More dialogue in the final boss script (SPOILER ALERT!!)
 
 ---
 
+## TODO
+
 - Actual **symbolic glyph icons or language patterns** for in-world puzzles?
 - A full **boss fight script** with multiple emotional/visual transitions?
-
 
 ---
