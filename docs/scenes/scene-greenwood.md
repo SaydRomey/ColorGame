@@ -1,6 +1,7 @@
 
-# 🎮 IN-GAME SCENE: “Whispers Beneath the Greenwood”
+# IN-GAME SCENE: “Whispers Beneath the Greenwood”
 
+**Scene Name**: “Whispers Beneath the Greenwood”  
 **Location**: *Emerald Hollow, Verdant Order territory*  
 **Visual Style**: 
   - Pixel art with painterly flourishes - deep forest greens with streaks of glowing viridian.
@@ -8,14 +9,6 @@
   - The environment breathes softly.
 
 **Player Status**: Bound to **Verdant (Green)**, **Cobalt (Blue)**, and **Earthen (Brown)** hues.  
-
----
-
-| Scene | “Whispers Beneath the Greenwood” |
-| ----- | -------------------------------- |
-| **Location**: | *Emerald Hollow, Verdant Order territory* |
-| **Visual Style**: | Deep forest greens with streaks of glowing viridian.</br>Light trickles through giant leaves; faint particles drift like pollen.</br>The environment breathes softly. |
-| **Player Status**: | Bound to **Verdant (Green)**, **Cobalt (Blue)**, and **Earthen (Brown)** hues. |
 
 ---
 
@@ -43,7 +36,7 @@ In the distance, a ruined shrine pulses with fading green light.
 *A translucent figure with green-glowing antlers materializes from the roots and vines...*  
 
 <div align="center">
-  <img src="../assets/in-game-visuals/meeting-thalera.png" alt="Verdant Ghost Scene" width="300">
+  <img src="../../assets/in-game-visuals/meeting-thalera.png" alt="Verdant Ghost Scene" width="300">
   </br><i>Verdant Ghost - Thalera the Rootborn</i></br>
 </div>
 
@@ -80,7 +73,7 @@ Solving all three causes a Color Bloom: a shockwave of green light that bleeds a
 *As you proceed, three [nullborn husks](./enemies/nullborn-husks.md) crawl from the undergrowth...*
 
 <div align="center">
-  <img src="../assets/monsters/three-colorless-husks-crawling.png" alt="Nullborn Husks" width="300">
+  <img src="../../assets/monsters/three-colorless-husks-crawling.png" alt="Nullborn Husks" width="300">
   </br><i>Nullborn husks; Twitching creatures with void-filled eyes</i></br>
 </div>
 

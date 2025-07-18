@@ -20,9 +20,9 @@ Each region has:
 
 ---
 
-## 🗺️ MAP STRUCTURE CONCEPT: “The Realm”
+## MAP STRUCTURE CONCEPT: “The Realm”
 
-### 🔹 Design Philosophy
+### Design Philosophy
 
 World shaped by the shattering of the Prismatic Core, with shards embedding themselves across the land.  
 
@@ -31,7 +31,7 @@ World shaped by the shattering of the Prismatic Core, with shards embedding them
 
 ---
 
-## 🔲 MAP OVERVIEW (Text-Based Layout)
+## MAP OVERVIEW (Text-Based Layout)
 > [!NOTE]
 > Visual sketch of The Realm’s regional structure — centered around the shattered Core.
 
@@ -55,8 +55,6 @@ World shaped by the shattering of the Prismatic Core, with shards embedding them
 ---
 
 ## 🔘 REGIONS IN DETAIL
-
----
 
 ### ⚫ Nullshade – *The Colorless Core*
 
@@ -89,6 +87,8 @@ World shaped by the shattering of the Prismatic Core, with shards embedding them
 **Environmental Twist:**  
 Vegetation regrows dynamically. Paths open/close as forests shift; vines and roots respond to magic.
 
+[**See Huevale in more details**](./regions/huevale.md)
+
 ---
 
 ### 🔴 Vireya – *The Ember Expanse (Red)*
@@ -106,6 +106,8 @@ Vegetation regrows dynamically. Paths open/close as forests shift; vines and roo
 
 **Environmental Twist:**  
 Heat and light affect your stamina; blood spilled in battle may “wake” old gods or curses.
+
+[**See Vireya in more details**](./regions/vireya.md)
 
 ---
 
@@ -125,6 +127,8 @@ Heat and light affect your stamina; blood spilled in battle may “wake” old g
 **Environmental Twist:**  
 Wind direction changes areas’ accessibility. Control storms or ride them using color artifacts.
 
+[**See Iriseld in more details**](./regions/iriseld.md)
+
 ---
 
 ### 🟣 Myrrala – *The Blooming Veil (Purple)*
@@ -142,6 +146,8 @@ Wind direction changes areas’ accessibility. Control storms or ride them using
 
 **Environmental Twist:**  
 The region shifts based on your currently equipped color; landscapes rearrange or hide secrets.
+
+[**See Myrrala in more details**](./regions/myrrala.md)
 
 ---
 
@@ -161,6 +167,8 @@ The region shifts based on your currently equipped color; landscapes rearrange o
 **Environmental Twist:**  
 Mirages appear on the map; only true vision (via artifacts) shows real paths or oases.
 
+[**See Luxeran in more details**](./regions/luxeran.md)
+
 ---
 
 ### 🤎 Auralith – *The Dimming Hollow (Brown/Neutral)*
@@ -178,6 +186,8 @@ Mirages appear on the map; only true vision (via artifacts) shows real paths or 
 
 **Environmental Twist:**  
 You leave behind “ghosts” of past deaths/actions that either help or haunt you later.
+
+[**See Auralith in more details**](./regions/auralith.md)
 
 ---
 

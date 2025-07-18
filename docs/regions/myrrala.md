@@ -1,6 +1,14 @@
 
 # 🟣 Myrrala – *The Blooming Veil (Purple)*
 
+<div align="center">
+  <h3>Myrrala</h3>
+  <img src="../../assets/regions/player-in-myrrala.png" alt="Player in Myrrala" width="300">
+  </br><i>Twilight glades of illusion</i></br>
+</div>
+
+## Overview
+
 - **Name:** Myrrala  
 - **Biome:** Twilight meadows, bioluminescent groves, fae-glades, glowing meadows, crystal gardens  
 - **City:** *Liseran Shrine* – A floating temple garden wrapped in purple lilies  
@@ -14,3 +22,9 @@
 
 **Environmental Twist:**  
 The region shifts based on your currently equipped color; landscapes rearrange or hide secrets.
+
+---
+
+## Liseran Shrine
+
+---

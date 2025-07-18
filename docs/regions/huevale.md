@@ -1,6 +1,14 @@
 
 # 🟢 Huevale – *The Verdant Frontier (Green)*
 
+<div align="center">
+  <h3>Huevale</h3>
+  <img src="../../assets/regions/player-in-huevale.png" alt="Player in Huevale" width="300">
+  </br><i>Verdant growth & stealth puzzles</i></br>
+</div>
+
+## Overview
+
 - **Name:** Huevale  
 - **Biome:** Verdant forests, bogs, overgrown ruins  
 - **City:** *Tinctara* – A moss-covered archive built into living trees  
@@ -14,3 +22,9 @@
 
 **Environmental Twist:**  
 Vegetation regrows dynamically. Paths open/close as forests shift; vines and roots respond to magic.
+
+---
+
+## Tinctara
+
+---

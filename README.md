@@ -1,8 +1,11 @@
 
 # 🎨 [The Realm]: A Color-Shattered World
 
-Welcome to the design archive for [**The Realm**], \
+Welcome to the design archive for [**The Realm**], 
 a narrative-rich, hue-fractured fantasy world where emotion, memory, and magic are bound to color.
+
+> ![NOTE]  
+> [**The Realm**] is a placeholder name...
 
 ---
 
@@ -14,6 +17,7 @@ a narrative-rich, hue-fractured fantasy world where emotion, memory, and magic a
 - [🧬 Main Character – The Prismwalker](#-main-character--the-prismwalker)
 - [🧠 Personality System](#-personality-system)
 - [🌀 In-Game Visual Concepts](#-in-game-visual-concepts)
+  - [📷 Example Scenes](#-example-scenes)
 - [🪄 Myths & Omens](#-myths--omens)
 - [🎭 NPC Characters](#-npc-characters)
 - [👹 Enemies & Monsters](#-enemies--monsters)
@@ -32,39 +36,30 @@ Heavy-Lore color themed fantasy RPG Game project \
 
 ## 🌍 World Overview
 
-> “The Prism shattered. Now the hues rule alone.”
+> 
 
-[**Read full world breakdown ›**](./docs/world.md)
+<div align="center">
+  <h3>[The Realm]</h3>
+  <img src="./assets/world-map-overview.png" alt="World Map Preview" width="300">
+  </br><i>“The Prism shattered. Now the hues rule alone...”</i></br>
 
-<!-- ![World Map Preview](./assets/world-map-overview.png) -->
-<img src="./assets/world-map-overview.png" alt="World Map Preview" width="500">
+  [**Read full world breakdown ›**](./docs/world.md)
 
-### Region Snapshots
+</div>
 
-<!-- <details><summary><strong>See Region Snapshots</strong></summary> -->
+<div align="center">
 
-🟢 **Huevale** — Verdant growth & stealth puzzles  
-<img src="./assets/regions/player-in-huevale.png" alt="Player in Huevale" width="300"></br>
+|                                                 |                                  |
+| ----------------------------------------------- | -------------------------------- |
+| 🟢 [**Huevale**](./docs/regions/huevale.md)     | Verdant growth & stealth puzzles |
+| 🔴 [**Vireya**](./docs/regions/vireya.md)       | Ember-forged battlefield zone    |
+| 🔵 [**Iriseld**](./docs/regions/iriseld.md)     | Floating sea-cliff archipelago   |
+| 🟣 [**Myrrala**](./docs/regions/myrrala.md)     | Twilight glades of illusion      |
+| 🟡 [**Luxeran**](./docs/regions/luxeran.md)     | Mirage-laced golden desert       |
+| 🤎 [**Auralith**](./docs/regions/auralith.md)   | Rusted ruins & fossil memory     |
+| ⚫ [**Nullshade**](./docs/regions/nullshade.md) | The broken, colorless core       |
 
-🔴 **Vireya** — Ember-forged battlefield zone  
-<img src="./assets/regions/player-in-vireya.png" alt="Player in Vireya" width="300"></br>
-
-🔵 **Iriseld** — Floating sea-cliff archipelago  
-<img src="./assets/regions/player-in-iriseld.png" alt="Player in Iriseld" width="300"></br>
-
-🟣 **Myrrala** — Twilight glades of illusion  
-<img src="./assets/regions/player-in-myrrala.png" alt="Player in Myrrala" width="300"></br>
-
-🟡 **Luxeran** — Mirage-laced golden desert  
-<img src="./assets/regions/player-in-luxeran.png" alt="Player in Luxeran" width="300"></br>
-<img src="./assets/regions/player-in-luxeran-eburnea.png" alt="Player in Eburnea" width="300"></br>
-
-🤎 **Auralith** — Rusted ruins & fossil memory  
-<img src="./assets/regions/player-in-auralith.png" alt="Player in HueAuralith" width="300"></br>
-
-⚫ **Nullshade** — The broken, colorless core  
-<img src="./assets/regions/player-in-nullshade.png" alt="Player in Nulshade" width="300"></br>
-<!-- </details> -->
+</div>
 
 ---
 
@@ -84,12 +79,16 @@ Heavy-Lore color themed fantasy RPG Game project \
 
 ## 🧬 Main Character – The Prismwalker
 
-[**Character breakdown ›**](./docs/main-character.md)
+<div align="center">
+  <h3>The Prismwalker</h3>
+  <img src="./assets/prismwalker-sketch.png" alt="Prismwalker Concept Art" width="200">
+  </br><i>“Born without color. Bound to none. Shaped by every hue.”</i></br>
 
-> “Born without color. Bound to none. Shaped by every hue.”
+  [**Character breakdown ›**](./docs/main-character.md)
 
-<img src="./assets/prismwalker-sketch.png" alt="Prismwalker Concept Art" width="500">
+</div>
 
+### Features:
 - Customizable visual
 - Dialogue influenced by color
 - Combat system with Huebinding & Prismatic Burst
@@ -98,47 +97,56 @@ Heavy-Lore color themed fantasy RPG Game project \
 
 ## 🧠 Personality System
 
-[**Full system ›**](./docs/personality-system.md)  
-[**Mixed personality breakdown ›**](./docs/personality-system-mixed.md)
-
 > "Your hues don't just affect your skills — they shape your voice."
 
-<details>
-<summary><strong>Examples:</strong></summary>
+[**See Full system ›**](./docs/personality-system.md)
 
-- 🔴 Red + 🔵 Blue = "The Calculated Flame"
-- 🟢 Green + 🤎 Brown = "The Earthbound"
-- 🔴 + 🟣 + 🤎 = "The Ruined Crown"
+### Mixed Personalities
+
+[**See Mixed personality breakdown ›**](./docs/personality-system-mixed.md)
+
+<details>
+<summary><strong>Mixed personality examples:</strong></summary>
+
+|                     |                        |
+| ------------------- | ---------------------- |
+| 🔴 Red + 🔵 Blue    | "The Calculated Flame" |
+| 🟢 Green + 🤎 Brown | "The Earthbound"       |
+| 🔴 + 🟣 + 🤎        | "The Ruined Crown"     |
 </details>
 
 ---
 
 ## 🌀 In-Game Visual Concepts
 
-[**Full visuals ›**](./docs/in-game-visuals.md)
+<div align="center">
+  <h3>Huebound Skin Concept</h3>
+  <img src="./assets/hue-skin-example.png" alt="Huebound Skin Concept" width="500">
 
-<img src="./assets/hue-skin-example.png" alt="Huebound Skin Concept" width="500">
+[**See Character Visuals Document ›**](./docs/in-game-visuals.md)
 
+</div>
+
+### Features:
 - Veins and aura based on hues
 - Prism Core glow
 - Clothing & trail effects by hue
 - HUD integration suggestion
 
-### 📷 Example Scene
+### 📷 Example Scenes
 
-[**See an in-game scene example ›**](./docs/scene-example.md)  
+[**See in-game scene examples ›**](./docs/scenes/scene-examples.md)  
 
 ---
 
 ## 🪄 Myths & Omens
 
-[**Prophecies & cryptic sayings ›**](./docs/myths-and-omens.md)
-
 > “The first color was silence.”  
 > “When the sun weeps amber, even the blind must wear masks.”
 
-<details>
-<summary><strong>Sorted by Hue</strong></summary>
+[**See More Prophecies & cryptic sayings ›**](./docs/myths-and-omens.md)
+
+<!-- <details><summary><strong>Sorted by Hue</strong></summary>
 
 - 🟢 Nature & decay  
 - 🔴 Passion & war  
@@ -146,20 +154,21 @@ Heavy-Lore color themed fantasy RPG Game project \
 - 🟣 Magic & fate  
 - 🟡 Light & illusion  
 - 🤎 Death & memory  
-</details>
+</details> -->
 
 ---
 
 ## 🎭 NPC Characters
 
-<!-- [**See npc list ›**](./docs/npcs.md) -->
+> (W.I.P.)
+
 [**See npc list ›**](./docs/NPCs/npcs-overview.md)
 
 Includes:
 
-- ✅ Character + Item ideas
-- ✅ Usage in worldbuilding
-- ✅ Dialogue
+- Character + Item ideas
+- Usage in worldbuilding
+- Dialogue
 
 <details>
 <summary>Example:</summary>
@@ -207,7 +216,7 @@ Includes:
 ## 🌑 Endgame
 > [!WARNING] (SPOILER!!!)
 
-[**See what happens in the final moments (wip)](./docs/endgame.md)
+[**See what happens in the final moments (wip)](./docs/scenes/endgame.md)
 
 ---
 

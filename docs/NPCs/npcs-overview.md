@@ -225,7 +225,7 @@ List of some "main" NPC characters with:
 >  
 > “Yet… you carry the Root’s grief in your steps.”
 
-[**See Verdant Ghost in Example Scene**](../scene-example.md#npc-encounter)  
+[**See Verdant Ghost in Example Scene**](../scenes/scene-greenwood.md#npc-encounter)  
 
 <!-- - [Thalera Moth](https://en.wikipedia.org/wiki/Thalera) -->
 
