@@ -123,11 +123,7 @@ Can only be disabled by solving nearby environment puzzle.
 ### [Fangbloom Wyrm](./enemies/fangbloom-wyrm.md)
 > “Buried in blossom, it waits for motion.”
 
-<!--
 <img src="../assets/sprites/enemies/huevale/fangbloom-wyrm.png" alt="Fangbloom Wyrm Sprite" width="200">
--->
-
-<img src="../assets/sprites/enemies/huevale/fangblood-wyrm.png" alt="Fangbloom Wyrm Sprite" width="200">
 
 Snake-like vine beast hiding beneath flower beds.  
 Emerges to grab and constrict, then slithers back.  
@@ -211,11 +207,7 @@ Can be pacified briefly by Crimson Weaver’s thread.
 ### [Lava-Fused Behemoth](./enemies/lava-fused-behemoth.md)
 > “Born in magma. Tempered by wrath.”
 
-<!--
 <img src="../assets/sprites/enemies/vireya/lava-fused-behemoth.png" alt="Lava-Fused Behemoth Sprite" width="200">
--->
-
-<img src="../assets/sprites/enemies/vireya/lava-fused-behemot.png" alt="Lava-Fused Behemoth Sprite" width="200">
 
 A monstrous, slow-moving beast with obsidian skin and cracks of flame.  
 Cannot cross cooled earth (can freeze lava paths).  

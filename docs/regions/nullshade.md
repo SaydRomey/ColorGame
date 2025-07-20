@@ -1,6 +1,9 @@
 
 # ⚫ Nullshade – *The Colorless Core*
 
+> [!IMPORTANT] 
+> Checkout this [version of nullshade](./nullshade-patch.md) to try and patch my confusions...
+
 <div align="center">
   <h3>Nullshade</h3>
   <img src="../../assets/regions/player-in-nullshade.png" alt="Player in Nulshade" width="300">
