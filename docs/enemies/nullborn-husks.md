@@ -18,7 +18,7 @@
 
 <details><summary>See Nullborn Husks Lore Entry</summary>
 
-#### Lore Entry: From the Scroll of [placeholder], Last Verdant Archivist
+### Lore Entry: From the Scroll of [placeholder], Last Verdant Archivist
 
 > *“I write this in root-ink, though I know not if ink can hold what I must say.”*  
 
@@ -50,8 +50,6 @@
 ---
 
 ## Bestiary Entry
-
-<!-- <details><summary>See Nullborn Husks Bestiary Entry</summary> -->
 
 | **Name:**          | Nullborn Husk                                       |
 | ------------------ | --------------------------------------------------- |
@@ -85,7 +83,6 @@ They crawl rather than walk, twitching with phantom memories of what they once w
 ### Notes:  
 Whispers suggest these husks still "remember" color.  
 Some report hearing **their own voices echoed back** moments before an attack.
-<!-- </details> -->
 
 ---
 

@@ -189,7 +189,7 @@ Includes:
 
 ## 👹 Enemies & Monsters
 
-[**See enemy list**](./docs/enemies/enemies.md)
+[**See Bestiary Index by Region**](./docs/enemies.md)
 
 ---
 

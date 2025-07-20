@@ -16,7 +16,7 @@
   - [“Petals That Lie”](./scene-petals-lie.md)
 
 - Luxeran
-  - 
+  - ["Mirages of the Aureolin Sands"](./scene-mirages.md)
 
 - Auralith
   - [“Ashes Remember Us”](./scene-ashes-remember.md)

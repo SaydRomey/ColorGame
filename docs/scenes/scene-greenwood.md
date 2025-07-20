@@ -65,7 +65,8 @@ Each is dormant until touched with the right hue.
 - 🟦 Use **Cobalt’s Mind Echo** to resonate the middle one (spirit).
 - 🪨 Use **Earthen’s Decay Touch** to crumble the right (death).
 
-Solving all three causes a Color Bloom: a shockwave of green light that bleeds across the forest, opening a path forward.
+Solving all three causes a Color Bloom: 
+a shockwave of green light that bleeds across the forest, opening a path forward.
 
 ---
 
