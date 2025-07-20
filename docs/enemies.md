@@ -211,7 +211,11 @@ Can be pacified briefly by Crimson Weaver’s thread.
 ### [Lava-Fused Behemoth](./enemies/lava-fused-behemoth.md)
 > “Born in magma. Tempered by wrath.”
 
+<!--
 <img src="../assets/sprites/enemies/vireya/lava-fused-behemoth.png" alt="Lava-Fused Behemoth Sprite" width="200">
+-->
+
+<img src="../assets/sprites/enemies/vireya/lava-fused-behemot.png" alt="Lava-Fused Behemoth Sprite" width="200">
 
 A monstrous, slow-moving beast with obsidian skin and cracks of flame.  
 Cannot cross cooled earth (can freeze lava paths).  
