@@ -1,6 +1,21 @@
 
 # Enemies - Bestiary Index
 
+<!--
+## Format and Style Summary
+
+### Structure per Entry:
+1. Name: Evocative and thematic, often involving color or light-based terms.
+2. Flavor Quote: A short, poetic line — mysterious, lore-rich, often ironic.
+3. Visual Design: Concise description of physical appearance.
+4. Behavior: Specific, interesting mechanic that ties into the world/lore.
+5. Weakness/Counterplay: Each has at least one specific counter or condition.
+
+-->
+
+---
+
+
 ## 🌿 Enemy Concepts for Huevale – The Verdant Frontier
 
 A realm where nature overgrows memory, 
@@ -108,7 +123,11 @@ Can only be disabled by solving nearby environment puzzle.
 ### [Fangbloom Wyrm](./enemies/fangbloom-wyrm.md)
 > “Buried in blossom, it waits for motion.”
 
+<!--
 <img src="../assets/sprites/enemies/huevale/fangbloom-wyrm.png" alt="Fangbloom Wyrm Sprite" width="200">
+-->
+
+<img src="../assets/sprites/enemies/huevale/fangblood-wyrm.png" alt="Fangbloom Wyrm Sprite" width="200">
 
 Snake-like vine beast hiding beneath flower beds.  
 Emerges to grab and constrict, then slithers back.  
