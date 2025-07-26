@@ -1,0 +1,32 @@
+{
+  "id": "BEAST_SUNFLARE_MARIONETTE",
+  "entry": {
+    "name": "Sunflare Marionette",
+    "type": "Construct / Solar Puppet",
+    "threat_level": "⚠️ Moderate – High threat in bright open spaces",
+    "first_emerged": "Believed to have been a ceremonial guardian of the Aureolin Courts, animated by forgotten rites of sun devotion",
+    "description": "A radiant puppet of golden‑glass and sun‑thread sinew, forever caught mid‑dance upon beams of blinding light. It performs rituals of heat and precision — and punishes any who step out of rhythm.",
+    "hue_interaction": "Aurelian spells energize it; damaging it with Yellow hues causes it to emit healing waves for itself\n\nDisrupted by Violet illusions and smoke/sand‑based concealment (breaks beam threads)\n\nWeakens in heavy cloud or artificial shade",
+    "behavior": "“Sunline Steps” mark healing zones under solar focus; it dances between them\n\nUses ribbon‑lash attacks to slice light‑bound enemies\n\nWill enter “Solar Bloom” state at 50% health: emits flares that detonate if not dodged in rhythm with her gestures\n\nCan teleport via reflected surfaces during battle",
+    "weaknesses": "Use shadow‑creating terrain or artifacts to sever solar tethers\n\nCobalt’s Mind Echo or illusions can stagger it mid‑spin\n\nHighly vulnerable when caught without light for more than 10 seconds",
+    "notes": "Ancient performance scrolls suggest the Marionette was once a celebrant — not a killer. Some dancers in Eburnea still perform her final dance at dusk, praying to blind the sun just long enough to forget their debts.\n\n> “If you step into the spotlight… be sure you’re ready to bow.”"
+  },
+  "lore": {
+    "title": "Songs of the Marion Shrine",
+    "quote": "“They said the dancer was too beautiful to cast a shadow. So the sun made one — and gave it strings.”",
+    "flavor_description": [
+      "Dances on beams. Cracks like porcelain."
+    ],
+    "field_notes": [
+      "“They said the dancer was too beautiful to cast a shadow. So the sun made one — and gave it strings.”",
+      "",
+      "“She was made of warmth and wire. A court doll forged for devotion. Her dance was a prayer. Her silence, a punishment.”",
+      "",
+      "“One high noon, she stopped spinning. And the temple shadows lengthened for the first time in a hundred years.”",
+      "",
+      "“Now she dances alone, untethered and unwatched. But the beams remember — and burn those who turn away.”"
+    ],
+    "source": "From “Songs of the Marion Shrine,” a forbidden playbill burned at the Aureolin Temple"
+  },
+  "drops": []
+}

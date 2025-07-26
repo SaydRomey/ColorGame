@@ -1,0 +1,33 @@
+{
+  "id": "BEAST_SAPBORN_STALKER",
+  "entry": {
+    "name": "Sapborn Stalker",
+    "type": "Plant Construct / Ambusher",
+    "threat_level": "⚠️ High – Stealthy and lethal in ambush",
+    "first_emerged": "Early Post-Shattering Era",
+    "description": "Formed from magically-infused sap and dense roots, Sapborn Stalkers are silent hunters of the Huevale forests. They take humanoid forms to mimic prey, yet beneath their barkskin lie sap-veins pulsing with quiet intent. Their eyes are dark hollows seeping faint amber trails, ever-watchful and patient.",
+    "hue_interaction": "Resistant to Verdant-based control effects.\n\nSap attacks can temporarily immobilize player movement.\n\nLeaves behind trails that slow and distort movement speed.",
+    "behavior": "Ambushes prey by silently emerging from roots and undergrowth.\n\nPrefers isolated or unsuspecting targets.\n\nWill retreat if initial ambush fails, resurfacing later when prey is vulnerable again.",
+    "weaknesses": "Highly vulnerable to Crimson flame attacks.\n\nSevering or heavy slashing weapons effectively disrupt their sap-structure.\n\nSap can be cleansed or hardened rapidly by applying elemental extremes (fire or intense cold).",
+    "notes": "Wardens report hearing faint whispers near Sapborn sightings, as if the forest itself aids in their hunt. Survivors speak of dreams filled with tangled roots and amber-bound visions—memories not entirely their own."
+  },
+  "lore": {
+    "title": "Journal of Feldgrau Veteran, Warden of Mosswatch",
+    "quote": "“Roots remember where you stepped...”",
+    "flavor_description": [
+      "Moves unseen beneath the forest floor, leaving trails of sticky amber sap.",
+      "Ambushes prey by erupting silently from tangled roots and vines."
+    ],
+    "field_notes": [
+      "“The forest shifts, never sleeps, and knows more than we give it credit for...”",
+      "",
+      "“I first saw it when it took Elren. A shape rose from the ground as liquid amber...”",
+      "",
+      "“Some say these stalkers are merely plants, animated by stray magic. But I know better...”",
+      "",
+      "“Fire keeps them at bay, but memory fades quicker than flames. And roots... roots never forget.”"
+    ],
+    "source": "Excerpt from the Journal of Feldgrau Veteran, Warden of Mosswatch"
+  },
+  "drops": []
+}

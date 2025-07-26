@@ -1,0 +1,37 @@
+{
+  "id": "BEAST_GLASSBORNE_ECHO",
+  "entry": {
+    "name": "Glassborne Echo",
+    "type": "Phantasmal Construct / Mirrorbound Wraith",
+    "threat_level": "⚠️ High – Reactive and disorienting",
+    "first_emerged": "During the Stormglass Fracture, Post-Shattering",
+    "description": "Faintly humanoid, but distorted — limbs bend wrong, eyes reflect the player’s.\n\nTrails mirror-shards through the air; footsteps echo a second too late.\n\nFlickers unpredictably when struck — emits a shriek of reverse sound.",
+    "hue_interaction": "Resonates violently with Cobalt echoes and Mind-based magic.\n\nBriefly stunned when surrounded by synchronized audio rhythms (wind chimes, harpstrings, Cerulean Cloak pulses).\n\nImmune to illusion — it is one.",
+    "behavior": "Loops player actions back at them with a time delay (mimics dashes, spells, jumps).\n\nTrails mirror shards that apply “Reflection Wound” (any repeated action takes more damage).\n\nWill vanish if reflected in more than one surface at once (dual mirrors or glass pool).",
+    "weaknesses": "Vulnerable to sonic resonance and multi-angle light (e.g., Skyglass Prisms).\n\nAvoid prolonged mimicry — stagger movement patterns to confuse it.\n\nMay flee if the player uses Payne’s Brush or displays a memory the Echo cannot interpret.",
+    "notes": "Some say each Echo was born from a different regret — others claim they all share one memory: falling.\n\nA rare few Echoes have been seen pausing… as if remembering something they wish they hadn’t."
+  },
+  "lore": {
+    "title": "Memory Without Mercy",
+    "quote": "It doesn’t shatter. It reflects you... wrong.",
+    "flavor_description": [
+      "Phantom formed from fractured memory-glass",
+      "Faintly humanoid, but distorted — limbs bend wrong, eyes reflect the player’s."
+    ],
+    "field_notes": [
+      "“Some reflections lie. Others linger.”",
+      "",
+      "“I thought to trap a memory in cobalt, a kindness in solid light. But the wind here remembers grief too well, and the glass began to ache.”",
+      "",
+      "“The Echo was not what I captured. It was what I tried to forget — how I moved, how I reached, how I failed. It mimics the moment I last looked in the glass. That pain became recursive. It moved without me.”",
+      "",
+      "“Now it wanders the skyglass shelves, looping itself — a broken dance. I hear my own voice call out when it strikes.”",
+      "",
+      "“If you see it, don’t fight what you know. Fight what you pretend not to.”",
+      "",
+      "— Zaffre Glasswright"
+    ],
+    "source": "Etching from a sealed mirror-window, signed by the Zaffre Glasswright"
+  },
+  "drops": []
+}

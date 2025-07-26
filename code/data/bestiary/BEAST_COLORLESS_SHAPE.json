@@ -1,0 +1,30 @@
+{
+  "id": "BEAST_COLORLESS_SHAPE",
+  "entry": {
+    "name": "The Colorless Shape",
+    "type": "Voidbound Reflection / Final Mirror",
+    "threat_level": "🛑 Critical (Pre-Final Boss Encounter)",
+    "first_emerged": "Only in proximity to the Prism Wound, as hue balance fractures completely",
+    "description": "A hollow, shifting humanoid made from semi-reflective voidglass. It walks like you. It fights like you. It dies like something that has already seen the ending.",
+    "hue_interaction": "Copies your most-used hue abilities and traits — often in distorted forms.\n\nBecomes unpredictable when faced with contradictory or unstable hue alignments.\n\nNull-aligned players (colorless or hue-divided) may confuse it briefly.",
+    "behavior": "Engages silently. No battle music plays until it takes damage.\n\nOpens with a mirrored version of your first ever learned spell or weapon.\n\nMimics your movement habits, attack rhythms, and even idle animations.\n\nIf you pause or hesitate, it does not — striking decisively.",
+    "weaknesses": "Paradox spells (from Violet) or contradictory color combos cause it to flicker and destabilize.\n\nMemory Echo interactions may give you an extra dodge window or reveal a false opening.\n\nIf you unequip all hue bindings mid-fight, it loses structure briefly.",
+    "notes": "Defeating it grants no loot — only stillness. The environment pauses for a beat. And something behind you exhales.\n\nIt is often mistaken as the final boss — but is instead the gatekeeper. The self before the choice."
+  },
+  "lore": {
+    "title": "Scratched into a broken blade found in Nullshade",
+    "quote": "\"It moved before I did. Not faster — earlier.\"",
+    "flavor_description": [
+      "It is everything. And it is no one."
+    ],
+    "field_notes": [
+      "\"It moved before I did. Not faster — earlier.\"",
+      "\"It doesn’t mimic. It remembers… before you remember yourself.\"",
+      "\"My sword struck it once. I bled. Not it. Not fair, I thought. But the Shape never promised fair — only truth.\"",
+      "\"When I saw it raise the Prism, just like I had… I understood. It is not your reflection. It is what the world became while you blinked.\"",
+      "\"We are not alone in our choices. Not even in our endings.\""
+    ],
+    "source": "Broken blade inscription, Nullshade"
+  },
+  "drops": []
+}

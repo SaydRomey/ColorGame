@@ -1,13 +1,14 @@
-// BestiaryLookup.h
-#ifndef BEASTIARY_LOOKUP_HPP
-# define BEASTIARY_LOOKUP_HPP
+// BestiaryLookup.hpp
+
+#ifndef BESTIARY_LOOKUP_HPP
+# define BESTIARY_LOOKUP_HPP
 
 # include "BestiaryIDs.hpp"
 # include <string>
 # include <map>
 # include <stdexcept>
 
-/// Simple map from the JSON key to your enum:
+/// Simple map from the JSON key to our enum:
 inline BestiaryID	toBestiaryID(const std::string& s)
 {
 	static const std::map<std::string, BestiaryID> table = {
@@ -101,4 +102,15 @@ inline BestiaryID	toBestiaryID(const std::string& s)
 	return (it->second);
 }
 
-#endif // BEASTIARY_LOOKUP_HPP
+/*
+const char* getBeastIDString(BestiaryID id) {
+	switch (id) {
+		case BEAST_ABYSSAL_CURRENT: return "BEAST_ABYSSAL_CURRENT";
+		case BEAST_ALCHEMICAL_ECHO: return "BEAST_ALCHEMICAL_ECHO";
+		// ... all others ...
+		default: return "";
+	}
+}
+*/
+
+#endif // BESTIARY_LOOKUP_HPP

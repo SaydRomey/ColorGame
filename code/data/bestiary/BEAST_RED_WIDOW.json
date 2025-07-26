@@ -1,0 +1,32 @@
+{
+  "id": "BEAST_RED_WIDOW",
+  "entry": {
+    "name": "Red Widow",
+    "type": "Assassin / Ember Siren",
+    "threat_level": "⚠️ High – Deception & Mind Control",
+    "first_emerged": "Final Days of the Crimson Court, Circa Ashfall",
+    "description": "The Red Widow is an assassin cloaked in beauty and flame. Her lace-wrapped body flows like smoke, vanishing in the shimmer of heat or stepping between shadows. She doesn’t stalk — she performs. Her presence bends minds, breaks loyalty, and unravels cohesion through elegance alone.",
+    "hue_interaction": "Uses Crimson Hue defensively — turns heat into afterimage misdirection.\n\nVulnerable to Cobalt truthseeing and Violet counter-charm abilities.\n\nHer charm effect increases in power if the player has recently won a duel or is high in confidence-affecting stats.",
+    "behavior": "Begins encounters with distance and dialogue — often offering a riddle or taunt.\n\nAttacks from odd angles using teleportation steps and delayed mirrored blades.\n\nCharms one nearby ally/NPC during midfight — forced to attack for her unless broken.",
+    "weaknesses": "Interrupting her “final pose” animation leaves her stunned.\n\nWeak to sound-disruption spells — her rhythm falters under noise or distortion.\n\nMirror terrain (obsidian floors, reflective lava glass) breaks her cloaking entirely.",
+    "notes": "Players who defeat the Red Widow sometimes find red silk tucked into their inventory, inexplicably. No explanation. No use. Just… soft, perfumed cloth. Some wear it. Others burn it. A few… report dreams of her returning. Smiling."
+  },
+  "lore": {
+    "title": "The Burning Waltz",
+    "quote": "“Her kisses are funerals.”",
+    "flavor_description": [
+      "Assassin garbed in flowing red lace, moving with dancer's grace.",
+      "Fades in and out of heat mirages, creating gaps in visibility and perception.",
+      "Can charm or turn nearby NPCs — or, rarely, other players in co-op — mid-combat."
+    ],
+    "field_notes": [
+      "“I saw her only once. She stepped out of the smoke like a poem.”",
+      "",
+      "“They say she was once the last dancer of the Crimson Court — trained in motion, not murder. But when the war came, she didn’t stop. She changed the music.”",
+      "",
+      "“If she looks your way, bow. If she reaches for you… well, at least the dance ends with grace.”"
+    ],
+    "source": "Found in a perfume-stained letter burned at the corners"
+  },
+  "drops": []
+}

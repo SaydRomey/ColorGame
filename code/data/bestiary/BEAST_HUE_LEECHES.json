@@ -1,0 +1,33 @@
+{
+  "id": "BEAST_HUE_LEECHES",
+  "entry": {
+    "name": "Hue Leeches",
+    "type": "Color-Parasitic Aberration",
+    "threat_level": "⚠️ Minor (but disruptive in swarms)",
+    "first_emerged": "Post-Prism Fracture",
+    "description": "Small, floating jellyfish-like creatures composed of liquefied, semi-transparent color.\n\nThey drift lazily until a hue is activated — then swarm to drain it from you.",
+    "hue_interaction": "Target Active Hues: Prefer targets with recently activated spells or abilities.\n\nNeutral to physical presence, but highly reactive to visual spell cues or aura pulses.\n\nTurn gray and inert when exposed to complete hue-suppression fields (e.g., Nullshade auras or unaligned relics).",
+    "behavior": "Spawn in swarms near prism fractures, old altars, or failed transmutation zones.\n\nLinger passively until provoked by hue use.\n\nAttempt to escape if stunned or flashed with high-contrast light bursts.",
+    "weaknesses": "Area-of-effect bursts (especially of non-hue damage types, e.g., shockwaves, force spells).\n\nVulnerable to Prism Flash Talismans, which disrupt their hue tethering.\n\nCan be stunned with mirror-angled light, then popped like bubbles.",
+    "notes": "Hue Leeches are not bound to one realm.\nThey are the drifting parasites of a broken system — showing up wherever color falters or bleeds.\n\nSome archivists believe they evolved from the Prism’s tears… others say they are what remains of unfinished hues — the ones never chosen."
+  },
+  "lore": {
+    "title": "The Drip of Stolen Color",
+    "quote": "They shimmer with borrowed light — and leave you pale.",
+    "flavor_description": [
+      "Small, floating jellyfish-like creatures composed of liquefied, semi-transparent color.",
+      "They drift lazily until a hue is activated — then swarm to drain it from you."
+    ],
+    "field_notes": [
+      "“At first, I mistook them for droplets of oil falling upward — mesmerizing, harmless. But when I cast even the simplest burst of Crimson, they surged like starving children.”",
+      "",
+      "“One latched onto my back, and the world dimmed. My fire fizzled to ash. My pulse slowed. In that moment, I understood — they feed not on color… but on intention.”",
+      "",
+      "“Hue Leeches do not kill. They erase. What you meant to do fades. What you believed, dulls. I survived by flashing a prism shard in their midst — they scattered, furious, luminous.”",
+      "",
+      "“They taught me the cruelest truth: color is trust. And they are doubt incarnate.”"
+    ],
+    "source": "Excerpt from \"Drifting Parasites of the Huefold Realms\" by Ashar of Huevale"
+  },
+  "drops": []
+}

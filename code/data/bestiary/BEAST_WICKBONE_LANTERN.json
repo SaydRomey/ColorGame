@@ -1,0 +1,27 @@
+{
+  "id": "BEAST_WICKBONE_LANTERN",
+  "entry": {
+    "name": "Wickbone Lantern",
+    "type": "Undead Construct / Memory Beacon",
+    "threat_level": "⚠️ Moderate (Passive until provoked or followed)",
+    "first_emerged": "Post-Shattering — Collapse of the Phylactery Vault",
+    "description": "The Wickbone Lantern resembles a slow-moving humanoid skeleton with a cracked skull and hollow eye sockets. Inside its ribcage flickers a soulflame — pale orange tinged with grey, casting elongated, erratic shadows.\n\nIt wanders aimlessly through forgotten halls and sunken crypts, illuminating glyphs and murals that react only to its light.",
+    "hue_interaction": "Flame reacts strongly to Violet-bound illusions, warping nearby terrain into false memories.\n\nYellow-bound players can “follow” its path safely for longer without triggering traps.\n\nEarthen spells may dim or brighten its flame — useful for revealing hidden lore.",
+    "behavior": "Non-aggressive unless directly attacked or followed into a soultrap zone.\n\nWhen followed, it may lead to sealed memory puzzles, past-decision rooms, or ghost ambushes.\n\nIf its flame is extinguished without care, it screams — summoning 1–3 Memory Husks.",
+    "weaknesses": "The Bistre Lantern’s light can stabilize its flame, revealing its “last burial site” — allowing peaceful dispelling.\n\nAlchemical cold or illusions of stillness (e.g. Glamour Pulse) may cause it to halt long enough to pass.\n\nCan be bound temporarily using a Caput Mortuum Phylactery for puzzle or environmental traversal.",
+    "notes": "Players who ignore the Lantern’s path often miss hidden vaults and Memory Echo entries. However, following too closely without the correct hue-balance may cause “reflection bleed” — a debuff where the player’s reflection attacks them in later scenes."
+  },
+  "lore": {
+    "title": "From “Catacombs of Auralith,” Scribed by Bistre Archivist",
+    "quote": "\"The dead do not always lie still in Auralith. Some walk — not out of spite, but because their name hasn’t been laid to rest.\"",
+    "flavor_description": [
+      "A cage of ribs, a candle of memory."
+    ],
+    "field_notes": [
+      "\"The Wickbone Lanterns were once torchbearers of the Phylactery Vault. Now they bear witness instead — to false pilgrims, broken promises, and memories sealed too tightly.\"",
+      "\"To follow one is to risk being led into truths you hoped would stay buried. Their flame does not burn, but it reveals. That, some say, is worse.\""
+    ],
+    "source": "Catacombs of Auralith"
+  },
+  "drops": []
+}

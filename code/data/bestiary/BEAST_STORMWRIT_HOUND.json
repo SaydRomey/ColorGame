@@ -1,0 +1,29 @@
+{
+  "id": "BEAST_STORMWRIT_HOUND",
+  "entry": {
+    "name": "Stormwrit Hound",
+    "type": "Lightning Beast / Elemental Predator",
+    "threat_level": "⚠️ High – Fast, Unpredictable, Anti-Casting",
+    "first_emerged": "During the Tempest Surge following the Shattering",
+    "description": "A quadruped made of stormwire, glass claws, and shifting static.\n\nLeaves afterimages of its path, flickering through sky and space.\n\nBreathing sounds like distant thunder. When it growls, air pressure changes.",
+    "hue_interaction": "- Disrupts spell channeling, especially Cobalt-based spells tied to storm or rhythm.\n- At high static charge, briefly disables Color Binding UI.\n- Can be slowed if surrounded by harmonic resonance (instruments, echo chimes, etc.).",
+    "behavior": "- Paces cliff edges until it senses fast movement or charged spell buildup.\n- Uses Flash-Fang Lunge: teleports, hits, and leaves a static copy for 2s.\n- Occasionally howls — this stuns rhythm-based abilities and lowers visibility (storm flash).",
+    "weaknesses": "- Susceptible to Wind-grounding relics and Cerulean Cloak effects.\n- Harmonic instruments distort its targeting.\n- Momentarily pacified if its own lightning arc is reflected (e.g., with a Payne’s Prism Pane).",
+    "notes": "Some monks claim the Stormwrit Hounds carry messages between lightning gods — or are the messages.\nOne relic hunter’s log simply said: “Don’t blink during thunder.”"
+  },
+  "lore": {
+    "title": "Fragment from a tethered sky-journal, page scorched and torn",
+    "quote": "“We heard it before we saw it — not a bark, but a pressure drop.”",
+    "flavor_description": [
+      "Howling phantom stitched from wire and cloud"
+    ],
+    "field_notes": [
+      "“We heard it before we saw it — not a bark, but a pressure drop. The air folded in half. Then it struck.”",
+      "“My guide called it a “stormwrit,” a hound scribed by lightning itself. It doesn’t follow you. It finishes thoughts you haven’t had yet.”",
+      "“One moment it was chasing the birds above us — the next, it was inside my arcshield. And when it howled, something behind my eyes shattered.”",
+      "“I left the cliffs that day. My journal didn’t.”"
+    ],
+    "source": "Fragment from a tethered sky-journal, page scorched and torn"
+  },
+  "drops": []
+}

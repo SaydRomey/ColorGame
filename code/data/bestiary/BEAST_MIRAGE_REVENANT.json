@@ -1,0 +1,33 @@
+{
+  "id": "BEAST_MIRAGE_REVENANT",
+  "entry": {
+    "name": "Mirage Revenant",
+    "type": "Illusory Specter / Radiant Trap",
+    "threat_level": "⚠️ Moderate – Extremely dangerous to unaware players",
+    "first_emerged": "Post-Shattering Era, especially around collapsed sunshrines",
+    "description": "A Revenant cloaked in living mirage. It takes the form of what the viewer most expects to see — a helper, a relic, a shelter — and lures them in.\n\nWhen the illusion collapses (usually on approach), the Revenant erupts in a burst of searing light and lashes with radiant claws. It moves unpredictably, shimmering with heatwaves.",
+    "hue_interaction": "Immune to Aurelian light spells unless they’re truth-aligned\n\nSusceptible to Cobalt’s Mind Echo (shatters the illusion)\n\nDispelling its glamour with illusions (Violet) or relics like the Citrine Lens reveals its true form instantly",
+    "behavior": "Remains stationary while disguised — uses familiar visual bait\n\nOnce revealed, becomes fast and aggressive\n\nUses heat mirage to blur itself and teleport short distances\n\nDisappears entirely if not attacked quickly after revealing",
+    "weaknesses": "Easily unmasked with true-sight or illusion-canceling effects\n\nFears memory artifacts (like Zaffre Vial) that replay reality\n\nStumbles briefly after its illusion is broken",
+    "notes": "Scholars debate whether these creatures were ever real people — lost souls burned into radiant echoes — or desert-born constructs made from longing. Some swear they whispered names only the dead would know."
+  },
+  "lore": {
+    "title": "The Gambler’s Mirage",
+    "quote": "“You blinked. It was never there. But now it is.”",
+    "flavor_description": [
+      "Appears as a harmless illusion — a friendly traveler, glinting treasure chest, or even a familiar face.",
+      "But when approached or touched, the illusion breaks, revealing a bladed phantom wrapped in distorted light."
+    ],
+    "field_notes": [
+      "“It looked like my brother. I hadn’t seen him since the siege. He waved me over — smiled with that chipped tooth he had.”",
+      "",
+      "“But when I stepped close, the smile stayed too still. The eyes didn’t blink. The shadow… wasn’t his.”",
+      "",
+      "“I drew my blade too late. It stabbed through my own hesitation.”",
+      "",
+      "“They say the desert keeps your hopes warm so they don’t rot. But sometimes, they burn instead — and something crawls out of the ashes wearing your smile.”"
+    ],
+    "source": "Transcript from “The Gambler’s Mirage,” an oral tale passed in Eburnea markets"
+  },
+  "drops": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "BEAST_SHATTERGLASS_CHOIR",
+  "entry": {
+    "name": "Shatterglass Choir",
+    "type": "Huephantasm / Psychic Dissonance",
+    "threat_level": "⚠️⚠️ High (Cognitive Interference)",
+    "first_emerged": "Mid-Shattering Echo Phase",
+    "description": "A ring of levitating figures, semi-transparent, each with a glowing shard where a heart might be.\nAs they chant, the environment begins to desaturate — eventually rendering the screen grayscale and disabling the Hue HUD.\n\nThey do not physically attack — but their chant undoes the world around them.",
+    "hue_interaction": "- Each choir member sings a corrupted hue-tone (Red, Orange, Yellow, Green, Blue, Violet).\n- Attacking them in the wrong hue strengthens their song.\n- Silence is a mechanic: standing still or sheathing all hue-gear for 5 seconds interrupts the chant.",
+    "behavior": "- Circle slowly outward around key lore items or boss arena gates.\n- Sing in synchronized pulses — each pulse drains color and weakens nearby artifacts.\n- If left unchecked, the game UI fades entirely for a full minute.",
+    "weaknesses": "- Must be defeated in order of spectrum reversal: Violet → Blue → Green → Yellow → Orange → Red.\n- If attacked out of order, they regenerate and double in volume.\n- Purple/Violet Glamour Pulse resets the song progression if player becomes overwhelmed.\n- Nullroot exposure nearby can silence one choir member temporarily.",
+    "notes": "Occasionally sing snatches of your choices, warping phrases like:\n“You chose… silence,” or “Color was never yours to hold.”\n\nKilling them all restores color to the region for a short time — enough to access sealed memory pools."
+  },
+  "lore": {
+    "title": "Torn page from “Echoes of a Prism Lost” by the Bistre Archivist",
+    "quote": "“They weren’t always like this. Once, they were singers of balance — prism children born to echo each hue as it rose.”",
+    "flavor_description": [
+      "They sing. The color leaves your screen."
+    ],
+    "field_notes": [
+      "“They weren’t always like this. Once, they were singers of balance — prism children born to echo each hue as it rose.”",
+      "“But when the Core fractured, their voices were scattered. Now they harmonize nothing — only absence.”",
+      "“The closer you get, the harder it is to hear yourself think. They hum in broken ROYGBV — and if you answer out of order, they don’t stop singing. They erase.”",
+      "“Only by silencing them in reverse — from red to violet, into gray — can their song be unsung.”"
+    ],
+    "source": "Torn page from “Echoes of a Prism Lost” by the Bistre Archivist"
+  },
+  "drops": []
+}

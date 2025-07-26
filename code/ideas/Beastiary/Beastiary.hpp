@@ -6,7 +6,7 @@
 #include <map>
 
 // ----------------------------------------------------------------
-// Coplien-form LorePage
+// LorePage
 // ----------------------------------------------------------------
 class LorePage {
 	public:
@@ -25,7 +25,7 @@ class LorePage {
 };
 
 // ----------------------------------------------------------------
-// Coplien-form Bestiary manager (singleton style)
+// Bestiary manager (singleton style)
 // ----------------------------------------------------------------
 class Bestiary
 {

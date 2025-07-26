@@ -1,0 +1,29 @@
+{
+  "id": "BEAST_TIDEWORN_APOSTLE",
+  "entry": {
+    "name": "Tideworn Apostle",
+    "type": "Undead Scribe / Cursed Seer",
+    "threat_level": "⚠️ Moderate–High – Magic Disruption & Field Control",
+    "first_emerged": "After the Drowning of Whispering Bay",
+    "description": "Clad in salt-stained robes, her ink-soaked journal pages orbit her like moths.\n\nHer voice is a low tide of reversed chants.\n\nFootsteps leave puddles of unreadable script.",
+    "hue_interaction": "Her ink-runes scatter targeting reticules and miscast bound spells.\n\nCobalt’s Mind Echo can re-stabilize spell structure when cast near her active runes.\n\nWeak to fire and light — especially when wielded through Hue-enhanced relics like the Cerulean Cloak.",
+    "behavior": "Encounters begin with her inking the field — casting storm sigils that corrupt area-of-effect behavior.\n\nInkbind Glyph – roots players in storm-writing zones unless dodged.\n\nTidal Silence – disables player spellcasting briefly.\n\nScroll Bloom – summons a swarm of glowing script pages to obscure vision.",
+    "weaknesses": "Fire magic burns her runes, briefly exposing her true position.\n\nInterrupted if her floating pages are shattered before her chant completes.\n\nParticularly vulnerable when caught between contradictory Hue pulses (e.g., Crimson + Cobalt echoes).",
+    "notes": "Legends say she once held the “Codex of the Last Drown,” a book that only writes in storms.\n\nZaffran sailors believe if you dream of her, you’ve already forgotten something you swore never to."
+  },
+  "lore": {
+    "title": "Final inktrace from the Zaffran Subvaults",
+    "quote": "\"She drowned for knowledge. Now she walks for silence.\"",
+    "flavor_description": [
+      "She walks between drowned thoughts and black storms"
+    ],
+    "field_notes": [
+      "\"I found her near the black coral stacks — bent over a journal that wouldn’t close.\"",
+      "\"She wasn’t reading. She was remembering. But not her memories.\"",
+      "\"The tide hadn’t taken her body. It had rewritten it.\"",
+      "\"If she offers you a page… don’t read it. It writes you back.\""
+    ],
+    "source": "Archive Note, marked “Untranslatable, but afraid.”"
+  },
+  "drops": []
+}

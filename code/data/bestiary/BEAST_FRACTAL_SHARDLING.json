@@ -1,0 +1,33 @@
+{
+  "id": "BEAST_FRACTAL_SHARDLING",
+  "entry": {
+    "name": "Fractal Shardling",
+    "type": "Recursive Entity / Prism Construct",
+    "threat_level": "⚠️ Moderate → Escalating",
+    "first_emerged": "Post-Shattering Splinterfall",
+    "description": "Floating prisms shaped like broken math. They loop movement in recursive spirals, obeying no natural gravity. Every strike splinters them — not into pieces, but smaller selves.",
+    "hue_interaction": "Changes color slightly with each split — mimics hue gradients but never fully displays them.\n\nImmune to direct hue magic; however, light-based illusions (especially Yellow and Violet) delay their recursion.",
+    "behavior": "Patrols fixed paths until disturbed.\n\nTargets the last source of impact.\n\nEach smaller version emits a fainter hum — eventually becomes silent, but more dangerous.",
+    "weaknesses": "Can be halted early with a perfectly timed sound burst (e.g., Echo Pulse).\n\nViolet’s Glamour Pulse confuses their recursion, forcing false splits.\n\nReflecting their movement back into themselves using mirror terrain causes instant collapse.",
+    "notes": "If more than five are allowed to split, level geometry around them may deform subtly — floating platforms misalign, doors shift location.\n\nOccasionally whisper math-like patterns (\"One becomes two. Two becomes... error.\") before collapsing."
+  },
+  "lore": {
+    "title": "Recursion Made Sharp",
+    "quote": "Hit it once, and it remembers forever.",
+    "flavor_description": [
+      "A thought. A shape. Repeating until it breaks.",
+      "Floating prisms shaped like broken math. They loop movement in recursive spirals, obeying no natural gravity."
+    ],
+    "field_notes": [
+      "“They fractured the Core, hoping each splinter might forget what the whole once knew. Instead, it remembered too well. Repeated. Echoed. Over and over.”",
+      "",
+      "“A Shardling does not die. It subdivides — each generation forgetting more… and hurting more.”",
+      "",
+      "“One split into five. Then twenty-five. Then still it sang. Until even its song forgot the words, but not the rhythm.”",
+      "",
+      "“Only one truth breaks recursion: memory without repetition.”"
+    ],
+    "source": "Fragmented scrawl found etched on a Nullshade monolith"
+  },
+  "drops": []
+}

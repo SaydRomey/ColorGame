@@ -1,0 +1,33 @@
+{
+  "id": "BEAST_MEMORY_LEECH",
+  "entry": {
+    "name": "Memory Leech",
+    "type": "Cognitive Parasite / HUD Saboteur",
+    "threat_level": "⚠️ Moderate to High (depending on player memory reliance)",
+    "first_emerged": "During the Prism’s collapse, amid the data loss storm",
+    "description": "A wiry insect-like creature with limbs of glinting obsidian and a core that pulses like a heartbeat. When close, it emits a whispering hum — like your own thoughts turned alien.",
+    "hue_interaction": "Highly resistant to logic- and pattern-based attacks (Blue); weak to memory-restoring items (e.g., Bistre Lantern).\n\nTemporarily disoriented by Echo-based spells or full silence auras (Brown/Violet mix).",
+    "behavior": "Charges the player erratically; attaches with a flash of static.\n\nOn successful latch, it causes:\n- Temporary loss of button prompts\n- Disabling of 1–2 equipped Hue abilities\n- UI distortion (flickering text, backward narration)\n\nCan be knocked off by triggering a memory echo (e.g., stepping into a past scene reflection).",
+    "weaknesses": "Repelled by memory artifacts (like the “Tethered Locket” or “Truth Echo Scroll”).\n\nFire-based AoE flushes them from stealth; they avoid direct sunlight or radiant zones.\n\nVulnerable when “full” — after stealing too many prompts, they slow down visibly.",
+    "notes": "Rarely appear in groups, but the damage they do accumulates psychologically.\n\nDefeating them restores lost prompts gradually — some may only return after interacting with a remembered NPC or shrine.\n\nNullshade survivors say, “If you hear yourself forget… run.”"
+  },
+  "lore": {
+    "title": "Nullborne Ecology",
+    "quote": "“It doesn’t feed on blood. It gnaws at your knowing.”",
+    "flavor_description": [
+      "A skittering, crystalline arthropod with glinting mandibles and eyes like broken clocks.",
+      "The Memory Leech doesn’t just attack—it unravels you."
+    ],
+    "field_notes": [
+      "“They were first seen crawling from Shatterglass Pools — drawn to forgotten words and interrupted thoughts.”",
+      "",
+      "“One latched onto me during a glyph alignment. For hours, I couldn’t recall what fire was. Only when I held my child’s drawing did the memory return.”",
+      "",
+      "“Their hunger is specific: they consume the shape of memory. They feed on the scaffolding of identity.”",
+      "",
+      "“To kill one is easy. To recover what it took is not.”"
+    ],
+    "source": "Lore Entry: Fragment from “Nullborne Ecology,” etched in fading ink by a Bistre Archivist"
+  },
+  "drops": []
+}

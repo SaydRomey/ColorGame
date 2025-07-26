@@ -1,0 +1,33 @@
+{
+  "id": "BEAST_CHARTREUSE_HUSK",
+  "entry": {
+    "name": "Chartreuse Husk",
+    "type": "Corrupted Human / Alchemical Abomination",
+    "threat_level": "⚠️ High – Dangerous Area-Denial and Toxic Attacks",
+    "first_emerged": "Late Post-Shattering Era",
+    "description": "Chartreuse Husks were once monks of the Carthusian order, devoted to crafting potions that invigorated body and spirit. Corrupted by spoiled alchemical brews, their bodies are now bloated and semi-translucent, filled with bubbling, unstable mixtures. They continuously emit acidic vapor that corrodes both body and sanity.",
+    "hue_interaction": "Acidic mist disrupts and corrodes hue-based abilities temporarily, causing color disorientation.\n\nExplosion upon death releases unstable alchemical pools that linger as hazardous terrain.\n\nResistant to poison and most alchemical manipulations; vulnerable to purifying effects.",
+    "behavior": "Moves slowly but persistently, emitting acidic laughter and toxic mists.\n\nSeeks to corner prey, trapping them within clouds of confusion.\n\nOften found wandering near abandoned shrines or ancient brewing chambers.",
+    "weaknesses": "Highly vulnerable to purifying and cleansing spells (Yellow, Violet, or White hues).\n\nDirect flame attacks (Crimson fire) ignite their volatile internal mixtures, causing them to explode prematurely.\n\nSlow movement makes them easy to evade or target from a distance.",
+    "notes": "Local survivors speak of chilling echoes of laughter drifting through misty groves long after encounters. Some report a lingering confusion and a bitter taste in their mouths, as though their own laughter has turned sour from mere proximity to these tragic figures."
+  },
+  "lore": {
+    "title": "Vessel of Rotten Joy",
+    "quote": "A tonic left too long to rot.",
+    "flavor_description": [
+      "A bloated monk twisted by spoiled alchemy",
+      "Bodies swollen, skin pale-green and translucent, bubbling with unstable mixtures."
+    ],
+    "field_notes": [
+      "“Alchemy teaches patience; let a potion age carefully, and you find power. But leave it too long—neglect its whispers—and you get something worse than poison.”",
+      "",
+      "“I saw this tragedy unfold in the heart of our order, among monks who drank deeply of spoiled brews, mistaking decay for wisdom.”",
+      "",
+      "“They laughed first—uncontrollable laughter echoing through cloisters until their faces strained and their eyes dimmed with an eerie chartreuse glow.”",
+      "",
+      "“These Chartreuse Husks roam Huevale now, abandoned by reason, their laughter an endless, acidic mockery.”"
+    ],
+    "source": "From \"Journal of Spoiled Vessels,\" by Malachite Oracle of Tinctara"
+  },
+  "drops": []
+}

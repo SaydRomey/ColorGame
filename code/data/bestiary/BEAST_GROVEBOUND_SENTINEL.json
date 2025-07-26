@@ -1,0 +1,35 @@
+{
+  "id": "BEAST_GROVEBOUND_SENTINEL",
+  "entry": {
+    "name": "Grovebound Sentinel",
+    "type": "Living Construct / Ruin Guardian",
+    "threat_level": "⚠️ Variable – Immobile unless provoked",
+    "first_emerged": "Pre-Shattering Design, Active in Post-Shattering Era",
+    "description": "Towering wooden construct entwined with living vines and moss.\n\nStationary until triggered by specific actions near ruins or relics.\n\nResists all elemental and direct magical attacks until deactivated.",
+    "hue_interaction": "Immune to all elemental damage and direct hue-based attacks.\n\nActivation linked to environmental triggers—tampering with relics, puzzles, or shrines.\n\nCan only be pacified through puzzle-solving, sequence restoration, or color alignment.",
+    "behavior": "Awakens only when relics or environmental puzzles are mishandled or bypassed.\n\nResponds with deliberate, devastating strikes and area-denial vine attacks.\n\nReturns to dormancy once nearby puzzle or shrine is restored or respectfully disengaged.",
+    "weaknesses": "Cannot be defeated by force—must be disabled through environmental resolution.\n\nWeak points (glowing knot cores) become exposed only when incorrect color combinations are attempted nearby.\n\nVulnerable to Memory Echoes that resonate with its original oath or bonded spirit.",
+    "notes": "Many explorers mistake them for harmless statues until it is too late. Some forest guides swear that Sentinels occasionally move imperceptibly when no one watches—adjusting position as if listening for the next trespass. Their silence carries a weight not of menace, but judgment."
+  },
+  "lore": {
+    "title": "The Sleeping Warden",
+    "quote": "The trees gave it orders. It never stopped listening.",
+    "flavor_description": [
+      "Towering wooden construct entwined with living vines and moss.",
+      "Stationary until triggered by specific actions near ruins or relics."
+    ],
+    "field_notes": [
+      "“When words fail, the forest builds its silence. And silence, once shaped, stands eternal.”",
+      "",
+      "“The Grovebound Sentinels were not made—they were grown. Not by hands, but by decree. Root, stone, and memory braided into form by the elders of Huevale to guard what should never be touched, and to remember what must never be spoken.”",
+      "",
+      "“They do not breathe. They do not speak. Yet they listen, eternally attuned to vibrations of trespass and desecration. Their vines reach deeper than the ruins they protect, and they rise not with anger, but purpose.”",
+      "",
+      "“One does not slay a Sentinel. One reasons with it—not through words, but by proving worth. Solve the forest’s puzzle, and the Sentinel sleeps once more. Fail… and the forest will erase the mistake with quiet precision.”",
+      "",
+      "— Transcribed by the Celadon Archivist, from the root-code of an awakened Sentinel"
+    ],
+    "source": "Recovered Archive Whisper – Transcribed by the Celadon Archivist"
+  },
+  "drops": []
+}

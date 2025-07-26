@@ -1,0 +1,35 @@
+{
+  "id": "BEAST_FUNERAL_DANCER",
+  "entry": {
+    "name": "Funeral Dancer",
+    "type": "Spectral Performer / Ritual Assassin",
+    "threat_level": "⚠️ High – AoE Timing, Illusion & Delayed Hazards",
+    "first_emerged": "The Last Ember Gala, pre-Crimson Collapse",
+    "description": "Moves in wide, rhythmic spirals — every motion is part of a deadly choreography.\n\nWields ceremonial blades with precision and theatrical flair.\n\nLeaves behind sigils mid-dance — these explode after a set pattern or final pose.",
+    "hue_interaction": "Cloaked in Crimson illusions while mid-dance — vulnerable only between steps.\n\nCobalt sound interrupts her tempo, breaking sigil formation.\n\nEarthen grounding slows her spin, allowing safer approach.",
+    "behavior": "Opens with a slow spiral step — each movement leaving a glowing sigil.\n\nAfter four to six steps, stops to perform a “bow” — triggering the explosion of all active sigils.\n\nIf struck mid-combo, immediately shifts into evasive spin and relocates.",
+    "weaknesses": "During her “final pose,” she is vulnerable for a full second — ideal time to strike.\n\nSigils can be absorbed by Reflection Ward or overwritten with player sigil-magic.\n\nInterrupt spells (particularly with rhythmic or musical timing) destabilize her choreography completely.",
+    "notes": "Some say she’s not a monster, but a memory too strong to forget — one dancer still trying to mourn a thousand souls alone. If you survive her dance, she sometimes vanishes in a swirl of ash… and you feel oddly honored, like you were briefly part of the performance."
+  },
+  "lore": {
+    "title": "Last Step of the Ash Waltz",
+    "quote": "She dances to end things. And always ends with a bow.",
+    "flavor_description": [
+      "She spins for the fallen — and you may join the dance.",
+      "Moves in wide, rhythmic spirals — every motion is part of a deadly choreography."
+    ],
+    "field_notes": [
+      "“We gave her grief. She gave us grace.”",
+      "",
+      "“The Funeral Dancer once performed only for the dead — her steps choreographed to farewell the honored fallen. But war came too fast, and death too often. She could not keep up. So she never stopped.”",
+      "",
+      "“Now she dances across ash-fields and battlegrounds, pirouetting through memory and flame. No audience. No end. Just names whispered in rhythm and the clang of blades to mark the time.”",
+      "",
+      "“Her sigils are not spells. They are stories. And when she finishes the story, something always dies.”",
+      "",
+      "— Authored by Fennel “Redchalk” Vireen, former archivist turned battlefield scribe"
+    ],
+    "source": "Carved into the steps of a scorched amphitheater"
+  },
+  "drops": []
+}

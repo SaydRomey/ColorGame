@@ -1,0 +1,32 @@
+{
+  "id": "BEAST_AMBERCOIL_ASP",
+  "entry": {
+    "name": "Ambercoil Asp",
+    "type": "Illusionary Beast / Reactive Predator",
+    "threat_level": "⚠️ High – Deceptively powerful when triggered",
+    "first_emerged": "Circa early Dimming Cycle, near ruined trade shrines",
+    "description": "A radiant desert serpent whose body mimics the shine of polished gold, relic metals, or enchanted jewelry. Its camouflage is so perfect, many mistake it for part of the surrounding treasure hoard — until it moves.\n\nIt strikes with swift coiling bursts, often blinding or burning its attacker with reflected light off its hide.",
+    "hue_interaction": "Reflects most Aurelian spells unless they are pulse-based or truth-bound\n\nDisoriented by Cobalt’s Mind Echo or sonic waves\n\nVerdant roots can trap it if cast preemptively, before light-blind reflexes trigger",
+    "behavior": "Remains motionless for hours, coiled around artifacts or ruins\n\nReacts to motion, heat, and glint-focused vision\n\nWhen threatened, spins rapidly in a defensive spiral that distorts the air\n\nLays false relics that pulse faintly to lure scavengers closer",
+    "weaknesses": "Susceptible to rhythm disruption or echo-based abilities\n\nSluggish in full shadow or moonlight\n\nShatters when struck by its own reflected light (e.g., mirrored relic bounceback)",
+    "notes": "Some Citrine Artisans believe Ambercoil Asps were bred or enchanted long ago to guard treasures too powerful for vaults — letting beauty itself become the bait. One old Luxeran proverb warns:\n\n“If it gleams in silence, bow. If it gleams and hisses, run.”"
+  },
+  "lore": {
+    "title": "The Glinting Deceiver",
+    "quote": "Even its scales lie.",
+    "flavor_description": [
+      "Shimmering in hues of gold and topaz, the Ambercoil Asp curls around relics like a forgotten ornament. Its glassy hide catches the light in dazzling patterns, often mistaken for gemstones or ceremonial treasure. But beneath the beauty coils a lethal serpent that strikes with sun-scorched precision."
+    ],
+    "field_notes": [
+      "They say the Asp doesn't hunt. It waits. And what it guards isn't treasure — it's attention.",
+      "",
+      "I found one coiled perfectly around a sun-sigil chalice. At first, I thought it was part of the sculpture. Then its tongue flicked. The next moment, I was blind in one eye, and my apprentice was bleeding.",
+      "",
+      "Its glassy scales refract not only light — but greed. It sees your desire and reflects it, like a mirror coiled tight enough to bite.",
+      "",
+      "Do not chase shimmer in the sand. Sometimes, it hisses."
+    ],
+    "source": "Excerpt from “The False Wealth of Luxeran,” by Archivist Mosa Quire"
+  },
+  "drops": []
+}

@@ -1,0 +1,36 @@
+{
+  "id": "BEAST_ABYSSAL_CURRENT",
+  "entry": {
+    "name": "Abyssal Current",
+    "type": "Elemental Serpent / Memory-Water Construct",
+    "threat_level": "⚠️ High - Emotional and Mechanic Drain",
+    "first_emerged": "After the Submergence of the Azure Tithes",
+    "description": "A haunting creature formed from stormwater soaked with memory magic.\nThe Abyssal Current swims through Iriseld's reef-cloaked coves and sky-reflected shallows, appearing only during mist or moonlight.\n\nIt does not kill by force — it slowly overwhelms players with their own unresolved echoes, draining stored memory charges used for buffs, progression, and spell recall.",
+    "hue_interaction": "Drawn to Cobalt-bound players, especially those carrying Mind Echo fragments.\nWeakens color-boosted passives by sapping memory charges when nearby.\nCan be briefly banished using a Zaffre Vial, which binds its swirling tide-form to glass.",
+    "behavior": "Shifts between liquid and vapor: mist-form is harder to track but cannot attack.\nOnly fully manifests when it \"locks\" onto a buried memory — player hesitation or lore zone trigger.\nDrains player clarity (passive mental buffs) during long exposure.",
+    "weaknesses": "Vulnerable to sonic pulse disruption (e.g., Cobalt's Mind Echo).\nAvoid direct stare — doing so triggers Memory Stir, revealing emotional visions that slow movement or invert controls.\nEnraged if its own memory reflections are shattered (e.g., mirrored terrain or echo crystals broken near it).",
+    "notes": "Some say the Current is not one being but many regrets fused into fluid thought.\n\nThe Zaffre Glasswright once tried to bottle part of one. The glass fogged forever."
+  },
+  "lore": {
+    "title": "Memory That Drowns",
+    "quote": "\"The tide remembers. The tide regrets.\"",
+    "flavor_description": [
+      "Semi-liquid form constantly shifting between water and mist.",
+      "Glassy eyes reflect scenes from your past as it circles.",
+      "Its body pulses with flickers of lightning and ghosted memory runes."
+    ],
+    "field_notes": [
+      "It didn't swim like a beast. It flowed — like guilt sliding back into the sea.",
+      "",
+      "We thought it was just current and coil, some strange tide-magic. Then it looked at me — not with hunger, but with recognition. I felt it searching.",
+      "",
+      "It didn't steal memory. It stirred it. I remembered what I was trying not to — my brother's voice under the storm, my own words I should've said.",
+      "",
+      "The Current doesn't kill. It burdens. Enough of that, and you sink.",
+      "",
+      "— Entry torn, ink water-smeared. Final line reads: \"If you see it coming, ask yourself: what haven't you forgiven yet?\""
+    ],
+    "source": "Field Notes from Tide-Seer Velia, recovered near Whispering Bay"
+  },
+  "drops": []
+}

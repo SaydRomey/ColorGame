@@ -66,11 +66,39 @@ bool	Bestiary::loadFromFile(const std::string& filename)
 	while (it != obj.end())
 	{
 		// key is a string like "BEAST_ABYSSAL_CURRENT"
-		BestiaryID	id = toBestiaryID(it->first);
+		const std::string&	key = it->first;
 		const picojson::value&	entry = it->second;
+
 		if (!entry.is<picojson::object>())
+		{
+			std::cerr << "Warning: Skipping malformed entry for " << key << " (not an object)" << std::endl;
 			continue ;
+		}
+		
 		const picojson::object&	eo = entry.get<picojson::object>();
+
+		if (eo.count("name") == 0 || eo.count("description") == 0)
+		{
+			std::cerr << "Warning: Missing 'name' or 'description' in entry: " << key << std::endl;
+			continue ;
+		}
+
+		if (!eo.at("name").is<std::string>() || !eo.at("description").is<std::string>())
+		{
+			std::cerr << "Warning: Invalid 'name' or 'description' type in entry: " << key << std::endl;
+			continue ;
+		}
+
+		BestiaryID	id;
+		try
+		{
+			id = toBestiaryID(it->first);
+		}
+		catch (const std::exception& e)
+		{
+			std::cerr << "Warning: " << e.what() << std::endl;
+			continue ;
+		}
 
 		std::string	name = eo.at("name").get<std::string>();
 		std::string	desc = eo.at("description").get<std::string>();
@@ -83,8 +111,9 @@ bool	Bestiary::loadFromFile(const std::string& filename)
 
 const LorePage&	Bestiary::getLore(BestiaryID id) const
 {
-	std::map<BestiaryID,LorePage>::const_iterator	i = _entries.find(id);
-	if (i == _entries.end())
+	std::map<BestiaryID,LorePage>::const_iterator	it = _entries.find(id);
+	if (it == _entries.end())
+		// throw (std::runtime_error("Missing fields in bestiary entry: " + it->first));
 		throw (std::runtime_error("Lore not found for ID"));
-	return (i->second);
+	return (it->second);
 }

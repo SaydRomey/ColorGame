@@ -1,0 +1,31 @@
+{
+  "id": "BEAST_MEMORY_HUSK",
+  "entry": {
+    "name": "Memory Husk",
+    "type": "Echoed Shade / Identity Wraith",
+    "threat_level": "⚠️ Moderate – Potentially lethal if underestimated",
+    "first_emerged": "Post-Shattering, near early alchemical fault-lines",
+    "description": "The Memory Husk appears as a ghostly copy of the player, often in older equipment or casting long-abandoned spells. It inhabits places where the player has previously died, failed, or made significant decisions.",
+    "hue_interaction": "Reacts to the hues the player has bound before.\n\nAdapts to mimic combat rhythm based on equipped color.\n\nHighly unstable when faced with conflicting past choices.",
+    "behavior": "Mimics player movements with slight delay or error.\n\nChanges attack pattern if player changes weapon mid-fight.\n\nMutters distorted fragments of the player’s past dialogue.",
+    "weaknesses": "Temporarily pacified when the player performs an action they never used before.\n\nVulnerable to “Memory Echo” from the Earthen Bound hue.\n\nCan be defeated by correctly replaying a sequence of past dialogue lines.",
+    "notes": "Some Memory Husks whisper names of the player’s lost allies or reflect choices never taken. In rare cases, they drop “Faded Self” items — non-functional echoes of gear the player once wore."
+  },
+  "lore": {
+    "title": "The Hollow Reflections",
+    "quote": "“A shell of who you were… or might become.”",
+    "flavor_description": [
+      "A pale, translucent figure echoing your form, posture, and past choices.",
+      "Its presence carries the uncanny familiarity of a half-remembered dream, or the mistake you never corrected."
+    ],
+    "field_notes": [
+      "“They stand just where you stood. Speak in your cadence. Swing with your uncertainty.”",
+      "",
+      "“In Auralith, death lingers — not as punishment, but as a rehearsal. The Husk is what remains when the soul forgets which version of itself it died as.”",
+      "",
+      "“I watched mine draw breath. I do not remember breathing that way.”"
+    ],
+    "source": "Lore Entry: Fragment from “The Hollow Reflections,” recovered from the Isabelline Catacombs"
+  },
+  "drops": []
+}

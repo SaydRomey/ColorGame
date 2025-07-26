@@ -1,0 +1,33 @@
+{
+  "id": "BEAST_NULLSHADE_ECHO",
+  "entry": {
+    "name": "Nullshade Echo",
+    "type": "Mirror Construct / Memory Apparition",
+    "threat_level": "⚠️ Unique — Mechanically Unconventional",
+    "first_emerged": "Unknown — only seen in Nullshade’s Wound",
+    "description": "Nullshade Echo appears as a translucent silhouette of the player, or at times, a past version of them. It moves a second after the player moves, mimicking attacks, spells, or decisions already taken — sometimes even copying full combat stances or dialogue trees.\n\nIt doesn’t initiate combat. Instead, it responds — and reflects. Striking it may result in your own health dropping, a past NPC line replaying, or reversing a recent action. Sometimes, it undoes your progress if it recognizes guilt or contradiction.",
+    "hue_interaction": "Immune to all hue-based attacks — any color used is reflected with inverted effect.\n\nVulnerable only to inaction, truth, or nonviolent choices.\n\nUse of the Bistre Lantern reveals its source echo (what memory it’s drawn from).",
+    "behavior": "Appears at critical memory junctions or lore-rich areas.\n\nMimics player behavior with a one-second delay, including pausing, dodging, or emoting.\n\nOccasionally, it will \"speak\" — using past lines the player said in other regions.",
+    "weaknesses": "Standing perfectly still causes it to vanish after 12 seconds.\n\nReciting or triggering remembered truths (via collected lore) calms it.\n\nTouching a Shatterglass Pool while near it causes mutual reflection — both vanish.",
+    "notes": "Multiple Nullshade Echoes can appear in NG+ modes — each based on a different past choice.\n\nSome can be interacted with through dialogue. One was seen whispering a phrase the player had never spoken aloud.\n\nIf defeated properly, it fades whispering:\n\n> “It wasn’t wrong. It was just… before.”"
+  },
+  "lore": {
+    "title": "Reverberations of Unselfing",
+    "quote": "“You moved first. It simply responded... eventually.”",
+    "flavor_description": [
+      "A ghostly silhouette of the Prismwalker — not as they are, but as they once were.",
+      "It retraces steps, replays actions, and confronts the player not with violence, but reflection."
+    ],
+    "field_notes": [
+      "“I watched one retrace my sister’s footsteps — even though she died in the war of hues. The Echo did not bleed. It did not speak. It simply… reminded.”",
+      "",
+      "“It mimicked her hesitation, her step backward, the way her hands shook when she refused to strike. I had forgotten that about her. And yet, the Echo hadn’t.”",
+      "",
+      "“Some say they are mirror fragments of the Prismwalker. Others believe they are the world's last attempt to remind us what we once swore never to do again.”",
+      "",
+      "“Whatever they are, they cannot be bested. They can only be forgiven.”"
+    ],
+    "source": "Entry recorded by the Caput Mortuum Ascetic in “Reverberations of Unselfing”"
+  },
+  "drops": []
+}

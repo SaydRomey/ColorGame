@@ -1,0 +1,35 @@
+{
+  "id": "BEAST_FANGBLOOM_WYRM",
+  "entry": {
+    "name": "Fangbloom Wyrm",
+    "type": "Camouflaged Serpent / Floral Predator",
+    "threat_level": "⚠️ High – Lethal on First Encounter",
+    "first_emerged": "Post-Shattering Era",
+    "description": "Long, vine-serpent creature camouflaged beneath flowerbeds and moss.\n\nCoiled and motionless until disturbed, then lashes out with lightning-fast strikes.\n\nCovered in bioluminescent petals that close tight when it hunts.",
+    "hue_interaction": "Immune to visual detection without specialized means (e.g., Skobeloff Lens, Echo spells).\n\nDrawn to heat and motion more than hue, though will prioritize highly Hue-bound individuals.\n\nPetal-camouflage can absorb minor Verdant or Violet hue pulses, rendering some scans ineffective.",
+    "behavior": "Lies in wait beneath shallow rootbeds or floral clearings.\n\nStrikes with immense speed, often dragging prey underground or into a tangle trap.\n\nWill retreat if wounded, leaving behind severed petals or trail fragments to mislead pursuit.",
+    "weaknesses": "Vulnerable to Echo-based detection (Cobalt or Earthen), which reveals its true shape.\n\nSonic pulses disorient its sensory vines, delaying its strike reaction.\n\nParticularly sensitive to crushing damage, which bypasses its floral armor.",
+    "notes": "The Wyrm’s petals are sometimes found scattered after an encounter—still glowing faintly, still warm. Huevale healers claim these remnants hum softly when held, repeating the last heartbeat of whatever the Wyrm consumed."
+  },
+  "lore": {
+    "title": "Blossomcoil Serpent",
+    "quote": "Buried in blossom, it waits for motion.",
+    "flavor_description": [
+      "A serpent veiled in petals, striking from below",
+      "Long, vine-serpent creature camouflaged beneath flowerbeds and moss."
+    ],
+    "field_notes": [
+      "“I knelt to gather dreampetals—careful, reverent, as my grandmother taught me. The blooms were warm from the sun, soft, still. Then the ground… breathed.”",
+      "",
+      "“I felt it—not just the movement, but the hunger. A sudden pull, my satchel gone, then a blur of blossoms spiraling into the underbrush. The flowers weren’t flowers. They were scales. And beneath them, rows of teeth.”",
+      "",
+      "“I’ve seen its path since—empty patches where no insects hum, no roots dare grow. It glides just beneath the surface, waiting. Watching. Camouflaged not in earth, but in beauty.”",
+      "",
+      "“The forest doesn’t warn of it. It lets it be. Maybe because it’s not a monster to the woods… just another bloom that bites.”",
+      "",
+      "— Testimony of Eiren the Bloomwalker, last seen near Petalbend Glade"
+    ],
+    "source": "Journal fragment recovered from Eiren’s tent, two days after disappearance"
+  },
+  "drops": []
+}

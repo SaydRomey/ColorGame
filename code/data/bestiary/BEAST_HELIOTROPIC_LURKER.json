@@ -1,0 +1,39 @@
+{
+  "id": "BEAST_HELIOTROPIC_LURKER",
+  "entry": {
+    "name": "Heliotropic Lurker",
+    "type": "Lurking Flora / Light-Stalker",
+    "threat_level": "⚠️ High – Ambush Predator in Twilight",
+    "first_emerged": "After the Withering Bloom, under Liseran Shrine",
+    "description": "A predatory vine-beast woven from heliotrope blossoms and dusk.\n\nHides in low light, strikes from bloom-covered surfaces.\n\nIts body coils in spirals — like sunlight trying to become memory.",
+    "hue_interaction": "Amplified by light-based spells — glows stronger when struck with Radiant Echo.\n\nWeakened by darkness or shadow-binding abilities.\n\nIf the player wears the Heliotrope Band, it becomes aware but hesitant — waiting for your guard to drop.",
+    "behavior": "Burrows under bloom-pools and vine walls; bursts up when the player lingers or casts healing spells.\n\nLatches with thorned tendrils that drain hue slowly over time.\n\nRetreats during full light or after being seen through a Thulian Mirror.",
+    "weaknesses": "Vulnerable to sudden darkness — illusions or shadow bursts cause it to recoil.\n\nCan be distracted by moving light sources (e.g. fireflies, glowing illusions).\n\nIf caught mid-bloom, its petals become brittle — a precise strike then can destroy its nerve-center.",
+    "notes": "Some believe the Lurker can remember those it failed to catch, and will follow them across regions, reappearing near heliotrope growths.\nDefeating it may yield a Withered Bloom-Core, usable in memory-bound rituals or light-sensitive traps."
+  },
+  "lore": {
+    "title": "Thorn in the Twilight",
+    "quote": "The flower watches. The vine listens. The shadow waits.",
+    "flavor_description": [
+      "A predatory vine-beast woven from heliotrope blossoms and dusk.",
+      "Hides in low light, strikes from bloom-covered surfaces."
+    ],
+    "field_notes": [
+      "“The lilies grieve when it feeds. They know it was once part of them.”",
+      "",
+      "“The Heliotropic Lurker was not planted. It grew from sorrow, a vine that refused to wither when the sun set on its garden.”",
+      "",
+      "“It stalks by scent, by shadow-angle, by memory of warmth. It never hunts in full light, but flares when dawn rises — a final hunger before retreat.”",
+      "",
+      "“Some say it only appears to those carrying heliotrope — the band, the bloom, or the guilt. Others believe it is drawn to unresolved farewells.”",
+      "",
+      "“If it sees you, it won’t chase.”",
+      "",
+      "“It will wait.”",
+      "",
+      "— Liseran Caretaker, beneath the Weeping Lilies"
+    ],
+    "source": "From the Garden Notes of the Liseran Caretaker"
+  },
+  "drops": []
+}

@@ -1,0 +1,34 @@
+{
+  "id": "BEAST_TAPESTRY_WATCHER",
+  "entry": {
+    "name": "Tapestry Watcher",
+    "type": "Memory‑Warped Construct",
+    "threat_level": "⚠️⚠️ High – Paralyzes via Past Decisions",
+    "first_emerged": "Post‑Shattering, during the First Silent Weave",
+    "description": "A tall, hooded figure nailed to a suspended loom of tattered, glowing thread. It doesn't move — but the threads do. Each glows with a line of dialogue the player once chose, or failed to choose. Its face is shrouded… but every decision is visible behind it.",
+    "hue_interaction": "Purple‑bound illusions cause the loom to replay “alternate timelines.”\n\nBrown‑bound memory echoes let players “restitch” a prior moment for defense or offense.\n\nYellow or truth‑based spells break through its paralyzing thread‑webs.",
+    "behavior": "Hurls threads of past dialogue as attacks — successful hits “paralyze” the player in a false memory.\n\nIf the player chose contradictory dialogue paths in the past, the Watcher becomes more aggressive.\n\nUses illusion‑laced threads to bait the player into reliving their worst choice.",
+    "weaknesses": "Confession‑based interactions nullify its binding attacks (truth cuts thread).\n\nArtifacts like the Isabelline Tapestry allow thread prediction and reflection.\n\nBlindsided if approached without any unfulfilled dialogue threads (rare).",
+    "notes": "Defeating the Watcher does not destroy the tapestry — only moves your place within it. Some travelers report seeing their own name stitched in fresh thread before the fight even begins."
+  },
+  "lore": {
+    "title": "Margin scrap from the Isabelline Widow’s threadbook",
+    "quote": "“There’s a chamber where decisions breathe. And the Watcher keeps them warm.”",
+    "flavor_description": [
+      "It stares at the wall where you betrayed yourself."
+    ],
+    "field_notes": [
+      "“There’s a chamber where decisions breathe. And the Watcher keeps them warm.”",
+      "",
+      "“It weaves from forgotten ‘no’s, unspoken truths, and the moments we smiled when we shouldn’t have.”",
+      "",
+      "“One pilgrim entered with pride. Came out without their name. The loom didn’t approve.”",
+      "",
+      "“The tapestry isn’t wrong. It’s just honest enough to hurt.”",
+      "",
+      "“If you face it, bring only one thing: certainty. It cannot stitch what is whole.”"
+    ],
+    "source": "Margin scrap from the Isabelline Widow’s threadbook, written in bone ink"
+  },
+  "drops": []
+}

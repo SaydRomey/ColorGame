@@ -1,0 +1,29 @@
+{
+  "id": "BEAST_SEVENTH_HUE",
+  "entry": {
+    "name": "The Seventh Hue",
+    "type": "Forgotten Antithesis / Hue Paradox",
+    "threat_level": "⚠️⚠️ Extreme – Optional Meta-Encounter",
+    "first_emerged": "Behind sealed prism gates unlocked by full riddle solutions",
+    "description": "A hidden, endgame-only encounter — The Seventh Hue is not a creature but a contradiction. It exists outside the spectrum and beyond remembrance. If you find it, you've already chosen wrong — or maybe right.",
+    "hue_interaction": "Nullifies all active hues on contact.\n\nForces the player into a reversed state: strengths become weaknesses; chosen affinities invert.",
+    "behavior": "Appears only if you solve five or more Nullshade prism riddles without error.\n\nOpens combat by stripping your HUD and fading the world to monochrome.\n\nUses Unname attacks — which erase traits, stat modifiers, or emotional cues.\n\nSpeaks only in reflection — its voice is yours, distorted.",
+    "weaknesses": "Only defeated by confronting a final player-typed truth prompt during combat’s midpoint.\n\nCertain dialogue choices from The Blooming Veil or Auralith echo as resistance.\n\nUse of “Silent Hue” alignment temporarily reveals its true form.",
+    "notes": "If defeated, unlocks Optional Dialogue Before Final Boss:\n\"What if the Prism was wrong?\"\n\nIf spared, leaves behind a black shard that pulses between names never chosen.\n\nAdds entry to Hue Archive: “The Forbidden Color.”"
+  },
+  "lore": {
+    "title": "Revealed through successful decoding of 5+ Nullshade Prism Riddles",
+    "quote": "\"We recorded six. The seventh recorded itself.\"",
+    "flavor_description": [
+      "It was never named. So it never died."
+    ],
+    "field_notes": [
+      "\"We recorded six. The seventh recorded itself.\"",
+      "\"It spoke only once — not in words, but in silence that hurt.\"",
+      "\"It was never painted. Only erased.\"",
+      "\"We called it a heresy. So it survived.\""
+    ],
+    "source": "Nullshade Prism Riddle Archive"
+  },
+  "drops": []
+}

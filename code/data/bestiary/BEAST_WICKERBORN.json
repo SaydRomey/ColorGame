@@ -1,0 +1,29 @@
+{
+  "id": "BEAST_WICKERBORN",
+  "entry": {
+    "name": "Wickerborn",
+    "type": "Construct / Huebound Guardian",
+    "threat_level": "⚠️ Moderate–High – Dormant until provoked",
+    "first_emerged": "Prismara War — Relic Age",
+    "description": "Towering, humanoid constructs formed from braided plant matter, sun-dried bones, and iron lashings. Their limbs creak like branches in windless air, and when idle, they resemble statues or broken totems.\n\nA faint, inner glow can be seen between their ribs when activated — like dying embers remembering purpose.",
+    "hue_interaction": "Aligned with Verdant (Green) and Earthen (Brown), but triggered by Crimson (Red) proximity.\n\nIgnore most damage unless purpose is disrupted (e.g. disturbing relics, lying to NPCs near them).\n\nStrong resistance to illusion and glamour effects.",
+    "behavior": "Remain inert until:\n• A nearby relic is touched.\n• A lie is spoken during dialogue nearby.\n• A shrine is activated without proper hue alignment.\n\nOnce triggered:\n• Slow pursuit begins (deliberate, methodical, and inescapable in straight lines).\n• Enters a berserk state if cornered — flailing vine whips and lash roots.\n\nWill reassemble over time if not destroyed by fire or crystalline impact.",
+    "weaknesses": "Burnable — vulnerable to Crimson fire, especially to joints and binding roots.\n\nShattering via Earthen shock collapses their inner structure.\n\n\"Stillbark Oils\" can slow their motion if applied to relics in advance.",
+    "notes": "Some Whisperers claim that Wickerborn remember names spoken in their presence — even centuries later.\n\nThe Caput Mortuum Ascetic once called them “our final promise — to watch what mattered when we no longer could.”"
+  },
+  "lore": {
+    "title": "Excerpt from “The Silent Watch” – Archive of the Bistre Lantern",
+    "quote": "\"They were built, not born — shaped by Verdant hands, bound by Crimson oaths, and given Earthen patience.\"",
+    "flavor_description": [
+      "An ever-watchful husks woven to guard relics long forgotten."
+    ],
+    "field_notes": [
+      "\"We placed them at thresholds: shrine gates, color wells, fractured memory vaults. Each one was a sentinel of silence — no breath, no hunger, only the weight of duty.\"",
+      "\"But the Orders fell. The rituals ended. And still they watched.\"",
+      "\"I passed one once. Thought it dead. I touched the relic behind it, and its chest ignited with glyph-fire.\"",
+      "\"They don’t move like beasts. They move like decisions you regret — slow, deliberate, irreversible.\""
+    ],
+    "source": "The Silent Watch"
+  },
+  "drops": []
+}

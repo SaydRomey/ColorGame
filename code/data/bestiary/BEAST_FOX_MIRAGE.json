@@ -1,0 +1,35 @@
+{
+  "id": "BEAST_FOX_MIRAGE",
+  "entry": {
+    "name": "Fox Mirage",
+    "type": "Illusory Predator / Ember Trickster",
+    "threat_level": "⚠️ Medium – Disorienting, fast, rarely lethal alone",
+    "first_emerged": "Post-Prism Flicker Era, near Cinnabar Spires",
+    "description": "Agile predator cloaked in shifting heat mirages.\n\nAppears as multiple foxlike shapes darting across terrain.\n\nLeaves afterimages that cause AI misdirection and player targeting confusion.",
+    "hue_interaction": "Reacts violently to truth-based magic (e.g. Violet clarity spells or mirrored terrain).\n\nCan only be struck while passing through reflection zones or during a failed clone transition.\n\nImmune to direct tracking, weak against area-of-effect detection spells (like Prism Pulse).",
+    "behavior": "Appears in triads — one real, two fakes.\n\nFrequently retreats after ambushes, reappearing unexpectedly at player flanks.\n\nLeaves behind heat mirage traps that burn slow and confuse targeting systems.",
+    "weaknesses": "Temporarily revealed by Cinnabar Seal, a relic that forces illusions to resolve.\n\nIf mirrored against reflective surfaces (e.g., lava glass or still obsidian pools), its real form can be distinguished.\n\nDoes not cross echo-silence zones (where illusions lose coherence).",
+    "notes": "Wandering bards claim that if you defeat the Fox Mirage without breaking a sweat, she visits you in dreams — not in anger, but curiosity. She wants to see how your story ends. Or maybe she wants to rewrite it."
+  },
+  "lore": {
+    "title": "Trick of the Ember Veil",
+    "quote": "Blink once — it’s gone. Blink again — it’s behind you.",
+    "flavor_description": [
+      "A flicker of heat, a shape that laughs as it vanishes",
+      "Agile predator cloaked in shifting heat mirages."
+    ],
+    "field_notes": [
+      "“Oh, that one? The Fox Mirage? She's a clever ghost, or maybe just a lie wrapped in fur.”",
+      "",
+      "“She’s not real — not the way we are. She’s an ember thought that got too smug. You see her in the corner of your eye, or in the shimmer on a blade, or laughing just before the strike lands. She’s the memory of being hunted, kept warm too long in the coals.”",
+      "",
+      "“They say she was once a trickster in life — Nacarat’s sister, some claim — weaving illusions into flame. When she died, the desert didn’t let her go. It just learned her trick.”",
+      "",
+      "“If you want to fight her, don’t. Fight what she makes you think she is. That’s where she hides — behind your own mistake.”",
+      "",
+      "— Whispered with a grin by a campfire, then the wind carried the grin away."
+    ],
+    "source": "Spoken by Nacarat the Laughing Blade, overheard near Emberlight Cliffs"
+  },
+  "drops": []
+}

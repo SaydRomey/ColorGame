@@ -1,0 +1,29 @@
+{
+  "id": "BEAST_TYRIAN_ECHO",
+  "entry": {
+    "name": "Tyrian Echo",
+    "type": "Spectral Memory Construct",
+    "threat_level": "⚠️ Moderate – Emotionally volatile, disorients combat rhythm",
+    "first_emerged": "Post-Color War Scarring",
+    "description": "A shimmering humanoid outline, locked in flickering animation loops.\n\nIts movements are beautiful, fluid — and utterly unbreakable.  \nIt fights like a dancer remembering the steps, even as the music has long stopped.",
+    "hue_interaction": "Tied directly to Crimson (willpower, wrath) and Violet (dream, memory).\n\nMimics player attacks if emotionally resonant (e.g., dialogue trees about vengeance or failure).\n\nVulnerable to Brown (truth/memory anchors) and Yellow (disruption/light).",
+    "behavior": "Appears near color-war memorials, ruined battlegrounds, or memory glyphs.\n\nEngages without provocation if the player has committed a key regret.\n\nOccasionally pauses mid-battle, repeating old dialogue from other characters.",
+    "weaknesses": "Loses form briefly when exposed to Echo Pulse or Truth Sigils.\n\nDisrupted by reframing dialogue (“I forgive them,” “That wasn’t me,” etc.).\n\nFinal phase collapses if player stands still during her final loop.",
+    "notes": "Tyrian Echo may appear multiple times, each instance slightly different — replaying a different failure or memory based on the player’s world-state.\n\nSome Archivists theorize she was once real. Others argue she is simply what war feels like… after it ends."
+  },
+  "lore": {
+    "title": "“Echoes Along the Violet Scar” by the Prismwalker Serael",
+    "quote": "\"It bled twice: once in dream, once in regret.\"",
+    "flavor_description": [
+      "Not a person. A memory repeating itself into violence."
+    ],
+    "field_notes": [
+      "\"We found her in the ruins where Violet turned back Crimson. She moved before we saw her.\"",
+      "\"She fought like a dream — graceful, haunting, wrong.\"",
+      "\"When I struck her, she shattered into fragments of me.\"",
+      "\"We left that ruin. She stayed behind. Fighting the memory we brought with us.\""
+    ],
+    "source": "Recovered field note – “Echoes Along the Violet Scar”"
+  },
+  "drops": []
+}

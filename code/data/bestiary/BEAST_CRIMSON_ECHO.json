@@ -1,0 +1,33 @@
+{
+  "id": "BEAST_CRIMSON_ECHO",
+  "entry": {
+    "name": "Crimson Echo",
+    "type": "Spectral Duelist / Memory Construct",
+    "threat_level": "⚠️ High – Adaptive Combatant",
+    "first_emerged": "Post-War of Cinders, first recorded in Ember Pits",
+    "description": "A Crimson Echo is the lingering combat memory of a warrior who died mid-duel, their rage and discipline imprinted on the battlefield itself. These echoes manifest when triggered — hovering apparitions that flawlessly mirror the final moves that defined their lives. Their weapons are ghost-steel and their movements eerily perfect, sharpened by eternity.",
+    "hue_interaction": "Copies the last offensive ability used on it (including hue-bound attacks) and reuses it within moments.\n\nVulnerable to Cobalt or Violet anti-loop magic (e.g., time-slow, echo disrupt).\n\nImmune to direct memory manipulation — but can be tricked by illusion-based stutters or false rhythm.",
+    "behavior": "Activates only when a duel zone is entered or eye contact is made.\n\nAttacks with increasing aggression each time its pattern is interrupted.\n\nDisappears if ignored for long enough, but reappears on repeat visits.",
+    "weaknesses": "Rhythm-breaking actions (e.g., sudden pauses, feints) can momentarily unbalance its loop.\n\nCrumbles to silence-based spells (muting both sound and ability reuse).\n\nTemporarily resets if hit by an unremembered action (e.g., non-hue environmental hazard).",
+    "notes": "Some Crimson Echoes whisper the name of the one who killed them. Others whisper the name of the one they couldn’t. Skilled duelists claim they’ve learned new techniques simply by surviving a full cycle. Many others never finish the pattern."
+  },
+  "lore": {
+    "title": "Loop of the Fallen Blade",
+    "quote": "Battle never ends when memory screams louder than death.",
+    "flavor_description": [
+      "Spectral warrior clad in fractured armor, hovering just above the ground.",
+      "Repeats the last attack it received with increasing speed and accuracy."
+    ],
+    "field_notes": [
+      "“There is a scream in Vireya that never ends. It circles the same word. The same wound. Over and over again.”",
+      "",
+      "“The Crimson Echo is not a ghost — it's a loop. A memory caught in the final moments of a duel, so loud and furious that it tore itself free of death.”",
+      "",
+      "“Each one is different, shaped by a fallen warrior’s last strike, last scream, last regret.”",
+      "",
+      "— Vellidra, two days before she vanished in the Arena of Sighs"
+    ],
+    "source": "From the journal of Vellidra Pyrehand, Cobalt Seer of the Ninth Ember Watch"
+  },
+  "drops": []
+}

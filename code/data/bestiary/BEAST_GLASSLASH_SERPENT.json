@@ -1,0 +1,38 @@
+{
+  "id": "BEAST_GLASSLASH_SERPENT",
+  "entry": {
+    "name": "Glasslash Serpent",
+    "type": "Elemental Beast / Fragmented Flame Construct",
+    "threat_level": "⚠️ High – Environmental Hazard & Reflexive Damage",
+    "first_emerged": "Molten Shardfall, Year of Fracture",
+    "description": "Long, sinuous serpent composed of volcanic glass and ember-embedded bone.\n\nSlithers silently through lava pools and ash fields.\n\nShatters violently when struck — flinging razor shards in all directions.",
+    "hue_interaction": "Resonates negatively with Crimson — absorbing heat and increasing movement speed.\n\nExposes its true body when hit with Cobalt sound bursts or Violet prism fractures.\n\nImmune to most bleed or decay effects — it has no flesh.",
+    "behavior": "Prefers ambush tactics — hides in lava pools, sand drifts, or shattered rock beds.\n\nUses whip-like lunges followed by slithering retreats.\n\nEvery 3rd strike it takes causes a defensive shatter, creating damaging glass fields.",
+    "weaknesses": "Vulnerable to vibration-based spells (e.g. seismic drums, ground pulse), which disrupt balance and expose its molten heart.\n\nIf shattered over cooled lava, fragments remain inert — allows safe pathing.\n\nMomentarily stunned after “glass bloom” — when it erupts in full defense mode.",
+    "notes": "Some desert clans wear shards from fallen Glasslashes as pendants — not for strength, but for memory. They say if you listen close, the glass still hums with the moment it broke. And it’s always the same note: regret."
+  },
+  "lore": {
+    "title": "Shard of the Betrayer Flame",
+    "quote": "Born of heat and betrayal.",
+    "flavor_description": [
+      "Long, sinuous serpent composed of volcanic glass and ember-embedded bone.",
+      "Slithers silently through lava pools and ash fields.",
+      "Shatters violently when struck — flinging razor shards in all directions."
+    ],
+    "field_notes": [
+      "“She loved him. He left her in fire.”",
+      "",
+      "“The story of the Glasslash begins, like many Vireyan things, with heartbreak. A betrayal at the mouth of a caldera. A fall. A scream. A woman too burned to die — and something waiting below.”",
+      "",
+      "“What crawled out of that glass-blown crevice was not her. But it remembers her scream.”",
+      "",
+      "“The serpent wears pain like armor. Each flick of its body cuts the world that made it. And when you strike it? It only remembers how to shatter better.”",
+      "",
+      "“Some Embermaidens whisper that it is the weapon left behind by the first betrayal. That it still waits for an apology.”",
+      "",
+      "— Engraved on a blade never drawn"
+    ],
+    "source": "Fragment inscribed on a broken obsidian blade, source unknown"
+  },
+  "drops": []
+}

@@ -38,7 +38,7 @@ class HueAffinity {
 	public:
 		HueAffinity(void);
 		HueAffinity(const HueAffinity& other);
-		HueAffinity& operator=(const HueAffinity& other);
+		HueAffinity&	operator=(const HueAffinity& other);
 		~HueAffinity(void);
 
 		void	addXp(Hue h, int amount);

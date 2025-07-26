@@ -13,8 +13,8 @@ REPO_LINK	:= https://github.com/SaydRomey/ColorGame
 # Build Configuration
 # ==============================
 COMPILE		:= c++
-C_FLAGS		:= -Wall -Wextra -Werror
 STANDARD	:= -std=c++98
+C_FLAGS		:= -Wall -Wextra -Werror $(STANDARD)
 
 # Source Code Files
 SRC_DIR		:= src
@@ -48,6 +48,7 @@ MK_PATH		:= utils/makefiles
 include $(MK_PATH)/utils.mk			# Utility Variables and Macros
 include $(MK_PATH)/doc.mk			# Documentation Targets
 include $(MK_PATH)/class.mk			# CPP Class Creator
+include $(MK_PATH)/beast-class.mk	# CPP Beast Class Creator
 include $(MK_PATH)/scripts.mk		# Scripts Management
 include $(MK_PATH)/tree.mk			# File structure output
 

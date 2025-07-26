@@ -1,0 +1,30 @@
+{
+  "id": "BEAST_SPECTRAL_HARVESTER",
+  "entry": {
+    "name": "Spectral Harvester",
+    "type": "Memory-Execution Wraith / Nullshade Reaper",
+    "threat_level": "⚠️⚠️ Very High – Appears only on significant player failure",
+    "first_emerged": "After the First Prism Dissonance Event",
+    "description": "A towering figure shrouded in torn veil-light, the Spectral Harvester appears not to punish—but to erase. It emerges from moments of neglect: puzzles failed, memories ignored, truths left unspoken. Its blade is not for flesh, but for the past.",
+    "hue_interaction": "- Immune to hue magic unless it's cast with memory-infused relics (e.g., Bistre Lantern, Caput Mortuum Phylactery).\n- Weakened by Hue Reforge relics, which momentarily restore lost history or cancel its abilities.\n- Using a correct name from earlier lore allows the player to banish it early (one-use dialogue trigger).",
+    "behavior": "- Appears if the player fails a Memory Echo segment, Nullshade prism riddle, or refuses to resolve a major lore prompt.\n- Spawns directly into the area — warping the environment subtly: sky darkens, color flickers, geometry buckles slightly.\n- Mechanics:\n  • Memory Cleave: player loses part of map progress or recorded lore entries.\n  • Harvest Swing: deletes a portion of HUD, restored only after re-solving the trigger.\n  • Echo Banish: calls forth spectral NPCs whispering blame or confusion.",
+    "weaknesses": "- Avoidable by completing Echo segments correctly or resolving Nullshade riddles.\n- Vulnerable during “Frozen Memory” state — when it pauses to recall a version of you it cannot confirm.\n- Can be dispelled by presenting a “True Memory” — an artifact you kept unchanged since Act I.",
+    "notes": "Spectral Harvesters do not drop loot. They drop pages — torn from quests or codex entries you once held.\nIf allowed to land three full swings: the player forgets a key past choice (locked until a lore artifact is used to remember)."
+  },
+  "lore": {
+    "title": "Recovered Voice-Echo – Nullshade, Monolith Theta-9",
+    "quote": "“I missed the glyph. Just one. Didn’t say the right name. Didn’t speak the truth. Then… the hum started. Like glass grinding through silk.”",
+    "flavor_description": [
+      "One swing, and your history falls away."
+    ],
+    "field_notes": [
+      "“I missed the glyph. Just one.”",
+      "“Didn’t say the right name. Didn’t speak the truth.”",
+      "“Then… the hum started. Like glass grinding through silk.”",
+      "“I saw them — not me, but the ones I could’ve been. And it swung.”",
+      "“My journal is gone. My name in the Archive turned blank. That… thing didn’t kill me. It unremembered me.”"
+    ],
+    "source": "Recovered Voice-Echo – Nullshade, Monolith Theta-9"
+  },
+  "drops": []
+}

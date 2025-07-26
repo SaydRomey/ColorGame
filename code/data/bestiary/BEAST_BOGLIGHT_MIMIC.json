@@ -1,0 +1,33 @@
+{
+  "id": "BEAST_BOGLIGHT_MIMIC",
+  "entry": {
+    "name": "Boglight Mimic",
+    "type": "Spectral Aberration / Illusionary Predator",
+    "threat_level": "⚠️ Moderate – Deceptively Dangerous in groups",
+    "first_emerged": "Post-Shattering Era",
+    "description": "The Boglight Mimic appears as gentle, glowing orbs drifting peacefully above stagnant waters and mist-covered swamps. However, this facade swiftly unravels as prey draws near, revealing an ethereal predator composed of spectral fangs and shimmering ectoplasm.",
+    "hue_interaction": "Emits hypnotic illusions that distort vision and perception.\n\nResistant to physical attacks; highly susceptible to light-based spells or illusion disruption.\n\nProximity to multiple Mimics can severely disorient, inducing hallucinations.",
+    "behavior": "Typically solitary, but will coordinate in small clusters to trap prey.\n\nUses deceptive mimicry of familiar forms—lanterns, distant allies, or lost treasures.\n\nQuickly retreats into mist or swamp waters when seriously threatened.",
+    "weaknesses": "Vulnerable to Violet illusions (counter-illusions) and bright, purifying Yellow or White light magic.\n\nSonic spells and vibrations disrupt their spectral form temporarily.\n\nRevealed easily using artifacts like the Skobeloff Lens, dispelling their illusions.",
+    "notes": "Travelers report hearing soft whispers or the murmurs of familiar voices near their glow. Local legends say that each Mimic remembers and imitates the last voice of its victims—eternally echoing their final words."
+  },
+  "lore": {
+    "title": "The Deceptive Glow",
+    "quote": "Some will-o’-the-wisps aren't lost. They're hunting.",
+    "flavor_description": [
+      "Floats silently above swamp waters, emitting hypnotic blue-green light.",
+      "Transforms rapidly into a spectral predator upon close approach."
+    ],
+    "field_notes": [
+      "“They dance where no one should wander—ghostly fires hanging in the mist. Most believe them mere wisps, tragic souls lost in the bog. But the truth is far more sinister.”",
+      "",
+      "“Then it revealed its face—not a flame, but a spectral maw grinning with hunger. I escaped by chance alone, stumbling through fog that felt alive.”",
+      "",
+      "“If you follow the glow, be prepared: for what seems brightest in darkness might merely be the deepest lie.”",
+      "",
+      "— Viridian Alchemist, Journal of Lost Lights"
+    ],
+    "source": "Fragment from \"Lights in the Mist,\" a weathered scroll by Viridian Alchemist"
+  },
+  "drops": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "BEAST_SEARBLOOD_CULTIST",
+  "entry": {
+    "name": "Searblood Cultist",
+    "type": "Human (Mutated Zealot) / Ritual Flamebearer",
+    "threat_level": "⚠️ Medium–High – Volatile, suicidal casters",
+    "first_emerged": "After the Cindersplit Mass Rites, Year of Ash 12",
+    "description": "Searblood Cultists are flamebound zealots who bleed pyre-oil and chant to forgotten ember gods. Their bodies are branded with sigils, their veins simmering with volatile sacrament. In combat, they set themselves alight to hurl flamebursts or charge blindly into melee — dying in glorious combustion.",
+    "hue_interaction": "Their Crimson hue grows unstable over time, erupting if not vented.\n\nCan be briefly pacified with Crimson Weaver’s thread (if equipped), binding their rage into harmless movement.\n\nResist all Verdant and Earthen control; their faith consumes roots and stone alike.",
+    "behavior": "Always aggressive, aggro range increases when other cultists are nearby.\n\nCast self-immolation buffs that increase damage but rapidly drain health.\n\nOn death, explode in a radius of scorched faithfire — lingering hazard zone.",
+    "weaknesses": "Flame aura can be quenched by Cobalt-based mist or drowning effects.\n\nVulnerable during chant animations — interruptible with sound or silence-based attacks.\n\nIf separated from their shrine banners, they lose coordination and become unstable.",
+    "notes": "Some claim the cultists’ final screams aren’t pain but rapture — their deaths a chosen release. Others insist they’re not cultists at all, just puppets burned hollow by something deeper in the stone. Either way, step lightly. Faith burns hotter than lava."
+  },
+  "lore": {
+    "title": "The Vessel of Boiling Faith",
+    "quote": "“Their veins boil. Their gods demand it.”",
+    "flavor_description": [
+      "Frenzied humanoids wreathed in ritual flame.",
+      "Ignite their own blood mid-fight to empower attacks."
+    ],
+    "field_notes": [
+      "“We gave them fire and they gave us back belief.”",
+      "",
+      "“The Searbloods are not born. They are chosen — or broken. Fanatics of the Flame Choir...”",
+      "",
+      "“One ignites to strike. Two ignite to sanctify. A dozen? That’s a sermon, and you'd best run.”"
+    ],
+    "source": "Burned parchment recovered from the Ember Reliquary"
+  },
+  "drops": []
+}

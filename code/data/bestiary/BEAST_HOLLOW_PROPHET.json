@@ -1,0 +1,33 @@
+{
+  "id": "BEAST_HOLLOW_PROPHET",
+  "entry": {
+    "name": "Hollow Prophet",
+    "type": "Radiant Undead / Blinding Oracle",
+    "threat_level": "⚠️ High – Mental disorientation, forced silence",
+    "first_emerged": "Mid-Color War, during the Siege of Eburnea",
+    "description": "A radiant figure wrapped in tattered bone-cloth and sun-etched glyphs, the Hollow Prophet wanders the Gilded Expanse, offering revelations no one asks for — and silencing those who hesitate to listen.",
+    "hue_interaction": "Aurelian spells fuel their flash-rune intensity unless mirrored or redirected\n\nVulnerable to Cobalt silence spells and emotional resonance interference\n\nVerdant abilities can root them briefly by overloading sensory bloom",
+    "behavior": "Patrols ancient ruins and former shrines\n\nInitiates combat with a “Sermon Pulse” — a flash-rune that inverts movement controls and destabilizes the HUD\n\nCasts “Truthbrands” — radiant glyphs that bind targets who have lied in previous dialogue paths\n\nImmune to most light-based attacks; feeds on them to cast stronger judgment spells",
+    "weaknesses": "The Eburnean Dice can gamble a memory against their power, weakening them briefly\n\nIllusion magic scrambles their sermon logic\n\nWill not attack characters who carry unbroken vows or truth-touched relics",
+    "notes": "Some believe Hollow Prophets cannot lie. Others think they burned their own lies away — and now hunt yours.\n\n“They do not seek followers. Only confessions.”"
+  },
+  "lore": {
+    "title": "The Blinding Sermon",
+    "quote": "It speaks in blinding truths… and burns away lies.",
+    "flavor_description": [
+      "Tall skeletal figures robed in faded ivory, faces veiled in cracked gold masks. They bear sunstaffs crowned with burning lenses.",
+      "Each step leaves a branded rune in the sand. Their voice doesn’t echo — it scorches."
+    ],
+    "field_notes": [
+      "“They say the Hollow Prophets were once true seers — priests who stared too long at the midday sun and saw only truth afterward.”",
+      "",
+      "“Their sermons come in pulses. You don't hear them — you feel them. They light up every fear you've hidden in shadow and then ask: 'What will you burn to make it pure?'”",
+      "",
+      "“One knelt by the Eburnean Gate for days, unmoving, its voice cracking through heatwaves. I offered coin. It offered blindness.”",
+      "",
+      "“There’s no god left in them — only clarity too sharp to carry.”"
+    ],
+    "source": "Scorched prayer-scroll from the Aureolin Temple Ruins"
+  },
+  "drops": []
+}

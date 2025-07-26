@@ -1,0 +1,33 @@
+{
+  "id": "BEAST_CAPUT_MARIONETTE",
+  "entry": {
+    "name": "Caput Marionette",
+    "type": "Alchemical Undead / Ritual Construct",
+    "threat_level": "⚠️ Moderate – Area-dependent hazard",
+    "first_emerged": "During the Phylactery Rebellion, Year of the Dull Moon",
+    "description": "Caput Marionettes are abandoned constructs — partially animated corpses intended for soul transfer tests. Left unfinished, they wander memory halls and ruined labs, seeking the rituals they were meant to complete.",
+    "hue_interaction": "Resistant to Brown (Earthen) decay effects — they are already ruined.\n\nWeak to Violet illusions and Crimson direct damage.\n\nStabilized briefly by proximity to Caput Mortuum Phylactery relics.",
+    "behavior": "Remain inert until the player interacts with specific relics, memory statues, or spirit glyphs.\n\nOn activation, they move with jerky, unnatural rhythm.\n\nUpon death, release a decay cloud that drains equipped memory-bound artifacts unless dispelled.",
+    "weaknesses": "Can be defeated preemptively with a Soulward Sigil or truth-spoken name.\n\nVulnerable to illusions — confused by false commands.\n\nParalyzed momentarily by hearing the voice of their original summoner (can be simulated via audio glyphs).",
+    "notes": "If purified rather than killed, a Caput Marionette may kneel before the player and whisper a forgotten alchemical recipe. Some whisper in your voice."
+  },
+  "lore": {
+    "title": "The Alchemist's Shame",
+    "quote": "They were never truly alive — just waiting to be dismissed.",
+    "flavor_description": [
+      "Animated remnants of failed soulbinding — crude bodies stitched from ritual cloth and rust-streaked bone.",
+      "They obey long-dead commands. And they wait."
+    ],
+    "field_notes": [
+      "“Caput Mortuum. The name means death’s leftover. What the crucible couldn’t use.”",
+      "",
+      "“We made them to test transmutation rituals. Vessels for souls too broken to scream. They walked, moved, answered. But never lived.”",
+      "",
+      "“I buried mine beneath the Phylactery Vault, but it clawed free. It didn’t attack — it waited at my old desk.”",
+      "",
+      "“If they look at you, it’s not hate. It’s recognition. And that’s worse.”"
+    ],
+    "source": "Found in the marginalia of an alchemy ledger, author unknown"
+  },
+  "drops": []
+}

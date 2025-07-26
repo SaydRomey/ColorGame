@@ -1,0 +1,31 @@
+{
+  "id": "BEAST_OCHRE_GOLEM",
+  "entry": {
+    "name": "Ochre Golem",
+    "type": "Animated Stone Construct / Memory Guardian",
+    "threat_level": "⚠️ Moderate–Severe (Environmentally triggered)",
+    "first_emerged": "Age of Bloom and Rust – Deployed as tomb sentries",
+    "description": "The Ochre Golem is a memory-bound sentinel — carved by hand and imbued with ancestral resonance. Its core is a Burnt Sienna Golem Core, pulsing only when nearby relics are disturbed. Despite its sluggishness, its strikes crumble stone and stun with historical weight.",
+    "hue_interaction": "Absorbs Brown (Earthen) healing magic as stamina.\n\nImmobilized temporarily with Violet illusion patterns resembling its creator.\n\nCobalt echo-magic resonates with its memory core, forcing hesitation.",
+    "behavior": "Remains inert until player breaks, moves, or scans an object marked with memory glyphs.\n\nOnce triggered, will not stop pursuing the intruder unless pacified or reset.\n\nAvoids stepping on certain burial glyphs unless provoked to frenzy.",
+    "weaknesses": "Temporarily pacified if a correct Memory Token (tied to its origin) is placed at its feet.\n\nVulnerable from behind during its “memory surge” animation — a slow, glowing pause.\n\nCannot cross sanctified lines created with Bistre Lantern flame.",
+    "notes": "Some golems whisper unfinished phrases while they move — stuttering old oaths or forgotten names. If their chest etching is wiped clean, they weep stone dust… and cease."
+  },
+  "lore": {
+    "title": "Steles and Stillness",
+    "quote": "“It waits not for permission — but for purpose.”",
+    "flavor_description": [
+      "Constructed from ochre-streaked limestone and fossilized memory ore, the Ochre Golem slumbers among ruins, unmoving for decades — until a trespasser disturbs what it was left to guard.",
+      "It does not rush. But it does not stop."
+    ],
+    "field_notes": [
+      "“A statue is only still when it is being watched. Leave, and it breathes.”",
+      "",
+      "“We carved them to remember — not to defend. But the weight of memory is heavier than armor.”",
+      "",
+      "“One still stands in Mortuum’s orchard, beneath the ash-fruit tree. I etched my first sin in its chest. It has never forgiven me. That’s how I know it still works.”"
+    ],
+    "source": "From “Steles and Stillness,” by the Burnt Sienna Sculptor"
+  },
+  "drops": []
+}

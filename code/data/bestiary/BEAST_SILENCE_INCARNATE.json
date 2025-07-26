@@ -1,0 +1,29 @@
+{
+  "id": "BEAST_SILENCE_INCARNATE",
+  "entry": {
+    "name": "Silence Incarnate",
+    "type": "Voidbound Observer / Static Sentinel",
+    "threat_level": "⚠️ High — Psychological, Control-Based Encounter",
+    "first_emerged": "At the edge of the Core Wound, within stilled air",
+    "description": "A floating, faceless figure robed in layered black and voidlight.\nIts eyes — or what pass for them — never shift, never close.\nWhen you move, it does not. But when you stop… it remembers everything.",
+    "hue_interaction": "- Nullifies all active hue-based abilities when visible.\n- Can only be misdirected using illusion spells, light-bending terrain, or architectural interference.",
+    "behavior": "- Appears near key glyph gates or during silent puzzle segments.\n- Does not pursue, but rotates slowly to follow your last clear movement.\n- If it locks eyes for more than 3 seconds, disables your action inputs until you find cover or line-break.",
+    "weaknesses": "- Reflections (like Shatterglass Pools) confuse its targeting briefly.\n- Using Violet’s Glamour Pulse or Yellow’s Lightform Cloak can disrupt its line of sight.\n- Activating certain lore-bound artifacts (e.g., the Bistre Lantern or Isabelline Tapestry) may cause it to recede or glitch.",
+    "notes": "Presence fades after completing key puzzle objectives.\nIf ignored too long, the area around it distorts — time slows, UI shimmers, sound vanishes.\nSome players report feeling watched after defeating it."
+  },
+  "lore": {
+    "title": "Found etched behind a hidden prism in the Monolith Library of Nullshade",
+    "quote": "“I once bowed before it. It did nothing. I ran. Still nothing. But when I stood still… it saw me.”",
+    "flavor_description": [
+      "It watches. It judges. It never blinks."
+    ],
+    "field_notes": [
+      "“I once bowed before it. It did nothing. I ran. Still nothing. But when I stood still… it saw me.”",
+      "“No weapon can harm it. No hue impresses it. It doesn’t punish — it measures.”",
+      "“The old ones called it 'Judgment Uninvited'. A test you don’t know you’re failing.”",
+      "“Only by breaking its sight can you move freely. But know this — when it blinks, it remembers your shape.”"
+    ],
+    "source": "Found etched behind a hidden prism in the Monolith Library of Nullshade"
+  },
+  "drops": []
+}

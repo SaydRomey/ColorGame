@@ -1,0 +1,29 @@
+{
+  "id": "BEAST_SUNDIAL_SCARWALKER",
+  "entry": {
+    "name": "Sundial Scarwalker",
+    "type": "Construct / Solar Chronoknight",
+    "threat_level": "⚠️ High – Time-reactive combatant",
+    "first_emerged": "Built pre-Shattering as timekeepers and guardians of sacred solar rituals; corrupted by the Huefall",
+    "description": "A relentless desert sentinel carved of ancient sandstone and sunsteel, its face a functional sundial that casts a judgmental shadow. Time fuels its purpose — and you only live while it allows the sun to say so.",
+    "hue_interaction": "- Ignores illusionary magic completely — always acts on “true” player movement\n- Highly reactive to Aurelian light mechanics: speeds up when in bright light, slows in shadow\n- Temporally disrupted by Cobalt echo abilities or time-fracture artifacts",
+    "behavior": "- \"Hourstep\" mechanic: only moves when the player does — mimicking your last path with a 2-second delay\n- \"Noonstrike\" ability: at high sun, attacks deal double damage if player is mid-action\n- \"Shadowbind\" counter: when its own shadow aligns with the player’s, it stuns and delivers a critical slash\n- Emits rhythmic drumming as it nears; players who ignore its shadow’s movement are often ambushed",
+    "weaknesses": "- Pausing or stutter-stepping confuses its delayed tracking\n- Vulnerable when casting its own sundial glyphs (slow wind-up)\n- Blocking light or using sun-disruption tools disables its Noonstrike temporarily",
+    "notes": "Many travelers mistakenly believe Scarwalkers are blind — they’re not. Their “vision” is your rhythm, your weight, your urgency. Walk without purpose… and you live. For a little longer."
+  },
+  "lore": {
+    "title": "From “The Clocks That Bled,” Eburnean desert chronicle etched into goldleaf bark",
+    "quote": "“Before there were calendars, there were these things — time given feet and fury.”",
+    "flavor_description": [
+      "The shadow that counts every step"
+    ],
+    "field_notes": [
+      "“Before there were calendars, there were these things — time given feet and fury.”",
+      "“The Scarwalkers don’t speak. They don’t dream. They mark. Each movement carves a moment. Each kill, a tick lost.”",
+      "“You only notice its approach by your heartbeat syncing to the drag of its shadow.”",
+      "“The sun loves its children orderly. The Scarwalker ensures it.”"
+    ],
+    "source": "From “The Clocks That Bled,” Eburnean desert chronicle etched into goldleaf bark"
+  },
+  "drops": []
+}
