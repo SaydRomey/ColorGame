@@ -1,36 +1,122 @@
-# Prerequisites
+
+# **************************************************************************** #
+
+# ==============================
+# C++
+# ==============================
+
+# Executables
+color-game
+*.out
+*.exe
+
+# Prerequisite dependency files
 *.d
 
-# Compiled Object files
-*.slo
-*.lo
+# Object files
 *.o
 *.obj
 
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
+# Static libraries
 *.a
 *.lib
 
-# Executables
-*.exe
-*.out
-*.app
+# Dynamic/shared libraries
+*.so
+*.dll
+*.dylib
 
-###
+# Allow overrides: only keep intended .so
+## (adjust path as needed)
+!.so
+!/common/cpp/mynative/libmynative.so
 
-tmp*
+# Build artifacts and intermediate folders
+build/
+bin/
+lib/
+
+# # CMake-related (if ever used)
+# CMakeFiles/
+# CMakeCache.txt
+# cmake_install.cmake
+# Makefile
+
+# ==============================
+# SCons
+# ==============================
+
+# Build metadata
+.sconsign.dblite
+.cache/
+
+# ==============================
+# Godot
+# ==============================
+
+# Godot 4+ specific
+.godot/
+.nomedia
+
+# Godot-generated imports and exports
+.import/
+export.cfg
+export_credentials.cfg
+
+# Auto-generated UID metadata
+*.uid
+
+# Translations (compiled from CSVs)
+*.translation
+
+# Mono-specific (if using C#)
+.mono/
+data_*/
+mono_crash.*.json
+
+# ==============================
+# VS Code
+# ==============================
+
+# Editor Settings
+.vscode/
+
+# ==============================
+# Vim
+# ==============================
+
+# Swap files (open buffers)
+*.swp
+*.swo
+*.swx
+
+# Backup files (before saving)
+*~
+
+# Undo history (if persistent undo is enabled)
+.undodir/
+*.un~
+
+# Session files (if saved)
+Session.vim
+
+# Tag files (if generated with :!ctags)
+tags
+
+# ==============================
+# Misc
+# ==============================
+
+# Logs
+*.log
+
+# Temporary files and directories
+**/tmp*
+
+# Environment variables file
+.env
+.env.*
+
+# macOS and Windows cruft
+.DS_Store
+Thumbs.db

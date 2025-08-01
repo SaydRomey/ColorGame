@@ -4,6 +4,7 @@
 #include <fstream>
 #include <string>
 #include <vector>
+#include <cstdlib>	// for system()
 
 const char* enumLines[] = {
 	"BEAST_ABYSSAL_CURRENT",
@@ -93,7 +94,14 @@ const int	numLines = sizeof(enumLines) / sizeof(enumLines[0]);
 
 void	writeEntry(const std::string& id)
 {
-	std::ofstream	out("output/" + id + ".json");
+	const std::string	path = "output/" + id + ".json";
+
+	std::ofstream	out(path.c_str());
+	if (!out)
+	{
+		std::cerr << "Cannot open " << path << std::endl;
+		return ;
+	}
 
 	out << "{\n";
 	out << "  \"id\": \"" << id << "\",\n";
@@ -120,11 +128,22 @@ void	writeEntry(const std::string& id)
 }
 
 /*
+Helper to create "output/" if it doesn't exist
+*/
+static void	ensureOutputDir(void)
+{
+	system("mkdir -p output");
+	// or we could use ::mkdir() from <sys.stat.h> for a pure-C++/POSIX way
+}
+
+/*
 Helper to generate the JSON files skeleton
 */
 int	GenerateBestiaryJSON(void)
 {
-	system("mkdir -p output");
+	// system("mkdir -p output");
+	ensureOutputDir();
+	
 	int	i = 0;
 	while (i < numLines)
 	{

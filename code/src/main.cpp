@@ -3,6 +3,7 @@
 #include <iostream>
 
 // int	GenerateBestiaryJSON(void);
+void	runInteractiveTesterOld(void);
 void	runInteractiveTester(void);
 
 int	testBestiary(void)

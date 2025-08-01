@@ -24,14 +24,14 @@ class BeastRegistry
 		// BeastRegistry&	operator=(const BeastRegistry& other);
 		~BeastRegistry(void);
 
-		bool	loadMetadataDirectory(const std::string& dir);
+		bool					loadMetadataDirectory(const std::string& dir);
 		const BeastMetadata*	getMetadata(BestiaryID id) const;
-		Beast*	getBeast(BestiaryID id); // lazily loads & caches
-		void	unloadAll();
+		Beast*					getBeast(BestiaryID id); // lazily loads & cache
+		void					unloadAll();
 
 	private:
-		std::map<BestiaryID, BeastMetadata>	_metadata;
-		std::map<BestiaryID, Beast*>		_beastCache;
+		std::map<BestiaryID, BeastMetadata>	_meta;
+		std::map<BestiaryID, Beast*>		_cache;
 };
 
 

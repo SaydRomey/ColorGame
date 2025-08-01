@@ -29,8 +29,8 @@ INC_DIR		:= inc
 HEADERS		:= $(shell find $(INC_DIR) -name "*.hpp" -o -name "*.ipp")
 INCLUDES	:= $(addprefix -I, $(shell find $(INC_DIR) -type d))
 
-# * (Replace with the GDExtension cpp .so library...) *
-# # Libraries
+# Libraries
+# * (Eventuallly add the GDExtension cpp .so library...) *
 # LIB_DIR		:= lib
 # L_FLAGS		:=
 

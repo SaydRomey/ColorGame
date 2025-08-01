@@ -1,106 +1,25 @@
 // BeastFactory.cpp
 
 #include "BeastFactory.hpp"
-#include "BestiaryLookup.hpp"
+#include "BeastJsonLoader.hpp"
+// #include "BestiaryLookup.hpp"
+// #include "BeastsHeaders.hpp"
+#include "SimpleBeast.hpp"
 #include <fstream>
-#include "picojson.h"
+// #include "picojson.h"
 
-// All beast subclasses:
-#include "AbyssalCurrent.hpp"
-#include "AlchemicalEcho.hpp"
-#include "AmbercoilAsp.hpp"
-#include "AshweaverRecluse.hpp"
-#include "AshwroughtColossus.hpp"
-#include "BannerboundRevenant.hpp"
-#include "BloodrootEffigy.hpp"
-#include "BloomrotTitan.hpp"
-#include "BloomveilWidow.hpp"
-#include "BoglightMimic.hpp"
-#include "CaputMarionette.hpp"
-#include "ChartreuseHusk.hpp"
-#include "CinnabarScarab.hpp"
-#include "CitrineGolem.hpp"
-#include "CrimsonEcho.hpp"
-#include "Doppelshade.hpp"
-#include "FandancerFragment.hpp"
-#include "FangbloomWyrm.hpp"
-#include "FeatheredNull.hpp"
-#include "FoxMirage.hpp"
-#include "FractalShardling.hpp"
-#include "FuneralDancer.hpp"
-#include "GambogeDjinnling.hpp"
-#include "GlassborneEcho.hpp"
-#include "GlasslashSerpent.hpp"
-#include "GlitteringGrimoire.hpp"
-#include "GroveboundSentinel.hpp"
-#include "HeliotropicLurker.hpp"
-#include "HollowProphet.hpp"
-#include "HueLeeches.hpp"
-#include "Huefractals.hpp"
-#include "LavaFusedBehemoth.hpp"
-#include "LilybornMirage.hpp"
-#include "LimerootTrickster.hpp"
-#include "MemoryGrafter.hpp"
-#include "MemoryHusk.hpp"
-#include "MemoryLeech.hpp"
-#include "MirageRevenant.hpp"
-#include "MirrorwakeDuelist.hpp"
-#include "MirrorthirstWyrm.hpp"
-#include "MossgraveRevenant.hpp"
-#include "MothWitchVerdantSpiral.hpp"
-#include "NullRoot.hpp"
-#include "NullbornHusks.hpp"
-#include "NullshadeEcho.hpp"
-#include "NullshadeRevenant.hpp"
-#include "OchreGolem.hpp"
-#include "PhylacterySwarm.hpp"
-#include "PrismUnform.hpp"
-#include "RazzflareImp.hpp"
-#include "RedWidow.hpp"
-#include "RustwornJudge.hpp"
-#include "SapbornStalker.hpp"
-#include "SearbloodCultist.hpp"
-#include "ShatterglassChoir.hpp"
-#include "SilenceIncarnate.hpp"
-#include "SkycallWraith.hpp"
-#include "SootshadeCollector.hpp"
-#include "Sorrowwing.hpp"
-#include "SpectralHarvester.hpp"
-#include "Sporekin.hpp"
-#include "StormwritHound.hpp"
-#include "SunburntJackal.hpp"
-#include "SundialScarwalker.hpp"
-#include "SunflareMarionette.hpp"
-#include "TapestryWatcherNullshade.hpp"
-#include "TapestryWatcher.hpp"
-#include "TempestMarionette.hpp"
-#include "TheBound.hpp"
-#include "ColorlessShape.hpp"
-#include "SeventhHue.hpp"
-#include "UnhuedChoir.hpp"
-#include "ThornwritheBeast.hpp"
-#include "ThulianVowkeeper.hpp"
-#include "TidewornApostle.hpp"
-#include "TyrianEcho.hpp"
-#include "VeilshiftMatron.hpp"
-#include "VerdantMaw.hpp"
-#include "WhisperglassWyrm.hpp"
-#include "WickboneLantern.hpp"
-#include "Wickerborn.hpp"
-#include "WoundRemnant.hpp"
 
-/* maybe as a helper instead ?
+Beast*	BeastFactory::createFromFile(const std::string& filepath)
+{
+	BeastData	data;
 
-#define CASE_BEAST(b) case b: path += #b ".json"; break;
+	if (!BeastJsonLoader::loadFromFile(filepath, data))
+		return (NULL);
 
-switch (id) {
-    CASE_BEAST(BEAST_ABYSSAL_CURRENT)
-    CASE_BEAST(BEAST_ALCHEMICAL_ECHO)
-    ...
-    default: return NULL;
+	return (new SimpleBeast(data));
 }
-*/
 
+/*
 Beast* BeastFactory::createFromFile(const std::string& filepath)
 {
 	std::ifstream in(filepath.c_str());
@@ -401,6 +320,7 @@ Beast* BeastFactory::createFromFile(const std::string& filepath)
 
 	return (NULL);
 }
+*/
 
 /*
 Beast*	BeastFactory::createFromID(BestiaryID id)

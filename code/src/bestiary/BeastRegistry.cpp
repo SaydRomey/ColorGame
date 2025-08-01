@@ -4,7 +4,6 @@
 #include "BeastFactory.hpp"
 #include "BestiaryLookup.hpp"
 #include "picojson.h"
-
 #include <fstream>
 #include <dirent.h>
 
@@ -15,14 +14,13 @@ BeastRegistry::~BeastRegistry(void) { unloadAll(); }
 
 void	BeastRegistry::unloadAll(void)
 {
-	std::map<BestiaryID, Beast*>::iterator	it = _beastCache.begin();
-
-	while (it != _beastCache.end())
+	std::map<BestiaryID, Beast*>::iterator	it = _cache.begin();
+	while (it != _cache.end())
 	{
 		delete it->second;
 		++it;
 	}
-	_beastCache.clear();
+	_cache.clear();
 }
 
 bool	BeastRegistry::loadMetadataDirectory(const std::string& dir)
@@ -49,7 +47,6 @@ bool	BeastRegistry::loadMetadataDirectory(const std::string& dir)
 			continue;
 		
 		const picojson::object&	obj = root.get<picojson::object>();
-
 		if (!obj.count("id") || !obj.at("id").is<std::string>())
 			continue;
 		
@@ -67,13 +64,12 @@ bool	BeastRegistry::loadMetadataDirectory(const std::string& dir)
 
 		const picojson::object&	entryObj = obj.at("entry").get<picojson::object>();
 
-		BeastMetadata	meta;
-		meta.name = entryObj.at("name").get<std::string>();
-		meta.type = entryObj.at("type").get<std::string>();
-		meta.threat = entryObj.at("threat_level").get<std::string>();
-		meta.jsonPath = path;
-
-		_metadata[id] = meta;
+		BeastMetadata	md;
+		md.name		= entryObj.at("name").get<std::string>();
+		md.type		= entryObj.at("type").get<std::string>();
+		md.threat	= entryObj.at("threat_level").get<std::string>();
+		md.jsonPath	= path;
+		_meta[id]	= md;
 	}
 	closedir(dp);
 
@@ -82,25 +78,25 @@ bool	BeastRegistry::loadMetadataDirectory(const std::string& dir)
 
 const BeastMetadata*	BeastRegistry::getMetadata(BestiaryID id) const
 {
-	std::map<BestiaryID, BeastMetadata>::const_iterator	it = _metadata.find(id);
-	if (it != _metadata.end())
+	std::map<BestiaryID, BeastMetadata>::const_iterator	it = _meta.find(id);
+	if (it != _meta.end())
 		return (&it->second);
 	return (NULL);
 }
 
 Beast*	BeastRegistry::getBeast(BestiaryID id)
 {
-	std::map<BestiaryID, Beast*>::iterator	it = _beastCache.find(id);
-	if (it != _beastCache.end())
+	std::map<BestiaryID, Beast*>::iterator	it = _cache.find(id);
+	if (it != _cache.end())
 		return (it->second);
 
-	std::map<BestiaryID, BeastMetadata>::iterator	metaIt = _metadata.find(id);
-	if (metaIt == _metadata.end())
+	const BeastMetadata*	md = getMetadata(id);
+	if (!md)
 		return (NULL);
 
-	Beast*	b = BeastFactory::createFromFile(metaIt->second.jsonPath);
+	Beast*	b = BeastFactory::createFromFile(md->jsonPath);
 	if (b)
-		_beastCache[id] = b;
+		_cache[id] = b;
 	return (b);
 }
 
