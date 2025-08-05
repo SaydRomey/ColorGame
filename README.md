@@ -13,7 +13,7 @@ a narrative-rich, hue-fractured fantasy world where emotion, memory, and magic a
 
 - [🎮 Game Design](#-game-design)
   - [🕹 Game Mechanics & Core System](#-game-mechanics--core-system)
-  - [💎 Items – Catalogue](#-items--catalogue)
+  - [💎 Items – Catalogue](#items--catalogue)
 - [🌍 World Overview](#-world-overview)
 - [📜 Timeline & History](#-timeline--history)
 - [🧬 Main Character – The Prismwalker](#-main-character--the-prismwalker)
@@ -24,10 +24,10 @@ a narrative-rich, hue-fractured fantasy world where emotion, memory, and magic a
 - [🎭 NPC Characters](#-npc-characters)
 - [👹 Enemies – Bestiary Index](#-enemies--bestiary-index)
 - [🎨 Color Codex](#-color-codex)
-- [🗒️ Name Ideas](#-name-ideas)
+- [🗒️ Name Ideas](#name-ideas)
 - [🌑 Endgame](#-endgame)
-- [🗂️ File Structure & Visual Assets](#-file-structure--visual-assets)
-- [TODO List](#-todo-list)
+- [🗂️ File Structure & Visual Assets](#file-structure--visual-assets)
+- [TODO List](#todo-list)
 
 ---
 
