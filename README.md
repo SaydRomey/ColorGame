@@ -225,7 +225,7 @@ Includes:
 
 ---
 
-## 🗒️ Name Ideas
+## 🗒️ Name Ideas <a id="name-ideas"><\a>
 
 List of color-themed names for the World, Regions, Factions, Kingdoms, etc.
 
