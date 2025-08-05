@@ -27,7 +27,7 @@ a narrative-rich, hue-fractured fantasy world where emotion, memory, and magic a
   - [🗒️ Name Ideas](#-name-ideas)
 - [🌑 Endgame](#-endgame)
 - [🗂️ File Structure & Visual Assets](#-file-structure--visual-assets)
-- [⚠️ TODO](#-todo)
+- [TODO](#-todo)
 
 ---
 
@@ -39,7 +39,7 @@ Heavy-Lore color themed fantasy RPG Game project
 ### 🕹 Game Mechanics & Core System
 
 - [See Game Mechanics Reference ►](./docs/core-systems.md)
-- [See Hue-Binding System ►](./docs.gameplay/hue-binding.md)
+- [See Hue-Binding System ►](./docs/gameplay/hue-binding.md)
 - [See Hue-Affinity Tiers Logic ►](./docs/gameplay/hue-affinity.md)
 
 ### 💎 Items – Catalogue
@@ -246,7 +246,7 @@ TODO
 
 ---
 
-## ⚠️ TODO
+## TODO
 
 <details><summary>Click to reveal my todo list...</summary>
 
