@@ -225,7 +225,7 @@ Includes:
 
 ---
 
-## 🗒️ Name Ideas <a id="name-ideas"><\a>
+## 🗒️ Name Ideas <a id="name-ideas"></a>
 
 List of color-themed names for the World, Regions, Factions, Kingdoms, etc.
 
@@ -240,7 +240,7 @@ List of color-themed names for the World, Regions, Factions, Kingdoms, etc.
 
 ---
 
-## 🗂️ File Structure & Visual Assets
+## 🗂️ File Structure & Visual Assets <a id="file-structure--visual-assets"></a>
 
 ```
 TODO
@@ -248,7 +248,7 @@ TODO
 
 ---
 
-## TODO List
+## TODO List <a id="todo-list"></a>
 
 <details><summary>Click to reveal my todo list...</summary>
 
