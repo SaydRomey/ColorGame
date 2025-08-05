@@ -24,10 +24,10 @@ a narrative-rich, hue-fractured fantasy world where emotion, memory, and magic a
 - [🎭 NPC Characters](#-npc-characters)
 - [👹 Enemies – Bestiary Index](#-enemies--bestiary-index)
 - [🎨 Color Codex](#-color-codex)
-  - [🗒️ Name Ideas](#-name-ideas)
+- [🗒️ Name Ideas](#-name-ideas)
 - [🌑 Endgame](#-endgame)
 - [🗂️ File Structure & Visual Assets](#-file-structure--visual-assets)
-- [TODO](#-todo)
+- [TODO List](#-todo-list)
 
 ---
 
@@ -223,7 +223,9 @@ Includes:
 | ![#40826D](https://placehold.co/15x15/40826D/40826D.png) | **Viridian** | `#40826D` | Bluish green; used in pigments and enchantment ink |
 </details>
 
-### 🗒️ Name Ideas
+---
+
+## 🗒️ Name Ideas
 
 List of color-themed names for the World, Regions, Factions, Kingdoms, etc.
 
@@ -246,7 +248,7 @@ TODO
 
 ---
 
-## TODO
+## TODO List
 
 <details><summary>Click to reveal my todo list...</summary>
 
@@ -256,8 +258,8 @@ TODO
 > - ...
 
 ### 0. First
-- [] Consolidate lore across docs
-- [] Add clickable link back to bestiary for each enemy's doc page (fix image paths as well)
+- [ ] Consolidate lore across docs
+- [ ] Add clickable link back to bestiary for each enemy's doc page (fix image paths as well)
 
 ---
 
