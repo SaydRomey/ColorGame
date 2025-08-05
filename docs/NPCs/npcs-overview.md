@@ -1,4 +1,7 @@
-> (WIP)
+
+> [!WARNING] TODO: 
+> - Add the color codes for each NPC from [The Color List](../colors.md)
+> - Split this document per regions or per NPC.
 
 # 🎭 NPC Characters by Color Archetype
 
@@ -8,7 +11,7 @@ List of some "main" NPC characters with:
 - Key item
 - Dialogue
 
-> The dialogue lines can be used in dialogue, carvings, memory echoes, or journal fragments.\
+> The dialogue lines can be used in dialogue, carvings, memory echoes, or journal fragments.  
 > Each reflects the character’s personality, domain, or worldview.
 
 ---
@@ -186,7 +189,7 @@ List of some "main" NPC characters with:
 > [!NOTE]
 > (Maybe he could only speak in limericks ?)
 
-<details><summary>See <i>Limerick Druid's dialogue in limericks</i></summary>
+<details><summary>Click to see <i>Limerick Druid's dialogue in limericks</i></summary>
 
 #### 🌿 **Limerick Druid – Dialogue in Limericks**
 

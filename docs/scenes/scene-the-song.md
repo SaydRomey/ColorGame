@@ -1,6 +1,9 @@
 
+<div align="right">
 
-> (W.I.P)
+[◄ Go back to Scenes](./scene-examples.md)
+
+</div>
 
 # IN-GAME SCENE: “The Song That Grew Thorns”
 Blends the lush mysticism of the Verdant Frontier with subtle puzzle and narrative beats.

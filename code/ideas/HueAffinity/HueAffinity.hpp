@@ -6,10 +6,12 @@
 # include <ostream>
 # include <istream>
 
-class HueAffinity {
+class HueAffinity
+{
 	public:
 		// The six possible hues
-		enum Hue {
+		enum Hue
+		{
 			VERDANT = 0,
 			CRIMSON,
 			COBALT,
@@ -20,7 +22,8 @@ class HueAffinity {
 		};
 
 		// Affinity tiers
-		enum Tier {
+		enum Tier
+		{
 			NOVICE = 0,
 			ADEPT,
 			MASTER,
@@ -56,4 +59,3 @@ class HueAffinity {
 };
 
 #endif // HUE_AFFINITY_HPP
-

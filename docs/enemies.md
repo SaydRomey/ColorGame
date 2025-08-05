@@ -1,20 +1,14 @@
 
-# Enemies - Bestiary Index
+# 👹 Enemies – Bestiary Index
 
-<!--
-## Format and Style Summary
-
-### Structure per Entry:
-1. Name: Evocative and thematic, often involving color or light-based terms.
-2. Flavor Quote: A short, poetic line — mysterious, lore-rich, often ironic.
-3. Visual Design: Concise description of physical appearance.
-4. Behavior: Specific, interesting mechanic that ties into the world/lore.
-5. Weakness/Counterplay: Each has at least one specific counter or condition.
-
--->
+Structure per Entry:
+- Name: Evocative and thematic, often involving color or light-based terms.
+- Flavor Quote: A short, poetic line — mysterious, lore-rich, often ironic.
+- Visual Design: Concise description of physical appearance.
+- Behavior: Specific, interesting mechanic that ties into the world/lore.
+- Weakness/Counterplay: Each has at least one specific counter or condition.
 
 ---
-
 
 ## 🌿 Enemy Concepts for Huevale – The Verdant Frontier
 
@@ -27,7 +21,7 @@ The enemies of Huevale embody its contradictions
 — playful yet predatory, beautiful yet toxic, whimsical yet deeply rooted in decay and rebirth.  
 They are nature’s mischief and its mercy, wrapped in petals, thorns, and memory-laced spores.
 
-<details><summary>See Huevale's enemy list</summary>
+<details><summary>Click to see Huevale's enemy list</summary>
 
 ---
 
@@ -156,7 +150,7 @@ Vireya’s enemies are fanatics and fragments: forged in fire, dressed in fury.
 Some fight for lost causes, others don’t know the war is over.  
 Every blow here is a history lesson written in blood and smoke.
 
-<details><summary>See Vireya's enemy list</summary>
+<details><summary>Click to see Vireya's enemy list</summary>
 
 ---
 
@@ -283,7 +277,7 @@ The enemies here drift like dreams
 — beautiful, sorrowful, storm-touched things that strike with elegance and vanish like regret.  
 They attack not just your body, but your sense of time, sound, and self.
 
-<details><summary>See Iriseld's enemy list</summary>
+<details><summary>Click to see Iriseld's enemy list</summary>
 
 ---
 
@@ -407,13 +401,13 @@ A feytouched realm of glamour, illusion, and dream-born trickery.
 Here, reality is a suggestion, identity is a costume, 
 and the flowers ask questions you forget answering.  
 
-Nothing is as it seems — and even that truth is suspicious.
+Nothing is as it Click to seems — and even that truth is suspicious.
 
 Myrrala’s enemies laugh as they strike.  
 They dance, echo, mimic, and mislead.  
 To survive is to remember what’s real… if anything is.
 
-<details><summary>See Myrrala's enemy list</summary>
+<details><summary>Click to see Myrrala's enemy list</summary>
 
 ---
 
@@ -484,7 +478,7 @@ Can be grounded by music or rhythmic pulses.
 ---
 
 ### [Heliotropic Lurker](./enemies/heliotropic-lurker.md)
-> “It sees only light. But dreams in shadow.”
+> “It Click to sees only light. But dreams in shadow.”
 
 <img src="../assets/sprites/enemies/myrrala/heliotropic-lurker.png" alt="Heliotropic Lurker Sprite" width="200">
 
@@ -554,7 +548,7 @@ Theme	Enemies Emphasizing It
   - Several enemies demand specific tools or environmental awareness, e.g. Orange Peel Charm, Eburnean Dice, memory-scent detection
 -->
 
-<details><summary>See Luxeran's enemy list</summary>
+<details><summary>Click to see Luxeran's enemy list</summary>
 
 ---
 
@@ -683,7 +677,7 @@ The foes of Auralith are not evil
 Their attacks drain more than health: 
 they fray the truth of who you are, and who you once were.
 
-<details><summary>See Auralith's enemy list</summary>
+<details><summary>Click to see Auralith's enemy list</summary>
 
 ---
 
@@ -814,7 +808,7 @@ Enemies in Nullshade are reflections, contradictions, remnants.
 Some remember you before you entered. Others rewrite you when struck.  
 You do not defeat them — you must un-become what they recognize.
 
-<details><summary>See Nullshade's enemy list</summary>
+<details><summary>Click to see Nullshade's enemy list</summary>
 
 ---
 
@@ -901,7 +895,7 @@ Vulnerable to self-sacrifice: must let them strike a fragment of the Prismwalker
 <img src="../assets/sprites/enemies/nullshade/silence-incarnate.png" alt="Silence Incarnate Sprite" width="200">
 
 A cloaked, hovering enemy that never moves — only watches.  
-As long as it sees you, you cannot cast or dodge.  
+As long as it Click to sees you, you cannot cast or dodge.  
 Must break its line of sight using warped architecture or bending light.
 
 ---
@@ -967,7 +961,7 @@ Final form before the boss; its final words echo your first dialogue choice in t
 ## 🌐 Unbound / Cross-Regional Entities
 These appear across multiple zones, during special events, or under narrative triggers:
 
-<details><summary>See Undbound enemy list</summary>
+<details><summary>Click to see Undbound enemy list</summary>
 
 ---
 
@@ -1011,7 +1005,7 @@ Represents a replay of a warrior from the Color War, trapped in echo.
 <img src="../assets/sprites/enemies/unbound/bloomrot-titan.png" alt="Bloomrot Titan Sprite" width="200">
 
 Massive, overgrown Verdant horror — fungus and bark fused around a desiccated core.  
-Spawns poisonous pollen clouds and throws explosive seed pods.  
+Spawns poisonous pollen clouds and throws explosive Click to seed pods.  
 Weak spot: glowing hollow in its twisted chest.
 
 ---
@@ -1091,6 +1085,39 @@ A floating cluster of childlike Nullborns, singing in perfect harmony.
 Sound-based attacks that disrupt player input timing, HUD UI, and spellcasting.  
 Can be silenced with specific color sigils or broken with sonic feedback.
 
+</details>
+
+---
+
+## TLDR (W.I.P.)
+
+<details><summary>Click to see <b>Enemy & Encounter Categories</b></summary>
+
+## Enemy & Encounter Categories
+
+| Category                           | Mechanics & Examples                                                                                           |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **Memory-Drainers**                | • **Abyssal Current**: proximity drains memory charges; banishable with Zaffre Vial.                           |
+|                                    | • **Memory Leech**: latches to UI, disables buttons until Memory Echo cast.                                    |
+|                                    | • **Hue Leeches**: swarm on hue use, gray-out abilities; burst AoE clears them.                                |
+| **Illusory Predators**             | • **Bloomveil Widow & Boglight Mimic**: charm/mimic illusions → trap in loops; broken by Violet counters.      |
+|                                    | • **Doppelshade & Fox Mirage**: mirror your form/afterimages; stagger by off-rhythm strikes or mirror-terrain. |
+| **Elemental Constructs**           | • **Citrine Golem & Ochre Golem**: absorb certain hues (Yellow/Green), weak to Cobalt cold or vibration.       |
+|                                    | • **Ashwrought Colossus**: area-denial heatwaves; stun by overheat vent attacks.                               |
+|                                    | • **Alchemical Echo**: random status swaps; stabilize with Caput Mortuum phylactery.                           |
+| **Spectral Echoes & Revenants**    | • **Crimson Echo**: duels you in looped attacks; break pattern with rhythm pauses.                             |
+|                                    | • **Bannerbound Revenant**: momentum summoner; seize banner to end shades.                                     |
+|                                    | • **Nullshade Revenant**: phase shifts unless lit by designated hue lanterns.                                  |
+| **Arachnid / Trap-weavers**        | • **Ashweaver Recluse**: memory-web traps → “panic echo”; dispel webs with sound/flashes.                      |
+|                                    | • **Spider Variants** (Bloomveil Widow’s webs, etc.) integrate similar trap loops.                             |
+| **Boss-Scale Illusionists**        | • **Moth-Witch of the Verdant Spiral**: riddle choices reshape arena; wrong answer → shifting illusions.       |
+|                                    | • **Veilshift Matron**: rewrites battlefield geometry; counter with mirror, “true map” buff.                   |
+| **Time & Reflection Masters**      | • **Sundial Scarwalker**: mimics your movement with delay; stutter-step to confuse it.                         |
+|                                    | • **Mirrorwake Duelist**: fights via reflections; break all local mirrors to remove her mobility.              |
+|                                    | • **Whisperglass Wyrm**: burrows through reflective terrain; reveal with Mind Echo under glass.                |
+| **Meta-Encounters (NG+, endgame)** | • **The Colorless Shape**: copies your build; untag hue → gains window to strike.                              |
+|                                    | • **The Seventh Hue**: final paradox; requires truth prompt input to defeat.                                   |
+|                                    | • **Unhued Choir**: sound-based HUD drain; defeat in inverted hue order.                                       |
 </details>
 
 ---

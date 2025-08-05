@@ -1,10 +1,16 @@
 
+<div align="right">
+
+[◄ Go back to previous version of Nullshade](./nullshade.md)
+
+</div>
+
 # Fixing nullshade
 
-> Important current logical inconsistency: 
-> Nullshade is meant to be the origin of the player (birthplace of the Prismwalker), 
-> but also a locked late-game zone discovered only after extensive exploration.
-> Let’s now fix that narrative contradiction — or rather, reframe it into a mystery.
+> Important current logical inconsistency:  
+> Nullshade is meant to be the origin of the player (birthplace of the Prismwalker),  
+> but also a locked late-game zone discovered only after extensive exploration.  
+> Let’s now fix that narrative contradiction — or rather, try to reframe it into a mystery.
 
 ---
 
@@ -57,15 +63,15 @@ It’s a return to what you were before you were a “you.”
 
 Location: The last completed Glyph Fountain or Archive Fragment
 
-> The shard in your hand glows — not in color, but in absence.
-> “This path… it was once the only path.”
-> A shadow pulls your gaze toward a gray fracture on the map.  
-> It wasn’t there before.
+> The shard in your hand glows — not in color, but in absence.  
+> “This path… it was once the only path.”  
+> A shadow pulls your gaze toward a gray fracture on the map.    
+> It wasn’t there before.  
 > Nullshade awakens.
 
 ---
 
-With this fix, we now preserve:
+With this fix, we might now preserve:
 - Nullshade as a sealed, endgame region
 - The Prismwalker’s true origin
 - A compelling mystery-reveal arc

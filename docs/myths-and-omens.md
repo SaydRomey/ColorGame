@@ -1,6 +1,17 @@
 
 # Myths and Omens
 
+<!-- <details><summary><strong>Sorted by Hue</strong></summary>
+
+- 🟢 Nature & decay  
+- 🔴 Passion & war  
+- 🔵 Wisdom & sorrow  
+- 🟣 Magic & fate  
+- 🟡 Light & illusion  
+- 🤎 Death & memory  
+
+</details> -->
+
 ## 📖 The Myth of the Prismwalker
 
 > "When the Prism fell, the world splintered. When the last hue fades, one without color shall rise."
@@ -25,7 +36,7 @@ Depending on who you ask, the Prismwalker is:
 These lines can be used by NPCs, etched into ruins, sung by cults, or appear in visions.  
 They are written to feel ancient and ambiguous — usable in quests, dialogue, or region lore.
 
-🎭 [**See NPC character's dialogues**](./npcs.md)
+🎭 [**See NPC character's dialogues**](./NPCs/npcs-overview.md)
 
 
 ### 🟢 Greens — Growth, Decay, Nature
@@ -179,7 +190,7 @@ The final boss may be a **spectral entity**, corrupted **Prismara remnant**, or 
 ## Final Boss Scene
 
 More dialogue in the final boss script (SPOILER ALERT!!)  
-[**See what happens in the final moments (wip)](./docs/endgame.md)
+[**See what happens in the final moments (wip)](./scenes/endgame.md)
 
 ---
 

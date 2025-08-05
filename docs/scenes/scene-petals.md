@@ -1,4 +1,10 @@
 
+<div align="right">
+
+[◄ Go back to Scenes](./scene-examples.md)
+
+</div>
+
 # IN-GAME SCENE: “Petals in the Margin”
 
 Huevale scene — this time set in the mystical, overgrown Tinctara Archives, 

@@ -1,4 +1,7 @@
 
+# Default MAKEFLAGS (can be overridden by command line)
+MAKEFLAGS	+= --no-print-directory
+
 # Utility commands
 MKDIR		:= mkdir -p
 REMOVE		:= rm -rf

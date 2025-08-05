@@ -19,17 +19,13 @@ Lore Entry
 > "The forest shifts, never sleeps, and knows more than we give it credit for. I learned this firsthand during the amber moons, when sap runs thickest. We thought ourselves alone at camp—three wardens, seasoned and vigilant. But roots moved like serpents beneath our boots.
 
 
-
 > I first saw it when it took Elren. A shape rose from the ground as liquid amber, whisper-quiet. Elren had no time to scream; the sap hardened around his limbs, sealing his fate before our torches even flared.
-
 
 
 > Some say these stalkers are merely plants, animated by stray magic. But I know better. Their eyes glint with cunning, and they never strike twice from the same root. They listen. They wait. If you hear sap drip slow, you're already being hunted.
 
 
-
 > Fire keeps them at bay, but memory fades quicker than flames. And roots... roots never forget."
-
 
 
 > — Feldgrau Veteran, recorded during the Season of Amber Silence

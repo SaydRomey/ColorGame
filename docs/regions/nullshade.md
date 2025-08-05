@@ -2,7 +2,7 @@
 # ⚫ Nullshade – *The Colorless Core*
 
 > [!IMPORTANT] 
-> Checkout this [version of nullshade](./nullshade-patch.md) to try and patch my confusions...
+> Checkout this [version of nullshade ►](./nullshade-patch.md) to try and patch my confusions...
 
 <div align="center">
   <h3>Nullshade</h3>

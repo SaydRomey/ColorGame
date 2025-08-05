@@ -1,4 +1,10 @@
 
+<div align="right">
+
+[◄ Go back to Scenes](./scene-examples.md)
+
+</div>
+
 # IN-GAME SCENE: “Mirages of the Aureolin Sands”
 
 **Location**: *Outskirts of Eburnea, near the Citrine Orchard Ruins*

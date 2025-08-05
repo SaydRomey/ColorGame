@@ -1,5 +1,9 @@
-scene-vireya.md
 
+<div align="right">
+
+[◄ Go back to Scenes](./scene-examples.md)
+
+</div>
 
 # 🎮 IN-GAME SCENE: “Ashes That Whisper”
 

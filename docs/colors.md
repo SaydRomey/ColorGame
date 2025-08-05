@@ -1,69 +1,15 @@
 
-# Colors
+# 🎨 Color Codex
 
 > All this idea started when looking at [An article about rare color names](https://www.colorpsychology.org/blog/unique-color-names/)
-
-**Other similar articles**:  
-- https://www.mentalfloss.com/article/59328/19-colors-youve-probably-never-heard
-- 
-
-**Color Info Links**:
-  - https://parrot.color.pizza/
-  - https://www.color-hex.com/
-  - https://encycolorpedia.com/
-  - 
-
----
-
-## Ambigous Color Categories
-
-> [!WARNING]  
-> These are color names that might need to be in a different category...
-
-- Periwinkle -> [wiki](https://en.wikipedia.org/wiki/Periwinkle_(color))
-- 
-
----
-
-## More Colors to Check
-
-Green:
-  - 
-
-Red:
-  - [Vinaceous](https://en.wikipedia.org/wiki/Wine_red)
-  - 
-
-Blue:
-  - 
-
-Purple/Pink:
-  - [Drunk-Tank Pink](https://en.wikipedia.org/wiki/Baker%E2%80%93Miller_pink)
-  - [Lusty Gallant](https://en.wikipedia.org/wiki/Lusty_gallant)
-  - [Incarnadine](https://www.google.com/search?q=Incarnadine+wiki&oq=Incarnadine+wiki&aqs=chrome.0.69i59.1113j0j7&sourceid=chrome&ie=UTF-8)
-  - [Phlox](https://encycolorpedia.com/df00ff)
-  - Plum Dandy
-  - 
-
-Yellow/Orange:
-  - [Gingerline](https://parrot.color.pizza/color/ffdd0f#:~:text=Gingerline%20can%20be%20described%20as,the%20most%20readable%20on%20it.)
-  - [Melichrous](https://www.merriam-webster.com/dictionary/melichrous)
-  - 
-
-Brown/Neutral:
-  - Filemot
-  - [Wenge](https://en.wikipedia.org/wiki/Shades_of_brown#Wenge)
-  - 
-
-To Sort:
-  - Sarcoline - *flesh-colored*
-  - Snugglepuss - *purple hue with a tinge of blue* - (maybe a cat)
-  - 
-
 
 ---
 
 ## Color List
+
+A list of rare color names that started the NPCs brainstorm
+
+<details><summary>🌈 Click to see the color list</summary>
 
 ### **🟢 Greens**
 |  | Name | Hex Code | Description |
@@ -134,6 +80,70 @@ To Sort:
 | ![#3D2B1F](https://placehold.co/15x15/3D2B1F/3D2B1F.png) | Bistre | `#3D2B1F` | Dark yellowish-brown; wood soot pigment; warm undertone, depth |
 | ![#7B3F00](https://placehold.co/15x15/7B3F00/7B3F00.png) | Mikado | `#7B3F00` | Deep yellow-brown; named for Japanese emperor; textile/lacquer hues |
 | ![#C19A6B](https://placehold.co/15x15/C19A6B/C19A6B.png) | Caput Mortuum | `#C19A6B` | Dark reddish-brown; alchemical ‘dead head’; iron oxide pigment |
+
+</details>
+
+---
+
+## Links
+
+**Other similar articles**:  
+- https://www.mentalfloss.com/article/59328/19-colors-youve-probably-never-heard
+- 
+
+**Color Info Links**:
+  - https://parrot.color.pizza/
+  - https://www.color-hex.com/
+  - https://encycolorpedia.com/
+  - [Colors In-Depth](https://www.w3schools.com/colors/default.asp)
+  - ...
+
+---
+
+## Ambigous Color Categories
+
+> [!WARNING]  
+> These are color names that might need to be in a different category...
+
+- Periwinkle -> [wiki](https://en.wikipedia.org/wiki/Periwinkle_(color))
+- ...
+
+---
+
+## More Colors to Check
+
+Green:
+  - ...
+
+Red:
+  - [Vinaceous](https://en.wikipedia.org/wiki/Wine_red)
+  - ...
+
+Blue:
+  - ...
+
+Purple/Pink:
+  - [Drunk-Tank Pink](https://en.wikipedia.org/wiki/Baker%E2%80%93Miller_pink)
+  - [Lusty Gallant](https://en.wikipedia.org/wiki/Lusty_gallant)
+  - [Incarnadine](https://www.google.com/search?q=Incarnadine+wiki&oq=Incarnadine+wiki&aqs=chrome.0.69i59.1113j0j7&sourceid=chrome&ie=UTF-8)
+  - [Phlox](https://encycolorpedia.com/df00ff)
+  - Plum Dandy
+  - ...
+
+Yellow/Orange:
+  - [Gingerline](https://parrot.color.pizza/color/ffdd0f#:~:text=Gingerline%20can%20be%20described%20as,the%20most%20readable%20on%20it.)
+  - [Melichrous](https://www.merriam-webster.com/dictionary/melichrous)
+  - ...
+
+Brown/Neutral:
+  - Filemot
+  - [Wenge](https://en.wikipedia.org/wiki/Shades_of_brown#Wenge)
+  - ...
+
+To Sort:
+  - Sarcoline - *flesh-colored*
+  - Snugglepuss - *purple hue with a tinge of blue* - (maybe a cat)
+  - ...
 
 ---
 

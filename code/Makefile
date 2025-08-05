@@ -31,7 +31,7 @@ INCLUDES	:= $(addprefix -I, $(shell find $(INC_DIR) -type d))
 
 # Libraries
 # * (Eventuallly add the GDExtension cpp .so library...) *
-# LIB_DIR		:= lib
+LIB_DIR		:= lib
 # L_FLAGS		:=
 
 # # Libft
@@ -39,6 +39,9 @@ INCLUDES	:= $(addprefix -I, $(shell find $(INC_DIR) -type d))
 # LIBFT_INC	:= $(LIBFT_DIR)/$(INC_DIR)
 # LIBFT		:= $(LIBFT_DIR)/libft.a
 # HEADERS		:= $(HEADERS) -I$(LIBFT_INC)
+
+# picoJSON
+INCLUDES	+= $(addprefix -I, $(shell find $(LIB_DIR) -type d))
 
 # ==============================
 # Makefile Imports
@@ -83,7 +86,7 @@ repo: ## Open the GitHub repository
 # ==============================
 ##@ 🎯 Main Targets
 # ==============================
-.PHONY: all run
+.PHONY: all run fast
 
 all: $(NAME) ## Build the project/executable
 
@@ -101,6 +104,9 @@ $(OBJ_DIR)/%.o: $(SRC_DIR)/%.cpp $(HEADERS)
 run: all ## Compile and run the executable
 	@$(call INFO,$(NAME),Launching executable...)
 	./$(NAME)
+
+fast: ## Target for a fast build using parallel jobs
+	@$(MAKE) MAKEFLAGS="$(MAKEFLAGS) -j$(shell nproc)" all
 
 # # ==============================
 # ##@ 🧹 Cleanup
