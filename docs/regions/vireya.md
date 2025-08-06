@@ -1,6 +1,8 @@
 
 # 🔴 Vireya – *The Ember Expanse (Red)*
 
+> War-scorched highlands haunted by flame and history
+
 <div align="center">
   <h3>Vireya</h3>
   <img src="../../assets/regions/player-in-vireya.png" alt="Player in Vireya" width="300">

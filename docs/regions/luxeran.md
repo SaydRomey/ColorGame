@@ -1,6 +1,14 @@
 
 # 🟡 Luxeran – *The Gilded Expanse (Yellow/Orange)*
 
+> ...
+
+Luxeran’s identity is a scorching blend of:
+- Radiance, illusion, and truth-as-performance
+- Economy as gameplay, where light isn’t just power, but persuasion
+- Mirage-based traversal and artifact-gated exploration
+- A tone of pragmatic mysticism — prophecy, barter, and radiant danger
+
 <div align="center">
   <h3>Luxeran</h3>
   <img src="../../assets/regions/player-in-luxeran.png" alt="Player in Luxeran" width="300">
@@ -34,3 +42,9 @@ Mirages appear on the map; only true vision (via artifacts) shows real paths or 
 </div>
 
 ---
+
+<!--
+- Visual/ambient tone (sunstone, citrus, sand-slick glare)
+- Cultural voice (oracular, poetic, deal-struck)
+- Mechanics (truth-vs-mirage, heat distortion, artifact gating).
+-->

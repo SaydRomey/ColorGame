@@ -1,5 +1,14 @@
 
-# 🔵 Iriseld – *The Tidespire Reach (Blue)*
+# 🌊 Iriseld – *The Tidespire Reach (Blue)*
+
+> “Suspended between storm and sky, Iriseld is a place where grief rides the wind 
+> and truth flickers like lightning over distant waves.”
+
+A realm of floating islands, refracted storms, and illusion-bound skyglass.  
+The air carries memories, songs, and gravity distortions.  
+Rain falls upward. Music forms bridges.  
+Colors here shimmer with regret, clarity, and fragile beauty.
+
 
 <div align="center">
   <h3>Iriseld</h3>
@@ -31,12 +40,10 @@ Rain may fall upward; gravity often bends near floating glass structures
 - Sound/wind-based navigation
 - Emotional resonance unlocking sealed locations
 
-### 🎨 Dominant Hue: Cobalt (Blue)
-
-#### Aspected Emotions:
+### Aspected Emotions:
 - Wisdom, sorrow, memory, introspection, longing
 
-#### Core Associations:
+### Core Associations:
 - Sound and silence
 - Rain and reflection
 - Wind as messenger, storm as emotion
@@ -50,6 +57,23 @@ Rain may fall upward; gravity often bends near floating glass structures
 
 ---
 
+## 🎨 Hue Affinity:
+
+- Primary: 🟦 Cobalt (Blue) — intellect, memory, spirit, illusion
+
+- Secondary Themes: Violet (dreams, identity), Verdant (memory-rooted growth), Crimson (echoes of past conflicts)
+
+---
+
+## 🧠 Core Mechanics:
+
+- Traversal puzzles based on rhythm, wind, and floating geometry.
+- Memory Echoes shape the geography — revealing paths or distorting time.
+- Enemies disrupt perception, mobility, or sound (e.g., silencing gliders, warping echoes, disabling buffs).
+
+
+---
+
 ## 📍 Key Locations
 - Zaffran Port: City of flying sails and cobalt towers. Half-drowned in fog.
 - Whispering Bay: A cove where drowned names echo from beneath the surface.
@@ -58,23 +82,35 @@ Rain may fall upward; gravity often bends near floating glass structures
 
 ---
 
-## 🧙‍♂️ Key Figures (and Their Artifacts)
+## 🧍‍♂️ Important NPCs (So Far):
 
-### 🧪 Zaffre Glasswright
+### 🧪Zaffre Glasswright (Referenced in Memory Echo)
 Artisan of memory-sealing glass; creates living vials and whisperpanes.
+
+- A sorrowful figure who sealed a memory inside a vial to save someone.
+- May appear physically later or be an Echo-only character tied to deeper lore or a storm-locked relic.
 
 Item: Zaffre Vial — contains tears or memories; reveals what was buried.
 
-> “Glass keeps what words forget.”
+> “Let him forget me. If it will let him live.”
+
+> “Glass keeps what words forget.”  
 > “This vial doesn’t show you what’s hidden 
 > — it shows you what you buried.”
 
 ---
 
-### 💃 Cerulean Skydancer
+### 💃 Cerulean Skydancer – Spirit of the Storm Hymn
 Messenger of wind spirits; dances in midair to communicate with the storm.
 
+- Found in “The Skyglass Hymn” scene.
+- Ethereal, floating figure who teaches the player to “move with the wind” rather than fight it.
+- Delivers cryptic wisdom about letting go vs. clinging to control.
+- Possibly connected to Iriseld’s wind-memory mechanics or the Zaffre Glasswright.
+
 Item: Cerulean Cloak — grants lightning immunity and grace in freefall.
+
+> “Your feet cling to stone. That is why you fall.”
 
 > “Flight is a promise — not to fall, but to keep dancing.”
 

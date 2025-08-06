@@ -1,9 +1,11 @@
 
 # The wold
 
-The world (let’s just call it The Realm for now) will be divided into six main biomes/regions, \
-each aligned with a color family and designed to support its associated mood, gameplay mechanics, and faction culture.
+> [!IMPORTANT] 
+> [🌐 Check Revised World Layout](./regions/revised-world.md)
 
+The world (let’s just call it The Realm for now) will be divided into six main biomes/regions, 
+each aligned with a color family and designed to support its associated mood, gameplay mechanics, and faction culture.
 
 ---
 

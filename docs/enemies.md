@@ -1089,6 +1089,17 @@ Can be silenced with specific color sigils or broken with sonic feedback.
 
 ---
 
+## Enemies by Type (W.I.P.)
+
+### Color Echoes: <a id="color-echoes"></a>
+- [**Alchemical Echo**](./enemies/alchemical-echo.md)
+- [**Crimson Echo**](./enemies/crimson-echo.md)
+- [**Glassborne Echo**](./enemies/glassborne-echo.md)
+- [**Nullshade Echo**](./enemies/nullshade-echo.md)
+- [**Tyrian Echo**](./enemies/tyrian-echo.md)
+
+---
+
 ## TLDR (W.I.P.)
 
 <details><summary>Click to see <b>Enemy & Encounter Categories</b></summary>
