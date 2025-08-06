@@ -22,7 +22,7 @@ a narrative-rich, hue-fractured fantasy world where emotion, memory, and magic a
   - [📷 Example Scenes](#-example-scenes)
 - [🪄 Myths & Omens](#-myths--omens)
 - [🎭 NPC Characters](#-npc-characters)
-- [👹 Enemies – Bestiary Index](#-enemies--bestiary-index)
+- [👹 Enemies – Bestiary Index](#enemies--bestiary-index)
 - [🎨 Color Codex](#-color-codex)
 - [🗒️ Name Ideas](#name-ideas)
 - [🌑 Endgame](#-endgame)
@@ -189,7 +189,7 @@ Includes:
 
 ---
 
-## 👹 Enemies - Bestiary Index
+## 👹 Enemies - Bestiary Index <a id="enemies--bestiary-index"></a>
 
 Bestiary for some creatures from each region, with lore and details.
 
