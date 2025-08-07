@@ -161,6 +161,25 @@ script-index-rebuild:
 	done >> $(SCRIPT_INDEX)
 	@$(call SUCCESS,Scripts,Script index rebuilt: $(SCRIPT_INDEX))
 
+script-index-rebuild-test:
+	@$(call INFO,Scripts,Rebuilding script index grouped by category...)
+	@> $(SCRIPT_INDEX); \
+	find $(SCRIPT_DIR) -type f -name "*.sh" \
+		! -path "$(SCRIPT_UTILS)/*" \
+	| while read path; do \
+		# If the chosen realpath supports --relative-to, use it; otherwise strip the prefix
+		if $(REALPATH_CMD) --help 2>/dev/null | grep -q -- '--relative-to'; then \
+			rel_path="$$( $(REALPATH_CMD) --relative-to="$(SCRIPT_DIR)" "$$path" )"; \
+		else \
+			rel_path="$$( printf '%s\n' "$$path" | sed -e 's#^$(SCRIPT_DIR)/##' )"; \
+		fi; \
+		category="$$( dirname "$$rel_path" )"; \
+		[ "$$category" = "." ] && category="scripts"; \
+		label="$$( basename "$$path" )"; \
+		printf "[%s] %s: %s\n" "$$category" "$$label" "$$path"; \
+	done >> $(SCRIPT_INDEX)
+	@$(call SUCCESS,Scripts,Script index rebuilt: $(SCRIPT_INDEX))
+
 # ==============================
 # Script Targets
 # ==============================
