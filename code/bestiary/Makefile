@@ -1,10 +1,8 @@
 
-# **************************************************************************** #
-
 # ==============================
 # Project Info
 # ==============================
-NAME		:= color-game
+NAME		:= interactive-bestiary
 AUTHOR		:= cdumais
 TEAM		:= $(AUTHOR)
 REPO_LINK	:= https://github.com/SaydRomey/ColorGame
@@ -29,16 +27,8 @@ INC_DIR		:= inc
 HEADERS		:= $(shell find $(INC_DIR) -name "*.hpp" -o -name "*.ipp")
 INCLUDES	:= $(addprefix -I, $(shell find $(INC_DIR) -type d))
 
-# Libraries
-# * (Eventuallly add the GDExtension cpp .so library...) *
+# External Libraries
 LIB_DIR		:= lib
-# L_FLAGS		:=
-
-# # Libft
-# LIBFT_DIR	:= $(LIB_DIR)/libft
-# LIBFT_INC	:= $(LIBFT_DIR)/$(INC_DIR)
-# LIBFT		:= $(LIBFT_DIR)/libft.a
-# HEADERS		:= $(HEADERS) -I$(LIBFT_INC)
 
 # picoJSON
 INCLUDES	+= $(addprefix -I, $(shell find $(LIB_DIR) -type d))
@@ -46,14 +36,11 @@ INCLUDES	+= $(addprefix -I, $(shell find $(LIB_DIR) -type d))
 # ==============================
 # Makefile Imports
 # ==============================
-MK_PATH		:= utils/makefiles
+MK_PATH		:= ../../utils/makefiles
 
 include $(MK_PATH)/utils.mk			# Utility Variables and Macros
-include $(MK_PATH)/doc.mk			# Documentation Targets
 include $(MK_PATH)/class.mk			# CPP Class Creator
 include $(MK_PATH)/beast-class.mk	# CPP Beast Class Creator
-include $(MK_PATH)/scripts.mk		# Scripts Management
-include $(MK_PATH)/tree.mk			# File structure output
 
 # ==============================
 # Default
@@ -62,7 +49,7 @@ include $(MK_PATH)/tree.mk			# File structure output
 
 .DEFAULT:
 	$(info make: *** No rule to make target '$(MAKECMDGOALS)'.  Stop.)
-	@$(MAKE) help $(NPD)
+	@$(MAKE) help
 
 # ==============================
 ##@ 🛠  Utility
@@ -101,26 +88,28 @@ $(OBJ_DIR)/%.o: $(SRC_DIR)/%.cpp $(HEADERS)
 	@$(COMPILE) $(C_FLAGS) $(INCLUDES) -c $< -o $@
 	@$(call UPCUT)
 
+fast: ## Fast build using parallel jobs
+	@$(MAKE) MAKEFLAGS="$(MAKEFLAGS) -j$(shell nproc)" all
+
 run: all ## Compile and run the executable
 	@$(call INFO,$(NAME),Launching executable...)
 	./$(NAME)
 
-fast: ## Target for a fast build using parallel jobs
-	@$(MAKE) MAKEFLAGS="$(MAKEFLAGS) -j$(shell nproc)" all
+run-fast: fast ## Fast build and run the executable
+	./$(NAME)
 
-# # ==============================
-# ##@ 🧹 Cleanup
-# # ==============================
+# ==============================
+##@ 🧹 Cleanup
+# ==============================
 .PHONY: clean fclean ffclean re
 
 clean: ## Remove object files
 	@$(call CLEANUP,$(NAME),object files,$(OBJ_DIR))
 
-fclean: clean ## Remove object files and executable
+fclean: ## Remove object files and executable
+	@$(call CLEANUP,$(NAME),object files,$(OBJ_DIR))
 	@$(call CLEANUP,$(NAME),executable,$(NAME))
 
 ffclean: fclean ## Remove all generated files and folders
-	@$(MAKE) script-clean $(NPD)
-	@$(MAKE) tree-clean $(NPD)
 
 re: fclean all ## Rebuild everything

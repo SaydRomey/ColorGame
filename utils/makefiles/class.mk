@@ -48,15 +48,23 @@ define CLASS_HEADER
 #ifndef CLASSNAME_UPPER_HPP
 # define CLASSNAME_UPPER_HPP
 
+# include <iostream>
+
 class CLASSNAME
 {
 	public:
 		CLASSNAME(void);
+		CLASSNAME(std::string msg);
 		CLASSNAME(const CLASSNAME &other);
 		CLASSNAME&	operator=(const CLASSNAME &other);
 		~CLASSNAME(void);
+
+		std::string	getMsg(void) const;
+		void		printMsg(void) const;
+		void		changeMsg(std::string newMsg);
 	
 	private:
+		std::string	_msg;
 
 };
 
@@ -71,21 +79,36 @@ define CLASS_CPP
 
 #include "CLASSNAME.hpp"
 
-CLASSNAME::CLASSNAME(void) {}
+CLASSNAME::CLASSNAME(void) : _msg("Default Message") {}
+
+CLASSNAME::CLASSNAME(std::string msg) : _msg(msg) {}
 
 CLASSNAME::~CLASSNAME(void) {}
 
-CLASSNAME::CLASSNAME(const CLASSNAME &other)
+CLASSNAME::CLASSNAME(const CLASSNAME &other) : _msg(other._msg)
 {
 	*this = other;
 }
 
 CLASSNAME&	CLASSNAME::operator=(const CLASSNAME &other)
 {
-	// if (this != &other)
-	// {}
-	
+	if (this != &other)
+	{
+		_msg = other._msg;
+	}
 	return (*this);
+}
+
+std::string	CLASSNAME::getMsg(void) const { return (_msg); }
+
+void	CLASSNAME::printMsg(void) const
+{
+	std::cout << _msg << std::endl;
+}
+
+void	CLASSNAME::changeMsg(std::string newMsg="")
+{
+	_msg = newMsg;
 }
 
 endef

@@ -2,14 +2,21 @@
 # ==============================
 ##@ 📜 Scripts
 # ==============================
+SCRIPT_TEMPLATE	:= utils/templates/new-script.sh.template
+PROJECT_ROOT	:= .project-root
 
 # Scripts Paths  (relative to the main Makefile's location)
 SCRIPT_DIR		:= ./utils/scripts
 SCRIPT_MISC		:= $(SCRIPT_DIR)/misc-scripts
+SCRIPT_COLOR	:= $(SCRIPT_DIR)/color-scripts
 
 # Scripts
 SHOW_COLORS		:= $(SCRIPT_MISC)/show-colors.sh
-SCRIPT_PIXEL	:= $(SCRIPT_DIR)/color-pixel-png.sh
+TEST_SCRIPT		:= $(SCRIPT_DIR)/test-script.sh
+
+# Color-related Scripts
+COLOR_PIXEL_PNG	:= $(SCRIPT_COLOR)/color-pixel-png.sh
+COLOR_INFO		:= $(SCRIPT_COLOR)/color-info.sh
 
 # Scripts Logs and Artifacts
 SCRIPT_LOG_DIR	:= ./utils/scripts/tmp_scripts_logs
@@ -76,37 +83,63 @@ script: | $(SCRIPT_LOG_DIR) ## Interactive script selection menu
 		echo "📜 Choose a script to run:"; \
 		echo "Misc"; \
 		echo "0) Display Terminal Colors"; \
-		echo "Godot"; \
-		echo "1) Create a new Godot project"; \
-		echo "2) Delete a Godot project"; \
-		echo "3) Launch a Godot project or open it in editor"; \
-		echo "4) Create a new C++ Native module"; \
-		echo "Environment"; \
-		echo "10) Generate a .env file"; \
+		echo "42) Try a tester script"; \
+		echo "Color Utilities"; \
+		echo "1) Check specific color info"; \
 		read -p "Enter your choice: " choice; \
 		case "$$choice" in \
 			0) SCRIPT_TYPE="Show Colors"; SCRIPT_CHOICE="$(SHOW_COLORS)";; \
-			1) SCRIPT_TYPE="New Godot Project"; SCRIPT_CHOICE="$(GD_NEW_PROJECT)";; \
-			2) SCRIPT_TYPE="Delete Godot Project"; SCRIPT_CHOICE="$(GD_DEL_PROJECT)";; \
-			3) SCRIPT_TYPE="Open Godot Project"; SCRIPT_CHOICE="$(GD_OPEN_PROJECT)";; \
-			4) SCRIPT_TYPE="New native C++ Module"; SCRIPT_CHOICE="$(GD_CPP_NEW)";; \
-			10) SCRIPT_TYPE="Generate .env file"; SCRIPT_CHOICE="$(GENERATE_ENV)";; \
+			1) SCRIPT_TYPE="Color Info"; SCRIPT_CHOICE="$(COLOR_INFO)";; \
+			2) SCRIPT_TYPE="Generate 1x1 png"; SCRIPT_CHOICE="$(COLOR_PIXEL_PNG)";; \
+			42) SCRIPT_TYPE="Test script"; SCRIPT_CHOICE="$(TEST_SCRIPT)";; \
 			*) echo "[ERROR] Invalid choice."; exit 1;; \
 		esac; \
 		\
 		# Export LOG_ENABLED for use in nested call \
 		export LOG_ENABLED="$$LOG_ENABLED"; \
-		$(MAKE) $(NPD) run-script SCRIPT_TYPE="$$SCRIPT_TYPE" SCRIPT_CHOICE="$$SCRIPT_CHOICE" LOG_ENABLED="$$LOG_ENABLED" \
+		$(MAKE) run-script SCRIPT_TYPE="$$SCRIPT_TYPE" SCRIPT_CHOICE="$$SCRIPT_CHOICE" LOG_ENABLED="$$LOG_ENABLED" \
 	'
 
 script-clean: ## Clean up test artifacts and logs
-	@if [ -d $(SCRIPT_LOG_DIR)]; then \
+	@if [ -d $(SCRIPT_LOG_DIR) ]; then \
 		$(call CLEANUP,Scripts,script log files,$(SCRIPT_LOG_DIR),"Scripts logs removed.","No logs to remove."); \
 	fi
 #	@$(call CLEANUP,Scripts,script artifacts,$(SCRIPT_ARTIFACTS),"All scripts artifacts removed.","No artifacts to clean.")
 
 $(SCRIPT_LOG_DIR):
 	@$(MKDIR) $(SCRIPT_LOG_DIR)
+
+new-script: init-project-root ## Create a new script from the template
+	@if [ -z "$(name)" ]; then \
+		read -p "Enter script name (e.g. color-demo.sh): " name; \
+	fi; \
+	target_path="$(SCRIPT_DIR)/$$name"; \
+	if [ -e "$$target_path" ]; then \
+		$(call ERROR,Script already exists,Script already exists at: $$target_path); \
+		exit 1; \
+	fi; \
+	if [ ! -f "$(SCRIPT_TEMPLATE)" ]; then \
+		$(call ERROR,Template Missing,Template not found at: $(SCRIPT_TEMPLATE)); \
+		exit 1; \
+	fi; \
+	$(MKDIR) "$$(dirname "$$target_path")"; \
+	cp "$(SCRIPT_TEMPLATE)" "$$target_path"; \
+	if sed --version >/dev/null 2>&1; then \
+		sed -i "s/{{SCRIPT_NAME}}/$$name/g" "$$target_path"; \
+	else \
+		sed -i '' "s/{{SCRIPT_NAME}}/$$name/g" "$$target_path"; \
+	fi; \
+	chmod +x "$$target_path"; \
+	$(call SUCCESS,Scripts,New script created at: $$target_path)
+
+init-project-root: # Create the .project-root sentinel file
+	@if [ ! -f $(PROJECT_ROOT) ]; then \
+		touch $(PROJECT_ROOT); \
+		echo "✅ $(PROJECT_ROOT) created."; \
+	fi
+
+list-scripts: ## List available scripts
+	@find $(SCRIPT_DIR) -type f -name "*.sh" | sort
 
 script-make-exec: ## Make all scripts in SCRIPT_DIR executable
 	@$(call INFO,Scripts,Making all scripts in $(SCRIPT_DIR) executable...)
@@ -130,6 +163,6 @@ script-make-exec: ## Make all scripts in SCRIPT_DIR executable
 script-make-exec-silent: ## Run script-make-exec but suppress all output
 	@$(MAKE) script-make-exec $(STDOUT_NULL) $(STDERR_STDOUT)
 
-.PHONY: script script-clean \
-		script-make-exec \
+.PHONY: script script-clean script-new init-project-root \
+		list-scripts script-make-exec \
 		script-make-exec-silent

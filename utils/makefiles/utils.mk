@@ -119,7 +119,7 @@ WARNING	= echo "[$(BOLD)$(PURPLE)$(1)$(RESET)]\t$(YELLOW)$(2)$(RESET)"
 # 
 # Behavior:
 # Displays the error with a red icon and message for immediate visibility.
-ERROR	= echo "❌ Error: $(1)$(RED)$(2)$(RESET)"
+ERROR	= echo "❌ Error: $(1)$(RED)$(RESET): $(2)"
 
 # Macro: UPCUT
 # Moves the cursor up one line and clears it,

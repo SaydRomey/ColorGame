@@ -1,0 +1,24 @@
+#!/bin/bash
+
+# ===== Script: {{SCRIPT_NAME}} =====
+
+# Locate the project root via .project-root
+find_project_root() {
+	local dir="$PWD"
+	while [[ "$dir" != "/" ]]; do
+		if [[ -f "$dir/.project-root" ]]; then
+			echo "$dir"
+			return 0
+		fi
+		dir="$(dirname "$dir")"
+	done
+	echo "Error: .project-root not found." >&2
+	return 1
+}
+
+PROJECT_ROOT="$(find_project_root)" || exit 1
+
+# Source shared utilities
+source "$PROJECT_ROOT/utils/scripts/common-utilities/ansi_colors.sh"
+
+echo -e "${BGREEN}Script '{{SCRIPT_NAME}}' is working!${NC}"

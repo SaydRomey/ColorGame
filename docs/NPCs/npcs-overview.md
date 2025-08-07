@@ -315,6 +315,7 @@ List of some "main" NPC characters with:
 
 **Item:** *Amaranth Rose* – Crimson flower preserved in crystal; heals mortal wounds but shortens life span.
 
+<!-- pigweed -->
 ---
 
 <div align="center">
@@ -555,6 +556,9 @@ List of some "main" NPC characters with:
 **Item:** *Wisteria Veil* – Shimmering shawl; obscures the wearer’s presence in twilight and dreams.
 
 ---
+
+> [!WARNING] Periwinkle is a light purplish-blue color, 
+> so maybe incorporate blue-alligned elements to this character..
 
 <div align="center">
   <h3>Periwinkle Siren</h3>

@@ -85,65 +85,349 @@ A list of rare color names that started the NPCs brainstorm
 
 ---
 
+## Ambigous Color Categories
+
+> [!WARNING]  
+> These are color names that might need to be in a different category...  
+> Maybe have the characters more nuanced in their color allignment.
+
+- Periwinkle -> [wiki](https://en.wikipedia.org/wiki/Periwinkle_(color))
+
+
+- [Verdigris](https://en.wikipedia.org/wiki/Verdigris)
+  - *green or bluish patina formed on copper, brass, or bronze surfaces exposed to the atmosphere for long periods of time*
+
+---
+
+
+## More Colors to Check
+
+### Green:
+
+| Name           | Hex Code | RGB        |
+|----------------|----------|------------|
+| Shamrock Green | #009E60  | 0,158,96   |
+| bottle green   | #006A4E  | 0,106,78   |
+| olive          | #636B2F  | 99,107,47  |
+| pea green      | #8CBF26  | 140,191,38 |
+| emerald        | #50C878  | 80,200,120 |
+| jade           | #00A86B  | 0,168,107  |
+| moss           | #8A9A5B  | 138,154,91 |
+| Verdigris      | #43B3AE  | 67,179,174 |
+
+- [Shamrock Green](https://htmlcolorcodes.com/colors/shamrock-green/)
+
+### Red:
+
+| Name                  | Hex Code          | RGB                 |
+|-----------------------|-------------------|---------------------|
+| Oxblood/Sang de Boeuf | #4A0000           | 74,0,0              |
+| Vinaceous             | #B33B24           | 179,59,36           |
+| burgundy              | #660033           | 102,0,51            |
+| cerise                | #DE3163           | 222,49,99           |
+| cinnamon              | #D2691E           | 210,105,30          |
+| ruby                  | #E0115F           | 224,17,95           |
+| carmine               | #960018 / #FF0038 | 150,0,24 / 255,0,56 |
+| scarlet               | #FF2400           | 255,36,0            |
+| sanguine              | #BC3F4A           | 188,63,74           |
+| safflower             | #F93A52           | 249,58,82           |
+| rubicund              | #B04C4C           | 176,76,76           |
+| roseate               | #FF66CC           | 255,102,204         |
+| rufous                | #A81C07           | 168,28,7            |
+| crimson/cramoisy      | #B22222           | 178,34,34           |
+
+- [Oxblood/Sang de Boeuf](https://en.wikipedia.org/wiki/Oxblood)
+- [Vinaceous](https://en.wikipedia.org/wiki/Wine_red)
+- carmine
+  - *Carmine pigment or dye was made from the small red cochineal insect.*
+- sanguine
+  - *from the Latin sanguineus, meaning “bloody.” Sanguine can also be used figuratively to mean “cheerfully optimistic, hopeful, or confident.”*
+- rubicund
+  - * Describing someone as rubicund signals that they like to live life to the fullest—particularly eating and drinking well.*
+- rufous
+  - *Rufus comes from the Latin for “red-headed” and shares a common root with rufous.*
+- crimson/cramoisy
+  - *"From the Arabic qirmizī, the Arabic word for the red dye made from small insects known as kermes."*
+
+### Blue:
+
+| Name      | Hex Code | RGB        |
+|-----------|----------|----------- |
+| azure     | #007FFF  | 0,127,255  |
+| sapphire  | #0F52BA  | 15,82,186  |
+| indigo    | #4B0082  | 75,0,130   |
+| cerulean  | #007BA7  | 0,123,167  |
+| cyan      | #00FFFF  | 0,255,255  |
+| Turquoise | #40E0D0  | 64,224,208 |
+| Cobalt    | #0047AB  | 0,71,171   |
+
+- azure
+  - *from an alteration of the Persian lāzhuward, referring to lapis lazuli*
+- sapphire
+  - *from the from Greek sáppheiros, which may have origins in the Sanskrit śanipuriya, meaning “dear to (the planet) Saturn.”*
+- cerulean
+  - *from Latin caerule, which means “dark blue,” derived from caelum, or “sky.”*
+- cyan
+  - *from the Greek kýanos, or “dark blue,”*
+- Turquoise
+  - *from a French word meaning “Turkish (stone)”*
+
+### Purple/Pink:
+
+| Name            | Hex Code | RGB         |
+|-----------------|----------|-------------|
+| Drunk-Tank Pink | #FF91AF  | 255,145,175 |
+| Lusty Gallant   | #FFB3DE  | 255,179,222 |
+| Incarnadine     | #AA0022  | 170,0,34    |
+| Phlox           | #DF00FF  | 223,0,255   |
+| Plum Dandy      | #7E587E  | 126,88,126  |
+| Plum            | #8E4585  | 142,69,133  |
+| amethyst        | #9966CC  | 153,102,204 |
+| coral           | #FF7F50  | 255,127,80  |
+| violet          | #8F00FF  | 143,0,255   |
+| lilac           | #C8A2C8  | 200,162,200 |
+| violaceous      | #9F00C5  | 159,0,197   |
+| orchid          | #DA70D6  | 218,112,214 |
+| lavender        | #E6E6FA  | 230,230,250 |
+| grape           | #6F2DA8  | 111,45,168  |
+| Magenta         | #FF00FF  | 255,0,255   |
+| amaranthine     | #9F2B68  | 159,43,104  |
+| Pomegrenate     | #F34723  | 243,71,35   |
+| Heliotrope      | #DF73FF  | 223,115,255 |
+
+- [Drunk-Tank Pink](https://en.wikipedia.org/wiki/Baker%E2%80%93Miller_pink)
+- [Lusty Gallant](https://en.wikipedia.org/wiki/Lusty_gallant)
+- [Incarnadine](https://www.google.com/search?q=Incarnadine+wiki&oq=Incarnadine+wiki&aqs=chrome.0.69i59.1113j0j7&sourceid=chrome&ie=UTF-8)
+- [Phlox](https://encycolorpedia.com/df00ff)
+- Plum
+  - *fruit that grows on plum trees. It can be traced to the Greek proúmnē, or “plum tree”*
+- amethyst
+  - *has roots in the Greek améthystos, meaning “not intoxicating, not intoxicated.”(once believed amethyst could  prevent intoxication)*
+- lilac
+  - *from the Persian līlak, meaning “bluish.”*
+- violaceous
+  - *means “of a violet color; bluish-purple.”*
+- lavender
+  - *from the Medieval Latin lavendula, meaning “a plant livid in color.”*
+- amaranthine
+  - *“of purplish-red color,”* - *Amaranth comes from the Latin amarantus, an alteration of the Greek amáranton, meaning “unfading flower.”*
+- Pomegrenate
+  - *from the Medieval Latin pomum granatum, which literally means “a seedy apple.”*
+- Heliotrope
+  - *Helios is Greek for “sun,” while the Greek trópos means “a turn, change.” The plant heliotrope was named for the way its flowers and leaves turn towards the sun.*
+
+### Yellow/Orange:
+
+| Name        | Hex Code | RGB         |
+|-------------|----------|-------------|
+| Gingerline  | #FFDD00  | 255,221,0   |
+| Melichrous  | #E5C27B  | 229,194,123 |
+| canary      | #FFFF99  | 255,255,153 |
+| gold/golden | #FFD700  | 255,215,0   |
+| flaxen      | #EEDC82  | 238,220,130 |
+| Nankeen     | #F6E199  | 246,225,153 |
+| Xanthous    | #F1B42F  | 241,180,47  |
+| Saffron     | #F4C430  | 244,196,48  |
+| Goldenrod   | #DAA520  | 218,165,32  |
+| Marigold    | #EAA221  | 234,162,33  |
+| Honey       | #FFC30B  | 255,195,11  |
+| topaz       | #FFC87C  | 255,200,124 |
+
+- [Gingerline](https://parrot.color.pizza/color/ffdd0f#:~:text=Gingerline%20can%20be%20described%20as,the%20most%20readable%20on%20it.)
+- [Melichrous](https://www.merriam-webster.com/dictionary/melichrous)
+- [Nankeen](https://en.wikipedia.org/wiki/Nankeen)
+  - Pale Yellowish cloth
+- [Xanthous](https://colors.fandom.com/wiki/Xanthous)
+  - *derived from the Greek ​​xanthós (meaning yellow or golden).*
+- [Goldenrod](https://www.figma.com/colors/goldenrod/)
+- [Marigold](https://en.wikipedia.org/wiki/Marigold_(color))
+  - [tagete flower](https://en.wikipedia.org/wiki/Tagetes)
+
+### Brown/Neutral:
+
+
+| Name    | Hex Code | RGB         |
+|---------|----------|-------------|
+| Auburn  | #A52A2A  | 165,42,42   |
+| Filemot | #654321  | 101,67,33   |
+| Wenge   | #645452  | 100,84,82   |
+| bronze  | #CD7F32  | 205,127,50  |
+| copper  | #B87333  | 184,115,51  |
+| caramel | #AF6F09  | 175,111,9   |
+| dun     | #D2B48C  | 210,180,140 |
+| ecru    | #C2B280  | 194,178,128 |
+| fawn    | #E5AA70  | 229,170,112 |
+| greige  | #BEB6B0  | 190,182,176 |
+| hazel   | #8E7618  | 142,118,24  |
+| sepia   | #704214  | 112,66,20   |
+| taupe   | #483C32  | 72,60,50    |
+| Sable   | #6E403C  | 110,64,60   |
+| umber   | #635147  | 99,81,71    |
+| tawny   | #CD5700  | 205,87,0    |
+| Fallow  | #C19A6B  | 193,154,107 |
+| ocher   | #CC7722  | 204,119,34  |
+
+- [Wenge](https://en.wikipedia.org/wiki/Shades_of_brown#Wenge)
+- Tawn
+  - comes from Middle French tané, meaning “tanned.”
+- Fallow
+  - *yellow tending toward red, brown or gray*
+- Ocher
+  - *describes a range of colors of earthy pigments, from pale yellow to orangish or reddish yellow.*
+  - *It’s the yellow of certain spices, like turmeric, or the earthy, golden hue of sand*
+
+### Black:
+
+| Name     | Hex Code | RGB        |
+|----------|----------|------------|
+| jet      | #343434  | 52,52,52   |
+| pitch    | #2B2B2B  | 43,43,43   |
+| coal     | #2E2E2E  | 46,46,46   |
+| ebony    | #555D50  | 85,93,80   |
+| obsidian | #0B0B0B  | 11,11,11   |
+| onyx     | #353839  | 53,56,57   |
+| raven    | #1C1C1C  | 28,28,28   |
+| charcoal | #36454F  | 54,69,79   |
+| inky     | #121212  | 18,18,18   |
+
+### Greys / Colorless:
+
+
+<!-- | Name        | Hex Code                    | RGB                             |
+|-------------|-----------------------------|---------------------------------|
+| achromatic  | #A9A9A9                     | 169,169,169                     |
+| pale/pallid | #F0EAD6                     | 240,234,214                     |
+| wan         | #DCDCDC                     | 220,220,220                     |
+| ashen       | #B2BEB5                     | 178,190,181                     |
+| bloodless   | #F5F5F5                     | 245,245,245                     |
+| Pellucid    | #E6F2F8                     | 230,242,248                     |
+| lucent      | #E0FFFF                     | 224,255,255                     |
+| charcoal    | #36454F / #4A4A4A / #333333 | 54,69,79 / 74,74,74 / 51,51,51 |
+| smoky       | #738276                     | 115,130,118                     |
+| leaden      | #778899                     | 119,136,153                     | -->
+
+- Synonyms:
+  - achromatic
+  - pale/pallid
+  - wan
+  - ashen
+  - bloodless
+
+- Transparent:
+  - Pellucid
+  - lucent
+
+- charcoal - dark gray - #36454F - #4A4A4A RGB 74,74,74 - #333333 RGB 51,51,51 - #36454f RGB 54,69,79
+- smoky - light gray
+- leaden - dull and dark grey
+
+### White:
+
+| Name       | Hex Code | RGB         |
+|------------|----------|-------------|
+| Alabaster  | #FAFAFA  | 250,250,250 |
+| Chalk      | #FBFBF9  | 251,251,249 |
+| Bone       | #E3DAC9  | 227,218,201 |
+| eggshell   | #F0EAD6  | 240,234,214 |
+| ivory      | #FFFFF0  | 255,255,240 |
+| snowy      | #FFFAFA  | 255,250,250 |
+| snow-white | #FFFAFA  | 255,250,250 |
+| ash/ashen  | #B2BEB5  | 178,190,181 |
+
+
+
+### To Sort:
+
+| Name        | Hex Code                                        | RGB                                |
+|-------------|-------------------------------------------------|------------------------------------|
+| Sarcoline   | #FFDAB9                                         | 255,218,185                        |
+| Snugglepuss | #A36FBD                                         | 163,111,189                        |
+| amber       | #FFBF00                                         | 255,191,0                          |
+| indigo      | #4B0082                                         | 75,0,130                           |
+| russet      | #80461B                                         | 128,70,27                          |
+| cadmium     | #E30022                                         | 227,0,34                           |
+| titian      | #B36B00                                         | 179,107,0                          |
+| primrose    | #E28EA8 / #EDEA99 / #F6D155 / #D0E299 / #DEDE89 | 226,142,168 / 237,234,153 / 246,209,85 / 208,226,153 / 222,222,137 |
+
+- Sarcoline
+  - *flesh-colored*
+- Snugglepuss
+  - *purple hue with a tinge of blue* - (maybe a cat)
+- [amber](https://www.figma.com/colors/amber/)
+  - *“the yellowish-brown color of resin.”*
+- russet
+  - *russet-colored clothes were associated with the rough fabric worn by peasants.*
+- primrose
+  - *“pale yellow” named for the primrose flower family.*
+  - *The word comes from Medieval Latin prīma rosa, or “first rose"*
+    - #E28EA8: This is a pinkish shade, often described as "Primrose Pink".
+    - #EDEA99: This is a pale, slightly greenish yellow.
+    - #F6D155: This is a more vibrant, saturated yellow.
+    - #D0E299: This is a light green with yellow undertones.
+    - #DEDE89: This is a muted, yellow-leaning green.
+
+---
+---
+
 ## Links
 
 **Other similar articles**:  
 - https://www.mentalfloss.com/article/59328/19-colors-youve-probably-never-heard
-- 
 
 **Color Info Links**:
-  - https://parrot.color.pizza/
-  - https://www.color-hex.com/
-  - https://encycolorpedia.com/
-  - [Colors In-Depth](https://www.w3schools.com/colors/default.asp)
-  - ...
+- https://htmlcolorcodes.com/colors/
+- [Figma - color meaning and palettes](https://www.figma.com/colors/)
+- https://parrot.color.pizza/
+- https://www.color-hex.com/
+- https://encycolorpedia.com/
+- [Colors In-Depth](https://www.w3schools.com/colors/default.asp)
 
 ---
 
-## Ambigous Color Categories
+## Misc
 
-> [!WARNING]  
-> These are color names that might need to be in a different category...
-
-- Periwinkle -> [wiki](https://en.wikipedia.org/wiki/Periwinkle_(color))
-- ...
+ROYGBIV -> Roy G. Biv -> Colors of the rainbow
 
 ---
 
-## More Colors to Check
+### Cromophobia
 
-Green:
-  - ...
+- [Chromophobia](https://en.wikipedia.org/wiki/Chromophobia)
 
-Red:
-  - [Vinaceous](https://en.wikipedia.org/wiki/Wine_red)
-  - ...
+| Phobia Name    | Color Feared |
+| -------------- | -------------|
+| Chrysophobia	 | orange       |
+| Cyanophobia	   | blue         |
+| Erythrophobia	 | red, maroon  |
+| Glaucophobia	 | gray         |
+| Kastanophobia	 | brown        |
+| Leukophobia	   | white        |
+| Melanophobia	 | black        |
+| Porphyrophobia | purple       |
+| Prasinophobia	 | green        |
+| Rhodophobia	   | pink         |
+| Xanthophobia   | yellow       |
 
-Blue:
-  - ...
+---
 
-Purple/Pink:
-  - [Drunk-Tank Pink](https://en.wikipedia.org/wiki/Baker%E2%80%93Miller_pink)
-  - [Lusty Gallant](https://en.wikipedia.org/wiki/Lusty_gallant)
-  - [Incarnadine](https://www.google.com/search?q=Incarnadine+wiki&oq=Incarnadine+wiki&aqs=chrome.0.69i59.1113j0j7&sourceid=chrome&ie=UTF-8)
-  - [Phlox](https://encycolorpedia.com/df00ff)
-  - Plum Dandy
-  - ...
+### Color-Blind Info
 
-Yellow/Orange:
-  - [Gingerline](https://parrot.color.pizza/color/ffdd0f#:~:text=Gingerline%20can%20be%20described%20as,the%20most%20readable%20on%20it.)
-  - [Melichrous](https://www.merriam-webster.com/dictionary/melichrous)
-  - ...
+- https://en.wikipedia.org/wiki/File:CVD-friendly_sequential_colormaps.png
 
-Brown/Neutral:
-  - Filemot
-  - [Wenge](https://en.wikipedia.org/wiki/Shades_of_brown#Wenge)
-  - ...
+Maybe incorporate the Colorblind Triplets:
+- Protan
+  - [protanopia](https://en.wikipedia.org/wiki/Color_blindness#Protanopia)
+- Deutan
+  - [deuteranopia](https://en.wikipedia.org/wiki/Color_blindness#Deuteranopia)
+- Tritan
+ - []
 
-To Sort:
-  - Sarcoline - *flesh-colored*
-  - Snugglepuss - *purple hue with a tinge of blue* - (maybe a cat)
-  - ...
+- Tetartran
+  - Hypotethical "fourth type" of color blindness
+  - *"Given the molecular basis of human color vision, it is unlikely this type could exist."*
+
+- [Ishihara test](https://en.wikipedia.org/wiki/Ishihara_test)
+- 
 
 ---
 

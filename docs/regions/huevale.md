@@ -27,4 +27,6 @@ Vegetation regrows dynamically. Paths open/close as forests shift; vines and roo
 
 ## Tinctara
 
+> *From tincture, suggesting color + alchemy*
+
 ---

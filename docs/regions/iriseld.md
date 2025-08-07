@@ -18,6 +18,8 @@ Colors here shimmer with regret, clarity, and fragile beauty.
 
 ## Overview
 
+> *From Iris (goddess of color, messenger) + elden or shield*
+
 - **Name:** Iriseld  
 - **Biome:** Coastal cliffs, stormy oceans, floating sky islands, storm-swept plains, bioluminescent reefs  
 - **City:** *Zaffran Port* – Harbor-city built of cobalt glass and wind-powered sails  

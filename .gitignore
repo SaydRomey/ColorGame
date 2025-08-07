@@ -7,6 +7,7 @@
 
 # Executables
 color-game
+interactive-bestiary
 *.out
 *.exe
 
@@ -34,7 +35,12 @@ color-game
 # Build artifacts and intermediate folders
 build/
 bin/
-lib/
+lib/*
+!/lib/picojson
+
+# Build/dependency markers
+.project-root
+.deps-initialized
 
 # # CMake-related (if ever used)
 # CMakeFiles/

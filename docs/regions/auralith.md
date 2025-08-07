@@ -9,7 +9,9 @@
 
 ## Overview
 
-- **Name:** Auralith  
+> *Aura + lith (stone); the land of color-imbued stones*
+
+- **Name:** Auralith
 - **Biome:** Crumbling ruins, ash plains, fossilized alchemical labs, ruins, ash fields  
 - **City:** *Mortuum Hold* – Fortress-monastery built in rusted stone and bone  
 - **Inhabitants:** Alchemists, archivists, revenants, soulbinders  
