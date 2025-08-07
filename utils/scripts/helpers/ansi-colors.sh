@@ -4,10 +4,10 @@
 # 
 # Usage:
 # Can be used in other scripts on same directory level like this:
-#	source "$(dirname "$0")/ansi_colors.sh"
+#	source "$(dirname "$0")/ansi-colors.sh"
 # 
 # Or if the script is called from a different working dir), use:
-# 	source "$(cd "$(dirname "${BASH_SOURCE[0]}")" && cd <path-from-calling-script-to-/common-utilities> && pwd)/ansi_colors.sh"
+# 	source "$(cd "$(dirname "${BASH_SOURCE[0]}")" && cd <path-from-calling-script-to-/helpers> && pwd)/ansi-colors.sh"
 
 
 # Text Reset

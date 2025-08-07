@@ -19,6 +19,7 @@ find_project_root() {
 PROJECT_ROOT="$(find_project_root)" || exit 1
 
 # Source shared utilities
-source "$PROJECT_ROOT/utils/scripts/common-utilities/ansi_colors.sh"
+source "$PROJECT_ROOT/utils/scripts/helpers/common.sh"
 
+# Script logic starts here
 echo -e "${BGREEN}Script '{{SCRIPT_NAME}}' is working!${NC}"

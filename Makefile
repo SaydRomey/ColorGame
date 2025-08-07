@@ -1,8 +1,14 @@
 # **************************************************************************** #
 # TOCHECK:
 
-# To wipe generated files completely (without affecting tracked files):
-# git clean -Xdf  # -X: remove only ignored files
+
+# realpath safety and fallback or check?
+# REALPATH	:= 
+# 
+# templates sub-folders (templates/scripts, templates/classes, etc.)
+# 
+# script naming lint
+# 
 # **************************************************************************** #
 
 # ==============================
@@ -50,14 +56,17 @@ BESTIARY	:= $(BESTI_DIR)/interactive-bestiary
 # Makefile Imports
 # ==============================
 MK_PATH		:= utils/makefiles
+MK_FILES	:= \
+	utils.mk \
+	dependencies.mk \
+	doc.mk \
+	class.mk \
+	beast-class.mk \
+	scripts.mk \
+	tree.mk
+#	network.mk # Unused in current project
 
-include $(MK_PATH)/utils.mk			# Utility Variables and Macros
-include $(MK_PATH)/dependencies.mk	# Submodules and Dependencies
-include $(MK_PATH)/doc.mk			# Documentation Targets
-include $(MK_PATH)/class.mk			# CPP Class Creator
-include $(MK_PATH)/beast-class.mk	# CPP Beast Class Creator
-include $(MK_PATH)/scripts.mk		# Scripts Management
-include $(MK_PATH)/tree.mk			# File structure output
+include $(addprefix $(MK_PATH)/, $(MK_FILES))
 
 # ==============================
 # Default
@@ -113,12 +122,11 @@ fast: ## Fast build using parallel jobs
 	@$(MAKE) MAKEFLAGS="$(MAKEFLAGS) -j$(shell nproc)" all
 
 # ==============================
-##@ Code Testing
+##@ 🧩 Code Testing
 # ==============================
 .PHONY: bestiary
 
 bestiary: ## Build interactive bestiary
-#	@$(MAKE) run -C $(BESTI_DIR)
 	@$(MAKE) run-fast -C $(BESTI_DIR)
 
 # ==============================
@@ -133,8 +141,8 @@ fclean: clean ## Remove object files and executable
 	@$(call CLEANUP,$(NAME),executable,$(NAME))
 
 ffclean: fclean ## Remove all generated files and folders
+	@$(call SILENT_CLEANUP,$(NAME),Build Artifacts,$(DEPS_DIR))
 	@$(MAKE) deps-clean
-	@$(call CLEANUP,Build folder,artifacts,$(DEPS_DIR))
 	@$(MAKE) script-clean
 	@$(MAKE) tree-clean
 	@$(MAKE) ffclean -C $(BESTI_DIR)

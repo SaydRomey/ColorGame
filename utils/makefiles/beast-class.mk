@@ -2,23 +2,33 @@
 # ==============================
 ##@ 🐾 Beast stub generator
 # ==============================
+BESTIARY_HEADER ?= ./inc/BestiaryIDs.hpp
+BEAST_INC_DIR	:= $(INC_DIR)/enemies
+BEAST_SRC_DIR	:= $(SRC_DIR)/enemies
+
+# ==============================
+# Beast Class Targets
+# ==============================
+.PHONY: beasts all-beasts
 
 beast: ## Generate stub Beast class from template
-	@echo "Enter the Beast ID (e.g. AlchemicalEcho): "; \
+	@echo "Enter the Beast ID (e.g. BigBadWolf): "; \
 	read beastname; \
 	beast_upper=`echo $$beastname | tr a-z A-Z`; \
 	\
+	# Prompt for .hpp directory \
 	read -p "Use default header directory '$(INC_DIR)'? [y/Y] for yes, or enter custom: " header_dir; \
 	if [ "$$header_dir" = "y" ] || [ "$$header_dir" = "Y" ] || [ -z "$$header_dir" ]; then \
 		header_dir="$(INC_DIR)"; \
 	fi; \
 	\
+	# Prompt for .cpp directory \
 	read -p "Use default source directory '$(SRC_DIR)'? [y/Y] for yes, or enter custom: " source_dir; \
 	if [ "$$source_dir" = "y" ] || [ "$$source_dir" = "Y" ] || [ -z "$$source_dir" ]; then \
 		source_dir="$(SRC_DIR)"; \
 	fi; \
-	mkdir -p "$$header_dir"; \
-	mkdir -p "$$source_dir"; \
+	$(MKDIR) "$$header_dir"; \
+	$(MKDIR) "$$source_dir"; \
 	\
 	# Check for file existence \
 	if [ -f "$$header_dir/$$beastname.hpp" ] || [ -f "$$source_dir/$$beastname.cpp" ]; then \
@@ -29,48 +39,60 @@ beast: ## Generate stub Beast class from template
 		fi; \
 	fi; \
 	\
+	# Generate header and source files from templates \
 	cp utils/templates/Beast.hpp.template "$$header_dir/$$beastname.hpp"; \
 	cp utils/templates/Beast.cpp.template "$$source_dir/$$beastname.cpp"; \
 	\
-	sed -i "s/CLASSNAME/$$beastname/g" \
+	$(SED_INPLACE) "s/CLASSNAME/$$beastname/g" \
 		"$$header_dir/$$beastname.hpp" \
 		"$$source_dir/$$beastname.cpp"; \
-	sed -i "s/CLASSNAME_UPPER/$$beast_upper/g" \
+	$(SED_INPLACE) "s/CLASSNAME_UPPER/$$beast_upper/g" \
 		"$$header_dir/$$beastname.hpp"; \
-	sed -i "s/BEAST_CLASSNAME_UPPER/BEAST_$$beast_upper/g" \
+	$(SED_INPLACE) "s/BEAST_CLASSNAME_UPPER/BEAST_$$beast_upper/g" \
 		"$$source_dir/$$beastname.cpp"; \
 	\
-	echo "$(GREEN)Beast stub '$$beastname' created!$(RESET)"
-
-# ==============================
-##@ 🧙 Generate ALL Beast stubs
-# ==============================
-BESTIARY_HEADER ?= ./inc/BestiaryIDs.hpp
-BEAST_INC_DIR	:= $(INC_DIR)/enemies
-BEAST_SRC_DIR	:= $(SRC_DIR)/enemies
+	$(call SUCCESS,Beast Class,Beast stub '$$beastname' created!)
 
 all-beasts: ## Auto-generate stub classes for all BestiaryIDs
-	@echo "Generating stubs from: $(BESTIARY_HEADER)"
-	@grep '^	BEAST_' $(BESTIARY_HEADER) | sed 's/[ ,]*$$//' | \
+	@read -p "Use default BestiaryIDs header '$(BESTIARY_HEADER)'? [y/Y] for yes, or enter custom: " bestiary_header; \
+	if [ "$$bestiary_header" = "y" ] || [ "$$bestiary_header" = "Y" ] || [ -z "$$bestiary_header" ]; then \
+		bestiary_header="$(BESTIARY_HEADER)"; \
+	fi; \
+	if [ ! -f "$$bestiary_header" ]; then \
+		$(call ERROR,Beast Class,BestiaryIDs header not found at: $$bestiary_header); \
+		exit 1; \
+	fi; \
+	\
+	# Prompt for .hpp directory \
+	read -p "Use default header directory '$(INC_DIR)'? [y/Y] for yes, or enter custom: " header_dir; \
+	if [ "$$header_dir" = "y" ] || [ "$$header_dir" = "Y" ] || [ -z "$$header_dir" ]; then \
+		header_dir="$(INC_DIR)"; \
+	fi; \
+	\
+	# Prompt for .cpp directory \
+	read -p "Use default source directory '$(SRC_DIR)'? [y/Y] for yes, or enter custom: " source_dir; \
+	if [ "$$source_dir" = "y" ] || [ "$$source_dir" = "Y" ] || [ -z "$$source_dir" ]; then \
+		source_dir="$(SRC_DIR)"; \
+	fi; \
+	$(MKDIR) "$$header_dir" "$$source_dir"; \
+	$(call INFO,Beast Class,Generating stubs from: $$bestiary_header)
+	@grep '^	BEAST_' $$bestiary_header | sed 's/[ ,]*$$//' | \
 	while read line; do \
 		id_raw=$$(echo $$line | cut -d' ' -f1); \
 		id=$$(echo $$id_raw | sed 's/BEAST_//'); \
 		classname=$$(echo "$$id" | awk -F'_' '{for (i=1;i<=NF;i++) $$i=toupper(substr($$i,1,1)) tolower(substr($$i,2)); print}' | tr -d ' '); \
 		classname_upper=$$(echo $$classname | tr a-z A-Z); \
-		mkdir -p $(BEAST_INC_DIR) $(BEAST_SRC_DIR); \
-		hpp_file="$(BEAST_INC_DIR)/$$classname.hpp"; \
-		cpp_file="$(BEAST_SRC_DIR)/$$classname.cpp"; \
+		hpp_file="$$header_dir/$$classname.hpp"; \
+		cpp_file="$$source_dir/$$classname.cpp"; \
 		if [ -f "$$hpp_file" ] || [ -f "$$cpp_file" ]; then \
 			echo "Skipping existing: $$classname"; \
 			continue; \
 		fi; \
 		cp utils/templates/Beast.hpp.template "$$hpp_file"; \
 		cp utils/templates/Beast.cpp.template "$$cpp_file"; \
-		sed -i "s/BEAST_CLASSNAME_UPPER/$$id_raw/g" "$$cpp_file"; \
-		sed -i "s/CLASSNAME_UPPER/$$classname_upper/g" "$$hpp_file"; \
-		sed -i "s/CLASSNAME/$$classname/g" "$$hpp_file" "$$cpp_file"; \
+		$(SED_INPLACE) "s/BEAST_CLASSNAME_UPPER/$$id_raw/g" "$$cpp_file"; \
+		$(SED_INPLACE) "s/CLASSNAME_UPPER/$$classname_upper/g" "$$hpp_file"; \
+		$(SED_INPLACE) "s/CLASSNAME/$$classname/g" "$$hpp_file" "$$cpp_file"; \
 		echo "Generated: $$classname"; \
 	done
-	@echo "$(GREEN)All beast stubs generated.$(RESET)"
-
-.PHONY: beasts all-beasts
+	@$(call SUCCESS,Beast Class,All beast stubs generated.)

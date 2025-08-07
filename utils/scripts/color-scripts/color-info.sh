@@ -1,15 +1,35 @@
 #!/bin/bash
 
+# ===== Script: color-info.sh =====
+
+# Locate the project root via .project-root
+find_project_root() {
+	local dir="$PWD"
+	while [[ "$dir" != "/" ]]; do
+		if [[ -f "$dir/.project-root" ]]; then
+			echo "$dir"
+			return 0
+		fi
+		dir="$(dirname "$dir")"
+	done
+	echo "Error: .project-root not found." >&2
+	return 1
+}
+
+PROJECT_ROOT="$(find_project_root)" || exit 1
+
+# Source shared utilities
+source "$PROJECT_ROOT/utils/scripts/helpers/common.sh"
+
+# ==============================
 COLOR_INFO_URL=https://figma.com/colors
-source "$(cd "$(dirname "${BASH_SOURCE[0]}")" && cd .. && pwd)/common-utilities/ansi_colors.sh"
-source "$(cd "$(dirname "${BASH_SOURCE[0]}")" && cd .. && pwd)/common-utilities/open-url.sh"
 
 # Define a list of color names (Figma-compatible only, sorted alphabetically)
 colors=(
 	# "Alabaster"
 	"Alizarin"
 	"Amaranth"
-	"Amaranthine"
+	# "Amaranthine"
 	"Amber"
 	"Amethyst"
 	"Ash"

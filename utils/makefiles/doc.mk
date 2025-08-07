@@ -1,8 +1,10 @@
 
-
 # ==============================
 ##@ 📚 Documentation
 # ==============================
+
+# Path for Generated Make Targets Document
+TARGET_README	:= README_make_targets.md
 
 # Documentation
 URL_GODOT		:= https://docs.godotengine.org/en/stable/index.html
@@ -17,8 +19,10 @@ URL_STATE_MA	:= https://www.gdquest.com/tutorial/godot/design-patterns/finite-st
 URL_GODOT_CPP	:= https://github.com/godotengine/godot-cpp
 URL_PICOJSON	:= https://github.com/kazuho/picojson
 
+.PHONY: doc help-md
+
 doc: ## Show documentation links
-	@clear
+#	@clear
 	@echo "Select documentation subject:"
 	@echo "\n$(ORANGE)Documentation$(RESET)"
 	@echo "  0. Godot Engine"
@@ -40,10 +44,26 @@ doc: ## Show documentation links
 		12) CHOICE=$(URL_STATE_MA);; \
 		100) CHOICE=$(URL_GODOT_CPP);; \
 		101) CHOICE=$(URL_PICOJSON);; \
-		*) $(call ERROR,Invalid choice:,$$CHOICE, Exiting.); exit 1;; \
+		*) $(call ERROR,Invalid choice,$$url_choice); exit 1;; \
 	esac; \
 	$(OPEN) $$CHOICE
-	@clear
+#	@clear
 	@$(call INFO,,Opening documentation...)
 
-.PHONY: doc
+help-md: ## Generate markdown documentation for all Make targets
+	@echo "\n# 📘 Makefile Targets" > $(TARGET_README); \
+	awk ' \
+		BEGIN { print "" } \
+		/^##@/ { \
+			gsub(/^##@ /, "", $$0); \
+			print "\n## " $$0 \
+		} \
+		/^[a-zA-Z0-9\-_]+:.*##/ { \
+			split($$0, parts, ":.*##"); \
+			target=parts[1]; \
+			desc=substr($$0, index($$0,"##")+2); \
+			printf "- `%s`: %s\n", target, desc \
+		} \
+	' $(MAKEFILE_LIST) >> $(TARGET_README); \
+	echo "\n📄 Generated at $$(date)" >> $(TARGET_README); \
+	$(call SUCCESS,Docs,Markdown Makefile target index generated)

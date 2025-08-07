@@ -42,6 +42,9 @@ lib/*
 .project-root
 .deps-initialized
 
+# Script Index
+script-index.txt
+
 # # CMake-related (if ever used)
 # CMakeFiles/
 # CMakeCache.txt

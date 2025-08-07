@@ -2,30 +2,53 @@
 # ==============================
 ##@ 📜 Scripts
 # ==============================
-SCRIPT_TEMPLATE	:= utils/templates/new-script.sh.template
 PROJECT_ROOT	:= .project-root
 
 # Scripts Paths  (relative to the main Makefile's location)
 SCRIPT_DIR		:= ./utils/scripts
-SCRIPT_MISC		:= $(SCRIPT_DIR)/misc-scripts
-SCRIPT_COLOR	:= $(SCRIPT_DIR)/color-scripts
+SCRIPT_INDEX	:= $(SCRIPT_DIR)/script-index.txt
+SCRIPT_UTILS	:= $(SCRIPT_DIR)/helpers
 
-# Scripts
-SHOW_COLORS		:= $(SCRIPT_MISC)/show-colors.sh
-TEST_SCRIPT		:= $(SCRIPT_DIR)/test-script.sh
-
-# Color-related Scripts
-COLOR_PIXEL_PNG	:= $(SCRIPT_COLOR)/color-pixel-png.sh
-COLOR_INFO		:= $(SCRIPT_COLOR)/color-info.sh
+# Script Templates
+TEMPLATE_DIR	?= utils/templates
+SCRIPT_TEMPLATE	:= $(TEMPLATE_DIR)/new-script.sh.template
 
 # Scripts Logs and Artifacts
-SCRIPT_LOG_DIR	:= ./utils/scripts/tmp_scripts_logs
-SCRIPT_LOG_FILE	:= $(SCRIPT_LOG_DIR)/SCRIPT_$(TIMESTAMP).log
-# SCRIPT_ARTIFACTS	:= 
+SCRIPT_LOG_DIR		:= $(SCRIPT_DIR)/tmp_scripts_logs
+SCRIPT_LOG_FILE		:= $(SCRIPT_LOG_DIR)/SCRIPT_$(TIMESTAMP).log
+SCRIPT_ARTIFACTS	:= $(SCRIPT_INDEX) $(PROJECT_ROOT)
+
+#** tmp test**
+ifeq ($(call IS_COMMAND_AVAILABLE,realpath),true)
+	REALPATH = realpath
+else
+	REALPATH = $(SCRIPT_UTILS)/tmp_realpath-fallback.sh
+endif
 
 # ==============================
 # Script Related Utilty Macros
 # ==============================
+
+# Macro: SCRIPT_LOG_PATH
+# Generate a cleaner and more specific log file name per script,
+# incorporating:
+# 	the script's name
+# 	the current timestam
+# 
+# Parameters:
+# $(1): Script filename (e.g. "test-script.sh")
+# 
+# Output:
+# 	$(SCRIPT_LOG_DIR)/test-script_$(TIMESTAMP).log
+# 
+# Example Usage:
+# (In RUN_SCRIPT macro)
+# 
+# log_file=$(call SCRIPT_LOG_PATH,$(notdir $(2)));
+# $(2) >> $$log_file 2>&1;
+# 
+SCRIPT_LOG_PATH = $(SCRIPT_LOG_DIR)/$(basename $(1))-$(TIMESTAMP).log
+
 
 # Macro: RUN_SCRIPT
 # Run a script with optional logging
@@ -47,33 +70,110 @@ SCRIPT_LOG_FILE	:= $(SCRIPT_LOG_DIR)/SCRIPT_$(TIMESTAMP).log
 # 
 define RUN_SCRIPT
 	if [ ! -f "$(2)" ]; then \
-		$(call ERROR,Script Missing: ,Script '$(2)' does not exist.); \
+		$(call ERROR,Script Missing,Script '$(2)' does not exist.); \
 		exit 1; \
 	fi; \
 	if [ ! -x "$(2)" ]; then \
 		chmod +x $(2); \
 	fi; \
-	$(call INFO,Scripts,$(ORANGE)Running '$(1)' script...); \
+	$(call INFO,Scripts,Running '$(1)' script...); \
 	if [ "$(3)" = "true" ]; then \
-		$(2) >> $(SCRIPT_LOG_FILE) 2>&1; \
+		log_file=$(call SCRIPT_LOG_PATH,$(notdir $(2))); \
+		$(2) >> $$log_file 2>&1; \
 		$(call SUCCESS,Scripts,Script '$(1)' executed successfully.); \
-		$(call INFO,Scripts,Logged in $(SCRIPT_LOG_FILE)); \
+		$(call INFO,Scripts,Logged in $$log_file); \
 	else \
 		$(2); \
 		$(call SUCCESS,Scripts,Script '$(1)' executed successfully.); \
 	fi
 endef
 
+# Macro: NEW_SCRIPT
+# Create a new script from template with placeholder replacement and logging
+# 
+# Parameters:
+# $(1): The script name (e.g. "color-demo.sh")
+# $(2): The template path to use
+#
+# Usage:
+#   $(call NEW_SCRIPT,color-demo.sh,$(SCRIPT_TEMPLATE))
+#
+define NEW_SCRIPT
+	target_path="$(SCRIPT_DIR)/$(1)"; \
+	if [ -e "$$target_path" ]; then \
+		$(call ERROR,Script Already exists,Use a different name or delete: $$target_path); \
+		exit 1; \
+	fi; \
+	if [ ! -f "$(2)" ]; then \
+		$(call ERROR,Template Missing,Template not found at: $(2)); \
+		exit 1; \
+	fi; \
+	$(MKDIR) "$$(dirname "$$target_path")"; \
+	cp "$(2)" "$$target_path"; \
+	$(SED_INPLACE) "s/{{SCRIPT_NAME}}/$(1)/g" "$$target_path"; \
+	chmod +x "$$target_path"; \
+	\
+	# Prevent duplicate script entries when rebuilding or recreating \
+	grep -qxF "$(1): $$target_path" $(SCRIPT_INDEX) || echo "$(1): $$target_path" >> $(SCRIPT_INDEX);
+	$(call SUCCESS,Scripts,New script created and registered: $(SCRIPT_DIR)/$(1))
+endef
+
 # **************************************************************************** #
+
+# ==============================
+# Script Utility Targets
+# ==============================
+.PHONY: create-new-script run-script script-index-rebuild
+
+$(PROJECT_ROOT):
+	@$(call SENTINEL_MARKER,$(PROJECT_ROOT),print)
+
+create-new-script:
+	@$(call NEW_SCRIPT,$(SCRIPT_NAME),$(SCRIPT_TEMPLATE))
 
 run-script:
 	@$(call RUN_SCRIPT,$(SCRIPT_TYPE),$(SCRIPT_CHOICE),$(LOG_ENABLED))
 
-script: | $(SCRIPT_LOG_DIR) ## Interactive script selection menu
+## Rebuild script index grouped by folder
+script-index-rebuild:
+	@$(call INFO,Scripts,Rebuilding script index grouped by category...)
+	@> $(SCRIPT_INDEX); \
+	find $(SCRIPT_DIR) -type f -name "*.sh" \
+		! -path "$(SCRIPT_UTILS)/*" \
+		| while read path; do \
+		rel_path=$$(realpath --relative-to="$(SCRIPT_DIR)" "$$path"); \
+		category=$$(dirname "$$rel_path"); \
+		[ "$$category" = "." ] && category="scripts"; \
+		label="$$(basename $$path)"; \
+		printf "[%s] %s: %s\n" "$$category" "$$label" "$$path"; \
+	done >> $(SCRIPT_INDEX)
+	@$(call SUCCESS,Scripts,Script index rebuilt: $(SCRIPT_INDEX))
+
+# ==============================
+# Script Targets
+# ==============================
+.PHONY: new-script script script-clean
+
+new-script: $(PROJECT_ROOT) ## Create a new script from the template
 	@bash -c '\
-		clear; \
+		if [ -z "$(name)" ]; then \
+			read -p "Enter script name (e.g. color-demo.sh): " script_name; \
+		else \
+			script_name="$(name)"; \
+		fi; \
+		read -p "Use default script template '\''$(SCRIPT_TEMPLATE)'\''? [y/Y] for yes, or enter custom: " script_template; \
+		if [ "$$script_template" = "y" ] || [ "$$script_template" = "Y" ] || [ -z "$$script_template" ]; then \
+			script_template="$(SCRIPT_TEMPLATE)"; \
+		fi; \
+		exec make create-new-script SCRIPT_NAME="$$script_name" SCRIPT_TEMPLATE="$$script_template"\
+		'
+
+script: $(PROJECT_ROOT) script-index-rebuild ## Interactive script selection menu
+	@bash -c '\
+		# clear; \
 		read -p "Do you want to log script output? (y/n): " log_choice; \
 		if [ "$$log_choice" = "y" ] || [ "$$log_choice" = "Y" ] || [ -z "$$log_choice" ]; then \
+			$(MKDIR) $(SCRIPT_LOG_DIR); \
 			LOG_ENABLED=true; \
 		else \
 			LOG_ENABLED=false; \
@@ -81,62 +181,36 @@ script: | $(SCRIPT_LOG_DIR) ## Interactive script selection menu
 		\
 		echo ""; \
 		echo "📜 Choose a script to run:"; \
-		echo "Misc"; \
-		echo "0) Display Terminal Colors"; \
-		echo "42) Try a tester script"; \
-		echo "Color Utilities"; \
-		echo "1) Check specific color info"; \
+		i=0; \
+		declare -a labels; \
+		declare -a paths; \
+		while IFS=: read -r label path; do \
+			labels[$$i]=$$label; \
+			paths[$$i]=$$path; \
+			printf "%2d) %s\n" $$i "$$label"; \
+			((i++)); \
+		done < $(SCRIPT_INDEX); \
+		echo ""; \
 		read -p "Enter your choice: " choice; \
-		case "$$choice" in \
-			0) SCRIPT_TYPE="Show Colors"; SCRIPT_CHOICE="$(SHOW_COLORS)";; \
-			1) SCRIPT_TYPE="Color Info"; SCRIPT_CHOICE="$(COLOR_INFO)";; \
-			2) SCRIPT_TYPE="Generate 1x1 png"; SCRIPT_CHOICE="$(COLOR_PIXEL_PNG)";; \
-			42) SCRIPT_TYPE="Test script"; SCRIPT_CHOICE="$(TEST_SCRIPT)";; \
-			*) echo "[ERROR] Invalid choice."; exit 1;; \
-		esac; \
-		\
-		# Export LOG_ENABLED for use in nested call \
-		export LOG_ENABLED="$$LOG_ENABLED"; \
-		$(MAKE) run-script SCRIPT_TYPE="$$SCRIPT_TYPE" SCRIPT_CHOICE="$$SCRIPT_CHOICE" LOG_ENABLED="$$LOG_ENABLED" \
-	'
+		if [[ "$$choice" =~ ^[0-9]+$$ && "$$choice" -ge 0 && "$$choice" -lt $$i ]]; then \
+			SCRIPT_TYPE="$${labels[$$choice]}"; \
+			SCRIPT_CHOICE="$${paths[$$choice]}"; \
+			SCRIPT_NAME=$$(basename "$$SCRIPT_CHOICE"); \
+			$(MAKE) run-script SCRIPT_TYPE="$$SCRIPT_NAME" SCRIPT_CHOICE="$$SCRIPT_CHOICE" LOG_ENABLED="$$LOG_ENABLED"; \
+		else \
+			$(call ERROR,Invalid choice,"$$choice"); \
+			exit 1; \
+		fi'
 
 script-clean: ## Clean up test artifacts and logs
-	@if [ -d $(SCRIPT_LOG_DIR) ]; then \
-		$(call CLEANUP,Scripts,script log files,$(SCRIPT_LOG_DIR),"Scripts logs removed.","No logs to remove."); \
-	fi
-#	@$(call CLEANUP,Scripts,script artifacts,$(SCRIPT_ARTIFACTS),"All scripts artifacts removed.","No artifacts to clean.")
+	@$(call SILENT_CLEANUP,Scripts,Script log files,$(SCRIPT_LOG_DIR))
+	@$(call SILENT_CLEANUP,Scripts,Script artifacts,$(SCRIPT_ARTIFACTS))
 
-$(SCRIPT_LOG_DIR):
-	@$(MKDIR) $(SCRIPT_LOG_DIR)
-
-new-script: init-project-root ## Create a new script from the template
-	@if [ -z "$(name)" ]; then \
-		read -p "Enter script name (e.g. color-demo.sh): " name; \
-	fi; \
-	target_path="$(SCRIPT_DIR)/$$name"; \
-	if [ -e "$$target_path" ]; then \
-		$(call ERROR,Script already exists,Script already exists at: $$target_path); \
-		exit 1; \
-	fi; \
-	if [ ! -f "$(SCRIPT_TEMPLATE)" ]; then \
-		$(call ERROR,Template Missing,Template not found at: $(SCRIPT_TEMPLATE)); \
-		exit 1; \
-	fi; \
-	$(MKDIR) "$$(dirname "$$target_path")"; \
-	cp "$(SCRIPT_TEMPLATE)" "$$target_path"; \
-	if sed --version >/dev/null 2>&1; then \
-		sed -i "s/{{SCRIPT_NAME}}/$$name/g" "$$target_path"; \
-	else \
-		sed -i '' "s/{{SCRIPT_NAME}}/$$name/g" "$$target_path"; \
-	fi; \
-	chmod +x "$$target_path"; \
-	$(call SUCCESS,Scripts,New script created at: $$target_path)
-
-init-project-root: # Create the .project-root sentinel file
-	@if [ ! -f $(PROJECT_ROOT) ]; then \
-		touch $(PROJECT_ROOT); \
-		echo "✅ $(PROJECT_ROOT) created."; \
-	fi
+# ==============================
+# Script Misc Utils
+# ==============================
+.PHONY: list-scripts \
+		script-make-exec script-make-exec-silent
 
 list-scripts: ## List available scripts
 	@find $(SCRIPT_DIR) -type f -name "*.sh" | sort
@@ -162,7 +236,3 @@ script-make-exec: ## Make all scripts in SCRIPT_DIR executable
 
 script-make-exec-silent: ## Run script-make-exec but suppress all output
 	@$(MAKE) script-make-exec $(STDOUT_NULL) $(STDERR_STDOUT)
-
-.PHONY: script script-clean script-new init-project-root \
-		list-scripts script-make-exec \
-		script-make-exec-silent

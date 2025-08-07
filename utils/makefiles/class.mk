@@ -2,6 +2,14 @@
 # ==============================
 ##@ 🤖 Class creator
 # ==============================
+# TEMPLATE_PATH		?= 
+# CLASS_HPP_TEMPLATE	:= 
+# CLASS_CPP_TEMPLATE	:= 
+
+# ==============================
+# Class Targets
+# ==============================
+.PHONY: class
 
 class: ## Prompt assisted class creation
 	@echo "Enter the class name: "; \
@@ -13,14 +21,14 @@ class: ## Prompt assisted class creation
 	if [ "$$header_dir" = "y" ] || [ "$$header_dir" = "Y" ] || [ -z "$$header_dir" ]; then \
 		header_dir="$(INC_DIR)"; \
 	fi; \
-	mkdir -p "$$header_dir"; \
+	$(MKDIR) "$$header_dir"; \
 	\
 	# Prompt for .cpp directory \
 	read -p "Use default source directory '$(SRC_DIR)'? [y/Y] for yes, or enter a custom directory: " source_dir; \
 	if [ "$$source_dir" = "y" ] || [ "$$source_dir" = "Y" ] || [ -z "$$source_dir" ]; then \
 		source_dir="$(SRC_DIR)"; \
 	fi; \
-	mkdir -p "$$source_dir"; \
+	$(MKDIR) "$$source_dir"; \
 	\
 	# Check for file existence \
 	if [ -f "$$header_dir/$$classname.hpp" ] || [ -f "$$source_dir/$$classname.cpp" ]; then \
@@ -41,6 +49,10 @@ class: ## Prompt assisted class creation
 	echo "$(GREEN)Class '$$classname' created successfully!$(RESET)"; \
 	echo "Header file: $(BOLD)$$header_dir/$$classname.hpp$(RESET)"; \
 	echo "Source file: $(BOLD)$$source_dir/$$classname.cpp$(RESET)"
+
+# ==============================
+# Class Template Variables
+# ==============================
 
 # ************************************** # .hpp template
 define CLASS_HEADER
