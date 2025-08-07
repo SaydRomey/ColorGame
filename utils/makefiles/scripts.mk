@@ -19,11 +19,23 @@ SCRIPT_LOG_FILE		:= $(SCRIPT_LOG_DIR)/SCRIPT_$(TIMESTAMP).log
 SCRIPT_ARTIFACTS	:= $(SCRIPT_INDEX) $(PROJECT_ROOT)
 
 #** tmp test**
-ifeq ($(call IS_COMMAND_AVAILABLE,realpath),true)
-	REALPATH = realpath
-else
-	REALPATH = $(SCRIPT_UTILS)/tmp_realpath-fallback.sh
-endif
+# ifeq ($(call IS_COMMAND_AVAILABLE,realpath),0)
+# 	REALPATH = realpath
+# else
+# 	REALPATH = $(SCRIPT_UTILS)/tmp_realpath-fallback.sh
+# endif
+
+# Returns "yes" or empty
+CMD_EXISTS = $(shell command -v $(1) >/dev/null 2>&1 && echo yes)
+
+# Tries realpath (Linux), then grealpath (Homebrew coreutils on macOS), then our fallback script.
+# 
+# REALPATH_CMD is the thing you run in recipes.
+# 
+# Pick a realpath command once:
+REALPATH_CMD := $(if $(call CMD_EXISTS,realpath),realpath,\
+                 $(if $(call CMD_EXISTS,grealpath),grealpath,\
+                 $(SCRIPT_UTILS)/realpath-fallback.sh))
 
 # ==============================
 # Script Related Utilty Macros
