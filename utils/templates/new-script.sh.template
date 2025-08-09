@@ -1,25 +1,28 @@
-#!/bin/bash
+#!/usr/bin/env bash
+# utils/scripts/{{SCRIPT_NAME}}
+set -Eeuo pipefail
 
 # ===== Script: {{SCRIPT_NAME}} =====
+# This is a template sourcing helpers sourced via helpers/common.sh.
 
-# Locate the project root via .project-root
+# Locate the project root via '.project-root' or '.git'
 find_project_root() {
 	local dir="$PWD"
 	while [[ "$dir" != "/" ]]; do
-		if [[ -f "$dir/.project-root" ]]; then
-			echo "$dir"
-			return 0
-		fi
+		[[ -f "$dir/.project-root" ]] && { echo "$dir"; return 0; }
+		[[ -d "$dir/.git" ]] && { echo "$dir"; return 0; }
 		dir="$(dirname "$dir")"
 	done
 	echo "Error: .project-root not found." >&2
 	return 1
 }
-
 PROJECT_ROOT="$(find_project_root)" || exit 1
 
-# Source shared utilities
-source "$PROJECT_ROOT/utils/scripts/helpers/common.sh"
+# Source all shared utilities through the aggregator
+source "$PROJECT_ROOT/{{SCRIPT_UTILS_COMMON}}"
 
+# ==============================
 # Script logic starts here
-echo -e "${BGREEN}Script '{{SCRIPT_NAME}}' is working!${NC}"
+log_info "Project root detected: ${BPURPLE}$PROJECT_ROOT${NC}"
+log_info "Utilities sourced from: ${BBLUE}$PROJECT_ROOT/{{SCRIPT_UTILS_COMMON}}${NC}"
+log_success "Script ${BGREEN}{{SCRIPT_NAME}}${NC} is working!"

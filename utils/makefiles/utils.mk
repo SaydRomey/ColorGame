@@ -209,6 +209,9 @@ define IS_COMMAND_AVAILABLE
 	command -v $(1) > /dev/null 2>&1
 endef
 
+# # Returns "yes" or empty
+# CMD_EXISTS = $(shell command -v $(1) >/dev/null 2>&1 && echo yes)
+
 # **************************************************************************** #
 
 # Macro: CHECK_COMMAND

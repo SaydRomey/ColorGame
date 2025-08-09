@@ -1,19 +1,27 @@
 #!/bin/bash
 
-# Utility Script: open-url.sh
+# ===== Utility Script: open-url.sh =====
 # 
-# Function: open_url
-# Description: Opens a URL using xdg-open (Linux) or open (macOS), with fallback/error
+# Opens a URL in the system’s default browser.
+
+# open_url URL — opens URL with xdg-open (Linux) or open (macOS).
+# Fails cleanly otherwise.
+# 
+# Designed to be *sourced* (not executed)
+# ==============================
 
 open_url() {
-	local url="$1"
-
+	local url="${1:-}"
+	if [[ -z "$url" ]]; then
+		echo -e "${RED}Error${NC}: missing URL" >&2
+		return 2
+	fi
 	if command -v xdg-open >/dev/null 2>&1; then
-		xdg-open "$url" >/dev/null 2>&1 &
+		nohup xdg-open "$url" >/dev/null 2>&1 &
 	elif command -v open >/dev/null 2>&1; then
-		open "$url" >/dev/null 2>&1 &
+		nohup open "$url" >/dev/null 2>&1 &
 	else
-		echo -e "${RED}Error:${NC} Could not find a supported command to open URLs (xdg-open or open)."
+		echo -e "${RED}Error${NC}: no opener found (xdg-open/open)" >&2
 		return 1
 	fi
 }

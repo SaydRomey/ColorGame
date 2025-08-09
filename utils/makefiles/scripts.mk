@@ -1,13 +1,32 @@
 
+# TODO:
+# 	- Organize templates in sub-folders,
+# 	  then in 'new-script' target, prompt selection from template list
+# 	- Append ".sh" in 'new-script' name prompt. (unless already included in user input)
+# 
+
+# # If we want a one-liner to run with timestamps and skip prompts:
+# test-utils:
+# 	@LOG_TS=1 INTERACTIVE=0 $(SCRIPT_DIR)/test-common-utils.sh
+
+# # To include prompts:
+# test-utils-ask:
+# 	@LOG_TS=1 INTERACTIVE=1 $(SCRIPT_DIR)/test-common-utils.sh
+
+
 # ==============================
 ##@ 📜 Scripts
 # ==============================
 PROJECT_ROOT	:= .project-root
+EDITOR			?= code
 
 # Scripts Paths  (relative to the main Makefile's location)
 SCRIPT_DIR		:= ./utils/scripts
 SCRIPT_INDEX	:= $(SCRIPT_DIR)/script-index.txt
+
+# Utility Scripts
 SCRIPT_UTILS	:= $(SCRIPT_DIR)/helpers
+SCRIPT_COMMON	:= utils/scripts/helpers/common.sh
 
 # Script Templates
 TEMPLATE_DIR	?= utils/templates
@@ -18,24 +37,13 @@ SCRIPT_LOG_DIR		:= $(SCRIPT_DIR)/tmp_scripts_logs
 SCRIPT_LOG_FILE		:= $(SCRIPT_LOG_DIR)/SCRIPT_$(TIMESTAMP).log
 SCRIPT_ARTIFACTS	:= $(SCRIPT_INDEX) $(PROJECT_ROOT)
 
-#** tmp test**
-# ifeq ($(call IS_COMMAND_AVAILABLE,realpath),0)
-# 	REALPATH = realpath
-# else
-# 	REALPATH = $(SCRIPT_UTILS)/tmp_realpath-fallback.sh
-# endif
-
-# Returns "yes" or empty
-CMD_EXISTS = $(shell command -v $(1) >/dev/null 2>&1 && echo yes)
-
-# Tries realpath (Linux), then grealpath (Homebrew coreutils on macOS), then our fallback script.
-# 
-# REALPATH_CMD is the thing you run in recipes.
-# 
-# Pick a realpath command once:
-REALPATH_CMD := $(if $(call CMD_EXISTS,realpath),realpath,\
-                 $(if $(call CMD_EXISTS,grealpath),grealpath,\
-                 $(SCRIPT_UTILS)/realpath-fallback.sh))
+# Decide REALPATH tool once
+ifeq ($(shell command -v realpath >/dev/null 2>&1 && echo yes),yes)
+  REALPATH := realpath
+else
+  REALPATH := $(SCRIPT_UTILS)/realpath-fallback.sh
+endif
+# rel_path := $$( $(REALPATH) --relative-to="$(SCRIPT_DIR)" "$$path" )
 
 # ==============================
 # Script Related Utilty Macros
@@ -43,9 +51,9 @@ REALPATH_CMD := $(if $(call CMD_EXISTS,realpath),realpath,\
 
 # Macro: SCRIPT_LOG_PATH
 # Generate a cleaner and more specific log file name per script,
-# incorporating:
-# 	the script's name
-# 	the current timestam
+# including:
+# 	- the script's name
+# 	- the current timestamp
 # 
 # Parameters:
 # $(1): Script filename (e.g. "test-script.sh")
@@ -107,11 +115,12 @@ endef
 # $(1): The script name (e.g. "color-demo.sh")
 # $(2): The template path to use
 #
-# Usage:
+# Example Usage:
 #   $(call NEW_SCRIPT,color-demo.sh,$(SCRIPT_TEMPLATE))
 #
 define NEW_SCRIPT
 	target_path="$(SCRIPT_DIR)/$(1)"; \
+	script_utils_common="$(SCRIPT_COMMON)"; \
 	if [ -e "$$target_path" ]; then \
 		$(call ERROR,Script Already exists,Use a different name or delete: $$target_path); \
 		exit 1; \
@@ -122,7 +131,8 @@ define NEW_SCRIPT
 	fi; \
 	$(MKDIR) "$$(dirname "$$target_path")"; \
 	cp "$(2)" "$$target_path"; \
-	$(SED_INPLACE) "s/{{SCRIPT_NAME}}/$(1)/g" "$$target_path"; \
+	$(SED_INPLACE) "s|{{SCRIPT_NAME}}|$(1)|g" "$$target_path"; \
+	$(SED_INPLACE) "s|{{SCRIPT_UTILS_COMMON}}|$$script_utils_common|g" "$$target_path"; \
 	chmod +x "$$target_path"; \
 	\
 	# Prevent duplicate script entries when rebuilding or recreating \
@@ -130,12 +140,48 @@ define NEW_SCRIPT
 	$(call SUCCESS,Scripts,New script created and registered: $(SCRIPT_DIR)/$(1))
 endef
 
+# Macro: EDIT_SCRIPT
+# Open a script in the specified editor, or $(OPEN) by default.
+#
+# Parameters:
+# $(1): Script name as listed in $(SCRIPT_INDEX) (e.g., "crypt-script.sh")
+# $(2): Editor command (optional, e.g., "code" or "nano")
+#
+# Behavior:
+# - Finds script path in $(SCRIPT_INDEX) by exact name match before the colon.
+# - Checks existence — if the path isn’t found or the file doesn’t exist, it errors out.
+# - Editor choice — if parameter 2 is empty, it uses $(OPEN) (which you probably already have defined, e.g., to xdg-open or open on macOS).
+# - Runs the editor — with the full path to the script.
+
+# Example Usage:
+#   $(call EDIT_SCRIPT,crypt-script.sh,code)
+#   $(call EDIT_SCRIPT,crypt-script.sh)  # uses $(OPEN)
+#
+define EDIT_SCRIPT
+	script_name="$(1)"; \
+	editor_cmd="$(strip $(2))"; \
+	script_path="$$(grep -F "$$script_name" $(SCRIPT_INDEX) | awk -F': ' '{print $$2}' | head -n1)"; \
+	if [ -z "$$script_path" ]; then \
+		$(call ERROR,Script Not Found,"$$script_name" not found in $(SCRIPT_INDEX)); \
+		exit 1; \
+	fi; \
+	if [ ! -f "$$script_path" ]; then \
+		$(call ERROR,Script Missing,"$$script_path" does not exist); \
+		exit 1; \
+	fi; \
+	if [ -z "$$editor_cmd" ]; then \
+		$(OPEN) "$$script_path"; \
+	else \
+		$$editor_cmd "$$script_path"; \
+	fi
+endef
+
 # **************************************************************************** #
 
 # ==============================
 # Script Utility Targets
 # ==============================
-.PHONY: create-new-script run-script script-index-rebuild
+.PHONY: create-new-script run-script edit-script script-index-rebuild
 
 $(PROJECT_ROOT):
 	@$(call SENTINEL_MARKER,$(PROJECT_ROOT),print)
@@ -145,6 +191,14 @@ create-new-script:
 
 run-script:
 	@$(call RUN_SCRIPT,$(SCRIPT_TYPE),$(SCRIPT_CHOICE),$(LOG_ENABLED))
+
+## Open a script from $(SCRIPT_INDEX). Usage: make edit-script SCRIPT_NAME=name.sh [EDITOR=code]
+edit-script:
+	@if [ -z "$(SCRIPT_NAME)" ]; then \
+		$(call ERROR,Scripts,Missing SCRIPT_NAME. Try: make edit-script SCRIPT_NAME=test.sh EDITOR=code); \
+		exit 1; \
+	fi; \
+	$(call EDIT_SCRIPT,$(SCRIPT_NAME),$(EDITOR))
 
 ## Rebuild script index grouped by folder
 script-index-rebuild:
@@ -161,29 +215,29 @@ script-index-rebuild:
 	done >> $(SCRIPT_INDEX)
 	@$(call SUCCESS,Scripts,Script index rebuilt: $(SCRIPT_INDEX))
 
-script-index-rebuild-test:
-	@$(call INFO,Scripts,Rebuilding script index grouped by category...)
-	@> $(SCRIPT_INDEX); \
-	find $(SCRIPT_DIR) -type f -name "*.sh" \
-		! -path "$(SCRIPT_UTILS)/*" \
-	| while read path; do \
-		# If the chosen realpath supports --relative-to, use it; otherwise strip the prefix
-		if $(REALPATH_CMD) --help 2>/dev/null | grep -q -- '--relative-to'; then \
-			rel_path="$$( $(REALPATH_CMD) --relative-to="$(SCRIPT_DIR)" "$$path" )"; \
-		else \
-			rel_path="$$( printf '%s\n' "$$path" | sed -e 's#^$(SCRIPT_DIR)/##' )"; \
-		fi; \
-		category="$$( dirname "$$rel_path" )"; \
-		[ "$$category" = "." ] && category="scripts"; \
-		label="$$( basename "$$path" )"; \
-		printf "[%s] %s: %s\n" "$$category" "$$label" "$$path"; \
-	done >> $(SCRIPT_INDEX)
-	@$(call SUCCESS,Scripts,Script index rebuilt: $(SCRIPT_INDEX))
+# script-index-rebuild-test:
+# 	@$(call INFO,Scripts,Rebuilding script index grouped by category...)
+# 	@> $(SCRIPT_INDEX); \
+# 	find $(SCRIPT_DIR) -type f -name "*.sh" \
+# 		! -path "$(SCRIPT_UTILS)/*" \
+# 	| while read path; do \
+# 		# If the chosen realpath supports --relative-to, use it; otherwise strip the prefix
+# 		if $(REALPATH_CMD) --help 2>/dev/null | grep -q -- '--relative-to'; then \
+# 			rel_path="$$( $(REALPATH_CMD) --relative-to="$(SCRIPT_DIR)" "$$path" )"; \
+# 		else \
+# 			rel_path="$$( printf '%s\n' "$$path" | sed -e 's#^$(SCRIPT_DIR)/##' )"; \
+# 		fi; \
+# 		category="$$( dirname "$$rel_path" )"; \
+# 		[ "$$category" = "." ] && category="scripts"; \
+# 		label="$$( basename "$$path" )"; \
+# 		printf "[%s] %s: %s\n" "$$category" "$$label" "$$path"; \
+# 	done >> $(SCRIPT_INDEX)
+# 	@$(call SUCCESS,Scripts,Script index rebuilt: $(SCRIPT_INDEX))
 
 # ==============================
 # Script Targets
 # ==============================
-.PHONY: new-script script script-clean
+.PHONY: new-script script script-edit script-clean
 
 new-script: $(PROJECT_ROOT) ## Create a new script from the template
 	@bash -c '\
@@ -192,7 +246,8 @@ new-script: $(PROJECT_ROOT) ## Create a new script from the template
 		else \
 			script_name="$(name)"; \
 		fi; \
-		read -p "Use default script template '\''$(SCRIPT_TEMPLATE)'\''? [y/Y] for yes, or enter custom: " script_template; \
+		echo -e "Use default script template: '\''$(CYAN)$(SCRIPT_TEMPLATE)$(RESET)'\''?"; \
+		read -p "[y/Y] for yes, or enter custom: " script_template; \
 		if [ "$$script_template" = "y" ] || [ "$$script_template" = "Y" ] || [ -z "$$script_template" ]; then \
 			script_template="$(SCRIPT_TEMPLATE)"; \
 		fi; \
@@ -232,6 +287,92 @@ script: $(PROJECT_ROOT) script-index-rebuild ## Interactive script selection men
 			$(call ERROR,Invalid choice,"$$choice"); \
 			exit 1; \
 		fi'
+
+
+# script-edit: script-index-rebuild ## Interactive: choose a script to open in editor (EDITOR=code to override)
+# 	@bash -c '\
+# 		echo ""; \
+# 		echo "📝 Choose a script to edit:"; \
+# 		i=0; \
+# 		declare -a labels; \
+# 		declare -a paths; \
+# 		while IFS=: read -r label path; do \
+# 			labels[$$i]=$$label; \
+# 			paths[$$i]=$$path; \
+# 			printf "%2d) %s\n" $$i "$$label"; \
+# 			((i++)); \
+# 		done < $(SCRIPT_INDEX); \
+# 		echo ""; \
+# 		read -p "Enter your choice: " choice; \
+# 		if [[ "$$choice" =~ ^[0-9]+$$ && "$$choice" -ge 0 && "$$choice" -lt $$i ]]; then \
+# 			SCRIPT_LABEL="$${labels[$$choice]}"; \
+# 			SCRIPT_PATH="$${paths[$$choice]}"; \
+# 			SCRIPT_NAME=$$(basename "$$SCRIPT_PATH"); \
+# 			# Forward to the macro with optional EDITOR env if provided \
+# 			$(MAKE) edit-script SCRIPT_NAME="$$SCRIPT_NAME" EDITOR="$(EDITOR)"; \
+# 		else \
+# 			$(call ERROR,Scripts,Invalid choice: $$choice); \
+# 			exit 1; \
+# 		fi'
+
+script-edit: script-index-rebuild ## Interactive: choose a script, then pick an editor (default: EDITOR or $(OPEN))
+	@bash -c '\
+		echo ""; \
+		echo "📝 Choose a script to edit:"; \
+		i=0; \
+		declare -a labels; \
+		declare -a paths; \
+		while IFS=: read -r label path; do \
+			labels[$$i]=$$label; \
+			paths[$$i]=$$path; \
+			printf "%2d) %s\n" $$i "$$label"; \
+			((i++)); \
+		done < $(SCRIPT_INDEX); \
+		echo ""; \
+		read -p "Enter your choice: " choice; \
+		if [[ "$$choice" =~ ^[0-9]+$$ && "$$choice" -ge 0 && "$$choice" -lt $$i ]]; then \
+			SCRIPT_PATH="$${paths[$$choice]}"; \
+			SCRIPT_NAME=$$(basename "$$SCRIPT_PATH"); \
+			\
+			# ----- Editor menu ----- \
+			echo ""; \
+			echo "🧰 Choose an editor:"; \
+			opt_i=0; \
+			declare -a opt_cmds; \
+			declare -a opt_labels; \
+			# 0) Default opener ($(OPEN)) \
+			opt_cmds[$$opt_i]="__OPEN__"; opt_labels[$$opt_i]="Default opener ($(OPEN))"; echo "  $$opt_i) $${opt_labels[$$opt_i]}"; ((opt_i++)); \
+			# VS Code \
+			if command -v code >/dev/null 2>&1; then opt_cmds[$$opt_i]="code"; opt_labels[$$opt_i]="VS Code (code)"; echo "  $$opt_i) $${opt_labels[$$opt_i]}"; ((opt_i++)); fi; \
+			# Vim \
+			if command -v vim  >/dev/null 2>&1; then opt_cmds[$$opt_i]="vim";  opt_labels[$$opt_i]="Vim (vim)";       echo "  $$opt_i) $${opt_labels[$$opt_i]}"; ((opt_i++)); fi; \
+			# Nano \
+			if command -v nano >/dev/null 2>&1; then opt_cmds[$$opt_i]="nano"; opt_labels[$$opt_i]="Nano (nano)";     echo "  $$opt_i) $${opt_labels[$$opt_i]}"; ((opt_i++)); fi; \
+			\
+			# Suggest default (your Makefile EDITOR if present in menu; otherwise 0) \
+			default_idx=0; \
+			for idx in "$${!opt_cmds[@]}"; do \
+				if [[ -n "$(EDITOR)" && "$${opt_cmds[$$idx]}" = "$(EDITOR)" ]]; then default_idx=$$idx; break; fi; \
+			done; \
+			read -p "Editor choice [$$default_idx]: " editor_choice; \
+			editor_choice=$${editor_choice:-$$default_idx}; \
+			if [[ ! "$$editor_choice" =~ ^[0-9]+$$ || "$$editor_choice" -lt 0 || "$$editor_choice" -ge $$opt_i ]]; then \
+				echo "❌ Invalid editor choice: $$editor_choice"; \
+				exit 1; \
+			fi; \
+			editor_cmd="$${opt_cmds[$$editor_choice]}"; \
+			\
+			# Call your macro via the non-interactive target \
+			if [ "$$editor_cmd" = "__OPEN__" ]; then \
+				$(MAKE) edit-script SCRIPT_NAME="$$SCRIPT_NAME" EDITOR=""; \
+			else \
+				$(MAKE) edit-script SCRIPT_NAME="$$SCRIPT_NAME" EDITOR="$$editor_cmd"; \
+			fi; \
+		else \
+			$(call ERROR,Scripts,Invalid choice: $$choice); \
+			exit 1; \
+		fi'
+
 
 script-clean: ## Clean up test artifacts and logs
 	@$(call SILENT_CLEANUP,Scripts,Script log files,$(SCRIPT_LOG_DIR))
