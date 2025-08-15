@@ -154,3 +154,16 @@ define KILL_PROCESS_ON_PORT
 	fi
 endef
 # $(call INFO,Port $(1),- Process $(ORANGE)$$PID$(RESET)); \
+
+
+# # Macro: KILL_PROCESS_ON_PORT
+# # Terminates all processes using a specific port (shares core with name-kill).
+# #
+# # Params:
+# #  $(1): Port number
+# #  $(2): Optional "print" to list PIDs before killing
+# #
+# define KILL_PROCESS_ON_PORT
+# 	$(call CHECK_COMMAND,lsof)
+# 	$(call __KILL_WITH_FINDER,Port $(1),Killing process(es) using port $(1):,lsof -t -i :$(1),$(2),All processes on port $(1) have been killed.,No process is using port $(1).)
+# endef

@@ -1,0 +1,99 @@
+#!/usr/bin/env python
+# -----------------------------------------------------------------------------
+# Root SConstruct
+# Orchestrates building one or more GDExtension plugins.
+
+# Responsibilities:
+#   1) Load the preconfigured environment from godot-cpp/SConstruct
+#   2) Decide which plugin SConscript files to run
+#   3) Pass each plugin its name via exports (for nice templating)
+
+# Usage examples:
+#   - Build all plugins:
+#       scons platform=linux target=template_debug
+#   - Build only a subset:
+#       scons platform=linux target=template_debug plugins=gdexample,otherexample
+#   - Clean:
+#       scons -c
+#       scons -c plugins=gdexample
+
+# Notes:
+#   - ARGUMENTS is SCons' way to read CLI vars (don't use sys.argv here).
+#   - The godot-cpp SCons script sets keys like env["platform"], env["target"],
+#     env["suffix"], env["SHLIBSUFFIX"], etc., which we rely on downstream.
+# -----------------------------------------------------------------------------
+
+from glob import glob
+from pathlib import Path
+
+# 1) Load the godot-cpp toolchain env (compiler, flags, platform/target vars…)
+#    This returns an Environment we can clone/extend in child SConscript files.
+env = SConscript("godot-cpp/SConstruct")
+
+# Make 'env' available to child SConscript files via Import("env")
+Export("env")
+
+# For reference:
+# - CCFLAGS:     shared C/C++ compile flags
+# - CFLAGS:      C-only compile flags
+# - CXXFLAGS:    C++-only compile flags
+# - CPPFLAGS:    preprocessor flags
+# - CPPDEFINES:  preprocessor macros/defines
+# - LINKFLAGS:   linker flags
+
+# 2) Resolve which plugin SConscript files to include.
+#    If user passed gdexample,otherexample we build only those; 
+#    otherwise build all folders that contain src/*/SConscript.
+only = ARGUMENTS.get("plugins", "")
+
+if only:
+    wanted = {p.strip() for p in only.split(",") if p.strip()}
+    # Construct expected SConscript paths for the requested plugins
+    requested = [Path("src") / p / "SConscript" for p in sorted(wanted)]
+    # Sanity-check: warn/error if a requested plugin doesn't exist
+    missing = [p.parent.name for p in requested if not p.exists()]
+    if missing:
+        Exit(f"Unknown plugin(s): {', '.join(missing)} (no SConscript found under src/<name>/)")
+    scripts = [str(p) for p in requested]
+else:
+    # Auto-discover all plugin SConscript files
+    scripts = sorted(glob("src/*/SConscript"))
+
+# Put all build artifacts under build/<platform>.<target>/
+build_root = Path("build") / f"{env['platform']}.{env['target']}"
+# Create a mirrored “view” of src/ in build/, without copying files
+VariantDir(str(build_root / "src"), "src", duplicate=0)
+
+# Optional DX: print a one-line summary of what we're about to build
+if scripts:
+    plugin_names = [Path(s).parent.name for s in scripts]
+    print("Building plugins:", ", ".join(plugin_names))
+else:
+    Exit("No plugin SConscript files found under src/*/SConscript")
+
+# 3) Execute each plugin's SConscript from its variant directory (each will set its own Default/Alias).
+#    We also pass PLUGIN explicitly so the child can name outputs accordingly.
+total = len(scripts)
+for i, script in enumerate(scripts, 1):
+    plugin = Path(script).parent.name   # e.g., "gdexample"
+    # Optional DX: per-plugin progress line
+    print(f"[{i}/{total}] Building {plugin} …")
+    SConscript(
+        script,
+        variant_dir=str(build_root / "src" / plugin),
+        duplicate=0,
+        exports={"env": env, "PLUGIN": plugin},
+    )
+
+# for script in scripts:
+#     plugin = Path(script).parent.name  # e.g., "gdexample"
+#     SConscript(script, exports={"env": env, "PLUGIN": plugin})
+
+# -----------------------------------------------------------------------------
+# Each plugin SConscript is responsible for:
+#   - Cloning env (e = env.Clone())
+#   - Setting include paths
+#   - Choosing SharedLibrary/StaticLibrary based on platform
+#   - Emitting its target path to match the .gdextension
+#   - Adding user-friendly Aliases and Default(lib) for nice DX
+# -----------------------------------------------------------------------------

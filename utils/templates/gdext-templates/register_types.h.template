@@ -1,0 +1,12 @@
+
+#ifndef {{CLASS_NAME_UPPER}}_REGISTER_TYPES_H
+# define {{CLASS_NAME_UPPER}}_REGISTER_TYPES_H
+
+# include <godot_cpp/core/class_db.hpp>
+
+using namespace godot;
+
+void	initialize_{{LIB_NAME}}(ModuleInitializationLevel p_level);
+void	uninitialize_{{LIB_NAME}}(ModuleInitializationLevel p_level);
+
+#endif // {{CLASS_NAME_UPPER}}_REGISTER_TYPES_H

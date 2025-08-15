@@ -1,0 +1,16 @@
+[gd_scene load_steps=2 format=3 uid="uid://4j6ab76k1a2a"]
+
+[ext_resource type="Texture2D" uid="uid://chtr162art3f1" path="res://icon.svg" id="1_ig7tw"]
+
+[node name="Main" type="Node"]
+
+[node name="GDExample" type="GDExample" parent="."]
+position = Vector2(16.8185, 12.2085)
+texture = ExtResource("1_ig7tw")
+centered = false
+
+[node name="Colortest" type="Colortest" parent="."]
+color = Color(0.636166, 0.348005, 0.864443, 1)
+position = Vector2(260.101, 293.045)
+
+[node name="Greetings" type="Greetings" parent="."]

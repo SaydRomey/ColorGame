@@ -1,0 +1,33 @@
+// gdext/src/{{LIB_NAME}}/{{CLASS_NAME}}.h
+
+// A minimal Node you can add to a scene. Expand as needed.
+
+#ifndef {{CLASS_NAME_UPPER}}_H
+# define {{CLASS_NAME_UPPER}}_H
+
+# include "godot_includes.h"
+
+namespace godot
+{
+	class {{CLASS_NAME}} : public Node
+	{
+		GDCLASS({{CLASS_NAME}}, Node)
+
+		private:
+            String  _message;
+
+		protected:
+			static void	_bind_methods();
+
+		public:
+			{{CLASS_NAME}}();
+			~{{CLASS_NAME}}();
+
+            void    _ready() override;
+			void	_process(double delta) override;
+			
+			String	hello();
+	};
+} // namespace godot
+
+#endif // {{CLASS_NAME_UPPER}}_H

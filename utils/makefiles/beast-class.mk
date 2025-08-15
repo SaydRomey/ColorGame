@@ -1,10 +1,17 @@
 
+# TODO: Use Variables for template paths
+
 # ==============================
 ##@ 🐾 Beast stub generator
 # ==============================
-BESTIARY_HEADER ?= ./inc/BestiaryIDs.hpp
-BEAST_INC_DIR	:= $(INC_DIR)/enemies
-BEAST_SRC_DIR	:= $(SRC_DIR)/enemies
+BESTIARY_HEADER		?= ./inc/BestiaryIDs.hpp
+BEAST_INC_DIR		:= $(INC_DIR)/enemies
+BEAST_SRC_DIR		:= $(SRC_DIR)/enemies
+
+TEMPLATE_DIR		?= utils/templates
+BEAST_TEMPLATE_DIR	:= $(TEMPLATE_DIR)/class-templates
+BEAST_CPP_TEMPLATE	:= $(BEAST_TEMPLATE_DIR)/Beast.cpp
+BEAST_HPP_TEMPLATE	:= $(BEAST_TEMPLATE_DIR)/Beast.hpp
 
 # ==============================
 # Beast Class Targets
@@ -40,8 +47,8 @@ beast: ## Generate stub Beast class from template
 	fi; \
 	\
 	# Generate header and source files from templates \
-	cp utils/templates/Beast.hpp.template "$$header_dir/$$beastname.hpp"; \
-	cp utils/templates/Beast.cpp.template "$$source_dir/$$beastname.cpp"; \
+	cp utils/templates/class-templates/Beast.hpp.template "$$header_dir/$$beastname.hpp"; \
+	cp utils/templates/class-templates/Beast.cpp.template "$$source_dir/$$beastname.cpp"; \
 	\
 	$(SED_INPLACE) "s/CLASSNAME/$$beastname/g" \
 		"$$header_dir/$$beastname.hpp" \
@@ -88,8 +95,8 @@ all-beasts: ## Auto-generate stub classes for all BestiaryIDs
 			echo "Skipping existing: $$classname"; \
 			continue; \
 		fi; \
-		cp utils/templates/Beast.hpp.template "$$hpp_file"; \
-		cp utils/templates/Beast.cpp.template "$$cpp_file"; \
+		cp utils/templates/class-templates/Beast.hpp.template "$$hpp_file"; \
+		cp utils/templates/class-templates/Beast.cpp.template "$$cpp_file"; \
 		$(SED_INPLACE) "s/BEAST_CLASSNAME_UPPER/$$id_raw/g" "$$cpp_file"; \
 		$(SED_INPLACE) "s/CLASSNAME_UPPER/$$classname_upper/g" "$$hpp_file"; \
 		$(SED_INPLACE) "s/CLASSNAME/$$classname/g" "$$hpp_file" "$$cpp_file"; \

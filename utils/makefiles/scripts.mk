@@ -1,18 +1,8 @@
 
 # TODO:
-# 	- Organize templates in sub-folders,
-# 	  then in 'new-script' target, prompt selection from template list
+# 	- (if more than one script template) in 'new-script' target, prompt selection from template list
 # 	- Append ".sh" in 'new-script' name prompt. (unless already included in user input)
 # 
-
-# # If we want a one-liner to run with timestamps and skip prompts:
-# test-utils:
-# 	@LOG_TS=1 INTERACTIVE=0 $(SCRIPT_DIR)/test-common-utils.sh
-
-# # To include prompts:
-# test-utils-ask:
-# 	@LOG_TS=1 INTERACTIVE=1 $(SCRIPT_DIR)/test-common-utils.sh
-
 
 # ==============================
 ##@ 📜 Scripts
@@ -29,8 +19,9 @@ SCRIPT_UTILS	:= $(SCRIPT_DIR)/helpers
 SCRIPT_COMMON	:= utils/scripts/helpers/common.sh
 
 # Script Templates
-TEMPLATE_DIR	?= utils/templates
-SCRIPT_TEMPLATE	:= $(TEMPLATE_DIR)/new-script.sh.template
+TEMPLATE_DIR		?= utils/templates
+SCRIPT_TEMPLATE_DIR	:= $(TEMPLATE_DIR)/script-templates
+SCRIPT_TEMPLATE		:= $(SCRIPT_TEMPLATE_DIR)/new-script.sh.template
 
 # Scripts Logs and Artifacts
 SCRIPT_LOG_DIR		:= $(SCRIPT_DIR)/tmp_scripts_logs
@@ -176,6 +167,88 @@ define EDIT_SCRIPT
 	fi
 endef
 
+# **************************************************************************** #
+# ** TO TEST **
+# **************************************************************************** #
+# # Macro: SELECT_SCRIPT
+# # Show a list from $(SCRIPT_INDEX) and forward the choice to a follow-up target.
+# # Params:
+# #   $(1): Title (string)
+# #   $(2): Index file (usually $(SCRIPT_INDEX))
+# #   $(3): Next make target to exec with SCRIPT_NAME & SCRIPT_PATH set
+# define SELECT_SCRIPT
+# 	@bash -c '\
+# 		title="$(1)"; index="$(2)"; next="$(3)"; \
+# 		if [ ! -s "$$index" ]; then echo "No scripts indexed. Run: make script-index-rebuild"; exit 1; fi; \
+# 		echo ""; echo "$$title"; \
+# 		i=0; declare -a labels; declare -a paths; \
+# 		while IFS=: read -r label path; do \
+# 			labels[$$i]=$$label; paths[$$i]=$$path; \
+# 			printf "%2d) %s\n" $$i "$$label"; ((i++)); \
+# 		done < "$$index"; \
+# 		echo ""; read -p "Enter your choice: " choice; \
+# 		if [[ "$$choice" =~ ^[0-9]+$$ && "$$choice" -ge 0 && "$$choice" -lt $$i ]]; then \
+# 			SCRIPT_PATH="$${paths[$$choice]}"; SCRIPT_NAME=$$(basename "$$SCRIPT_PATH"); \
+# 			exec make $$next SCRIPT_NAME="$$SCRIPT_NAME" SCRIPT_PATH="$$SCRIPT_PATH" LOG_ENABLED="$$LOG_ENABLED" EDITOR="$(EDITOR)"; \
+# 		else \
+# 			echo "❌ Invalid choice: $$choice"; exit 1; \
+# 		fi'
+# endef
+
+# # Macro: PICK_EDITOR
+# # Offer VS Code / Vim / Nano / Default opener and forward to next target.
+# # Params:
+# #   $(1): Next target to exec with EDITOR resolved (empty => use $(OPEN) in EDIT_SCRIPT)
+# define PICK_EDITOR
+# 	@bash -c '\
+# 		next="$(1)"; \
+# 		echo ""; echo "🧰 Choose an editor:"; \
+# 		opt_i=0; declare -a opt_cmds; declare -a opt_labels; \
+# 		opt_cmds[$$opt_i]="__OPEN__"; opt_labels[$$opt_i]="Default opener ($(OPEN))"; echo "  $$opt_i) $${opt_labels[$$opt_i]}"; ((opt_i++)); \
+# 		if command -v code >/dev/null 2>&1; then opt_cmds[$$opt_i]="code"; opt_labels[$$opt_i]="VS Code (code)"; echo "  $$opt_i) $${opt_labels[$$opt_i]}"; ((opt_i++)); fi; \
+# 		if command -v vim  >/dev/null 2>&1; then opt_cmds[$$opt_i]="vim";  opt_labels[$$opt_i]="Vim (vim)";       echo "  $$opt_i) $${opt_labels[$$opt_i]}"; ((opt_i++)); fi; \
+# 		if command -v nano >/dev/null 2>&1; then opt_cmds[$$opt_i]="nano"; opt_labels[$$opt_i]="Nano (nano)";     echo "  $$opt_i) $${opt_labels[$$opt_i]}"; ((opt_i++)); fi; \
+# 		default_idx=0; \
+# 		for idx in "$${!opt_cmds[@]}"; do \
+# 			if [[ -n "$(EDITOR)" && "$${opt_cmds[$$idx]}" = "$(EDITOR)" ]]; then default_idx=$$idx; break; fi; \
+# 		done; \
+# 		read -p "Editor choice [$$default_idx]: " editor_choice; editor_choice=$${editor_choice:-$$default_idx}; \
+# 		if [[ ! "$$editor_choice" =~ ^[0-9]+$$ || "$$editor_choice" -lt 0 || "$$editor_choice" -ge $$opt_i ]]; then \
+# 			echo "❌ Invalid editor choice: $$editor_choice"; exit 1; \
+# 		fi; \
+# 		editor_cmd="$${opt_cmds[$$editor_choice]}"; \
+# 		if [ "$$editor_cmd" = "__OPEN__" ]; then \
+# 			exec make $$next SCRIPT_NAME="$$SCRIPT_NAME" SCRIPT_PATH="$$SCRIPT_PATH" EDITOR=""; \
+# 		else \
+# 			exec make $$next SCRIPT_NAME="$$SCRIPT_NAME" SCRIPT_PATH="$$SCRIPT_PATH" EDITOR="$$editor_cmd"; \
+# 		fi'
+# endef
+
+# # Tiny helper targets that do the actual work
+# .PHONY: __run-selected __edit-selected
+
+# # Uses your existing RUN_SCRIPT macro
+# __run-selected:
+# 	@$(call RUN_SCRIPT,$(SCRIPT_NAME),$(SCRIPT_PATH),$(LOG_ENABLED))
+
+# # Uses your existing EDIT_SCRIPT macro
+# __edit-selected:
+# 	@$(call EDIT_SCRIPT,$(SCRIPT_NAME),$(EDITOR))
+
+# # User facing targets
+# # Rebuild the index, then pick & run
+# script: script-index-rebuild
+# 	$(call SELECT_SCRIPT,📜 Choose a script to run:,$(SCRIPT_INDEX),__run-selected)
+
+# # Rebuild the index, then pick script, then pick editor, then open
+# script-edit: script-index-rebuild
+# 	$(call SELECT_SCRIPT,📝 Choose a script to edit:,$(SCRIPT_INDEX),__pick-editor-next)
+
+# # Small bridge so we can chain macros neatly
+# .PHONY: __pick-editor-next
+# __pick-editor-next:
+# 	$(call PICK_EDITOR,__edit-selected)
+# **************************************************************************** #
 # **************************************************************************** #
 
 # ==============================

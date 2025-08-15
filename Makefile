@@ -43,6 +43,10 @@ INCLUDES	:= $(addprefix -I, $(shell find $(INC_DIR) -type d))
 LIB_DIR		:= lib
 INCLUDES	+= $(addprefix -I, $(shell find $(LIB_DIR) -type d))
 
+# # Example flags (adjust paths/variants to your build)
+# CXXFLAGS += -Ilib/godot-cpp/include -Ilib/godot-cpp/gen/include -Ilib/godot-cpp/gdextension
+# LDLIBS   += lib/godot-cpp/bin/libgodot-cpp.$(GODOT_PLATFORM).$(GODOT_TARGET).$(GODOT_BITS).a
+
 # ==============================
 # Code Testing
 # ==============================
@@ -59,6 +63,7 @@ MK_PATH		:= utils/makefiles
 MK_FILES	:= \
 	utils.mk \
 	dependencies.mk \
+	godot-cpp.mk \
 	doc.mk \
 	class.mk \
 	beast-class.mk \

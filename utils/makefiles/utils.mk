@@ -236,3 +236,57 @@ define CHECK_COMMAND
 endef
 
 # **************************************************************************** #
+
+# ============================================================================
+# Internal helper: __KILL_WITH_FINDER
+# Runs a "finder" command to produce PIDs, prints (optionally), then kill -9.
+#
+# Parameters:
+#  $(1) Context label (e.g., "Port 3000" or "Process 'godot'")
+#  $(2) Pre-info message (e.g., "Killing process(es) using port 3000:" )
+#  $(3) Finder command that outputs PIDs (space/newline separated)
+#  $(4) Optional: "print" to list PIDs before killing
+#  $(5) Success message
+#  $(6) Warning message when nothing found (optional)
+# ============================================================================
+define __KILL_WITH_FINDER
+	PIDS=$$($(3)); \
+	if [ -n "$$PIDS" ]; then \
+		$(call INFO,$(1),$(2)); \
+		if [ "$(4)" = "print" ]; then \
+			for PID in $$PIDS; do \
+				printf "\t\t$(ORANGE)%s$(RESET)\n" "$$PID"; \
+			done; \
+		fi; \
+		kill -9 $$PIDS; \
+		$(call SUCCESS,$(1),$(5)); \
+	else \
+		$(call WARNING,$(1),$(if $(strip $(6)),$(6),No matching processes found.)); \
+	fi
+endef
+
+# Macro: KILL_PROCESS_BY_NAME
+# Kills processes matching a name (uses full command line with -f).
+#
+# Parameters:
+#  $(1): name/pattern (e.g., "godot")
+#  $(2): Optional "print" to list PIDs before killing
+#
+define KILL_PROCESS_BY_NAME
+	$(call CHECK_COMMAND,pgrep)
+	$(call __KILL_WITH_FINDER,Process '$(1)',Killing process(es) matching '$(1)':,pgrep -f "$(1)",$(2),Killed process(es) named '$(1)'.,"No process found matching '$(1)'.")
+endef
+
+
+.PHONY: kill __kill-by-name
+kill:
+	@bash -c '\
+		read -p "Enter process name to kill: " pname; \
+		if [ -z "$$pname" ]; then \
+			echo "❌ No process name provided."; exit 1; \
+		fi; \
+		exec make __kill-by-name PROCESS_NAME="$$pname" --no-print-directory \
+	'
+
+__kill-by-name:
+	@$(call KILL_PROCESS_BY_NAME,$(PROCESS_NAME),print)

@@ -1,7 +1,9 @@
 [submodule "lib/picojson"]
 	path = lib/picojson
 	url = https://github.com/kazuho/picojson.git
-[submodule "lib/godot-cpp"]
-	path = lib/godot-cpp
+	ignore = all
+[submodule "gdext/godot-cpp"]
+	path = gdext/godot-cpp
 	url = https://github.com/godotengine/godot-cpp.git
 	branch = 4.4
+	ignore = all

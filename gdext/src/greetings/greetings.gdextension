@@ -1,0 +1,28 @@
+[configuration]
+entry_symbol = "greetings_init"
+compatibility_minimum = "4.1"
+reloadable = true
+
+[libraries]
+macos.debug = "res://bin/libgreetings.macos.template_debug.framework"
+macos.release = "res://bin/libgreetings.macos.template_release.framework"
+ios.debug = "res://bin/libgreetings.ios.template_debug.xcframework"
+ios.release = "res://bin/libgreetings.ios.template_release.xcframework"
+windows.debug.x86_32 = "res://bin/libgreetings.windows.template_debug.x86_32.dll"
+windows.release.x86_32 = "res://bin/libgreetings.windows.template_release.x86_32.dll"
+windows.debug.x86_64 = "res://bin/libgreetings.windows.template_debug.x86_64.dll"
+windows.release.x86_64 = "res://bin/libgreetings.windows.template_release.x86_64.dll"
+linux.debug.x86_64 = "res://bin/libgreetings.linux.template_debug.x86_64.so"
+linux.release.x86_64 = "res://bin/libgreetings.linux.template_release.x86_64.so"
+linux.debug.arm64 = "res://bin/libgreetings.linux.template_debug.arm64.so"
+linux.release.arm64 = "res://bin/libgreetings.linux.template_release.arm64.so"
+linux.debug.rv64 = "res://bin/libgreetings.linux.template_debug.rv64.so"
+linux.release.rv64 = "res://bin/libgreetings.linux.template_release.rv64.so"
+android.debug.x86_64 = "res://bin/libgreetings.android.template_debug.x86_64.so"
+android.release.x86_64 = "res://bin/libgreetings.android.template_release.x86_64.so"
+android.debug.arm64 = "res://bin/libgreetings.android.template_debug.arm64.so"
+android.release.arm64 = "res://bin/libgreetings.android.template_release.arm64.so"
+
+[dependencies]
+ios.debug = { "res://bin/libgodot-cpp.ios.template_debug.xcframework": "" }
+ios.release = { "res://bin/libgodot-cpp.ios.template_release.xcframework": "" }

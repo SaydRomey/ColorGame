@@ -1,0 +1,88 @@
+# src/colortest/SConscript
+# -----------------------------------------------------------------------------
+# This file builds ONE Godot GDExtension plugin as a shared library (.so/.dll)
+# or Apple framework/static lib (macOS/iOS). 
+# It's executed from the plugin's folder (e.g., src/colortest/), 
+# and receives:
+#   - env:    the preconfigured SCons environment from godot-cpp/SConstruct
+#   - PLUGIN: the plugin name (folder name), passed by the root SConstruct
+# -----------------------------------------------------------------------------
+
+import os
+Import("env", "PLUGIN")
+
+# Absolute path to ../game/bin relative to gdext/SConstruct
+BIN_DIR_STR = "#/../game/bin"
+
+# Clone the shared env so per-plugin tweaks (flags, defines…) don't leak
+e = env.Clone()
+
+# If we later add per-plugin flags (e.g., CXXFLAGS, CPPDEFINES), put them after e = env.Clone() so they only affect this plugin.
+
+# Let this plugin #include headers from:
+#   - its own folder (src/colortest)
+#   - the shared src root (src/) for common headers
+# Note: "#/" means “project root” in SCons path syntax.
+e.Append(CPPPATH=[f"#/src/{PLUGIN}", "#/src"])
+
+
+# Grab all C++ sources in this folder. Add subdir globs if needed.
+sources = Glob("*.cpp")
+
+def target_path(name: str) -> str:
+    """
+    Compute the output library path that matches our .gdextension file
+    for each platform/target combo.
+
+    macOS:  game/bin/lib<name>.macos.<target>.framework/lib<name>.macos.<target>
+    iOS:    game/bin/lib<name>.ios.<target>[.simulator].a
+    else:   game/bin/lib<name><suffix><SHLIBSUFFIX>
+            where suffix/SHLIBSUFFIX come from godot-cpp (e.g., ".linux.template_debug.x86_64" + ".so")
+    """
+    pf  = e["platform"]
+    tgt = e["target"]
+
+    if pf == "macos":
+        stem = f"{BIN_DIR_STR}/lib{name}.{pf}.{tgt}"
+        # Apple frameworks have a directory structure; the actual binary lives inside.
+        return f"{stem}.framework/lib{name}.{pf}.{tgt}"
+
+    elif pf == "ios":
+        # iOS builds are static (.a). Use the simulator variant if requested.
+        if e.get("ios_simulator", False):
+            return f"{BIN_DIR_STR}/lib{name}.{pf}.{tgt}.simulator.a"
+        else:
+            return f"{BIN_DIR_STR}/lib{name}.{pf}.{tgt}.a"
+
+    else:
+        # Windows/Linux/Android: rely on godot-cpp’s computed suffix and the platform’s shlib suffix
+        #   e['suffix']       -> e.g. ".linux.template_debug.x86_64"
+        #   e['SHLIBSUFFIX'] -> e.g. ".so" / ".dll"
+        return f"{BIN_DIR_STR}/lib{name}{e['suffix']}{e['SHLIBSUFFIX']}"
+
+# Resolve the final output path for this plugin
+target = target_path(PLUGIN)
+
+# Build rule:
+#   - iOS uses a static library (per Godot’s templates)
+#   - everything else uses a shared library
+if e["platform"] == "ios":
+	lib = e.StaticLibrary(target, source=sources)
+else:
+	lib = e.SharedLibrary(target, source=sources)
+
+# ----------------------------- Nice DX ---------------------------------------
+# Create a phony target named after the plugin so we can:
+#   scons colortest        -> build just this plugin
+#   scons -c colortest     -> clean just this plugin
+Alias(PLUGIN, lib)
+
+# Make this library part of the default build so:
+#   scons                 -> builds all plugins that call Default(lib)
+Default(lib)
+# -----------------------------------------------------------------------------
+# Quick commands:
+#   - Build everything:           scons
+#   - Build just this plugin:     scons colortest
+#   - Clean just this plugin:     scons -c colortest
+# -----------------------------------------------------------------------------

@@ -22,7 +22,17 @@
 
 ## 📦 Dependency setup
 - `deps`:  Initialize and update all git submodules
-- `picojson`:  Add picoJSON as a submodule
+- `deps-picojson`:  Add picoJSON as a submodule
+- `deps-godotcpp`:  Add godot-cpp (branch 4.4) as a submodule
+
+## 👾 Godot C++ / GDExtension
+- `cpp-new`:  Create new C++ native module using templates (w.i.p.)
+- `cpp-build`:  Build all GDextension C++ modules
+- `cpp-clean`:  Clean all compiled C++ modules
+- `cpp-re`:  Clean and rebuild
+- `cpp-status`:  Show available C++ modules and their contents
+- `cpp-gdextension-links`:  Regenerate .gdextension files for all C++ modules
+- `godot-cpp-bindings`:  Build godot-cpp bindings
 
 ## 📚 Documentation
 - `doc`:  Show documentation links
@@ -38,6 +48,7 @@
 ## 📜 Scripts
 - `new-script`:  Create a new script from the template
 - `script`:  Interactive script selection menu
+- `script-edit`:  Interactive: choose a script, then pick an editor (default: EDITOR or $(OPEN))
 - `script-clean`:  Clean up test artifacts and logs
 - `list-scripts`:  List available scripts
 - `script-make-exec`:  Make all scripts in SCRIPT_DIR executable
@@ -48,4 +59,4 @@
 - `tree-log`:  Logs file structure in TREE_OUTFILE
 - `tree-clean`:  Remove 'tree' outfile
 
-📄 Generated at Thu 07 Aug 2025 04:00:09 PM EDT
+📄 Generated at Fri 15 Aug 2025 01:00:20 AM EDT

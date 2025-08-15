@@ -11,7 +11,8 @@ TREE_OUT		:= -n -o $(TREE_OUTFILE)
 # ^godot-cpp$: hides contents of godot-cpp while still showing the directory
 
 # 'tree' command options (uncomment variables to activate)
-TREE_IGNORES	:= -I '.git|.godot|*.uid|*.os|godot-cpp|docs|tmp*'
+TREE_IGNORES	:= -I '.git|.godot|*.uid|docs|tmp*'
+# TREE_IGNORES	:= -I '.git|.godot|*.uid|*.os|godot-cpp|docs|tmp*'
 TREE_ALL		:= -a
 # TREE_PERMS	:= -p
 # TREE_PRUNE		:= --prune
@@ -23,7 +24,7 @@ tree: ## Show file structure (without file listed in TREE_IGNORES)
 		$(call INFO,TREE,Displaying directory and file structure...); \
 		tree $(TREE_IGNORES) $(TREE_OPTIONS); \
 		if [ -f $(TREE_OUTFILE) ]; then \
-			$(call INFO,TREE,File structure available at $(BLUE)$(TREE_OUTFILE)); \
+			$(call INFO,TREE,File structure available at  $(TREE_OUTFILE)); \
 		fi \
 	else \
 		$(call WARNING,TREE,Command 'tree' not found.); \
@@ -34,7 +35,7 @@ tree-log: ## Logs file structure in TREE_OUTFILE
 		$(call INFO,TREE,Logging directory and file structure...); \
 		tree $(TREE_IGNORES) $(TREE_OPTIONS) $(TREE_OUT); \
 		if [ -f $(TREE_OUTFILE) ]; then \
-			$(call INFO,TREE,File structure available at $(BLUE)$(TREE_OUTFILE)); \
+			$(call INFO,TREE,File structure available at $(TREE_OUTFILE)); \
 		fi \
 	else \
 		$(call WARNING,TREE,Command 'tree' not found.); \

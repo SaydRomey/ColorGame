@@ -2,8 +2,12 @@
 # ==============================
 ##@ 📦 Dependency setup
 # ==============================
-DEPS_DIR		:= build
+LIB_DIR			?= lib
+DEPS_DIR		:= build/sentinel-markers
 DEPS_SENTINEL	:= $(DEPS_DIR)/.deps-initialized
+MODULE_SENTINEL	:= $(DEPS_DIR)/.submodules-initialized
+
+
 
 # ==============================
 # Dependency Utilty Macros
@@ -43,31 +47,60 @@ endef
 # **************************************************************************** #
 .PHONY: deps deps-clean
 
-deps: $(DEPS_SENTINEL) ## Initialize and update all git submodules
+deps: $(MODULE_SENTINEL) ## Initialize and update all git submodules
 
-$(DEPS_SENTINEL): .gitmodules
+$(MODULE_SENTINEL): .gitmodules
 	@$(MKDIR) $(DEPS_DIR)
 	@if [ -f .gitmodules ]; then \
 		$(call INFO,Dependencies,Initializing and updating submodules...); \
 		git submodule init; \
 		git submodule update --remote --recursive; \
-		touch $(DEPS_SENTINEL); \
+		touch $(MODULE_SENTINEL); \
 		$(call SUCCESS,Dependencies,Ready!); \
 	else \
 		$(call WARNING,Dependencies,No submodules found. Skipping deps.); \
 	fi
 
 deps-clean:
-	@$(call SILENT_CLEANUP,Dependencies,Sentinel Markers,$(DEPS_SENTINEL))
+	@$(call SILENT_CLEANUP,Dependencies,Sentinel Markers,$(MODULE_SENTINEL))
 
 # ==============================
 # picoJSON
 # ==============================
 PICOJSON_REPO	:= https://github.com/kazuho/picojson.git
-PICOJSON_PATH	:= lib/picojson
+PICOJSON_PATH	:= $(LIB_DIR)/picojson
+# PICOJSON_SENTINEL	:= $(DEPS_DIR)/.picoJSON-initialized
 
-picojson: ## Add picoJSON as a submodule
+deps-picojson: ## Add picoJSON as a submodule
 	@$(call INFO,Dependencies,Adding picoJSON as a submodule)
-	git submodule add $(PICOJSON_REPO) $(PICOJSON_PATH)
+	@if [ ! -d "$(PICOJSON_PATH)" ]; then \
+		git submodule add $(PICOJSON_REPO) $(PICOJSON_PATH); \
+		git -C $(PICOJSON_PATH) submodule update --init --recursive; \
+		$(call SUCCESS,Dependencies,picoJSON added); \
+	else \
+		$(call WARNING,Dependencies,$(PICOJSON_PATH) already exists. Skipping add.); \
+	fi
 
-.PHONY: picojson
+.PHONY: deps-picojson
+
+# ==============================
+# godot-cpp
+# ==============================
+GODOTCPP_REPO	:= https://github.com/godotengine/godot-cpp.git
+GDEXT_DIR		?= gdext
+GODOTCPP_DIR	?= $(GDEXT_DIR)/godot-cpp
+GODOTCPP_BRANCH	:= 4.4
+# GODOTCPP_SENTINEL	:= $(DEPS_DIR)/.godot-cpp-initialized
+
+deps-godotcpp: ## Add godot-cpp (branch 4.4) as a submodule
+	@$(call INFO,Dependencies,Adding godot-cpp@$(GODOTCPP_BRANCH) as a submodule)
+	@if [ ! -d "$(GODOTCPP_DIR)" ]; then \
+		git submodule add -b $(GODOTCPP_BRANCH) $(GODOTCPP_REPO) $(GODOTCPP_DIR); \
+		git -C $(GODOTCPP_DIR) submodule update --init --recursive; \
+		git config -f .gitmodules submodule.$(GODOTCPP_DIR).branch $(GODOTCPP_BRANCH); \
+		$(call SUCCESS,Dependencies,godot-cpp added and pinned to $(GODOTCPP_BRANCH)); \
+	else \
+		$(call WARNING,Dependencies,$(GODOTCPP_DIR) already exists. Skipping add.); \
+	fi
+
+.PHONY: deps-godotcpp

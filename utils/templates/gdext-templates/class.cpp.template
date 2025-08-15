@@ -1,0 +1,47 @@
+// gdext/src/{{LIB_NAME}}/{{CLASS_NAME}}.cpp
+
+#include "{{CLASS_NAME}}.h"
+// #include <godot_cpp/core/class_db.hpp>
+
+using namespace godot;
+
+/* Static function that Godot will call to find out which methods can be called and which properties it exposes
+** Bindings needed if we expose properties/methods to the editor/GDScript.
+*/
+void	{{CLASS_NAME}}::_bind_methods()
+{
+	ClassDB::bind_method(D_METHOD("hello"), &{{CLASS_NAME}}::hello);
+}
+
+{{CLASS_NAME}}::{{CLASS_NAME}}()
+: _message("hello from {{CLASS_NAME}}")
+{
+	// Initialization here
+}
+
+{{CLASS_NAME}}::~{{CLASS_NAME}}()
+{
+	// Add our cleanup here if needed
+}
+
+void	{{CLASS_NAME}}::_ready()
+{
+	const bool	in_editor = Engine::get_singleton()->is_editor_hint();
+	set_process(!in_editor);	// disable idle processing in editor
+	// set_physics_process(false);	// if we use _physics_process
+	if (!in_editor)
+		UtilityFunctions::print(hello());	// visible confirmation in output
+}
+
+void	{{CLASS_NAME}}::_process(double delta)
+{
+	if (Engine::get_singleton()->is_editor_hint())
+		return ; // safety guard
+	// 
+}
+
+
+String {{CLASS_NAME}}::hello()
+{
+	return (_message);
+}
