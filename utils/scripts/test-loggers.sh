@@ -1,10 +1,15 @@
 #!/usr/bin/env bash
-# utils/scripts/test-loggers.sh
+# File: utils/scripts/test-loggers.sh
+
 set -Eeuo pipefail
 
 # ===== Script: test-loggers.sh =====
-# This is a template sourcing helpers sourced via helpers/common.sh.
+# 
+# Script to test log utility functions
+# 
+# ----------------------------------------------------------------------------
 
+# -------- Shared utility sourcing -------------------------------------------
 # Locate the project root via '.project-root' or '.git'
 find_project_root() {
 	local dir="$PWD"
@@ -20,9 +25,9 @@ PROJECT_ROOT="$(find_project_root)" || exit 1
 
 # Source all shared utilities through the aggregator
 source "$PROJECT_ROOT/utils/scripts/helpers/common.sh"
+# ----------------------------------------------------------------------------
 
-# ==============================
-# Script logic starts here
+# -------- Script logic starts here ------------------------------------------
 log_info "Project root detected: ${BPURPLE}$PROJECT_ROOT${NC}"
 log_info "Utilities sourced from: ${BBLUE}$PROJECT_ROOT/utils/scripts/helpers/common.sh${NC}"
 log_success "Script ${BGREEN}test-loggers.sh${NC} is working!"

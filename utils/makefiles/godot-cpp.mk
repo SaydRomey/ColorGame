@@ -2,6 +2,9 @@
 # ==============================
 ##@ 👾 Godot C++ / GDExtension
 # ==============================
+ifndef __GODOT_CPP_MK__
+__GODOT_CPP_MK__ := 1
+
 GDEXT_DIR				?= gdext
 GODOT_CPP_DIR			?= $(GDEXT_DIR)/godot-cpp
 
@@ -14,13 +17,27 @@ GODOT_BIN			?= $(shell command -v godot)
 GODOT_VERSION		:= $(shell "$(GODOT_BIN)" --version 2>/dev/null | head -n1)
 GODOT_MAJOR_MINOR	:= $(shell printf "%s" "$(GODOT_VERSION)" | cut -d. -f1,2)
 GODOT_VERSION_REQ	?= 4.4
-GODOT_PLATFORM		?= linux	# linux | windows | macos | ios | android
-GODOT_TARGET		?= template_debug # template_debug | template_release
+GODOT_PLATFORM		?= linux			# linux | windows | macos | ios | android
+GODOT_TARGET		?= template_debug	# template_debug | template_release
+
+# Try to guess the arch suffix produced by godot-cpp
+UNAME_M	:= $(shell uname -m)
+ifeq ($(UNAME_M),x86_64)
+	GODOT_ARCH ?= x86_64
+else ifeq ($(UNAME_M),aarch64)
+	GODOT_ARCH ?= arm64
+endif
+
+# godot-cpp outputs: bin/libgodot-cpp.$(platform).$(target).$(arch).a
+# We keep detection tolerant, in case arch naming differs.
+GODOT_CPP_LIB_GLOB	:= $(GODOT_CPP_DIR)/bin/libgodot-cpp.$(GODOT_PLATFORM).$(GODOT_TARGET).*.*.a
+GODOT_CPP_LIB_ANY	:= $(GODOT_CPP_DIR)/bin/libgodot-cpp.*.a
+GODOT_CPP_LIB		:= $(firstword $(wildcard $(GODOT_CPP_LIB_GLOB) $(GODOT_CPP_LIB_ANY)))
 
 # SCons knobs
 SCONS_JOBS		?= $(shell command -v nproc >/dev/null 2>&1 && nproc || sysctl -n hw.ncpu 2>/dev/null || echo 4)
 SCONS_VERBOSE	?= 0	# 0 or 1
-PLUGINS			?=		# comma-separated: gdexample,greetings
+PLUGINS			?=		# comma-separated: gdexample,otherexample
 
 # Optional version nudge
 # Optional: warn if you expected 4.4 but got something else
@@ -33,21 +50,24 @@ CPP_MODULES_DIRS	:= $(wildcard $(GDEXT_DIR)/src/*)
 CPP_MODULE_NAMES	:= $(filter-out godot-cpp,$(notdir $(CPP_MODULE_DIRS)))
 
 # Script path (for 'cpp-new' target)
-GD_CPP_NEW			:= utils/scripts/gd-cpp-new-module.sh
+SCRIPT_DIR			?= utils/scripts
+GD_SCRIPT_DIR		:= $(SCRIPT_DIR)/godot-scripts
+GD_CPP_NEW			:= $(GD_SCRIPT_DIR)/gd-cpp-new-module.sh
 
 # ==============================
 # Targets
 # ==============================
 .PHONY: cpp-new cpp-build cpp-clean cpp-re cpp-status cpp-gdextension-links
 
-cpp-new: ## Create new C++ native module using templates (w.i.p.)
+cpp-new: ## Create new GDExtension C++ module using templates (w.i.p.)
 	@$(call RUN_SCRIPT,cpp module,$(GD_CPP_NEW))
 
-cpp-build: ## Build all GDextension C++ modules
+# Ensure bindings exist before building modules
+cpp-build: $(GODOT_CPP_LIB) ## Build all GDextension C++ modules
 	@$(call INFO,GDExtension,Building C++ modules)
 	@scons -C $(GDEXT_DIR) verbose=1
 
-# cpp-build: ## Build all (or a subset) of GDExtension C++ modules
+# cpp-build: $(GODOT_CPP_LIB) ## Build all (or a subset) of GDExtension C++ modules
 # 	@$(call INFO,GDExtension,Building C++ modules$(if $(PLUGINS), ($(PLUGINS)),))
 # 	@scons -C $(GDEXT_DIR) \
 # 		platform=$(GODOT_PLATFORM) target=$(GODOT_TARGET) \
@@ -98,41 +118,4 @@ godot-cpp-clean:
 	@$(call INFO,Build,Cleaning godot-cpp artifacts)
 	@scons -C $(GODOT_CPP_DIR) -c || true
 
-# ==============================
-# Misc (To check if useful...)
-# ==============================
-
-# ===== Helpers ================
-# TODO: Macro that takes version req as param
-
-# # Internal: check Godot version line starts with $(GODOT_VERSION_REQ)
-# define _CHECK_GODOT_VER
-# 	ver="`$(GODOT_BIN) --version 2>/dev/null | head -n1`"; \
-# 	case "$$ver" in \
-# 	  $(GODOT_VERSION_REQ)*) true ;; \
-# 	  *) $(call WARNING,Godot,"Engine version ($$ver) does not start with $(GODOT_VERSION_REQ). Proceeding anyway.");; \
-# 	esac
-# endef
-
-# ===== Godot API ==============
-# Where to put the dumped API
-# GODOT_API_JSON     ?= $(GODOT_CPP_DIR)/extension_api.json
-
-# .PHONY: godot-api
-# godot-api: ## Dump extension_api.json from the detected Godot binary
-# 	@$(call INFO,Godot,Using '$(GODOT_BIN)' ($(GODOT_VERSION)))
-# 	@if [ ! -f "$(GODOT_API_JSON)" ]; then \
-# 		$(MKDIR) $(GODOT_CPP_DIR); \
-# 		cd $(GODOT_CPP_DIR) && "$(GODOT_BIN)" --dump-extension-api "$(GODOT_API_JSON)"; \
-# 		$(call SUCCESS,Godot,API dumped → $(GODOT_API_JSON)); \
-# 	else \
-# 		$(call WARNING,GODOT,API already dumped → $(GODOT_API_JSON)); \
-# 	fi
-
-# godot-api: ## Dump extension_api.json from the detected Godot binary
-# 	@$(call CHECK_COMMAND,$(GODOT_BIN))
-# 	@$(call INFO,Godot,Checking version on '$(GODOT_BIN)')
-# 	@bash -c '$(strip $(_CHECK_GODOT_VER))'
-# 	@$(call INFO,Godot,Dumping extension API → $(GODOT_API_JSON))
-# 	@$(GODOT_BIN) --dump-extension-api $(GODOT_API_JSON)
-# 	@test -f $(GODOT_API_JSON) && $(call SUCCESS,Godot,extension_api.json written.)
+endif # __GODOT_CPP_MK__

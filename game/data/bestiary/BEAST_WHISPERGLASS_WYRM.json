@@ -1,0 +1,30 @@
+{
+  "id": "BEAST_WHISPERGLASS_WYRM",
+  "entry": {
+    "name": "Whisperglass Wyrm",
+    "type": "Illusion Serpent / Burrowing Mirage",
+    "threat_level": "⚠️ Moderate – Spatial and Sensory Disruptor",
+    "first_emerged": "Post-Dissonance Storm Cycle",
+    "description": "The Whisperglass Wyrm is an aerial burrower formed from skyfract glass and dream-echo. It shifts through the floating cliffs as if they were mist, rarely seen until it’s already inside your perception.\n\nIt doesn’t bite. It convinces you it already did — and that you bled.",
+    "hue_interaction": "Refracts Hue-based attacks unless revealed.\n\nTemporarily visible under Cobalt’s Mind Echo when used near reflective terrain.\n\nImmobilized briefly by Verdant’s Skygrowth Seed cast on fractured skyglass veins.",
+    "behavior": "Remains dormant beneath floating landmasses until a player lingers too long near mirrored surfaces.\n\nBehavior cycle:\nPrey Reflection: mimics distant silhouettes of the player to bait movement.\nMirror Dive: disappears into nearby glass, re-emerging unpredictably.\nFracture Howl: emits a static-chime sound that scrambles traversal inputs unless countered.",
+    "weaknesses": "Exposed by Payne’s Brush illusion-reveal strokes.\n\nLoses invisibility if caught in stormlight flashes or lightning surges.\n\nVulnerable when attempting to “sync” with the player’s reflection — brief window for high-damage strikes.",
+    "notes": "Whisperglass Wyrms are believed to be remnants of sky-serpents that were reflected into extinction.\n\nWhat you see is never just where it is — only where it thinks you’ll look."
+  },
+  "lore": {
+    "title": "Etched confession recovered from a broken Payne’s Prism",
+    "quote": "\"I painted it once — or tried to. Every stroke vanished. Not faded. Not erased. Just... unremembered.\"",
+    "flavor_description": [
+      "It coils beneath the wind, made of silence and shimmer"
+    ],
+    "field_notes": [
+      "\"The Wyrm wasn’t hostile. Not at first. It followed my reflection for hours. I thought it was curious.\"",
+      "\"But then my brush hand forgot what it held. My name smeared across the canvas.\"",
+      "\"It didn’t eat thoughts. It ate the part of me that thought I had them.\"",
+      "\"If you're reading this, don’t look in mirrored cliffs. Don’t listen too hard when the breeze starts whispering. And if you feel a shiver in your spine — it’s already coiled around it.\"",
+      "— Signed only: “P.”"
+    ],
+    "source": "Broken Payne’s Prism confession"
+  },
+  "drops": []
+}

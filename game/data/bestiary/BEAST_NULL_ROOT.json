@@ -1,0 +1,33 @@
+{
+  "id": "BEAST_NULL_ROOT",
+  "entry": {
+    "name": "Null-Root",
+    "type": "Voidspawn / False Flora",
+    "threat_level": "⚠️⚠️ High (Environmental Threat)",
+    "first_emerged": "Near the shattering of the Core Wound",
+    "description": "Coiled like a vine from the core of nothing, the Null-Root is not plant, not beast, not crystal — but the suggestion of all three. It stirs beneath the broken geometry of Nullshade, its tendrils seeking light that no longer exists.",
+    "hue_interaction": "Drawn to equipped Hue shards — becomes violent the more hues are active.\n\nGrows passive if player unequips all hue-bound gear or uses “Voidstep” relic.",
+    "behavior": "Burrows and strikes from any prism-corrupted terrain nearby.\n\nDrags chunks of floating geometry into battle — hurling or using them as shields.\n\nIf ignored, will reshape the battlefield itself, corrupting puzzle zones and shrines.",
+    "weaknesses": "Cannot be killed directly — must let it strike a Prismwalker shard to trigger decay bloom.\n\nOnce it latches to a hue-infused item, it begins dissolving — that item is sacrificed.\n\nExposed to the “Caput Mortuum Phylactery,” it becomes inert for one cycle.",
+    "notes": "Emits a low, heartbeat-like thrum when nearby.\n\nSome echoes report a brief visual of the Prismwalker being “buried in roots” after defeating it — a non-lethal memory echo tied to its origin."
+  },
+  "lore": {
+    "title": "Notes on the Hollow Bloom",
+    "quote": "“Even the void dreamed of life. That’s where the rot began.”",
+    "flavor_description": [
+      "The Core tried to grow again. It failed beautifully.",
+      "It germinated in absence — from a sliver of the Prism that refused to fade."
+    ],
+    "field_notes": [
+      "“It germinated in absence — from a sliver of the Prism that refused to fade.”",
+      "",
+      "“A tendril of hunger disguised as growth. Roots made of void-veins. A longing to begin again, in a world that no longer remembers how.”",
+      "",
+      "“But growth without hue is not rebirth. It is corruption wearing hope.”",
+      "",
+      "“To kill the Null-Root, you must offer what it seeks — a future it cannot digest.”"
+    ],
+    "source": "Journal Fragment — “Notes on the Hollow Bloom” by the Caput Mortuum Ascetic"
+  },
+  "drops": []
+}

@@ -1,12 +1,6 @@
 # **************************************************************************** #
 # TOCHECK:
-
-
-# realpath safety and fallback or check?
-# REALPATH	:= 
-# 
-# templates sub-folders (templates/scripts, templates/classes, etc.)
-# 
+#
 # script naming lint
 # 
 # **************************************************************************** #
@@ -43,10 +37,6 @@ INCLUDES	:= $(addprefix -I, $(shell find $(INC_DIR) -type d))
 LIB_DIR		:= lib
 INCLUDES	+= $(addprefix -I, $(shell find $(LIB_DIR) -type d))
 
-# # Example flags (adjust paths/variants to your build)
-# CXXFLAGS += -Ilib/godot-cpp/include -Ilib/godot-cpp/gen/include -Ilib/godot-cpp/gdextension
-# LDLIBS   += lib/godot-cpp/bin/libgodot-cpp.$(GODOT_PLATFORM).$(GODOT_TARGET).$(GODOT_BITS).a
-
 # ==============================
 # Code Testing
 # ==============================
@@ -69,7 +59,8 @@ MK_FILES	:= \
 	beast-class.mk \
 	scripts.mk \
 	tree.mk
-#	network.mk # Unused in current project
+
+# DEPS_FAIL_ON_MISSING	:= 1
 
 include $(addprefix $(MK_PATH)/, $(MK_FILES))
 

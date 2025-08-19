@@ -1,0 +1,28 @@
+{
+  "id": "BEAST_THORNWRITHE_BEAST",
+  "entry": {
+    "name": "Thornwrithe Beast",
+    "type": "Briar-Covered Beast / Fast Predator",
+    "threat_level": "⚠️ High – Extremely dangerous when engaged directly",
+    "first_emerged": "Early Post-Shattering Era",
+    "description": "Quadrupedal predator covered entirely in dense, thorny vines and briars.\n\nLeaves a trailing path of rapidly growing, entangling roots and thorny undergrowth.\n\nStrikes swiftly from concealed positions, retreating quickly into foliage to strike again.",
+    "hue_interaction": "Resistant to Verdant control; attempts to manipulate its vines cause violent backlash.\n\nLeaves behind trails of entangling roots, heavily restricting mobility.\n\nBecomes enraged by Crimson flame, increasing its aggression significantly.",
+    "behavior": "Uses hit-and-run tactics, hiding and emerging unpredictably to confuse prey.\n\nPatrols defined territories, fiercely defending its bramble-marked borders.\n\nShows particular hostility toward intruders damaging or burning forest areas.",
+    "weaknesses": "Earthen decay spells can wither its protective vines, reducing its defense and mobility temporarily.\n\nVulnerable to sustained fire-based attacks (Crimson), though this temporarily boosts its aggression.\n\nSensitive to powerful sonic or vibration attacks that disrupt its coordination and briefly stun it.",
+    "notes": "Victims who survive encounters often bear permanent marks—twisting scars that resemble thorned vines.\n\nSome believe these scars slowly grow, as though a lingering part of the beast remains embedded, feeding off memories of fear and pain."
+  },
+  "lore": {
+    "title": "Thornwood Patrol Logs, 5th Season After the Shattering",
+    "quote": "\"It bleeds bramble. And it's fast.\"",
+    "flavor_description": [
+      "A swift shadow wrapped in briars and rage"
+    ],
+    "field_notes": [
+      "\"We named it Thornwrithe—an apt name for a beast whose presence turns peaceful glades into briar-choked traps overnight.\"",
+      "\"It moved faster than anything I'd ever seen, a blur of thorns and shadow, dragging vines in its wake that tangled and tore at our ankles.\"",
+      "\"This beast is no mere predator. It is the rage of the forest given form, swift and unforgiving, each thorn sharpened by forgotten grievances.\""
+    ],
+    "source": "Recorded Account from Xanadu Warden, Thornwood Patrol Logs"
+  },
+  "drops": []
+}

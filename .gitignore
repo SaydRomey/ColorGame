@@ -27,17 +27,12 @@ interactive-bestiary
 *.dll
 *.dylib
 
-# Allow overrides: only keep intended .so
-## (adjust path as needed)
-# !/common/cpp/mynative/libmynative.so
-
 # Build artifacts and intermediate folders
 build/
 bin/
-# lib/*
-# !/lib/picojson
 
 # Build/dependency markers
+.sentinel-markers/
 .project-root
 .deps-initialized
 

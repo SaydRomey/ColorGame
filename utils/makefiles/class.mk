@@ -2,6 +2,9 @@
 # ==============================
 ##@ 🤖 Class creator
 # ==============================
+ifndef __CLASS_MK__
+__CLASS_MK__ := 1
+
 # TEMPLATE_PATH		?= 
 # CLASS_HPP_TEMPLATE	:= 
 # CLASS_CPP_TEMPLATE	:= 
@@ -128,3 +131,5 @@ endef
 export CLASS_CPP
 
 # ************************************** #
+
+endif # __CLASS_MK__

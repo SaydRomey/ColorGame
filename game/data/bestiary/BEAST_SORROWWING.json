@@ -1,0 +1,31 @@
+{
+  "id": "BEAST_SORROWWING",
+  "entry": {
+    "name": "Sorrowwing",
+    "type": "Spirit Avian / Emotional Manipulator",
+    "threat_level": "⚠️ Moderate – Environmental Hazard, Lure-Based",
+    "first_emerged": "After the Collapse of the Windward Sanctum",
+    "description": "Silken wings leave trails of mist that pulse like heartbeats.\n\nIts call echoes with delayed sadness — a sob from a moment you haven't lived yet.\n\nOften perches silently before luring prey with a name-whispering cry.",
+    "hue_interaction": "- Specifically drawn to Cobalt-bound players with high Memory Echo charge.\n- Its call interferes with flight-based traversal, slightly pulling or redirecting mid-glide.\n- Cobalt’s Mind Echo can block or distort its influence with correct timing.",
+    "behavior": "- Prefers perching silently, remaining passive until a player attempts flight or high-speed movement.\n- When active:\n  - Cries out a phrase or name from the player’s past (based on collected Memory Fragments).\n  - Activates Lure Drift: gradually pulls player toward cliff edges or sky traps.\n- Sometimes circles just out of reach, causing ranged attacks to pass through.",
+    "weaknesses": "- Repelled or disoriented by Cerulean Cloak.\n- Anchoring spells (e.g., Verdant’s Skygrowth Seed) break its lure grip temporarily.\n- Easily grounded with memory-reinforcement artifacts like the Zaffre Vial or Celadon Shards.",
+    "notes": "The Seers of Zaffran Port once raised Sorrowwings to guide mourners across the cliffs.\nNow, only the wind walks beside the grieving."
+  },
+  "lore": {
+    "title": "Voiceprint transcription, left unfinished by a monk of the Windward Chorus",
+    "quote": "“It cries your name before you hear it.”",
+    "flavor_description": [
+      "Ghost-bird with eyes too human, too knowing"
+    ],
+    "field_notes": [
+      "“They say the wind in Iriseld carries more than rain. It carries loss — wrapped in wings.”",
+      "“I saw it at the cliff’s edge. It looked back. Not like a bird. Like a widow remembering.”",
+      "“It called my name… but my voice answered first. I felt myself move before deciding to.”",
+      "“It didn’t want to kill me. It wanted me to jump. To fly.”",
+      "“I clutched my cloak, not from wind — from ache.”",
+      "“Its cry is your grief, wearing feathers.”"
+    ],
+    "source": "Voiceprint transcription, left unfinished by a monk of the Windward Chorus"
+  },
+  "drops": []
+}

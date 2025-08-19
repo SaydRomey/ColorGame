@@ -1,0 +1,29 @@
+{
+  "id": "BEAST_SUNBURNT_JACKAL",
+  "entry": {
+    "name": "Sunburnt Jackal",
+    "type": "Desiccated Predator / Heat-Hound",
+    "threat_level": "⚠️ Moderate – Lethal in packs or near radiant spells",
+    "first_emerged": "Late Color War – After the Dawn Siege of Luxeran",
+    "description": "Sun-scorched and half-maddened, these jackals stalk Luxeran’s dunes by heat and scent, their eyes blistered shut by generations under relentless light.\n\nThey mistake warmth for weakness — drawn not by sight, but by the breath of firelight or radiant magic.\nTheir howl echoes dry and broken, scattering across the dunes like splintered glass.\n\nOften found circling dying torches or sun-baked ruins, they fear cold and recoil from shade, becoming sluggish after dusk.",
+    "hue_interaction": "- Drawn to Aurelian (Yellow) magic or any active light source\n- Avoids deep shadow or cold environments\n- Can be stunned by Cobalt (Blue) flashburst spells or illusions that mask heat",
+    "behavior": "- Hunts by triangulating body heat and radiant echoes\n- Will chase thrown torches or glowing relics as a distraction\n- Packs coordinate using howls that ricochet strangely in heat haze\n- Cowers from dusk or cloudy conditions; most active midday",
+    "weaknesses": "- Ice and shadow spells dampen senses\n- Easily misled by artificial light or false heat signatures\n- Loud noises (explosives, sonic artifacts) disorient pack coordination",
+    "notes": "Desert guides often carry heat-absorbent stones or cold-blood salves to mask their presence.\nIt's said that if a Sunburnt Jackal is howling at an empty flame, it’s mourning a prey that never burned."
+  },
+  "lore": {
+    "title": "Fragment from “Scorch and Silence,” a journal recovered near the Gamboge Vault",
+    "quote": "“I watched it circle the mirage fire for hours, never knowing it wasn’t real. It yipped and snapped at flickering sand. Not blind — not quite — but worse: its mind burns with too much sun and too little shadow.”",
+    "flavor_description": [
+      "A skeletal predator of burning dunes"
+    ],
+    "field_notes": [
+      "“I watched it circle the mirage fire for hours, never knowing it wasn’t real. It yipped and snapped at flickering sand. Not blind — not quite — but worse: its mind burns with too much sun and too little shadow.”",
+      "“They don’t see. They feel heat like scent — like music. My torch nearly killed me. I had to drop it and run silent into the dunes.”",
+      "“They say these beasts were once clever pack hunters, adapted to the shifting deserts. But now… now they worship warmth like it’s a god that betrayed them.”",
+      "“At night, I found one curled into a broken clay brazier, whimpering at the cold stars.”"
+    ],
+    "source": "Fragment from “Scorch and Silence,” a journal recovered near the Gamboge Vault"
+  },
+  "drops": []
+}

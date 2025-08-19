@@ -1,0 +1,37 @@
+{
+  "id": "BEAST_LILYBORN_MIRAGE",
+  "entry": {
+    "name": "Lilyborn Mirage",
+    "type": "Dream-Construct / Illusory Interrogator",
+    "threat_level": "⚠️ Moderate – Cognitive Disruption",
+    "first_emerged": "During the Bloomwake Season in Myrrala",
+    "description": "Cloaked in glowing lily petals and mist.\n\nSpeaks in looped fragments of previous conversations.\n\nStanding too close causes dialogue boxes to replay — even if they never happened.",
+    "hue_interaction": "Weak to pattern disruption via Cobalt’s Mind Echo or Violet’s Glamour Pulse.\n\nAurelian’s Radiant Echo reveals which \"memories\" are false.\n\nVerdant tools like Skygrowth Seed can ground its mist temporarily.",
+    "behavior": "Opens with a shimmerburst that reverses dialogue choices.\n\nRepeats 3–5 second memory loops that affect hitboxes and terrain.\n\nCasts “Memory Bloom” — an AoE illusion that causes the player to speak involuntarily, re-triggering decision points.",
+    "weaknesses": "Interrupted by call-and-response magic (e.g., Razzmatazz Drum).\n\nBecomes tangible during the final beat of a rhythmic cycle (watch the petals sway).\n\nUsing the Thulian Mirror during combat reveals which line it's about to speak — preempting the loop.",
+    "notes": "A rare scholar wrote:\n\n> “The lily only lies if you ask it to bloom.”\n\nThat scroll ends with a sentence that trails off… repeating itself… again… and again…"
+  },
+  "lore": {
+    "title": "Memory Wrapped in Bloom",
+    "quote": "What did you just say? Are you sure?",
+    "flavor_description": [
+      "Cloaked in glowing lily petals and mist.",
+      "Speaks in looped fragments of previous conversations."
+    ],
+    "field_notes": [
+      "They don’t lie.\nThey don’t have to.",
+      "",
+      "The lilies remember what was said — or what was meant — or maybe just what we wished we said.",
+      "",
+      "These things bloom when emotion lingers too long in one place. They drink from forgotten farewells and root into questions left unanswered.",
+      "",
+      "I spoke to one once. Or maybe it spoke to me. It asked what I feared most. I told it. Then I told it again. And again. And again.",
+      "",
+      "When I came to, the petals had grown teeth. And I was bleeding memory.",
+      "",
+      "— Whisperleaf fragment, found in the Veilgrove Spiral"
+    ],
+    "source": "Scribbled in wilted dreampetal script"
+  },
+  "drops": []
+}

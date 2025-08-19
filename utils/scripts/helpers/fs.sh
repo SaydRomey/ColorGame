@@ -1,11 +1,11 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # ===== Utility Script: fs.sh =====
 # 
 # Filesystem helpers for portable scripts.
 # 
 # Designed to be *sourced* (not executed)
-# ==============================
+# =================================
 
 ensure_executable() {
 	local file="$1"

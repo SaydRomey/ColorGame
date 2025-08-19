@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # (wip)
 # TODO: handle wrong input to loop ?
@@ -8,7 +8,7 @@
 # Common interactive input helpers for scripts.
 # 
 # Designed to be *sourced* (not executed)
-# ==============================
+# =====================================
 
 # yes_no "Prompt text" [default_y_or_n]
 # Returns 0 for yes, 1 for no

@@ -1,0 +1,33 @@
+{
+  "id": "BEAST_LIMEROOT_TRICKSTER",
+  "entry": {
+    "name": "Limeroot Trickster",
+    "type": "Spirit / Illusionist",
+    "threat_level": "⚠️ Moderate - Highly Disorienting and Confusing",
+    "first_emerged": "Mid Post-Shattering Era",
+    "description": "An elusive spirit cloaked in shadowy vines, mimicking the Limerick Druid's mannerisms.\\n\\nCommunicates exclusively through reversed limericks, creating disorienting illusions.\\n\\nCasts mirror duplicates to confuse and misdirect opponents.",
+    "hue_interaction": "Creates powerful mirror illusions to duplicate itself or mimic allies.\\n\\nResistant to direct Verdant manipulation due to its spiritual nature.\\n\\nDisrupted by spells or effects that interrupt vocalizations or reverse illusions.",
+    "behavior": "Rarely engages in direct combat; prefers psychological tactics and trickery.\\n\\nUses reversed rhymes to cast potent illusions, altering perceptions of space and orientation.\\n\\nFlees quickly if its illusions are unraveled or its rhyme-casting is disrupted.",
+    "weaknesses": "Illusions easily dispelled by strong Violet counter-illusion magic or the Skobeloff Lens artifact.\\n\\nVulnerable to sonic disruptions or silencing spells which break its rhythm-based magic.\\n\\nConfusion spells or reversed language incantations can momentarily immobilize or expose it.",
+    "notes": "Survivors of Trickster encounters often report lingering confusion, occasionally hearing their own thoughts or speech reversed for days afterward. Some speculate the Trickster's essence is tied to Huevale itself, embodying the mischievous, deceptive nature of the forest's memory-laden paths."
+  },
+  "lore": {
+    "title": "The Rhyming Shade",
+    "quote": "It rhymes, then strikes.",
+    "flavor_description": [
+      "An elusive spirit cloaked in shadowy vines, mimicking the Limerick Druid's mannerisms.",
+      "Communicates exclusively through reversed limericks, creating disorienting illusions."
+    ],
+    "field_notes": [
+      "“Beware the voice speaking in verse,\\nWhose words flow smoothly, reversed.\\nIt laughs from the shade,\\nWith mischief it's made—\\nIn echoes your senses immersed.”",
+      "",
+      "“It began as whispers in Huevale, perfectly mimicking the beloved Limerick Druid. We thought it harmless—just playful forest echoes. But soon we realized our mistake. Each rhyme it spoke twisted reality, illusions folding upon illusions, until we doubted which reflection was truly ours.”",
+      "",
+      "“It lures wanderers astray, conjuring mirror selves that act with intent to confuse, leading them deep into forgotten groves or shadowed hollows from which they never return. Those who escape describe endless rhyme echoing in their dreams, language tangled and reversed, pulling sanity thread by thread.”",
+      "",
+      "“In Huevale, the line between jest and threat is blurred by the Limeroot Trickster—a creature of rhyme, whose laughter is but the first warning of its cunning deception.”"
+    ],
+    "source": "Excerpt from \"Echoes and Rhymes: Verses of Verdant Mischief,\" anonymous manuscript found in Tinctara Archives"
+  },
+  "drops": []
+}

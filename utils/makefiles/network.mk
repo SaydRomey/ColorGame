@@ -1,11 +1,14 @@
 
-# IRC_SERVER_IP	:= 
-# IRC_SERVER_PORT	:= 
-# BACKEND_PORT	:= 
 
 # ==============================
 # Network Utility Macros
 # ==============================
+ifndef __NETWORK_MK__
+__NETWORK_MK__ := 1
+
+# IRC_SERVER_IP	:= 
+# IRC_SERVER_PORT	:= 
+# BACKEND_PORT	:= 
 
 # Macro: CHECK_CONNECTION
 # Checks network connectivity to a specific IP and Port
@@ -167,3 +170,5 @@ endef
 # 	$(call CHECK_COMMAND,lsof)
 # 	$(call __KILL_WITH_FINDER,Port $(1),Killing process(es) using port $(1):,lsof -t -i :$(1),$(2),All processes on port $(1) have been killed.,No process is using port $(1).)
 # endef
+
+endif # __NETWORK_MK__

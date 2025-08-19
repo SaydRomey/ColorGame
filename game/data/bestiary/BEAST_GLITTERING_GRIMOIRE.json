@@ -1,0 +1,39 @@
+{
+  "id": "BEAST_GLITTERING_GRIMOIRE",
+  "entry": {
+    "name": "Glittering Grimoire",
+    "type": "Enchanted Spellbook / Echo-Wraith",
+    "threat_level": "⚠️ Medium – Unpredictable Spellcaster",
+    "first_emerged": "After the Descent of the Violet Archive",
+    "description": "A sentient, levitating spellbook woven with shifting violet runes and reflective ink.\n\nTrails pages behind it like wings. Occasionally \"gasps\" when it learns something new about you.\n\nWrites and erases mid-battle.",
+    "hue_interaction": "Copies spells cast using Cobalt or Aurelian hues with high accuracy.\n\nDisoriented by Violet’s Illusion Clone — cannot distinguish mimic from caster.\n\nImmune to direct charm; vulnerable to feedback loops (e.g. looped illusions, memory echoes).",
+    "behavior": "Begins battle closed — then snaps open with a gasp when you attack.\n\nSelects from player’s previously used spells (past encounters, even region-specific).\n\nUses Ink Trail to confuse visual effects, and Runic Pulse that inverts spell directions.",
+    "weaknesses": "Pages are fragile during page-turning animation — hit then to break a spell loop.\n\nIf hit while it's “rewriting,” the book suffers a Truth Tear and becomes stunned.\n\nDefeated more easily when attacked with non-spell damage (e.g. melee, environmental).",
+    "notes": "On death, drops Unwritten Page, which can be bound to a spell to create a “ghost echo” — an auto-cast illusion of it that can act independently once per day.\nRare encounters may cause it to “remember” future player actions — causing strange feedback in later fights."
+  },
+  "lore": {
+    "title": "Tome of the Unwritten Self",
+    "quote": "It remembers the spell you forgot you cast.",
+    "flavor_description": [
+      "A sentient, levitating spellbook woven with shifting violet runes and reflective ink.",
+      "Trails pages behind it like wings. Occasionally \"gasps\" when it learns something new about you."
+    ],
+    "field_notes": [
+      "“We never finished writing it. So it kept writing itself.”",
+      "",
+      "“The Glittering Grimoire was once a journal — empty, waiting to be filled by a young mage. But as she grew uncertain, it began writing her instead.”",
+      "",
+      "“Each time she chose not to cast a spell — the book remembered. Each secret withheld, each fear unspoken — the book listened.”",
+      "",
+      "“When the library fell, the Grimoire vanished into Myrrala’s winds. Now it drifts alone, seeking unfinished stories and half-cast spells.”",
+      "",
+      "“It opens only to reflect you.”",
+      "",
+      "“If it begins to write before you speak… run.”",
+      "",
+      "— Payne’s Shade, “On Living Texts”"
+    ],
+    "source": "Recovered Margins from the Library of Echoes"
+  },
+  "drops": []
+}

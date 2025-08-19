@@ -1,0 +1,29 @@
+{
+  "id": "BEAST_UNHUED_CHOIR",
+  "entry": {
+    "name": "The Unhued Choir",
+    "type": "Sound-Based Null Entity / Echo Construct",
+    "threat_level": "⚠️⚠️⚠️ Critical – Appears in endgame or high Echo instability zones",
+    "first_emerged": "After the Dirge of Prismfall, during Nullshade Emergence",
+    "description": "A swirling constellation of childlike figures, their mouths unmoving yet filled with endless song. Their melody does not comfort — it unravels. Born in the wake of the Prism’s fracture, they echo its loss not with rage, but with perfect, merciless harmony.",
+    "hue_interaction": "Vulnerable to sonic-based spells, or relics tied to truthful sound (e.g., Verdant Tuning Fork, Yellow Radiant Chime).\n\nSilenced only by using Color Sigils tied to the Order the player has chosen the fewest times.\n\nEach fragment represents a lost hue — targeting them in their “resonant color moment” makes them vulnerable briefly.",
+    "behavior": "Often found in Echo Collapse zones or guarding Nullshade altars.\n\nMay emerge from failed Hue Alignment puzzles or during emotional memory sequences.\n\nMechanics:\n• Dirge Pulse — Pulsing soundwave that disrupts the player’s UI.\n• Harmony Lock — Freezes player if three or more fragments harmonize.\n• Dissonant Reflection — Copies last three spell inputs back as harmful echoes.",
+    "weaknesses": "If all members of the Choir are silenced in hue-order reverse (V → R), they disperse permanently.\n\nA Mirrorshard Lens can reveal which Choir member is closest to resonance.\n\nUsing the player’s own recorded sound cue can trigger a cancel loop.",
+    "notes": "Choir fragments whisper faintly even after defeat — their echoes may be heard near important player decisions.\n\nSome NPCs reference hearing “child-song” in high Nullshade zones.\n\nIf all Choir fragments are defeated without taking damage, an ancient Prismara hymn is restored — granting temporary Uncolor immunity."
+  },
+  "lore": {
+    "title": "Recovered Note – Nullshade, Shatterglass Pool",
+    "quote": "\"It wasn’t that they were children. Not really. Just the shape sorrow took that day.\"",
+    "flavor_description": [
+      "They sing the Prism’s dirge. Each note unmakes."
+    ],
+    "field_notes": [
+      "\"It wasn’t that they were children. Not really. Just the shape sorrow took that day.\"",
+      "\"They sang like they knew what came next — like they remembered silence being born.\"",
+      "\"When I tried to speak, they hummed it away. My thoughts turned to fog. My spells turned to noise.\"",
+      "\"Each voice sang in a hue we buried. And when the last note faded… so did color.\""
+    ],
+    "source": "Fragmented confession, Nullshade"
+  },
+  "drops": []
+}

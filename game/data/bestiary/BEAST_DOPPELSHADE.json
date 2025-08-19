@@ -1,0 +1,40 @@
+{
+  "id": "BEAST_DOPPELSHADE",
+  "entry": {
+    "name": "Doppelshade",
+    "type": "Illusory Mimic / Mirrorborne Trickster",
+    "threat_level": "⚠️ Variable – Based on player complexity",
+    "first_emerged": "Post-Shattering; earliest recorded in Myrrala",
+    "description": "Mimics the player's current appearance and equipment loadout.\n\nReacts to your last 3 movement patterns, trying to “catch” your next input.\n\nDamaging it without revealing its illusion form causes hue feedback — a psychic jolt that scrambles your HUD.",
+    "hue_interaction": "Weak to truth-bound light (Aurelian) and sound-based rhythm (Cobalt).\n\nImmune to illusions unless constructed by the player using Violet (they can be \"tricked back\").\n\nReflected projectiles strike them for full damage if released with reversed timing.",
+    "behavior": "Appears behind or near mirrors, often posing mid-gesture.\n\nOpens with your most frequent spell or attack combo — but slightly early.\n\nAdapts quickly: second encounter includes all choices made in first.",
+    "weaknesses": "Temporarily stuns if caught in a Thulian Mirror beam or Heliotrope Band aura.\n\nBecomes unstable when confronted by multiple dialogue-paths or player contradictions.",
+    "notes": "Some say killing a Doppelshade removes a fear.\nOthers say it replaces one.\nFey scholars advise not to look into your reflection after — just in case it blinks when you don’t."
+  },
+  "lore": {
+    "title": "Mirror of the Selflied",
+    "quote": "I saw myself dodge. But I hadn’t moved yet.",
+    "flavor_description": [
+      "Mimics the player's current appearance and equipment loadout.",
+      "Reacts to your last 3 movement patterns, trying to “catch” your next input.",
+      "Damaging it without revealing its illusion form causes hue feedback — a psychic jolt that scrambles your HUD."
+    ],
+    "field_notes": [
+      "“Reflections should show truth. But in dreams, even mirrors lie kindly.”",
+      "",
+      "“There are things that wear your face. Not out of malice — but because they don’t know their own anymore.”",
+      "",
+      "“The Doppelshade is not born. It is caught — a slip of intent, a lingering gesture you forgot you made. It waits in veil-thin mirrors, rehearsing your doubts until they can dance without you.”",
+      "",
+      "“I watched a traveler argue with theirs for hours. When I returned, only one walked away. I couldn't say who.”",
+      "",
+      "“They say the Thulian Court once kept a hall of mirrors where you could see every choice you didn’t make. That hall burned. But the reflections... didn’t die.”",
+      "",
+      "“If your reflection attacks first, it was never yours.”",
+      "",
+      "— Scribed into the petals of a Liseran Lily, pressed between two illusion-stung pages."
+    ],
+    "source": "Fragmented Memory from the Thulian Mirror"
+  },
+  "drops": []
+}

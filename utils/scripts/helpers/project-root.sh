@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # ===== Utility Script: project-root.sh =====
 # 
@@ -6,7 +6,7 @@
 # the top-level marker '.project-root' or '.git'.
 # 
 # Designed to be *sourced* (not executed)
-# ==============================
+# ===========================================
 
 locate_project_root() {
 	local dir="$PWD"

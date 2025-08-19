@@ -1,22 +1,25 @@
 
 # TODO:
-# 	- (if more than one script template) in 'new-script' target, prompt selection from template list
-# 	- Append ".sh" in 'new-script' name prompt. (unless already included in user input)
+# (if more than one script template) in 'new-script' target, prompt selection from template list
+# Append ".sh" in 'new-script' name prompt. (unless already included in user input)
 # 
 
 # ==============================
 ##@ 📜 Scripts
 # ==============================
-PROJECT_ROOT	:= .project-root
-EDITOR			?= code
+ifndef __SCRIPTS_MK__
+__SCRIPTS_MK__ := 1
+
+PROJECT_ROOT		:= .project-root
+EDITOR				?= code
 
 # Scripts Paths  (relative to the main Makefile's location)
-SCRIPT_DIR		:= ./utils/scripts
-SCRIPT_INDEX	:= $(SCRIPT_DIR)/script-index.txt
+SCRIPT_DIR			:= utils/scripts
+SCRIPT_INDEX		:= $(SCRIPT_DIR)/script-index.txt
 
 # Utility Scripts
-SCRIPT_UTILS	:= $(SCRIPT_DIR)/helpers
-SCRIPT_COMMON	:= utils/scripts/helpers/common.sh
+SCRIPT_UTILS		:= $(SCRIPT_DIR)/helpers
+SCRIPT_COMMON		:= $(SCRIPT_UTILS)/common.sh
 
 # Script Templates
 TEMPLATE_DIR		?= utils/templates
@@ -110,6 +113,7 @@ endef
 #   $(call NEW_SCRIPT,color-demo.sh,$(SCRIPT_TEMPLATE))
 #
 define NEW_SCRIPT
+	script_dir="$(SCRIPT_DIR)"; \
 	target_path="$(SCRIPT_DIR)/$(1)"; \
 	script_utils_common="$(SCRIPT_COMMON)"; \
 	if [ -e "$$target_path" ]; then \
@@ -122,6 +126,7 @@ define NEW_SCRIPT
 	fi; \
 	$(MKDIR) "$$(dirname "$$target_path")"; \
 	cp "$(2)" "$$target_path"; \
+	$(SED_INPLACE) "s|{{SCRIPT_DIR}}|$$script_dir|g" "$$target_path"; \
 	$(SED_INPLACE) "s|{{SCRIPT_NAME}}|$(1)|g" "$$target_path"; \
 	$(SED_INPLACE) "s|{{SCRIPT_UTILS_COMMON}}|$$script_utils_common|g" "$$target_path"; \
 	chmod +x "$$target_path"; \
@@ -257,7 +262,7 @@ endef
 .PHONY: create-new-script run-script edit-script script-index-rebuild
 
 $(PROJECT_ROOT):
-	@$(call SENTINEL_MARKER,$(PROJECT_ROOT),print)
+	@$(call SENTINEL_MARKER,$@,print)
 
 create-new-script:
 	@$(call NEW_SCRIPT,$(SCRIPT_NAME),$(SCRIPT_TEMPLATE))
@@ -481,3 +486,5 @@ script-make-exec: ## Make all scripts in SCRIPT_DIR executable
 
 script-make-exec-silent: ## Run script-make-exec but suppress all output
 	@$(MAKE) script-make-exec $(STDOUT_NULL) $(STDERR_STDOUT)
+
+endif # __SCRIPTS_MK__

@@ -1,0 +1,41 @@
+{
+  "id": "BEAST_FEATHERED_NULL",
+  "entry": {
+    "name": "Feathered Null",
+    "type": "Colorless Entity / Anti-Storm Apparition",
+    "threat_level": "⚠️ Moderate – Traversal & Hue Suppression",
+    "first_emerged": "During the Dimming of the Third Gale",
+    "description": "Its wings are torn, trailing threads of faded hue.\n\nColor drains slightly from the air near it.\n\nMoves with disjointed grace, as if time forgets to push it forward.",
+    "hue_interaction": "Suppresses Hue-based traversal abilities (gliding, storm-riding) within a radius.\n\nBound colors dim when in its aura; affects Crimson surge and Cobalt reaction timing.\n\nTemporarily disrupted by Verdant Skygrowth, which restores buoyancy nearby.",
+    "behavior": "Does not pursue. It drifts.\n\nEngages only when provoked or approached during a storm ritual.\n\nBehavior cycle:\nNull Pulse – disables midair movement for several seconds.\nWing Veil – conceals its position in a dome of pale wind.\nEcho Stillness – causes a silence field that interrupts dialogue and spellcasting.",
+    "weaknesses": "Momentarily repelled by sky-sound (e.g., storm chimes, flute melodies).\n\nSuffers minor instability if trapped in a triangulation of multiple hues (player + relic + echo site).\n\nOnly vulnerable during emotive wind surges triggered by memory sequences.",
+    "notes": "The Glaucous Wing claims this creature is “a hymn never sung.”\nCannot be bound, named, or remembered by normal means — journals written near it lose ink."
+  },
+  "lore": {
+    "title": "The Stillborn Sky",
+    "quote": "The wind gave up. It became still.",
+    "flavor_description": [
+      "A hush made flesh, wearing wings that no longer lift",
+      "Its wings are torn, trailing threads of faded hue."
+    ],
+    "field_notes": [
+      "It didn’t fall.\nThe sky simply stopped lifting it.",
+      "",
+      "When the Prism cracked, there were angels of color — fragments given shape by grief and wind. This was one.",
+      "",
+      "The Feathered Null was born not in flight, but in forgetting how flight felt.",
+      "",
+      "Its wings bear no color. Its voice no echo. It moves where the wind used to be.",
+      "",
+      "Glaucous said it hovered outside her cliffs for three nights, silent — not a threat. Just watching. Measuring.",
+      "",
+      "And when it left… the storm forgot how to speak for a day.",
+      "",
+      "We believe it is not hostile. But we are not sure it remembers how to be kind.",
+      "",
+      "— Archivist Lethara, Keeper of Unseen Currents"
+    ],
+    "source": "Transcription from the Glaucous Feather Shrine"
+  },
+  "drops": []
+}

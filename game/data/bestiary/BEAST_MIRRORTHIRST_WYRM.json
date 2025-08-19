@@ -1,0 +1,33 @@
+{
+  "id": "BEAST_MIRRORTHIRST_WYRM",
+  "entry": {
+    "name": "Mirrorthirst Wyrm",
+    "type": "Mirage Predator / Illusory Leviathan",
+    "threat_level": "⚠️ High – Terrain-dependent ambusher",
+    "first_emerged": "Post-Shattering; believed to have formed when mirage illusions solidified during a solar collapse event",
+    "description": "An immense serpentine creature, semi-transparent and refracting like broken glass submerged in water. It leaves undulating shimmer trails that pulse with radiant heat and light distortion.",
+    "hue_interaction": "Only surfaces in proximity to strong light sources or illusion spells\n\nImmune to direct fire damage — light fuels it\n\nReacts unpredictably to rhythmic movement (e.g. dance, music, timed traversal puzzles)",
+    "behavior": "Burrows just beneath desert surfaces, creating “liquid light wakes” — shimmering trails that ripple like reflections\n\nLures players toward false oasis markers before striking from below\n\nOnly fully vulnerable when surfaced, typically during high heat or if baited by illusion spells",
+    "weaknesses": "Can be lured by rhythmic gliding, illusion patterns, or mirror-based artifacts (e.g. Thulian Mirror)\n\nTemporarily vulnerable when emerging into true shadow — especially during solar eclipses or dusk phase events\n\nCannot cross pure darkness or zones entirely devoid of light-hue influence",
+    "notes": "Local sun-priests claim the Wyrm is the desert’s memory of the ocean — a dream of drowning transmuted into heat. Its shimmer isn’t just light — it’s thirst, searching for a reflection it once had and lost.\n\n“Step gently on sunlight. Something is watching its own reflection… through your shadow.”"
+  },
+  "lore": {
+    "title": "Sands Untrue",
+    "quote": "“It swam through light until it forgot the sky.”",
+    "flavor_description": [
+      "It swims through light, not sand",
+      "A serpentine mirage-beast that glides just below the desert’s surface — not through sand, but through warped, reflective light."
+    ],
+    "field_notes": [
+      "“They told me it was a heat shimmer. That you could outrun it.”",
+      "",
+      "“But the ground wasn’t hot. It was hollow. The shimmer twisted — like glass half-melted into water.”",
+      "",
+      "“Then the dune rose and I saw the teeth.”",
+      "",
+      "“You don’t kill a Mirrorthirst. You distract it with reflections of yourself and pray the real you gets away.”"
+    ],
+    "source": "Fragment from “Sands Untrue,” journal of Fulvous Hunter Jaxem Kresh"
+  },
+  "drops": []
+}

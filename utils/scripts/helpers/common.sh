@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # ===== Main Utility Script: common.sh =====
 # 
@@ -43,6 +43,7 @@
 # - project root (project-root.sh)  -> find_project_root
 # - opener (open-url.sh)            -> open_url
 # - spinner (spinner.sh)            -> start_spinner, stop_spinner
+# - input converter (case.sh)       -> 
 # ==============================
 
 # -------------------------------------------------------------------------

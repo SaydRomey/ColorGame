@@ -1,0 +1,30 @@
+{
+  "id": "BEAST_ALCHEMICAL_ECHO",
+  "entry": {
+    "name": "Alchemical Echo",
+    "type": "Aberrant Alchemical Remnant",
+    "threat_level": "⚠️⚠️ High – Unpredictable, Reality-Distorting",
+    "first_emerged": "Post-Shattering – Collapse of Auralith’s Outer Crucibles",
+    "description": "A twitching form suspended in semi-liquid transmutation — limbs and organs flicker between solid metals, crystalline growths, and bubbling compounds. Its voice shifts between arcane formulae and broken screams.",
+    "hue_interaction": "Caput Mortuum Phylactery stabilizes it briefly, allowing safe passage or conversation.\n\nViolet-bound players can interpret its unstable illusions to decode trapped spells.\n\nCobalt-bound players may reflect its chemical pulses back at it with correct timing.",
+    "behavior": "Wanders lab ruins and memory shrines, seeking raw components to complete itself.\n\nFires orbs of unstable potion energy that inflict randomized status swaps (e.g., healing turns to damage, dodge becomes stumble).\n\nMay attempt to “fuse” with the player on low health — initiates a struggle event.",
+    "weaknesses": "Highly susceptible to rhythm-based disruption or echo spells.\n\nStabilized briefly in areas touched by the Burnt Sienna Sculptor’s work.\n\nLoud sounds (e.g., shattering glass or specific chants) disorient its progression.",
+    "notes": "Some advanced alchemists can commune with the Echo using ancient elemental glyphs — though most who attempt it are either consumed… or remade. It is said one Echo remembers the face of the Ascetic — and weeps corrosive tears when it sees their sigil."
+  },
+  "lore": {
+    "title": "The Failed Transmutation",
+    "quote": "Some formulas aren't meant to be remembered.",
+    "flavor_description": [
+      "An unstable remnant of forgotten alchemy — part flesh, part formula, endlessly flickering between failure and result. Its body churns with mismatched transmutations and haunting chemical whispers."
+    ],
+    "field_notes": [
+      "“We were so close. Gold, perhaps. Or memory without pain. Or simply an end that didn’t unravel.”",
+      "",
+      "“The Alchemical Echo is not a monster. It is a sentence interrupted. A retort left boiling too long. It speaks in unfinished incantations and dreams in half-bonded reactions.”",
+      "",
+      "“Do not listen to it. Do not touch its trail. And above all, do not pity it. What it wants... is to finish becoming.”"
+    ],
+    "source": "Fragment from “Notes of the Hollow Crucible,” scribbled in ash by the Caput Mortuum Ascetic"
+  },
+  "drops": []
+}

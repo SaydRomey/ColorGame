@@ -1,12 +1,11 @@
 // gdext/src/{{LIB_NAME}}/{{CLASS_NAME}}.cpp
 
 #include "{{CLASS_NAME}}.h"
-// #include <godot_cpp/core/class_db.hpp>
 
 using namespace godot;
 
 /* Static function that Godot will call to find out which methods can be called and which properties it exposes
-** Bindings needed if we expose properties/methods to the editor/GDScript.
+** Bindings needed if we expose properties/methods/signals to the editor/GDScript.
 */
 void	{{CLASS_NAME}}::_bind_methods()
 {
@@ -26,9 +25,14 @@ void	{{CLASS_NAME}}::_bind_methods()
 
 void	{{CLASS_NAME}}::_ready()
 {
+	// Called when added to scene tree; do startup work here.
+
+	// If we use GDREGISTER_CLASS and not GDREGISTER_RUNTIME_CLASS, this prevents code from happening directly in the editor
 	const bool	in_editor = Engine::get_singleton()->is_editor_hint();
-	set_process(!in_editor);	// disable idle processing in editor
-	// set_physics_process(false);	// if we use _physics_process
+	set_process(!in_editor);				// disable idle processing in editor
+	
+	// set_physics_process(false);			// if we use _physics_process
+	
 	if (!in_editor)
 		UtilityFunctions::print(hello());	// visible confirmation in output
 }
@@ -40,7 +44,7 @@ void	{{CLASS_NAME}}::_process(double delta)
 	// 
 }
 
-
+// Example method you could call from GDScript:
 String {{CLASS_NAME}}::hello()
 {
 	return (_message);

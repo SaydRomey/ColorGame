@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # ===== Utility Script: open-url.sh =====
 # 
@@ -8,7 +8,7 @@
 # Fails cleanly otherwise.
 # 
 # Designed to be *sourced* (not executed)
-# ==============================
+# ======================================
 
 open_url() {
 	local url="${1:-}"

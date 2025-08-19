@@ -1,0 +1,29 @@
+{
+  "id": "BEAST_THE_BOUND",
+  "entry": {
+    "name": "The Bound",
+    "type": "Dormant Sentinels / Memory Constructs",
+    "threat_level": "⚠️ High (Only when triggered — reactive danger)",
+    "first_emerged": "Post-Prism Collapse, Nullshade Core Rebound",
+    "description": "The Bound are humanoid statues scattered throughout Nullshade. Each one is frozen in mid-movement — reaching, kneeling, shielding, or still. While most remain inert, some will stir if the player performs specific actions: attacking nearby, casting strong hue spells, or attempting to flee from memory puzzles.\n\nWhen awakened, The Bound do not chase — they anticipate. Their movement is slow, deliberate, and seemingly tied to the player’s rhythm or pause. They retaliate with delayed but devastating strikes that cannot be dodged traditionally — only predicted through silence and stillness.",
+    "hue_interaction": "Immune to all hue-based attacks.\n\nCan be weakened by memory-based artifacts like the Bistre Lantern or the Isabelline Tapestry.\n\nCalmed or bypassed by engaging with memory puzzles or reciting known truths.",
+    "behavior": "Linger motionless in groups — creating tense, uncanny spaces.\n\nOnly one in a group typically animates at a time.\n\nMay mimic player movement seconds after it occurs — mimicking decision-making rather than motion.",
+    "weaknesses": "Temporarily deactivated through full dialogue confession (truth mechanics).\n\nOnly vulnerable while reciting remembered dialogue options — during these moments, a shimmer reveals a hollow core.\n\nAvoids areas where the player carries false names or unclaimed memories.",
+    "notes": "In proximity to The Bound, audio muffles and time subtly distorts — causing a surreal pause effect.\n\nWhen defeated, The Bound collapse into dust, leaving behind one whisper:\n\n> “You remembered too loudly.”"
+  },
+  "lore": {
+    "title": "Fragment from “Etchings of the Silent Monolith”",
+    "quote": "\"We called them guardians, once. Remnants of the Prismara who refused hue. But I think now... they were simply those who saw too much.\"",
+    "flavor_description": [
+      "They stood still long enough… and became silence."
+    ],
+    "field_notes": [
+      "\"We called them guardians, once. Remnants of the Prismara who refused hue. But I think now... they were simply those who saw too much.\"",
+      "\"You can hear them when you're not looking — feel your memories tighten in your chest like a thread pulling taut. They don't scream. They remember for you.\"",
+      "\"One bowed as I passed. The other raised a hand. Neither moved again. That night I dreamed of a battlefield I had never seen. I woke with my hands bruised — fingers curled like stone.\"",
+      "\"If silence had a form, it would kneel beside them.\""
+    ],
+    "source": "Archivist Reiss, “Final Echoes of the Core”"
+  },
+  "drops": []
+}

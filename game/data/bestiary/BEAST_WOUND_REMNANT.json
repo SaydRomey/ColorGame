@@ -1,0 +1,28 @@
+{
+  "id": "BEAST_WOUND_REMNANT",
+  "entry": {
+    "name": "Wound Remnant",
+    "type": "Coreborn Echo / Memory Entity",
+    "threat_level": "⚠️ High (Environmental Distortion)",
+    "first_emerged": "At the Prism Shattering",
+    "description": "A humanoid construct of light-fissured crystal, limping unnaturally, its joints misaligned. It emits ghost-white flashes as it moves, temporarily distorting the environment — UI stutters, visual frames glitch, terrain deconstructs briefly.\n\nIts core pulses with a delayed heartbeat — if it syncs with yours, a fragment of your HUD is lost until reset.",
+    "hue_interaction": "Damaging it with any hue magic causes it to resonate in that color briefly — after which it mirrors that hue’s weakness.\n\nMost susceptible to Brown and Purple — memory and paradox destabilize its frame.",
+    "behavior": "Slowly patrols the Prism Wound region.\n\nAttacks by stepping into proximity — causing echo pulses that stagger and blind.\n\nPeriodically emits a “light bleed” — briefly fades the screen to white and removes HUD elements.",
+    "weaknesses": "Memory artifacts like the Bistre Lantern anchor its location, preventing phasing.\n\nViolet’s Illusion Clone causes it to mimic a false version of you and momentarily collapse.\n\nCrimson damage (if timed correctly) during its “pulse sync” can fracture its memory spine.",
+    "notes": "Sometimes whispers past player dialogue lines during whiteout pulses — lines you may have said earlier in the game.\n\nAfter defeat, leaves behind a “Cracked Memory Core” — required to access the deepest level of the Prism Wound."
+  },
+  "lore": {
+    "title": "Charred field notes from Prismara Chronologer Tyelus Vane",
+    "quote": "\"It emerged the moment the Core shattered. A figure, not whole — walking without footsteps. Light poured from its ribs, but it was cold.\"",
+    "flavor_description": [
+      "It bled light. Now it bleeds memory."
+    ],
+    "field_notes": [
+      "\"It didn’t speak. But I heard it. Not sound — absence. Every time I tried to write, the ink vanished.\"",
+      "\"My companion reached out. His hand glowed. Then it was gone. Then he was.\"",
+      "\"The Wound Remnant is not a being. It is an afterimage of agony too large to stay still. You don’t kill it. You just outlast the part of yourself it remembers.\""
+    ],
+    "source": "Prismara Chronologer Tyelus Vane notes"
+  },
+  "drops": []
+}

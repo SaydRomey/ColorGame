@@ -1,0 +1,35 @@
+{
+  "id": "BEAST_LAVA_FUSED_BEHEMOTH",
+  "entry": {
+    "name": "Lava-Fused Behemoth",
+    "type": "Elemental Beast / Obsidian Juggernaut",
+    "threat_level": "⚠️ Extreme – Environmental Hazard & Area Denial",
+    "first_emerged": "Deepflare Surge, Post-Prism Fracture",
+    "description": "Massive quadruped coated in obsidian plates and glowing faultlines.\n\nTrails lava where it walks. Each footfall leaves behind burning terrain.\n\nRoars cause stone to crack and nearby players to stagger.",
+    "hue_interaction": "Immune to Crimson fire — actually strengthened by it (triggers lava bursts).\n\nReacts negatively to Cobalt chill or steam-based attacks, causing armor plates to crack.\n\nEarthen stonebind can briefly root its limbs, though only at weak spots.",
+    "behavior": "Patrols molten ravines or dormant calderas.\n\nMoves slow unless provoked — then charges explosively in a straight line.\n\nBreathes gouts of flame from spinal vents. Occasionally triggers lava floods that force repositioning.",
+    "weaknesses": "Molten vent on its upper back glows when overcharged — vulnerable for a few seconds.\n\nTemporarily immobilized by cooled terrain (player can freeze lava paths beneath it).\n\nDislikes sonic vibrations — resonance from seismic runes or drum spells can destabilize footing.",
+    "notes": "Behemoths do not die easily. Those who fell one say it doesn’t scream — it sighs, as if disappointed the world still resists burning. In certain temples, its silhouette is worshipped as a god that never needed worship — only room to rage."
+  },
+  "lore": {
+    "title": "The Embercrowned",
+    "quote": "Born in magma. Tempered by wrath.",
+    "flavor_description": [
+      "Massive quadruped coated in obsidian plates and glowing faultlines.",
+      "Trails lava where it walks. Each footfall leaves behind burning terrain."
+    ],
+    "field_notes": [
+      "“We did not create it. We unburied it.”",
+      "",
+      "“They say the Lava-Fused was born from beneath — a beast the size of a siege tower, resting in magma until rage woke it. Not a dragon, not a titan — just the shape fire chose to wear.”",
+      "",
+      "“Its back vents fury. Its breath melts spears. The earth bends around it. Nothing in Vireya moves so slowly — or kills so fast.”",
+      "",
+      "“Some Ember Priests believe it carries a buried heart — the first fire, unquenched and still dreaming of destruction. Others say it has no heart. That’s why it burns so loud.”",
+      "",
+      "— Translation by Elarin Flintwake, shortly before the Furnace Maw collapsed"
+    ],
+    "source": "Chiseled into a broken obsidian tablet near the Furnace Maw"
+  },
+  "drops": []
+}

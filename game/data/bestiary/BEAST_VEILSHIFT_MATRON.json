@@ -1,0 +1,29 @@
+{
+  "id": "BEAST_VEILSHIFT_MATRON",
+  "entry": {
+    "name": "Veilshift Matron",
+    "type": "Boss-Class Illusionist / Spatial Weaver",
+    "threat_level": "⚠️⚠️⚠️ Major – Terrain & Memory Manipulation",
+    "first_emerged": "Following the Withering of the Dreamroot Grove",
+    "description": "Towering figure cloaked in violet petals and lacewoven mist.\n\nHer face flickers between motherly warmth and blank mask.\n\nThe ground shifts behind her like a curtain drawn on memory.",
+    "hue_interaction": "Weak to Cobalt’s Mind Echo during moments of doubt — reveals the “true map” for a short time.\n\nViolet-bound players can attempt to mimic her shifts to counter terrain changes.\n\nAurelian light distorts her illusions briefly, but enrages her.",
+    "behavior": "Teleports during dodges, shifting arena tiles with her.\n\nCan swap positions of the player and their illusion.\n\nMid-fight phase change: she calls out a false name — if the player responds incorrectly, the arena “blooms,” scattering into 6 mirrored fragments.",
+    "weaknesses": "When she hesitates (after whispering a name), her mask cracks — that’s the moment to strike.\n\nUsing Thulian Mirror reveals the real terrain for 6 seconds.\n\nCan be stalled by walking backward — illusion paths often assume forward progress.",
+    "notes": "Defeating the Matron unlocks a path deeper into Myrrala — the Bloomfold Archive, a shifting dream-library of forgotten identities.\n\nPlayers who beat her while illusion-bound may gain the title \"Pathless Pilgrim.\""
+  },
+  "lore": {
+    "title": "Gardenstone Tablet, Bloomfold Spiral",
+    "quote": "\"She was once a gardener. Then she began pruning time.\"",
+    "flavor_description": [
+      "You’re in her garden now. She decides where the paths go."
+    ],
+    "field_notes": [
+      "\"She was once a gardener. Then she began pruning time.\"",
+      "\"The Matron remained — but the paths began to obey her fears instead of her wishes.\"",
+      "\"She now tends the bloompaths alone, warping the land to protect pilgrims from truths too sharp.\"",
+      "\"Or perhaps she simply wants you to get lost with her.\""
+    ],
+    "source": "Liseran Caretaker, “Elegy for the Wayward”"
+  },
+  "drops": []
+}

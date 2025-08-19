@@ -1,0 +1,34 @@
+{
+  "id": "BEAST_RAZZFLARE_IMP",
+  "entry": {
+    "name": "Razzflare Imp",
+    "type": "Fey Trickster / Chaos Elemental",
+    "threat_level": "⚠️ Moderate – Mentally Disruptive, Not Durable",
+    "first_emerged": "A failed glamour experiment under the Blooming Veil",
+    "description": "These volatile little fey are the chaotic laughter of Myrrala made manifest. They move in unpredictable patterns, warp HUD elements, and cast minor illusion spells that disrupt combat flow.\n\nTheir fire is more confusion than flame — it burns consistency, not skin.",
+    "hue_interaction": "Weak to harmonic pulses — music-based artifacts like the Razzmatazz Drum.\n\nCan be stunned briefly with Aurelian Light Trick or Cobalt Static Dash.\n\nImmune to fear, silence, or logic.",
+    "behavior": "Dart in and out of combat, leaving trails of visual glitches (e.g. reversed movement, delayed input feedback).\n\nCast Illusion Bursts that momentarily replace the player’s form with that of nearby enemies or objects.\n\nUpon defeat, may release a Glamour Pulse that causes one random effect (good or bad).",
+    "weaknesses": "Vulnerable to rhythmic timing — striking them on beat cancels their illusion field.\n\nEasily distracted by mirrored surfaces or echo chambers.\n\nTemporarily grounded if struck while mid-laugh.",
+    "notes": "Their laughter echoes in some dream-recordings. Scholars believe Razzflare Imps are drawn to places where reality is worn thin by joy or grief.\nDespite their danger, some mages keep them as familiars — or try to."
+  },
+  "lore": {
+    "title": "Notes of Mauveine Spark",
+    "quote": "“It giggles in your blind spot. That’s when it strikes.”",
+    "flavor_description": [
+      "Tiny fey creature wrapped in ribbons of illusion fire.",
+      "Uses chaotic glamour to scramble the player's senses.",
+      "Appears in bursts of pink and purple sparks, laughing."
+    ],
+    "field_notes": [
+      "“Yes, yes, I made it. But I didn’t teach it to laugh.”",
+      "",
+      "“The Razzflare wasn’t born. It burst into being — a byproduct of an unstable glamour brew during one of my more... dazzling accidents.”",
+      "",
+      "“They’re tricksters, sure, but my tricksters. Pink flames. Inverted shadows. Laughter that bends mirrors. They mess with minds because they don’t understand shape...”",
+      "",
+      "“If you hear giggling where there should be silence, it’s already too late.”"
+    ],
+    "source": "From the Notes of Mauveine Spark"
+  },
+  "drops": []
+}

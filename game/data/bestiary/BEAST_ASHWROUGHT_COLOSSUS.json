@@ -1,0 +1,29 @@
+{
+  "id": "BEAST_ASHWROUGHT_COLOSSUS",
+  "entry": {
+    "name": "Ashwrought Colossus",
+    "type": "Obsidian-Fused Giant / Ash Titan",
+    "threat_level": "⚠️⚠️ Extreme – Area-Denial, Environmental Reshaping",
+    "first_emerged": "During the Third Emberwake",
+    "description": "A towering giant formed from layered volcanic glass, fused ash, and molten sorrow. Each step reshapes the battlefield, leaving trails of slow-burning ground and erupting embers.",
+    "hue_interaction": "Unstable around Vermilion and Burnt Sienna hues. Contact with Crimson-imbued relics may cause it to fracture and enter an enraged state.",
+    "behavior": "Patrols volcanic ruins with slow, deliberate movements. Slams the ground to release pyroclastic waves. Periodically collapses, reforming from ash shortly after.",
+    "weaknesses": "Vulnerable to resonance-based seismic spells and ancient cooling chants. Fractures under its own rage if baited into overexertion.",
+    "notes": "Legends say it was once a mountain-top guardian, mourning a sunken city. Some claim you can still hear bells when it raises its arms — bells from a temple long buried in ash."
+  },
+  "lore": {
+    "title": "Ashwrought Colossus – Emberwake Monument",
+    "quote": "\"It carries a city’s grief in its chest.\"",
+    "flavor_description": [
+      "Each footstep echoes like a funeral drum across broken obsidian plains.",
+      "Flames flicker through its cracks — not of fire, but of memory igniting."
+    ],
+    "field_notes": [
+      "We tried to outrun it. That was foolish. It doesn’t chase — it buries.",
+      "Wherever it steps, something is erased.",
+      "We found carvings inside its chestplate. Not glyphs. Names. Hundreds of them, worn away by soot."
+    ],
+    "source": "Etched excerpts from the Emberwake Expeditions"
+  },
+  "drops": []
+}

@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # ===== Utility Script: ansi-colors.sh =====
 # 
@@ -7,7 +7,7 @@
 # Honors NO_COLOR=1 (or non-TTY) to disable colors automatically.
 # 
 # Designed to be *sourced* (not executed)
-# ==============================
+# ==========================================
 
 # If NO_COLOR=1 or stdout isn't a TTY, strip all colors.
 : "${NO_COLOR:=0}"

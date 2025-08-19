@@ -1,10 +1,15 @@
 #!/usr/bin/env bash
-# utils/scripts/test-common-utils.sh
+# File: utils/scripts/test-common-utils.sh
+
 set -Eeuo pipefail
 
 # ===== Script: test-common-utils.sh =====
-# This script exercises *all* helpers sourced via helpers/common.sh.
+# 
+# Script to test all shared utilities
+# 
+# ----------------------------------------------------------------------------
 
+# -------- Shared utility sourcing -------------------------------------------
 # Locate the project root via '.project-root' or '.git'
 find_project_root() {
 	local dir="$PWD"
@@ -20,6 +25,10 @@ PROJECT_ROOT="$(find_project_root)" || exit 1
 
 # Source all shared utilities through the aggregator
 source "$PROJECT_ROOT/utils/scripts/helpers/common.sh"
+# ----------------------------------------------------------------------------
+
+# -------- Script logic starts here ------------------------------------------
+echo -e "\nTesting all shared utility functions\n"
 
 # -------- logging.sh --------------------------------------------------------
 
@@ -28,11 +37,6 @@ log_info     "This is an info message"
 log_warn     "This is a warning"
 log_error    "This is an error (goes to stderr)"
 log_success  "This is a success message"
-# ==============================
-# log_info     "info (no ts)"
-# log_warn     "warn (no ts)"
-# log_success  "success (no ts)"
-# log_error    "error (no ts)"
 # ==============================
 (
 	LOG_TS=true
@@ -55,8 +59,7 @@ ts_pop
 
 # back to no timestamps
 log_info "info (back to no ts)"
-# ==============================
-
+# ----------------------------------------------------------------------------
 
 # -------- spinner.sh --------------------------------------------------------
 start_spinner "Simulating success..."
@@ -69,6 +72,7 @@ start_spinner "Simulating failure..."
 sleep 2
 false || true     # keep script running
 stop_spinner $?   # expect ✗
+# ----------------------------------------------------------------------------
 
 # -------- fs.sh: ensure_dir, exists, ensure_executable ----------------------
 BUILD_DIR="$PROJECT_ROOT/build"
@@ -121,6 +125,7 @@ log_info "mktemp_dir -> ${BBLUE}$TMP_ONE${NC}"
 )
 # After subshell exits, CG_TMPDIR should be gone; we can’t reference its value here,
 # but we can at least show the mechanism worked by not erroring.
+# ----------------------------------------------------------------------------
 
 # -------- project-root.sh: locate_project_root -------------------------------
 ROOT_FROM_HELPER="$(locate_project_root)"
@@ -129,6 +134,7 @@ if [[ "$ROOT_FROM_HELPER" == "$PROJECT_ROOT" ]]; then
 else
   log_warn "find_project_root mismatch: script=$PROJECT_ROOT helper=$ROOT_FROM_HELPER"
 fi
+# ----------------------------------------------------------------------------
 
 # -------- realpath_fallback -------------------------------------------------
 # Make a relative path and resolve it
@@ -138,6 +144,7 @@ ABS2="$(realpath_fallback "$TMP_SCRIPT")"
 log_info "realpath_fallback('$REL_PATH') -> ${CYAN}$ABS1${NC}"
 log_info "realpath_fallback('$TMP_SCRIPT') -> ${CYAN}$ABS2${NC}"
 [[ "$ABS2" == "$ABS1" ]] && log_success "realpath_fallback resolves consistently"
+# ----------------------------------------------------------------------------
 
 # -------- prompt.sh: yes_no and select_menu --------------------------------
 # 
@@ -161,3 +168,4 @@ else
 fi
 
 log_success "All utility tests completed."
+# ----------------------------------------------------------------------------

@@ -2,6 +2,8 @@
 # ==============================
 ##@ 🌳 File Structure
 # ==============================
+ifndef __TREE_MK__
+__TREE_MK__ := 1
 
 # Outfile for 'tree' command
 TREE_OUTFILE	:= tmp_tree.txt
@@ -11,8 +13,8 @@ TREE_OUT		:= -n -o $(TREE_OUTFILE)
 # ^godot-cpp$: hides contents of godot-cpp while still showing the directory
 
 # 'tree' command options (uncomment variables to activate)
-TREE_IGNORES	:= -I '.git|.godot|*.uid|docs|tmp*'
-# TREE_IGNORES	:= -I '.git|.godot|*.uid|*.os|godot-cpp|docs|tmp*'
+# TREE_IGNORES	:= -I '.git|.godot|*.uid|docs|tmp*'
+TREE_IGNORES	:= -I '.git|.godot|*.uid|*.os|godot-cpp|docs|tmp*'
 TREE_ALL		:= -a
 # TREE_PERMS	:= -p
 # TREE_PRUNE		:= --prune
@@ -47,3 +49,5 @@ tree-clean: ## Remove 'tree' outfile
 	fi
 
 .PHONY: tree tree-log tree-cleen
+
+endif # __TREE_MK__

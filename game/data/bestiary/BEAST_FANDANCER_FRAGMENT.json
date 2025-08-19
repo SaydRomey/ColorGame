@@ -1,0 +1,35 @@
+{
+  "id": "BEAST_FANDANCER_FRAGMENT",
+  "entry": {
+    "name": "Fandancer Fragment",
+    "type": "Illusion / Combat Echo",
+    "threat_level": "⚠️ High – Pattern-locked Duelist Trap",
+    "first_emerged": "The ruins of the Passion Stage, Myrrala",
+    "description": "Illusory echo of a performer who once danced and dueled to a roaring crowd.\n\nFlickers like candlelight — always mid-performance.\n\nHer every move is rhythmic, deadly, and beautiful.",
+    "hue_interaction": "Neutral to most damage unless the player matches or disrupts her rhythm.\n\nCobalt’s Mind Echo can copy her next move for perfect parry timing.\n\nViolet’s Illusion Clone lets the player “dance with her” safely from a distance.",
+    "behavior": "Leaves glowing footstep markers that emit afterimages if followed in rhythm.\n\nCan lock the player in a duet, forcing movement input to match her tempo or suffer damage.\n\nMid-fight, she may “bow” and reset her combo — this is your chance to break her rhythm with a disruptive hue.",
+    "weaknesses": "Her illusion falters if the Rhythm Loop is broken (step out of her range mid-pattern).\n\nVulnerable to sudden tempo shifts — Aurelian Radiant Echo or Mauveine Flask can destabilize her choreography.\n\nMask shatters briefly when hit during her “bow” animation — that’s her true face.",
+    "notes": "Defeating her grants a Spectral Footwork Fragment, which lets the player mimic stylish attacks during future duels.\nSome players report hearing faint applause when they strike her final blow."
+  },
+  "lore": {
+    "title": "Echo of the Passion Stage",
+    "quote": "Her steps are sorrow. Her blade is applause.",
+    "flavor_description": [
+      "She’s still on stage, even if the stage burned down.",
+      "Illusory echo of a performer who once danced and dueled to a roaring crowd."
+    ],
+    "field_notes": [
+      "“When the crowd stopped clapping, she danced louder.”",
+      "",
+      "“The Passion Stage once crowned duelists who fought with flair, each move a flourish, each wound a signature.\nFandango Duelstar was its final champion — a blur of glitter and blood, adored and feared. But when silence fell upon the Stage, she refused to stop.”",
+      "",
+      "“Now, only her shadow remains: the Fandancer Fragment. A looped echo of her last encore.\nShe duels no one. She performs to no crowd. Her blade still sings, but the music is memory.”",
+      "",
+      "“Step into her rhythm, and she welcomes you like a partner.\nMismatch her tempo, and you die offbeat.”",
+      "",
+      "— Maskkeeper of the Liseran Shrine"
+    ],
+    "source": "From the Carved Masks of the Passion Stage"
+  },
+  "drops": []
+}

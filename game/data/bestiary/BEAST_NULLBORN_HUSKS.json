@@ -1,0 +1,37 @@
+{
+  "id": "BEAST_NULLBORN_HUSKS",
+  "entry": {
+    "name": "Nullborn Husk",
+    "type": "Aberration / Colorless Horror",
+    "threat_level": "⚠️ Moderate - Highly Disruptive to Hue-Bound Players",
+    "first_emerged": "Post-Shattering Era",
+    "description": "When the Prism shattered, it did not just scatter hues — it tore color from beings too close to the explosion. The Nullborn Husks are the result: creatures not dead, but unmade.\n\nTheir eyes are black wells of absence, their skin like dried ash, their voices a rasp of forgotten names. They crawl rather than walk, twitching with phantom memories of what they once were.",
+    "hue_interaction": "Immune to color-based manipulation.\n\nProximity distorts Hue UI and disables passive color regen.\n\nContact may cause Hue Drain: temporarily strips player of active hue-binding.",
+    "behavior": "Drawn to strong hues and relics.\n\nOften found near shattered color sites, old ritual grounds, or corrupted relics.\n\nAvoid light but are not harmed by it.",
+    "weaknesses": "Vulnerable to Crimson flame and Earthen decay.\n\nMomentarily stunned by Memory Echo effects (Cobalt or Earthen).",
+    "notes": "Whispers suggest these husks still \"remember\" color.\n\nSome report hearing their own voices echoed back moments before an attack."
+  },
+  "lore": {
+    "title": "The Scroll of [placeholder]",
+    "quote": "“They are not undead. They are unmade…”",
+    "flavor_description": [
+      "Twitching creatures with void-filled eyes",
+      "They emit a faint color static, a sound like someone whispering a name you've forgotten."
+    ],
+    "field_notes": [
+      "“I write this in root-ink, though I know not if ink can hold what I must say.”",
+      "",
+      "“They came after the Core broke — crawling things, pale and featureless, like clay left out too long. But they were not blank. No… they were hollowed. I watched a beast shudder and fall, not from wound, but from forgetting itself entirely.”",
+      "",
+      "“One touched my companion, and in an instant her eyes dimmed. She forgot her name. Forgot mine. When I wept for her, the husk smiled. It had taken something — not her blood, not her life, but her hue.”",
+      "",
+      "“I believe they were once like us. Carriers of color. When the Prism ruptured, they were caught in the lightless tide that followed — and in that moment, they were rewritten by absence.”",
+      "",
+      "“We call them Nullborn, but that name is a mercy. They are not born. They are what's left when all birth, all memory, all color has bled out.”",
+      "",
+      "“If you see one, do not speak. They remember sounds. If you feel yourself forgetting, run. And if you hear your name from their mouths — it is already too late.”"
+    ],
+    "source": "From the Scroll of [placeholder], Last Verdant Archivist"
+  },
+  "drops": []
+}

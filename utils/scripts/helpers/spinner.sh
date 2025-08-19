@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
 # (wip)
-# 
 # **TODO: Handle stopping the spinner on failure..
 # 
 # - Support inline updates (update_spinner_text) 
@@ -21,7 +20,7 @@
 # Optionally set SPINNER_TEXT beforehand for default text
 # 
 # Designed to be *sourced* (not executed)
-# ==============================
+# ======================================
 
 # Spinner characters
 _SPINNER_CHARS='-\|/'

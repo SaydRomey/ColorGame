@@ -1,0 +1,29 @@
+{
+  "id": "BEAST_SOOTSHADE_COLLECTOR",
+  "entry": {
+    "name": "Sootshade Collector",
+    "type": "Ashbound Specter / Memory Leech",
+    "threat_level": "⚠️ Moderate to High – Emotionally destabilizing",
+    "first_emerged": "Ash Year 4, after the Ember-Library Collapse",
+    "description": "A faceless figure stitched from charred parchment and drifting ash, the Sootshade glides silently through ruins — gathering fragments of scorched memory and half-burnt truth.\n\nCarries ash-scrolls in trailing ribbons; each contains the echo of a forgotten moment, relived by force.",
+    "hue_interaction": "- Immune to fire and Crimson-based aggression.\n- Amplifies lingering dialogue ghosts from Violet-aligned encounters.\n- Neutralized temporarily by the Bistre Lantern’s glow.",
+    "behavior": "- Casts a black fog that replays memory fragments (cutscenes or flashbacks).\n- May paralyze the player mid-battle by echoing key past dialogue.\n- Hovers near burnt notes or ash-covered artifacts, trying to \"read\" them.",
+    "weaknesses": "- Vulnerable to silence spells, especially from Verdant or Violet sources.\n- Disperses briefly when caught in the light of the Bistre Lantern or reflective glyphs.\n- Becomes unstable when the player speaks truth during a forced memory sequence.",
+    "notes": "Sootshades leave behind “Ash-Bound Pages” — rare consumable scrolls that reveal one hidden event or decision the player has forgotten. Using one rewrites the memory log... at a cost."
+  },
+  "lore": {
+    "title": "Notes from the Bistre Archivist, smudged but intact",
+    "quote": "“Not all things burned are lost. Some simply migrate.”",
+    "flavor_description": [
+      "It gathers what the fire couldn't erase"
+    ],
+    "field_notes": [
+      "“Not all things burned are lost. Some simply migrate.”",
+      "“The Sootshade comes not to kill, but to recall. To trap you in a page you never turned — and make you read it aloud.”",
+      "“One stepped into my archive once. It didn’t walk. It lingered. When it passed, an entire section of blackened scrolls whispered back into ink — confessions no one meant to leave behind.”",
+      "“They do not judge. But they never forget. And memory, when weaponized, burns colder than any fire.”"
+    ],
+    "source": "Notes from the Bistre Archivist, smudged but intact"
+  },
+  "drops": []
+}

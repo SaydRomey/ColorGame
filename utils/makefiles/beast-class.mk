@@ -4,6 +4,9 @@
 # ==============================
 ##@ 🐾 Beast stub generator
 # ==============================
+ifndef __BEAST_CLASS_MK__
+__BEAST_CLASS_MK__ := 1
+
 BESTIARY_HEADER		?= ./inc/BestiaryIDs.hpp
 BEAST_INC_DIR		:= $(INC_DIR)/enemies
 BEAST_SRC_DIR		:= $(SRC_DIR)/enemies
@@ -103,3 +106,5 @@ all-beasts: ## Auto-generate stub classes for all BestiaryIDs
 		echo "Generated: $$classname"; \
 	done
 	@$(call SUCCESS,Beast Class,All beast stubs generated.)
+
+endif # __BEAST_CLASS_MK__

@@ -1,0 +1,33 @@
+{
+  "id": "BEAST_BLOOMVEIL_WIDOW",
+  "entry": {
+    "name": "Bloomveil Widow",
+    "type": "Illusionary Arachnid / Dream-Weaver",
+    "threat_level": "⚠️ High — Vulnerability Through Charm and Webs",
+    "first_emerged": "Born from nightmares woven into Myrrala's blooms",
+    "description": "The Bloomveil Widow is a spectral predator created from the collective dreams of the fey. As much a trickster as a predator, she weaves charming webs that ensnare both mind and body.\n\nHer charm pheromones cause those who enter her lair to grow lethargic or entranced, before she strikes.",
+    "hue_interaction": "Immune to Cobalt's Mind Echo and Verdant's Root Pulse due to her illusionary nature.\n\nCan be unmasked by Violet Illusion Clone or Thulian Mirror.\n\nLight-based spells disrupt her webs temporarily, revealing her true form.",
+    "behavior": "Initially appears as a calming presence, offering assistance or guidance through pheromones.\n\nIf the player gets too close, her charming webs trap the player in dream loops, requiring timed escapes.\n\nTeleports short distances via web threads, dropping multiple webs as she dances.\n\nThe player must disrupt her rhythm by attacking when her webs are weak.",
+    "weaknesses": "Vulnerable when her real form is exposed — requires Thulian Mirror or Violet Bound to trigger.\n\nCan be silenced using Cobalt's Mind Echo or Aurelian's Light Trick.\n\nAttacks fail to charm if Heliotrope Band is equipped.",
+    "notes": "Her webs may trap past memories in physical form, forcing the player to confront emotional barriers. Players who face her may experience a deep connection with past regrets or lost dreams. The webs leave a lingering sense of déjà vu."
+  },
+  "lore": {
+    "title": "The Web of Dreams",
+    "quote": "The silence between the threads is louder than her bite.",
+    "flavor_description": [
+      "A floating, spider-like entity woven from living silk, petals, and bioluminescence.",
+      "Teleports using webs of silk to create traps and choke points."
+    ],
+    "field_notes": [
+      "“I found her first, but she spoke in threads.”",
+      "",
+      "“Her webs never cease weaving. They are grown from moments left unresolved. Long-forgotten dreams. Pains she once whispered to me, and I believed her.”",
+      "",
+      "“Do not speak to her. She wears promises, but never gives them back.”",
+      "",
+      "— Wisteria Enchantress, evening twilight, in the dance of dreams"
+    ],
+    "source": "From the Wisteria Enchantress' Lament"
+  },
+  "drops": []
+}

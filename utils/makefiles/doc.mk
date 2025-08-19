@@ -2,6 +2,8 @@
 # ==============================
 ##@ 📚 Documentation
 # ==============================
+ifndef __DOC_MK__
+__DOC_MK__ := 1
 
 # Path for Generated Make Targets Document
 TARGET_README	:= README_make_targets.md
@@ -73,3 +75,5 @@ help-md: ## Generate markdown documentation for all Make targets
 	' $(MAKEFILE_LIST) >> $(TARGET_README); \
 	echo "\n📄 Generated at $$(date)" >> $(TARGET_README); \
 	$(call SUCCESS,Docs,Markdown Makefile target index generated)
+
+endif # __DOC_MK__
