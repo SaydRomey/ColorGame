@@ -3,16 +3,22 @@
 [ext_resource type="Script" uid="uid://4wetmbr56o54" path="res://scripts/main.gd" id="1_0xm2m"]
 [ext_resource type="Texture2D" uid="uid://chtr162art3f1" path="res://icon.svg" id="1_ig7tw"]
 
-[node name="Main" type="Node"]
+[node name="Main" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
 script = ExtResource("1_0xm2m")
 
 [node name="GDExample" type="GDExample" parent="."]
+visible = false
 position = Vector2(16.8185, 12.2085)
 texture = ExtResource("1_ig7tw")
 centered = false
 
 [node name="Colortest" type="Colortest" parent="."]
 color = Color(0.636166, 0.348005, 0.864443, 1)
+visible = false
 position = Vector2(260.101, 293.045)
 
 [node name="Greetings" type="Greetings" parent="."]

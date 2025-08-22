@@ -12,7 +12,7 @@ namespace BestiaryFormat
 	godot::String	format_console(const BeastData& d);
 
 	// BBCode for a RichTextLabel page
-	godot::String	format_bbcode(const BeastData& d);
+	godot::String	format_bbcode(const BeastData& d); // optional, currently same as console
 }
 
 #endif // BESTIARY_FORMAT_HPP

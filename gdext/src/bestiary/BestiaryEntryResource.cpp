@@ -3,19 +3,14 @@
 #include "BestiaryEntryResource.h"
 #include "BestiaryFormat.hpp"
 
-#include <vector>
-
 using namespace godot;
 
 void	BestiaryEntryResource::_bind_methods(void)
 {
-	// test
-	ClassDB::bind_method(D_METHOD("format_console"), &BestiaryEntryResource::format_console);
-
 	// Actions
 	ClassDB::bind_method(D_METHOD("load_from_file", "path"), &BestiaryEntryResource::load_from_file);
 
-	// Getters you call from GDScript
+	// Getters to call from GDScript
 	ClassDB::bind_method(D_METHOD("get_id"), &BestiaryEntryResource::get_id);
 	ClassDB::bind_method(D_METHOD("get_name"), &BestiaryEntryResource::get_name);
 	ClassDB::bind_method(D_METHOD("get_type"), &BestiaryEntryResource::get_type);
@@ -26,21 +21,19 @@ void	BestiaryEntryResource::_bind_methods(void)
 	ClassDB::bind_method(D_METHOD("get_behavior"), &BestiaryEntryResource::get_behavior);
 	ClassDB::bind_method(D_METHOD("get_weaknesses"), &BestiaryEntryResource::get_weaknesses);
 	ClassDB::bind_method(D_METHOD("get_notes"), &BestiaryEntryResource::get_notes);
-
 	ClassDB::bind_method(D_METHOD("get_lore_title"), &BestiaryEntryResource::get_lore_title);
 	ClassDB::bind_method(D_METHOD("get_lore_quote"), &BestiaryEntryResource::get_lore_quote);
 	ClassDB::bind_method(D_METHOD("get_lore_flavor_description"), &BestiaryEntryResource::get_lore_flavor_description);
 	ClassDB::bind_method(D_METHOD("get_lore_field_notes"), &BestiaryEntryResource::get_lore_field_notes);
 	ClassDB::bind_method(D_METHOD("get_lore_source"), &BestiaryEntryResource::get_lore_source);
-
 	ClassDB::bind_method(D_METHOD("get_drops"), &BestiaryEntryResource::get_drops);
-
 	ClassDB::bind_method(D_METHOD("get_source_path"), &BestiaryEntryResource::get_source_path);
 
-	ADD_PROPERTY(
-		PropertyInfo(Variant::STRING, "_source_path", PROPERTY_HINT_FILE, "*.json"),
-		"", "get_source_path"
-	);
+	// Formatters
+	ClassDB::bind_method(D_METHOD("format_console"), &BestiaryEntryResource::format_console);
+	ClassDB::bind_method(D_METHOD("format_bbcode"), &BestiaryEntryResource::format_bbcode);
+
+	ADD_PROPERTY(PropertyInfo(Variant::STRING, "_source_path", PROPERTY_HINT_FILE, "*.json"), "", "get_source_path");
 }
 
 String	BestiaryEntryResource::to_gd(const std::string &s)
@@ -51,9 +44,7 @@ String	BestiaryEntryResource::to_gd(const std::string &s)
 PackedStringArray	BestiaryEntryResource::to_gd(const std::vector<std::string> &v)
 {
 	PackedStringArray							out;
-	std::vector<std::string>::const_iterator	it;
-	
-	it = v.begin();
+	std::vector<std::string>::const_iterator	it = v.begin();
 	while (it != v.end())
 	{
 		out.append(String::utf8(it->c_str()));
@@ -116,6 +107,11 @@ const BeastData&	BestiaryEntryResource::get_raw() const { return (_data); }
 String	BestiaryEntryResource::format_console() const
 {
 	return (BestiaryFormat::format_console(_data));
+}
+
+String	BestiaryEntryResource::format_bbcode() const
+{
+	return (BestiaryFormat::format_bbcode(_data));
 }
 
 // -----------------------------------------------------------------------------

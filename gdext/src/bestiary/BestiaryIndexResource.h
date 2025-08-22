@@ -4,14 +4,14 @@
 # define BESTIARY_INDEX_RESSOURCE_H
 
 # include "godot_includes.h"
-// # include "BestiaryIDs.hpp"
-// # include "BestiaryLookup.hpp" // (for enum mapping)
 
 # include <map>
 # include <string>
 
 namespace godot
 {
+	class BestiaryEntryResource;
+
 	class BestiaryIndexResource : public Resource
 	{
 		GDCLASS(BestiaryIndexResource, Resource)
@@ -23,14 +23,11 @@ namespace godot
 			String	threat;
 			String	json_path_res;	// res:// path
 			String	json_path_abs;	// OS path
-			// int		id_enum;
 		};
 
-		// // maps enum id -> metadata
-		// std::map<int, Meta>	by_id_;
-		// Map string id -> metadata
+		// Use std::string for the map key to avoid engine-type comparisons in libstdc++.
+		// std::map<std::string, Meta>	by_id_;
 		std::map<String, Meta>	by_id_;
-
 
 		protected:
 			static void	_bind_methods(void);

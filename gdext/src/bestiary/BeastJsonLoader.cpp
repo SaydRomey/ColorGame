@@ -13,7 +13,7 @@ namespace
 		return (obj.count(k) && !obj.find(k)->second.is<picojson::null>());
 	}
 
-	static	std::string	strOrEmpty(const picojson::object& obj, const std::string& k)
+	static std::string	strOrEmpty(const picojson::object& obj, const std::string& k)
 	{
 		if (hasKey(obj, k))
 			return (obj.find(k)->second.get<std::string>());

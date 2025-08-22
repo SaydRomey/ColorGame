@@ -5,8 +5,10 @@
 
 # include "godot_includes.h"
 # include "BeastJsonLoader.hpp"
+# include "BeastData.hpp"
 
 # include <string>
+# include <vector>
 
 
 namespace godot
@@ -65,6 +67,7 @@ namespace godot
 
 			// test: page formatter
 			String	format_console() const;
+			String	format_bbcode() const;
 			
 	};
 } // namespace godot

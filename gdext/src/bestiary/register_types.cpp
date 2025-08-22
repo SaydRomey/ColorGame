@@ -3,6 +3,7 @@
 #include "register_types.h"
 #include "BestiaryEntryResource.h"
 #include "BestiaryIndexResource.h"
+#include "godot_includes.h"
 
 using namespace godot;
 
@@ -11,17 +12,23 @@ void	initialize_bestiary(ModuleInitializationLevel p_level)
 {
 	if (p_level != MODULE_INITIALIZATION_LEVEL_SCENE)
 		return ;
+
+	UtilityFunctions::print("bestiary: initialize start");
 	
-		GDREGISTER_CLASS(BestiaryEntryResource);
-		GDREGISTER_CLASS(BestiaryIndexResource);
+	GDREGISTER_CLASS(BestiaryEntryResource);
+    UtilityFunctions::print("bestiary: registered BestiaryEntryResource");
+
+	GDREGISTER_CLASS(BestiaryIndexResource);
+    UtilityFunctions::print("bestiary: registered BestiaryIndexResource");
+
 }
 
-// Called on shutdown (scene tree level)
-// Called when Godot unloads our plugin
+// Called on shutdown (scene tree level), when Godot unloads our plugin
 void	uninitialize_bestiary(ModuleInitializationLevel p_level)
 {
 	if (p_level != MODULE_INITIALIZATION_LEVEL_SCENE)
 		return ;
+    UtilityFunctions::print("bestiary: uninitialize");
 }
 
 // Exported entry symbol (must match .gdextension's entry_symbol)
