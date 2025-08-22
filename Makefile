@@ -3,6 +3,7 @@
 #
 # script naming lint
 # 
+# cd game && godot --headless --path . --script res://scripts/test_loader.gd --verbose
 # **************************************************************************** #
 
 # ==============================

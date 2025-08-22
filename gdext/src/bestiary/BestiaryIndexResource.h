@@ -25,8 +25,6 @@ namespace godot
 			String	json_path_abs;	// OS path
 		};
 
-		// Use std::string for the map key to avoid engine-type comparisons in libstdc++.
-		// std::map<std::string, Meta>	by_id_;
 		std::map<String, Meta>	by_id_;
 
 		protected:
@@ -41,9 +39,6 @@ namespace godot
 
 			// List as Array<Dictionary> for UI
 			TypedArray<Dictionary>	list_entries(void) const;
-
-			// // Load one entry as a BestiaryEntryResource
-			// Ref<class BestiaryEntryResource>	load_entry_by_id(int id) const;
 
 			// Load one entry as a BestiaryEntryResource by string id
 		    Ref<class BestiaryEntryResource> load_entry_by_str_id(const String &id_str) const;

@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://o6t0xw03md3w"]
 
-[ext_resource type="Script" uid="uid://dyua4ju21wyik" path="res://ui/bestiary_viewer.gd" id="1_dmsfh"]
+[ext_resource type="Script" uid="uid://dyua4ju21wyik" path="res://ui/BestiaryViewer.gd" id="1_dmsfh"]
 
 [node name="Control" type="Control"]
 layout_mode = 3
@@ -23,6 +23,7 @@ custom_minimum_size = Vector2(260, 0)
 layout_mode = 2
 size_flags_horizontal = 3
 size_flags_vertical = 3
+theme_override_colors/guide_color = Color(0.420871, 0.447888, 0.166829, 1)
 
 [node name="Page" type="RichTextLabel" parent="HSplitContainer"]
 layout_mode = 2

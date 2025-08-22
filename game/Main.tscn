@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://4j6ab76k1a2a"]
 
-[ext_resource type="Script" uid="uid://4wetmbr56o54" path="res://scripts/main.gd" id="1_0xm2m"]
+[ext_resource type="Script" uid="uid://4wetmbr56o54" path="res://main.gd" id="1_0xm2m"]
 [ext_resource type="Texture2D" uid="uid://chtr162art3f1" path="res://icon.svg" id="1_ig7tw"]
 
 [node name="Main" type="Control"]
@@ -8,6 +8,8 @@ layout_mode = 3
 anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
 script = ExtResource("1_0xm2m")
 
 [node name="GDExample" type="GDExample" parent="."]
