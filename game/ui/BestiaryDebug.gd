@@ -6,5 +6,5 @@ static func print_index_summary(entries: Array) -> void:
 		print("[", d.get("id_str", "?"), "] ", d.get("name", ""), " (", d.get("type", ""), ")")
 
 static func print_entry_console(entry: BestiaryEntryResource) -> void:
-	# Calls your C++ formatter and prints to Output
+	# Calls our C++ formatter and prints to Output
 	print(entry.format_console())

@@ -14,6 +14,7 @@ a narrative-rich, hue-fractured fantasy world where emotion, memory, and magic a
 - [🎮 Game Design](#-game-design)
   - [🕹 Game Mechanics & Core System](#-game-mechanics--core-system)
   - [💎 Items – Catalogue](#-items--catalogue)
+  - [📺 UI](#-ui)
 - [🌍 World Overview](#-world-overview)
 - [📜 Timeline & History](#-timeline--history)
 - [🧬 Main Character – The Prismwalker](#-main-character--the-prismwalker)
@@ -46,6 +47,10 @@ Heavy-Lore color themed fantasy RPG Game project
 
 Catalog of the major artifacts, relics, consumables, powers and tools, grouped by function.
 - [Check Items – Catalogue ►](./docs/items.md)
+
+### 📺 UI
+
+- [Check Items – Catalogue ►](./docs/ui/ui.md)
 
 ---
 
@@ -310,5 +315,11 @@ TODO
 - Write color-aligned greetings, insults, and lore drops
 
 </details>
+
+---
+
+### Tools & Misc
+
+- [markdown stuff i frequently use (wip)](./docs/assets/textual-tools.md)
 
 ---

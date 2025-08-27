@@ -6,34 +6,11 @@ extends Control
 
 var index := BestiaryIndexResource.new()
 
-# Toggle these if you want console output:
-#const DEBUG_PRINT_LIST := false
-#const DEBUG_PRINT_SELECTED := false
-const DEBUG_PRINT_LIST := true
-const DEBUG_PRINT_SELECTED := true
+# Toggle these if we want console output:
+const DEBUG_PRINT_LIST := false
+const DEBUG_PRINT_SELECTED := false
 
 func _ready() -> void:
-	## Stretch to window (keeps things from cramming top-left).
-	#anchor_left = 0.0;  anchor_top = 0.0
-	#anchor_right = 1.0; anchor_bottom = 1.0
-	#offset_left = 0.0;  offset_top = 0.0
-	#offset_right = 0.0; offset_bottom = 0.0
-#
-	#split.anchor_left = 0.0;  split.anchor_top = 0.0
-	#split.anchor_right = 1.0; split.anchor_bottom = 1.0
-	#split.offset_left = 0.0;  split.offset_top = 0.0
-	#split.offset_right = 0.0; split.offset_bottom = 0.0
-#
-	## Make children expand nicely.
-	#for c in [split, list, page]:
-		#c.size_flags_horizontal = Control.SIZE_EXPAND_FILL
-		#c.size_flags_vertical   = Control.SIZE_EXPAND_FILL
-#
-	## RichText settings
-	#page.bbcode_enabled = true
-	#page.autowrap_mode  = TextServer.AUTOWRAP_WORD_SMART
-	#page.scroll_active  = true
-
 	# 1) Load data
 	## Assuming our JSON files live under: game/data/bestiary/*.json
 	var ok : bool = index.load_dir("res://data/bestiary")

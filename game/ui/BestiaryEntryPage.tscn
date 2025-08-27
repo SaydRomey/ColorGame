@@ -1,0 +1,297 @@
+[gd_scene load_steps=2 format=3 uid="uid://d4ki8xg6govpk"]
+
+[sub_resource type="GDScript" id="GDScript_lna30"]
+script/source = "extends Control
+
+@onready var name_lbl: Label            = $\"Root/Header/Name\"
+@onready var lore_title_lbl: Label      = $\"Root/Header/LoreTitle\"
+
+@onready var type_val: Label            = $\"Root/Summary/TypeValue\"
+@onready var threat_val: Label          = $\"Root/Summary/ThreatValue\"
+@onready var first_val: Label           = $\"Root/Summary/FirstValue\"
+
+@onready var desc_title: Label          = $\"Root/DescriptionSection/DescriptionTitle\"
+@onready var desc_text: RichTextLabel   = $\"Root/DescriptionSection/Description\"
+
+@onready var hue_title: Label           = $\"Root/HueSection/HueTitle\"
+@onready var hue_text: RichTextLabel    = $\"Root/HueSection/HueText\"
+
+@onready var beh_title: Label           = $\"Root/BehaviorSection/BehaviorTitle\"
+@onready var beh_text: RichTextLabel    = $\"Root/BehaviorSection/BehaviorText\"
+
+@onready var weak_title: Label          = $\"Root/WeaknessesSection/WeaknessesTitle\"
+@onready var weak_text: RichTextLabel   = $\"Root/WeaknessesSection/WeaknessesText\"
+
+@onready var notes_title: Label         = $\"Root/NotesSection/NotesTitle\"
+@onready var notes_text: RichTextLabel  = $\"Root/NotesSection/NotesText\"
+
+@onready var field_title: Label         = $\"Root/FieldNotesSection/FieldNotesTitle\"
+@onready var field_text: RichTextLabel  = $\"Root/FieldNotesSection/FieldNotesText\"
+
+@onready var drops_title: Label         = $\"Root/DropsSection/DropsTitle\"
+@onready var drops_list: ItemList       = $\"Root/DropsSection/DropsList\"
+
+func _ready() -> void:
+	var rts := [desc_text, hue_text, beh_text, weak_text, notes_text, field_text]
+	for rt in rts:
+		rt.bbcode_enabled = false
+		rt.autowrap_mode = TextServer.AUTOWRAP_WORD_SMART
+		rt.scroll_active = true
+
+func set_entry(entry: BestiaryEntryResource) -> void:
+	if entry == null:
+		_clear_all()
+		return
+
+	_set_label(name_lbl, entry.get_name())
+	_set_label(lore_title_lbl, entry.get_lore_title())
+
+	_set_summary_row(type_val,   \"Type:\",          entry.get_type())
+	_set_summary_row(threat_val, \"Threat:\",        entry.get_threat_level())
+	_set_summary_row(first_val,  \"First Emerged:\", entry.get_first_emerged())
+
+	_set_section(desc_title,  desc_text,  entry.get_description(),      false)
+	_set_section(hue_title,   hue_text,   entry.get_hue_interaction(),  true)
+	_set_section(beh_title,   beh_text,   entry.get_behavior(),         true)
+	_set_section(weak_title,  weak_text,  entry.get_weaknesses(),       true)
+	_set_section(notes_title, notes_text, entry.get_notes(),            false)
+
+	var notes := entry.get_lore_field_notes()
+	if notes.is_empty():
+		_show_pair(field_title, field_text, false)
+		field_text.text = \"\"
+	else:
+		_show_pair(field_title, field_text, true)
+		var parts: Array[String] = []
+		for n in notes:
+			var s := String(n).strip_edges()
+			if not s.is_empty():
+				parts.append(\"\\\"%s\\\"\" % s)
+		field_text.text = \"\\n\\n\".join(parts)
+
+	_populate_drops(entry.get_drops())
+
+# ---- helpers ----
+static func _s(s: String) -> String: return s if s != null else \"\"
+static func _is_empty(s: String) -> bool: return _s(s).strip_edges().is_empty()
+
+func _clear_all() -> void:
+	_set_label(name_lbl, \"\"); _set_label(lore_title_lbl, \"\")
+	type_val.text = \"\";  type_val.visible = false
+	threat_val.text = \"\"; threat_val.visible = false
+	first_val.text = \"\";  first_val.visible = false
+	_set_section(desc_title,  desc_text,  \"\", false)
+	_set_section(hue_title,   hue_text,   \"\", false)
+	_set_section(beh_title,   beh_text,   \"\", false)
+	_set_section(weak_title,  weak_text,  \"\", false)
+	_set_section(notes_title, notes_text, \"\", false)
+	_set_section(field_title, field_text, \"\", false)
+	drops_list.clear()
+	drops_title.visible = false
+	drops_list.visible = false
+
+func _set_label(L: Label, text: String) -> void:
+	L.text = _s(text)
+	L.visible = not _is_empty(L.text)
+
+func _set_summary_row(value_node: Label, caption: String, value: String) -> void:
+	var grid := value_node.get_parent()
+	var idx := value_node.get_index()
+	var caption_node: Label = null
+	if idx > 0 and grid is GridContainer:
+		caption_node = grid.get_child(idx - 1)
+	var v := _s(value).strip_edges()
+	var show := not v.is_empty()
+	if caption_node:
+		caption_node.text = caption
+		caption_node.visible = show
+	value_node.text = v
+	value_node.visible = show
+
+func _set_section(title_node: Label, body_node: RichTextLabel, text: String, bulletize: bool) -> void:
+	var v := _s(text).strip_edges()
+	if bulletize:
+		v = _bulletize_lines(v)
+	var show := not v.is_empty()
+	_show_pair(title_node, body_node, show)
+	body_node.text = v
+
+func _show_pair(title_node: CanvasItem, body_node: CanvasItem, show: bool) -> void:
+	title_node.visible = show
+	body_node.visible  = show
+
+func _bulletize_lines(src: String) -> String:
+	if _is_empty(src): return \"\"
+	var out: Array[String] = []
+	for raw in src.split(\"\\n\", false):
+		var ln := String(raw).strip_edges()
+		if not ln.is_empty():
+			out.append(ln if ln.begins_with(\"•\") or ln.begins_with(\"- \") else \"• \" + ln)
+	return \"\\n\".join(out)
+
+func _populate_drops(drops: PackedStringArray) -> void:
+	drops_list.clear()
+	for d in drops:
+		var s := String(d).strip_edges()
+		if not s.is_empty():
+			drops_list.add_item(s)
+	var vis := drops_list.item_count > 0
+	drops_title.visible = vis
+	drops_list.visible  = vis
+"
+
+[node name="EntryPage" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = SubResource("GDScript_lna30")
+
+[node name="Root" type="VBoxContainer" parent="."]
+layout_mode = 0
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/separation = 12
+
+[node name="Header" type="VBoxContainer" parent="Root"]
+layout_mode = 2
+theme_override_constants/separation = 4
+
+[node name="Name" type="Label" parent="Root/Header"]
+layout_mode = 2
+size_flags_horizontal = 3
+theme_override_font_sizes/font_size = 28
+text = "Name"
+
+[node name="LoreTitle" type="Label" parent="Root/Header"]
+layout_mode = 2
+size_flags_horizontal = 3
+
+[node name="Summary" type="GridContainer" parent="Root"]
+layout_mode = 2
+theme_override_constants/h_separation = 12
+theme_override_constants/v_separation = 4
+columns = 2
+
+[node name="TypeLabel" type="Label" parent="Root/Summary"]
+layout_mode = 2
+text = "Type:"
+
+[node name="TypeValue" type="Label" parent="Root/Summary"]
+layout_mode = 2
+
+[node name="ThreatLabel" type="Label" parent="Root/Summary"]
+layout_mode = 2
+text = "Threat:"
+
+[node name="ThreatValue" type="Label" parent="Root/Summary"]
+layout_mode = 2
+
+[node name="FirstLabel" type="Label" parent="Root/Summary"]
+layout_mode = 2
+text = "First Emerged:"
+
+[node name="FirstValue" type="Label" parent="Root/Summary"]
+layout_mode = 2
+
+[node name="DescriptionSection" type="VBoxContainer" parent="Root"]
+layout_mode = 2
+theme_override_constants/separation = 4
+
+[node name="DescriptionTitle" type="Label" parent="Root/DescriptionSection"]
+layout_mode = 2
+text = "Description"
+
+[node name="Description" type="RichTextLabel" parent="Root/DescriptionSection"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+autowrap_mode = 2
+
+[node name="HueSection" type="VBoxContainer" parent="Root"]
+layout_mode = 2
+theme_override_constants/separation = 4
+
+[node name="HueTitle" type="Label" parent="Root/HueSection"]
+layout_mode = 2
+text = "Hue Interaction"
+
+[node name="HueText" type="RichTextLabel" parent="Root/HueSection"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+autowrap_mode = 2
+
+[node name="BehaviorSection" type="VBoxContainer" parent="Root"]
+layout_mode = 2
+theme_override_constants/separation = 4
+
+[node name="BehaviorTitle" type="Label" parent="Root/BehaviorSection"]
+layout_mode = 2
+text = "Behavior"
+
+[node name="BehaviorText" type="RichTextLabel" parent="Root/BehaviorSection"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+autowrap_mode = 2
+
+[node name="WeaknessesSection" type="VBoxContainer" parent="Root"]
+layout_mode = 2
+theme_override_constants/separation = 4
+
+[node name="WeaknessesTitle" type="Label" parent="Root/WeaknessesSection"]
+layout_mode = 2
+text = "Known Weaknesses"
+
+[node name="WeaknessesText" type="RichTextLabel" parent="Root/WeaknessesSection"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+autowrap_mode = 2
+
+[node name="NotesSection" type="VBoxContainer" parent="Root"]
+layout_mode = 2
+theme_override_constants/separation = 4
+
+[node name="NotesTitle" type="Label" parent="Root/NotesSection"]
+layout_mode = 2
+text = "Notes"
+
+[node name="NotesText" type="RichTextLabel" parent="Root/NotesSection"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+autowrap_mode = 2
+
+[node name="FieldNotesSection" type="VBoxContainer" parent="Root"]
+layout_mode = 2
+theme_override_constants/separation = 4
+
+[node name="FieldNotesTitle" type="Label" parent="Root/FieldNotesSection"]
+layout_mode = 2
+text = "Field Notes"
+
+[node name="FieldNotesText" type="RichTextLabel" parent="Root/FieldNotesSection"]
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
+autowrap_mode = 2
+
+[node name="DropsSection" type="VBoxContainer" parent="Root"]
+layout_mode = 2
+theme_override_constants/separation = 4
+
+[node name="DropsTitle" type="Label" parent="Root/DropsSection"]
+layout_mode = 2
+text = "Drops"
+
+[node name="DropsList" type="ItemList" parent="Root/DropsSection"]
+custom_minimum_size = Vector2(0, 120)
+layout_mode = 2
+size_flags_horizontal = 3
+size_flags_vertical = 3
