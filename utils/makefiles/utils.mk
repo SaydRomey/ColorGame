@@ -85,12 +85,15 @@ PINK_PASTEL	:= $(ESC)[38;5;219m
 # $(1): Context or section name (e.g., task name).
 # $(2): Main informational message.
 # $(3): Optional additional details.
+# Notes:
+# 		Default format of param 3 is gray and italics.
+# 		Params 2 and 3 accept ANSI escape codes to overwrite colors.
 # 
 # Behavior:
 # Formats the message with bold and colored context,
 # orange for the main message,
 # and gray italics for details.
-INFO	= printf "[$(BOLD)$(PURPLE)%s$(RESET)]\t%s$(RESET)$(GRAYTALIC)%s$(RESET)\n" "$(1)" "$(2)" "$(3)"
+INFO	= printf "[$(BOLD)$(PURPLE)%s$(RESET)]\t%b$(RESET)$(GRAYTALIC)%b$(RESET)\n" "$(1)" "$(2)" "$(3)"
 
 # Macro: SUCCESS
 # Logs a success message.
