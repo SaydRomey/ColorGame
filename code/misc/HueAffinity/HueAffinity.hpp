@@ -6,6 +6,7 @@
 # include <ostream>
 # include <istream>
 
+
 class HueAffinity
 {
 	public:
@@ -24,10 +25,10 @@ class HueAffinity
 		// Affinity tiers
 		enum Tier
 		{
-			NOVICE = 0,
+			INITIATE = 0,
 			ADEPT,
+			EXPERT,
 			MASTER,
-			LEGEND,
 			TIER_COUNT
 		};
 
@@ -35,8 +36,11 @@ class HueAffinity
 		int		_xp[HUE_COUNT];
 		Tier	_tier[HUE_COUNT];
 
-		// XP required to reach each tier (NOVICE starts at 0)
+		// XP required to reach each tier (INITIATE starts at 0)
 		static const int	XP_THRESHOLD[TIER_COUNT];
+
+		static bool	isValidHue(Hue h);
+		static Tier	deriveTierFromXp(int xp);
 
 	public:
 		HueAffinity(void);
