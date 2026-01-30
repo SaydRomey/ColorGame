@@ -35,7 +35,7 @@ a narrative-rich, hue-fractured fantasy world where emotion, memory, and magic a
 ## 🎮 Game Design
 
 Heavy-Lore color themed fantasy RPG Game project  
-[See Game Desing Document - First Draft ►](./docs/gdd-draft.md)
+[See Game Design Document - First Draft ►](./docs/gdd-draft.md)
 
 ### 🕹 Game Mechanics & Core System
 
@@ -50,7 +50,7 @@ Catalog of the major artifacts, relics, consumables, powers and tools, grouped b
 
 ### 📺 UI
 
-- [Check Items – Catalogue ►](./docs/ui/ui.md)
+- [Check UI Design Concepts ►](./docs/ui/ui.md)
 
 ---
 
@@ -254,6 +254,12 @@ TODO
 ---
 
 ## TODO List <a id="todo-list"></a>
+
+### Todo - Enemies
+- Counter coverage audit: every enemy lists a counter, verify each counter is
+  1. in `items.md`
+  2. introduced before the fight
+  3. *maybe* has at least one alternative (skill-based or environment-based)
 
 <details><summary>Click to reveal my todo list...</summary>
 
