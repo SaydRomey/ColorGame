@@ -1,0 +1,881 @@
+# Lore Tree Structure
+
+## WORLD / COSMOLOGY
+- **The shattered realm / world**
+  - Origin center: **Prismatic Core**
+    - shattered into the world
+    - created the regional hue laws
+    - central crater / final origin point: **Prism Wound**
+  - Present central contradiction: **Nullshade**
+    - **Nullshade as Place** = late-game core region
+    - **Nullshade as Phenomenon** = intrusion / exposure / desaturation leaking into all other regions
+  - Core macro concepts
+    - Color as metaphysical law
+    - Hue Binding = active loadout
+    - Hue Affinity = long-term alignment / world reaction
+    - Personality = tonal/social expression of affinity
+    - Mneme = spendable resource
+    - Memory Echo = diegetic replay / truth scene / puzzle-memory event
+    - Hue Coherence = what allows deeper survival in Nullshade
+
+---
+
+## WORLD HISTORY / TIMELINE
+- **Unified age / Prismatic age**
+  - Prismatic Core whole
+  - Prismara / primal harmony
+- **Rise of the Orders**
+  - hue-specialized truths become institutions
+- **Color War**
+  - ideological ownership of hue hardens
+  - Tyrian dynasty / mixed-hue domination attempt
+- **Huefall / Shattering**
+  - Core breaks
+  - regions fracture into hue-dominant realms
+  - Nullshade / Prism Wound created
+- **Post-shattering age**
+  - Orders fragment
+  - relics, archives, shrines, and memory systems become regionally preserved
+- **Dimming Cycle / present era**
+  - world fading / memory instability / increasing Nullshade intrusion
+  - Prismwalker enters story
+
+---
+
+## PLAYER / PRISMWALKER
+- **Prismwalker**
+  - colorless vessel / outsider / ontological exception
+  - body began in the Prism Wound
+  - first stable continuity began elsewhere
+  - becomes legible through hue binding, affinity, artifact use, and choice
+- **Bound Hues (active)**
+  - Crimson / Red
+  - Cobalt / Blue
+  - Verdant / Green
+  - Yellow / Golden / Aurelian
+  - Violet / Purple
+  - Brown / Earthen
+- **Affinity / Personality**
+  - Initiate
+  - Adept
+  - Expert
+  - EXPERT
+  - mixed-hue personalities / hybrids
+- **Endgame role**
+  - return to Prism Wound / Fractured Core
+  - final outcomes around rebind / fracture / broader unresolved null-aligned possibility
+
+---
+
+## REGIONS
+
+### 1) HUEVALE — The Verdant Frontier
+- **Core identity**
+  - living memory
+  - regrowth
+  - swamp alchemy
+  - roots / archives / song
+  - predatory beauty
+- **Chromatic law**
+  - growth stores memory
+  - vegetation responds to magic and intent
+- **Main city / stronghold**
+  - **Tinctara**
+    - moss-covered archive city in living trees
+- **Known location types / subregions**
+  - flooded groves
+  - marsh ruins
+  - overgrown monasteries
+  - living archives
+  - root sanctuaries
+  - sacred flower beds
+  - shrine gardens
+  - deep groves
+  - memory vaults
+  - Emerald Hollow (scene location)
+  - Malachite Grove / song-root area (scene logic)
+- **Inhabitants / factions**
+  - druids
+  - archivists
+  - alchemists
+  - root-keepers
+  - wardens
+  - relic divers
+  - sap cult remnants
+- **Environmental twist / traversal law**
+  - vegetation regrows dynamically
+  - paths open / close depending on use of Verdant and other resonance
+  - growth itself can judge the player
+- **Hazards**
+  - spores
+  - root snares
+  - lure lights
+  - poison marshes
+  - overgrowth collapses
+- **NPCs**
+  - **Xanadu Warden**
+    - item: **Xanadu Stone**
+    - item function: moonlight visions of lost utopias
+  - **Viridian Alchemist**
+    - item: **Viridian Ink**
+    - function: permanent enchanted glyphs
+  - **Feldgrau Veteran**
+    - item: **Feldgrau Cloak**
+    - function: stealth / invisibility in forests and ruins
+  - **Skobeloff Diver**
+    - item: **Skobeloff Lens**
+    - function: sees through illusions / detects magical traps in dim light
+  - **Chartreuse Initiate**
+    - item: **Chartreuse Tonic**
+    - function: stamina restoration / euphoric side-effect
+  - **Malachite Oracle**
+    - item: **Malachite Fang**
+    - function: poison / transformation / dream-linked weapon
+  - **Smaragdine Knight**
+    - item: **Smaragdine Circlet**
+    - function: boost nature magic / calm beasts
+  - **Celadon Archivist**
+    - item: **Celadon Shards**
+    - function: visual spell-recording porcelain
+  - **Limerick Druid**
+    - item: **Limerick Flute**
+    - function: summon playful forest spirits
+  - **Harlequin Trickblade**
+    - item: **Harlequin Mask**
+    - function: mimic voices / dodge fate once per day
+  - **Saproot Cultist**
+    - item: **Saproot Idol**
+    - function: protects from decay and curses
+  - **Thalera the Rootborn**
+    - no defined key item yet
+    - role: rootborn witness / ghost-guide / shrine threshold presence
+- **Enemy roster**
+  - Sapborn Stalker
+  - Boglight Mimic
+  - Verdant Maw
+  - Sporekin
+  - Thornwrithe Beast
+  - Limeroot Trickster
+  - Chartreuse Husk
+  - Grovebound Sentinel
+  - Fangbloom Wyrm
+  - Mossgrave Revenant
+- **Important item/enemy links**
+  - **Skobeloff Lens** -> Fangbloom Wyrm / illusion-trap reveal
+  - **Limerick Flute** -> Verdant Maw bypass / charm logic
+  - **Smaragdine Circlet** -> beast calming / regional affinity logic
+  - **Saproot Idol** -> decay/corruption protection
+- **Scenes**
+  - **Whispers Beneath the Greenwood**
+    - Thalera encounter
+    - three-obelisk hue puzzle
+    - Nullborn ambush
+    - Tyrian Accord betrayal echo
+    - green affinity gate
+  - **Petals in the Margin**
+    - overgrown archive / script restoration
+    - Index Beast encounter
+  - **The Song That Grew Thorns**
+    - Harmonic Roots
+    - optional Violet resonance
+- **Myths / omen flavor**
+  - roots remember
+  - flowers bloom over shame or grief
+- **Nullshade leak expression**
+  - leaves gray from center out
+  - roots sometimes refuse the Prismwalker
+
+---
+
+### 2) VIREYA — The Ember Expanse
+- **Core identity**
+  - war-memory
+  - fire
+  - oaths
+  - martyrdom
+  - ritual combat
+- **Chromatic law**
+  - violent intent leaves material consequence
+  - blood and oath can awaken dormant force
+- **Main city / stronghold**
+  - **Crimson Bastion**
+- **Known location types / subregions**
+  - scorched highlands
+  - obsidian fields
+  - lava bridges
+  - duel arenas
+  - altar-fields
+  - shattered battlements
+  - banner roads
+  - battlefield ruins
+  - molten ravines
+- **Inhabitants / factions**
+  - warriors
+  - rebels
+  - duel lineages
+  - flame priests
+  - smith-priests
+  - blood cult remnants
+  - banner houses
+- **Environmental twist / traversal law**
+  - blood spilled in battle may wake old powers / revenants / curse sites
+  - heat and conviction shape traversal spaces
+- **Hazards**
+  - lava fissures
+  - ash blindness
+  - unstable obsidian
+  - explosive vents
+  - revenant activation by combat
+- **NPCs**
+  - **Amaranth the Undying**
+    - item: **Amaranth Rose**
+    - function: heals mortal wounds at lifespan cost
+  - **Vermilion Duelist**
+    - item: **Vermilion Brand**
+    - function: war fury / heat immunity
+  - **Nacarat the Fox**
+    - item: **Nacarat Ember**
+    - function: whisper-ignited fuel-less flame
+  - **Falu Homesteader**
+    - item: **Falu Charm**
+    - function: wards undead and snow spirits
+  - **Alizarin, the Crimson Weaver**
+    - item: **Alizarin Quilt**
+    - function: records heroic deaths / grants courage
+  - **Cinnabar Mask**
+    - item: **Cinnabar Seal**
+    - function: binds contracts with truth / irony / cruelty
+  - **Coquelicot Banner**
+    - item: **Coquelicot Brooch**
+    - function: summons ghostly poppies once per year
+- **Enemy roster**
+  - Ashwrought Colossus
+  - Crimson Echo
+  - Fox Mirage
+  - Searblood Cultist
+  - Lava-Fused Behemoth
+  - Red Widow
+  - Bannerbound Revenant
+  - Glasslash Serpent
+  - Funeral Dancer
+  - Bloodroot Effigy
+- **Important item/enemy links**
+  - **Cinnabar Seal** -> Fox Mirage counter / binding trickster logic
+  - memorial/blood artifacts broadly support revenant / vow / battlefield themes
+- **Scenes**
+  - **Ashes That Whisper**
+    - Ember Echo duel
+    - Crimson-gated lava bridge
+    - permanent scorchmark consequence logic
+- **Timeline anchors / history wounds**
+  - failed accords
+  - major betrayal sites
+  - molten shardfall / battlefield aftermath
+- **Nullshade leak expression**
+  - cold flame
+  - insignia-less banners
+  - battlefields that stop answering rage
+
+---
+
+### 3) IRISELD — The Tidespire Reach
+- **Core identity**
+  - storm-memory
+  - grief
+  - aerial traversal
+  - reflection
+  - skyglass
+- **Chromatic law**
+  - perception / clarity / weather-memory / sound-stabilized truth
+- **Main city / stronghold**
+  - **Zaffran Port**
+- **Known location types / subregions**
+  - floating isles
+  - tide-spires
+  - cloud harbors
+  - glass towers
+  - storm chapels
+  - skyglass caverns
+  - upward-rain zones
+  - hanging bridges of resonance
+- **Inhabitants / factions**
+  - sailors
+  - glasswrights
+  - skydancers
+  - storm listeners
+  - ferry-keepers
+  - monks of reflection
+- **Environmental twist / traversal law**
+  - sound and weather alter access
+  - rhythm bridges / gravity shifts / aerial timing
+- **Hazards**
+  - wind shear
+  - lightning arcs
+  - false reflections
+  - gravity distortion
+  - ledge lure
+- **NPCs**
+  - **Zaffre Glasswright**
+    - item: **Zaffre Vial**
+    - function: reveal hidden doors / passages; temporary answer to some memory-drainers
+  - **Glaucous Wing**
+    - item: **Glaucous Feather**
+    - function: hover / speak with birds
+  - **Cerulean Skydancer**
+    - item: **Cerulean Cloak**
+    - function: lightning immunity in open skies
+  - **Eigengrau the Unseeing**
+    - item: **Eigengrau Prism**
+    - function: reveals subconscious fears / desires
+  - **Payne’s Shade**
+    - item: **Payne’s Brush**
+    - function: paints illusions lasting an hour
+- **Enemy roster**
+  - Glassborne Echo
+  - Skycall Wraith
+  - Abyssal Current
+  - Stormwrit Hound
+  - Sorrowwing
+  - Tempest Marionette
+  - Whisperglass Wyrm
+  - Tideworn Apostle
+  - Feathered Null
+  - Mirrorwake Duelist
+- **Important item/enemy links**
+  - **Zaffre Vial** -> hidden passages / Mneme-drainer counter logic
+  - **Cerulean Cloak** -> storm / aerial survival, likely Sorrowwing-related traversal safety
+  - **Payne’s Brush** -> Whisperglass Wyrm / reflection reveal logic
+- **Scenes**
+  - **The Skyglass Hymn**
+    - wind-memory trial
+    - rhythm jumps
+    - aerial ambushes
+- **Myth / omen flavor**
+  - rain climbing upward
+  - bells / storms remembering grief
+- **Nullshade leak expression**
+  - soundless storm
+  - weather orbiting the Prismwalker
+  - reflections with no source
+
+---
+
+### 4) MYRRALA — The Blooming Veil
+- **Core identity**
+  - glamour
+  - dream logic
+  - identity pressure
+  - performance
+  - seductive falsehood
+- **Chromatic law**
+  - presentation changes reality
+  - landscape may shift with hue, perception, self-consistency
+- **Main city / stronghold**
+  - **Liseran Shrine**
+- **Known location types / subregions**
+  - floating flower fields
+  - mirrored groves
+  - perfumed gardens
+  - dream pavilions
+  - shrine courts
+  - silk-veiled halls
+  - mirrored path labyrinths
+- **Inhabitants / factions**
+  - enchantresses
+  - shrine keepers
+  - dream readers
+  - masked emissaries
+  - painted duelists
+  - glamour houses
+  - petal cults
+- **Environmental twist / traversal law**
+  - landscape changes according to bound hues / self-consistency / dream logic
+- **Hazards**
+  - false-safe voices
+  - mirrored loops
+  - dream pollen
+  - duplicated paths
+  - glamour fields that rewrite interpretation
+- **NPCs**
+  - **Wisteria Enchantress**
+    - item: **Wisteria Veil**
+    - function: concealment in twilight and dreams
+  - **Periwinkle Siren**
+    - item: **Periwinkle Pearl**
+    - function: underwater breathing / mild hypnosis
+  - **Mauveine Spark**
+    - item: **Mauveine Flask**
+    - function: chaotic sip-based effects
+  - **Heliotrope Devotee**
+    - item: **Heliotrope Band**
+    - function: dawn protection from dark curses
+  - **Razzmatazz Sprite**
+    - item: **Razzmatazz Drum**
+    - function: awakens slumbering magic in artifacts
+  - **Fandango Duelstar**
+    - item: **Fandango Dagger**
+    - function: duel-linked singing blade
+  - **Thulian Emissary**
+    - item: **Thulian Mirror**
+    - function: reveals truth incompletely
+  - **Pomp & Power Chancellor**
+    - item: **Pomp and Power Mantle**
+    - function: temporary command over nobles / weak minds
+  - **Liseran Caretaker**
+    - item: **Liseran Lily**
+    - function: healing aura on break
+  - **Quinacridone Blade**
+    - item: **Quinacridone Codex**
+    - function: spells painted mid-battle
+- **Enemy roster**
+  - Doppelshade
+  - Lilyborn Mirage
+  - Chronopollen Sprite
+  - Bloomveil Widow
+  - Fandancer Fragment
+  - Razzflare Imp
+  - Heliotropic Lurker
+  - Thulian Vowkeeper
+  - Glittering Grimoire
+  - Veilshift Matron
+- **Important item/enemy links**
+  - **Thulian Mirror** -> glamour/truth / likely key against higher Myrrala illusion logic
+  - **Razzmatazz Drum** -> artifact awakening / rhythm interactions
+  - **Quinacridone Codex** -> battle-paint / authored magic
+- **Scenes**
+  - **Petals That Lie**
+    - paired enchantresses
+    - false-safe voice
+    - recite last dialogue choices
+- **Personality / system overlap**
+  - key region for Violet personality expression
+  - strongest region for self-authorship tests
+- **Nullshade leak expression**
+  - glamour collapse
+  - scentless petals
+  - mirrors that refuse reflection
+
+---
+
+### 5) LUXERAN — The Gilded Expanse
+- **Core identity**
+  - brilliance
+  - judgment
+  - legitimacy
+  - barter / trade
+  - mirage / exposure
+- **Chromatic law**
+  - light reveals motive, value, instability
+  - visibility is evaluative, not neutral
+- **Main city / stronghold**
+  - **Eburnea**
+- **Known location types / subregions**
+  - dunes
+  - mirrored markets
+  - relic dig sites
+  - shade courts
+  - oasis shrines
+  - buried halls of law
+  - caravan roads only visible at right time
+- **Inhabitants / factions**
+  - traders
+  - judges
+  - couriers
+  - sun-priests
+  - gamblers
+  - relic prospectors
+  - merchant houses
+- **Environmental twist / traversal law**
+  - mirages falsify the map
+  - timed sun/shade geometry / route revelation
+- **Hazards**
+  - heat exhaustion
+  - reflected light traps
+  - false roads
+  - contract/social traps
+  - buried predators
+- **NPCs**
+  - **Gamboge Monk**
+    - item: **Gamboge Gourd**
+    - function: releases holy smoke
+  - **Eburnean Priestess**
+    - item: **Eburnean Dice**
+    - function: gamble for fate / win or lose a memory
+  - **Citrine Artisan**
+    - item: **Citrine Lens**
+    - function: reveals happiness or greed
+  - **Aureolin Flame**
+    - item: **Aureolin Quill**
+    - function: magically binding signatures
+  - **Orangepeel Courier**
+    - item: **Orange Peel Charm**
+    - function: wards fatigue / attracts good deals
+  - **Fulvous Hunter**
+    - item: **Fulvous Hide**
+    - function: better tracking / hiding in sand
+- **Enemy roster**
+  - Sunburnt Jackal
+  - Mirage Revenant
+  - Ambercoil Asp
+  - Gamboge Djinnling
+  - Cinnabar Scarab
+  - Hollow Prophet
+  - Citrine Golem
+  - Sunflare Marionette
+  - Sundial Scarwalker
+  - Mirrorthirst Wyrm
+- **Important item/enemy links**
+  - **Eburnean Dice** -> Hollow Prophet counter logic
+  - **Aureolin Quill** -> scene / legality / truth-by-signature
+  - **Citrine Lens** -> motive-reading and legitimacy theme
+- **Scenes**
+  - **Mirages of the Aureolin Sands**
+    - speak the truth of sun, earth, and shade
+    - Aureolin Quill lore trigger
+- **Distinction from Myrrala**
+  - Myrrala = performance of identity
+  - Luxeran = performance of legitimacy / public truth
+- **Nullshade leak expression**
+  - light with no warmth
+  - shadows that point nowhere
+  - signatures with meaning erased
+
+---
+
+### 6) AURALITH — The Dimming Hollow
+- **Core identity**
+  - residue
+  - forensic memory
+  - unfinished endings
+  - soul-binding
+  - ash and witness
+- **Chromatic law**
+  - the past persists physically
+  - actions leave readable residue
+- **Main city / stronghold**
+  - **Mortuum Hold**
+- **Known location types / subregions**
+  - ash plains
+  - catacombs
+  - soot monasteries
+  - fossil labs
+  - reliquary vaults
+  - testimony halls
+  - burial roads
+- **Inhabitants / factions**
+  - archivists
+  - ascetics
+  - sculptors
+  - funerary wardens
+  - memory anatomists
+  - phylactery sects
+  - mourning houses
+- **Environmental twist / traversal law**
+  - prior actions / deaths / traces leave ghosts or readable residue
+- **Hazards**
+  - soul traps
+  - ash drift
+  - false memory residues
+  - ghost traces
+  - fear webs
+  - necro-alchemical discharges
+- **NPCs**
+  - **Isabelline Widow**
+    - item: **Isabelline Tapestry**
+    - function: warns of betrayal or deceit nearby
+  - **Burnt Sienna Sculptor**
+    - item: **Burnt Sienna Golem Core**
+    - function: animates one statue per moon cycle
+  - **Bistre Archivist**
+    - item: **Bistre Lantern**
+    - function: reveals past events in shadow
+  - **Mikado Warlord**
+    - item: **Mikado Katana**
+    - function: calm focus / unerring strikes
+  - **Caput Mortuum Ascetic**
+    - item: **Caput Mortuum Phylactery**
+    - function: delays death by binding part of the soul
+- **Enemy roster**
+  - Memory Husk
+  - Sootshade Collector
+  - Caput Marionette
+  - Ochre Golem
+  - Rustworn Judge
+  - Wickbone Lantern
+  - Alchemical Echo
+  - Ashweaver Recluse
+  - Tapestry Watcher
+  - Phylactery Swarm
+- **Important item/enemy links**
+  - **Bistre Lantern** -> truth playback / residue reveal
+  - **Caput Mortuum Phylactery** -> stabilizes Alchemical Echo
+  - **Isabelline Tapestry** -> betrayal / deceit detection themes
+- **Scenes**
+  - **Ashes Remember Us**
+    - memory thread reversal
+    - true-name tomb exit condition
+- **Distinction from Nullshade**
+  - Auralith = preserved residue / forensic trace
+  - Nullshade = erased coherence / ontological contradiction
+- **Nullshade leak expression**
+  - missing residue
+  - ghosts with no history
+  - evidence removed rather than hidden
+
+---
+
+### 7) NULLSHADE — The Colorless Core
+- **Core identity**
+  - anti-coherence
+  - contradiction
+  - erased truth
+  - final return
+  - reflection of the player and the world’s break
+- **Canonical model**
+  - **The Wound** = Prism Wound itself
+  - **The Leak** = Nullshade intrusion elsewhere
+  - **The Mask** = world/story/seal structures hiding the truth
+- **Chromatic law**
+  - not a hue, but anti-hue relation
+  - breaks sequence / relation / categorical certainty
+- **Main site**
+  - **Prism Wound**
+- **Known location types / subregions**
+  - coherence locks
+  - witness fields
+  - desaturated corridors
+  - impossible geometry sectors
+  - silence chambers
+  - recursive stairways
+  - final threshold spaces
+- **Inhabitants / forces**
+  - remnant witnesses
+  - failed coherence states
+  - immune responses of the Wound
+  - bound figures
+  - sealing echoes of the Orders
+- **Environmental twist / traversal law**
+  - requires **Hue Coherence**
+  - recursive architecture / anti-hue puzzles / silence fields / reflection traps
+- **Hazards**
+  - desaturation
+  - UI destabilization
+  - silence zones
+  - memory loops
+  - hostile self-copies
+  - geometry contradiction
+- **Named entities / figures / enemies**
+  - Prism Unform
+  - The Bound
+  - Nullshade Echo
+  - Fractal Shardling
+  - Wound Remnant
+  - Shatterglass Choir
+  - Null-Root
+  - Silence Incarnate
+  - Memory Leech
+  - Tapestry Watcher (Nullshade form)
+  - The Seventh Hue
+  - The Colorless Shape
+- **Important conceptual links**
+  - Nullshade Echo / Colorless Shape directly mirror the Prismwalker
+  - The Bound relate to sealing / witness logic
+  - The Seventh Hue ties to myth / paradox / optional puzzle logic
+- **Scenes**
+  - **Echoes of a Shattered Prism**
+    - antithesis-of-hue pedestals
+    - self-copying combat
+    - unanswered dialogue loops
+  - **Endgame / Fractured Core**
+    - Phase I: Shard of Memory
+    - Phase II: Voice of the Shattered
+    - Phase III: The Void Remembers
+- **Myths / omen language**
+  - The Colorless Mercy
+  - The Seventh Silence
+  - the crater we do not map
+- **Canonical terminology**
+  - use **Prism Wound** only
+  - use **Nullshade intrusion / exposure** outside region
+  - use **Hue Coherence** for survival gating
+
+---
+
+## CROSS-REGIONAL / UNBOUND ENEMIES
+- Nullborn Husks
+- Hue Leeches
+- Tyrian Echo
+- Bloomrot Titan
+- Wickerborn
+- Nullshade Revenant
+- Moth-Witch of the Verdant Spiral
+- Huefractals
+- Memory Grafter
+- Spectral Harvester
+- The Unhued Choir
+
+### Cross-regional functions
+- rare anomalies
+- failure-state punishers
+- lore-heavy elite encounters
+- Prism / Nullshade metaplot carriers
+- event- or relic-triggered invasions
+
+---
+
+## NPC INDEX (flat by region)
+- **Huevale**
+  - Xanadu Warden
+  - Viridian Alchemist
+  - Feldgrau Veteran
+  - Skobeloff Diver
+  - Chartreuse Initiate
+  - Malachite Oracle
+  - Smaragdine Knight
+  - Celadon Archivist
+  - Limerick Druid
+  - Harlequin Trickblade
+  - Saproot Cultist
+  - Thalera the Rootborn
+- **Vireya**
+  - Amaranth the Undying
+  - Vermilion Duelist
+  - Nacarat the Fox
+  - Falu Homesteader
+  - Alizarin, the Crimson Weaver
+  - Cinnabar Mask
+  - Coquelicot Banner
+- **Iriseld**
+  - Zaffre Glasswright
+  - Glaucous Wing
+  - Cerulean Skydancer
+  - Eigengrau the Unseeing
+  - Payne’s Shade
+- **Myrrala**
+  - Wisteria Enchantress
+  - Periwinkle Siren
+  - Mauveine Spark
+  - Heliotrope Devotee
+  - Razzmatazz Sprite
+  - Fandango Duelstar
+  - Thulian Emissary
+  - Pomp & Power Chancellor
+  - Liseran Caretaker
+  - Quinacridone Blade
+- **Luxeran**
+  - Gamboge Monk
+  - Eburnean Priestess
+  - Citrine Artisan
+  - Aureolin Flame
+  - Orangepeel Courier
+  - Fulvous Hunter
+- **Auralith**
+  - Isabelline Widow
+  - Burnt Sienna Sculptor
+  - Bistre Archivist
+  - Mikado Warlord
+  - Caput Mortuum Ascetic
+
+---
+
+## ITEM INDEX (flat by region)
+- **Huevale**
+  - Xanadu Stone
+  - Viridian Ink
+  - Feldgrau Cloak
+  - Skobeloff Lens
+  - Chartreuse Tonic
+  - Malachite Fang
+  - Smaragdine Circlet
+  - Celadon Shards
+  - Limerick Flute
+  - Harlequin Mask
+  - Saproot Idol
+- **Vireya**
+  - Amaranth Rose
+  - Vermilion Brand
+  - Nacarat Ember
+  - Falu Charm
+  - Alizarin Quilt
+  - Cinnabar Seal
+  - Coquelicot Brooch
+- **Iriseld**
+  - Zaffre Vial
+  - Glaucous Feather
+  - Cerulean Cloak
+  - Eigengrau Prism
+  - Payne’s Brush
+- **Myrrala**
+  - Wisteria Veil
+  - Periwinkle Pearl
+  - Mauveine Flask
+  - Heliotrope Band
+  - Razzmatazz Drum
+  - Fandango Dagger
+  - Thulian Mirror
+  - Pomp and Power Mantle
+  - Liseran Lily
+  - Quinacridone Codex
+- **Luxeran**
+  - Gamboge Gourd
+  - Eburnean Dice
+  - Citrine Lens
+  - Aureolin Quill
+  - Orange Peel Charm
+  - Fulvous Hide
+- **Auralith**
+  - Isabelline Tapestry
+  - Burnt Sienna Golem Core
+  - Bistre Lantern
+  - Mikado Katana
+  - Caput Mortuum Phylactery
+
+---
+
+## SCENE INDEX
+- **Huevale**
+  - Whispers Beneath the Greenwood
+  - Petals in the Margin
+  - The Song That Grew Thorns
+- **Vireya**
+  - Ashes That Whisper
+- **Iriseld**
+  - The Skyglass Hymn
+- **Myrrala**
+  - Petals That Lie
+- **Auralith**
+  - Ashes Remember Us
+- **Nullshade / Endgame**
+  - Echoes of a Shattered Prism
+  - Endgame / Fractured Core
+
+---
+
+## IMPORTANT DISTINCTIONS / CANONICAL SPLITS
+- **Blue vs Purple**
+  - Blue = perception / clarity / storm-memory / reveal / stabilize
+  - Purple = glamour / false self / dream-authoring / identity pressure
+- **Myrrala vs Luxeran**
+  - Myrrala = performance of identity
+  - Luxeran = performance of legitimacy / value / public truth
+- **Auralith vs Nullshade**
+  - Auralith = residue, remains, forensic truth
+  - Nullshade = erased coherence, contradiction, anti-relation
+- **Bound Hues vs Affinity**
+  - Bound Hues = current active loadout
+  - Affinity = long-term tint / social-world response
+- **Mneme vs Memory Echo**
+  - Mneme = spendable resource
+  - Memory Echo = diegetic replay / truth scene
+
+---
+
+## OPEN CANON GAPS / WIP FLAGS
+- subregions / district names are still incomplete for several regions
+- Thalera the Rootborn still lacks a defined key item
+- Nullshade V2 should fully supersede all older Nullshade wording
+- Vireya / Myrrala / Auralith region docs are thinner than Huevale / Iriseld / Nullshade material
+- some hue naming still drifts:
+  - Yellow / Golden / Aurelian
+  - Brown / Earthen
+- some ending taxonomy remains broader in concept than fully locked in implementation
