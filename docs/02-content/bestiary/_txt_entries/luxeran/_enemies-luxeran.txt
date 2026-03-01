@@ -1,0 +1,132 @@
+# 🟡 Enemy Concepts for Luxeran – The Gilded Expanse
+
+A land of blazing sun, sand-worn ruins, radiant illusions, and golden
+truths turned sharp. These enemies reflect the region’s obsession with
+light, trickery, vitality, and the cost of brilliance.
+
+---
+
+1. Sunburnt Jackal
+
+> “It never learned the difference between shadow and prey.”
+
+Lean, sun-scorched predator with light-blind eyes.
+
+Tracks movement by heat signatures and scent.
+
+Weaker at night or in shadow; lunges toward heat-based spells or
+torches.
+
+---
+
+2. Mirage Revenant
+
+> “You blinked. It was never there. But now it is.”
+
+Shimmering specter that flickers in and out of visibility.
+
+Mimics helpful NPC silhouettes or glimmers as treasure chests before
+striking.
+
+Dispelled by true-vision items or bursts of non-elemental force.
+
+---
+
+3. Ambercoil Asp
+
+> “Even its scales lie.”
+
+Golden serpent with reflective glassy hide.
+
+Coils around artifacts to mimic them, attacking when disturbed.
+
+Reflects light spells unless disrupted by sonic or echo attacks.
+
+---
+
+4. Gamboge Djinnling
+
+> “A wish, half-spoken. A trick, fully paid.”
+
+Tiny elemental born from scorched lamp remnants.
+
+Grants random buffs or debuffs on hit — chaotic allies or enemies.
+
+Tamed briefly with Orange Peel Charms or negotiation spells.
+
+---
+
+5. Cinnabar Scarab
+
+> “It shines when afraid. Which is always.”
+
+Swarm creature with shell that refracts firelight into false shadows.
+
+Explodes into decoy duplicates upon damage.
+
+Real one only harmed by AoE, aura, or memory-scent detection.
+
+---
+
+6. Hollow Prophet
+
+> “It speaks in blinding truths… and burns away lies.”
+
+Wandering preacher figure made of light and bone.
+
+Casts delayed flash-runes that disorient or invert camera movement.
+
+Defeated by silence spells or the Eburnean Dice (gambling memory
+sacrifice).
+
+---
+
+7. Citrine Golem
+
+> “A gem is eternal. So is its temper.”
+
+Massive guardian built of fused yellow crystals and gold.
+
+Absorbs all light magic; shatters under extreme cold or echo-charged
+percussion.
+
+Best fought with reflected terrain or manipulated architecture.
+
+---
+
+8. Sunflare Marionette
+
+> “Dances on beams. Cracks like porcelain.”
+
+Glass‑limbed puppet floating on sunlight threads.
+
+Creates solar hotspots on the field — standing in one heals it.
+
+Can be tangled using shadow or smoke-based mechanics.
+
+---
+
+9. Sundial Scarwalker
+
+> “You can’t run from time. Especially when it’s hunting.”
+
+Living sandstone warrior with a sundial for a face.
+
+Moves only when player does; attacks after shadow completes arc.
+
+Timing-based fight: strike only when its own shadow is cast forward.
+
+---
+
+10. Mirrorthirst Wyrm
+
+> “It swam through light until it forgot the sky.”
+
+Serpentine desert wyrm made of reflected mirage currents.
+
+Swims below sand as if in water; surface glimmers mark its path.
+
+Can only be targeted when fully emerged — lured by illusion spells or
+rhythmic movement.
+
+---

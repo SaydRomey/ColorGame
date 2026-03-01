@@ -1,0 +1,66 @@
+🟡 Sunburnt Jackal
+
+> “It never learned the difference between shadow and prey.”
+
+Type: Desert Predator
+
+Region: Luxeran – The Gilded Expanse
+
+Hue Affinity: Aurelian (Yellow) — Inverted
+
+Tactics: Heat-Seeker, Lunge Hunter
+
+Weakness: Shade, Cold, Nightfall
+
+Description:
+
+Once noble scavengers of the high desert, Sunburnt Jackals have become
+blister-eyed heat-hounds, their sight eroded by centuries under
+Luxeran’s merciless sun. Their fur is patchy and baked copper-red, with
+long skeletal limbs and a mouth filled with cracked teeth, always
+panting — not from exhaustion, but anticipation. They no longer see as
+mortals do. They smell light.
+
+They stalk by scenting radiant magic and body heat, mistaking warmth for
+weakness. Their howl warbles in a heat-distorted echo, used to
+triangulate prey across dunes. They lunge from sandpools, tongues
+lolling, pupils pin-prick thin.
+
+At night, they become sluggish and fearful — huddled in pits, twitching
+toward dreams of firelight.
+
+---
+
+Combat Behavior:
+
+Aggro range expands if player uses Radiant spells or torches.
+
+Occasionally circles a mirage flame — even if it’s fake.
+
+Packs coordinate howls to cause disorientation (screen shimmer & blur).
+
+Lunges toward light sources (player-placed or natural).
+
+Counterplay:
+
+Cold spells or shadow-casting terrain slow movement and stun
+momentarily.
+
+Shadeborne or dusk environments reduce aggro.
+
+Dropping torches or Radiant Flares can mislead them temporarily.
+
+---
+
+Lore Fragment – Memory Echo (if defeated near Gamboge Monk):
+
+> “It chased the sun until its shadow disappeared. And then it ate the
+silence.”
+
+---
+
+Hue Archive Tag: Beasts of Misread Light
+
+Drop: Sunblister Fang (used in crafting Mirage-scent Cloaks)
+
+---

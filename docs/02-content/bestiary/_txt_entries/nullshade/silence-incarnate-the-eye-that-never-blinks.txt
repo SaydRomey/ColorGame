@@ -1,0 +1,114 @@
+🌑 Silence Incarnate – The Eye That Never Blinks
+
+<div align="center">
+
+<h3>Silence Incarnate</h3>
+
+<i>It watches. It judges. It never blinks.</i><br>
+
+<img src="../../assets/monsters/silence-incarnate.png" alt="Silence
+Incarnate" width="300"><br>
+
+<i>"Some truths need no voice. Only a gaze."</i><br><br>
+
+</div>
+
+An unmoving, cloaked sentinel suspended midair,
+
+Silence Incarnate is not an attacker — it is an observer.
+
+Its power comes from stillness, its weapon from what it denies.
+
+As long as it sees you, you cannot act.
+
+---
+
+Lore Entry
+
+<details><summary>See Silence Incarnate Lore Entry</summary>
+
+### Lore Entry: “Notes on Spectral Stagnation” — Scratched into obsidian
+by a forgotten archivist.
+
+> "It hovered where thought slowed.
+
+> Where voices curled back into minds."
+
+> "It didn’t chase. It didn’t strike.
+
+> It simply watched — and I forgot how to move."
+
+> "The others tried to shout past it.
+
+> Their words crumbled before leaving their lips."
+
+> "I hid behind a broken arch. Then I blinked. It was behind me."
+
+</details>
+
+---
+
+Bestiary Entry
+
+Name: Silence Incarnate
+
+Type: Voidborne Sentinel / Gaze-Locked Entity
+
+Threat Level: ⚠️ Moderate (Positioning-Dependent Threat)
+
+First Emerged: When the seventh hue was silenced
+
+---
+
+Description:
+
+A floating shrouded figure with no visible face. Its “eye” is a subtle
+shimmer in the hood’s center — not always open, not always there. When
+it gazes at the player, action becomes impossible: casting, dodging,
+speaking all fail.
+
+---
+
+Hue Interaction:
+
+Blocks active hue abilities while maintaining line of sight.
+
+Vulnerable to indirect effects — illusions, reflection-based mechanics,
+or mirrored light paths.
+
+---
+
+Behavior:
+
+Does not move, but repositions when unobserved — instantaneously.
+
+Anchors itself to echo-nodes in the arena, becoming briefly immune while
+settled.
+
+Can turn slowly to adjust gaze; dodging behind architecture temporarily
+nullifies its field.
+
+---
+
+Known Weaknesses:
+
+Breaking line of sight with terrain or mirrored prism shards allows
+action again.
+
+Defeated by using the “Reverse Gaze” effect from the Prismwalker’s relic
+arsenal.
+
+Whisper-based spells (from Violet or Brown hue sets) disrupt its
+fixation.
+
+---
+
+Notes:
+
+Players have reported UI flickers or text stuttering when under its
+gaze.
+
+Some lore suggests it was once a Prismara priest who silenced herself in
+protest — and was forgotten by color itself.
+
+---

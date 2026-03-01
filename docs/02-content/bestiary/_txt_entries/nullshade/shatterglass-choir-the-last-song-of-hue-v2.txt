@@ -1,0 +1,105 @@
+⚫ Shatterglass Choir – The Last Song of Hue
+
+<div align="center">
+
+<h3>Shatterglass Choir</h3>
+
+<i>They sing. The color leaves your screen.</i><br>
+
+<img src="../../assets/monsters/shatterglass-choir.png"
+alt="Shatterglass Choir" width="300"><br>
+
+<i>"It was once a harmony. Now it's a lesson in silence."</i><br><br>
+
+</div>
+
+A drifting chorus of broken-hue figures — childlike, luminescent
+silhouettes whose song isn't heard, but seen. Each voice steals a color
+from the world, slowly reducing it to gray.
+
+---
+
+Lore Entry
+
+<details><summary>See Shatterglass Choir Lore Entry</summary>Lore Entry:
+Memory echo from a broken monolith, encoded in light.
+
+> "They used to sing light into form. A gift. A foundation."
+
+> "Then the Prism cracked, and their harmonies became wounds."
+
+> "Each voice a memory — each harmony a removal."
+
+> "I watched them sing away blue… and my name with it."
+
+</details>
+
+---
+
+Bestiary Entry
+
+Name: Shatterglass Choir
+
+Type: Hue-Wraith Collective / Environmental Dissonance
+
+Threat Level: ⚠️ Moderate (Escalates by number present)
+
+First Emerged: Where the first Monoliths collapsed
+
+---
+
+Description:
+
+Floating, translucent children with color-fractured outlines.
+
+They drift in small flocks and hum a nonverbal chord that literally
+pulls color out of the screen
+
+— as each sings, a hue fades from the player’s UI, effects, and world
+detail.
+
+---
+
+Hue Interaction:
+
+Each individual Choir Wraith is tied to a specific hue (e.g., Red,
+Green, etc.).
+
+Must be silenced in the correct reverse color order (V→I→B→G→Y→O→R) to
+avoid full desaturation.
+
+---
+
+### Behavior:
+
+- Passive at first, humming slowly. Their presence dims saturation
+gradually.
+
+- When provoked, enter dissonant state — pulsing light-sound waves that
+debuff hue abilities.
+
+- Reacts strongly to sound-based or emotion-tuned spells.
+
+---
+
+### Known Weaknesses:
+
+- Yellow and Violet hues disrupt their harmony most effectively.
+
+- AoE silence spells prevent further color loss.
+
+- Holding or activating lore items (especially music-based or mnemonic
+tools) stuns them briefly.
+
+---
+
+### Notes:
+
+Letting them complete a full song causes the player’s screen to go fully
+grayscale
+
+until a memory puzzle is solved or choir is dispersed.
+
+Choirs always reform near major choice events or reflection gates.
+
+---

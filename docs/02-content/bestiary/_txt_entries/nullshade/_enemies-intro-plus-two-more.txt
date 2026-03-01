@@ -1,0 +1,42 @@
+enemies intro plus two more
+
+Metaphysically charged, almost every enemy reflects a philosophical or
+mechanical expression of identity, memory, or hue negation.
+
+---
+
+11. Tapestry Watcher (Previously introduced in Auralith but echoes in
+Nullshade)
+
+> “It weaves choices you didn’t make. Then punishes you for forgetting
+them.”
+
+Appears again in Nullshade — but broken, flickering, mirroring forgotten
+possibilities.
+
+Now exists across multiple points in space — each version mutely
+reacting to different player decisions not taken (e.g., unchosen
+dialogue trees, skipped side quests).
+
+To escape it, the player must choose a new “first decision” and
+overwrite a prior truth.
+
+---
+
+12. The Seventh Hue
+
+> “It was never named. So it never died.”
+
+A mythic enemy hidden behind the optional puzzle path ("The hue that
+never had a name").
+
+Appears only if the player solves five or more Nullshade prism riddles
+without error.
+
+It mirrors nothing — instead, it attempts to invert the player’s core
+attributes.
+
+If defeated, unlocks an optional dialogue path before the final boss:
+“What if the Prism was wrong?”
+
+---

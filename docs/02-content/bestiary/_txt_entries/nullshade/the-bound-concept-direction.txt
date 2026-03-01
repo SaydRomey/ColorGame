@@ -1,0 +1,156 @@
+The Bound — concept direction
+Core read:
+A humanoid stone sentinel that looks less like a carved statue and more like a person arrested mid-memory. It should feel like silence made physical: reverent, accusatory, ancient, and reactive rather than aggressive-by-default.
+Primary emotional impression:
+stillness
+latent judgment
+remembered trauma
+delayed violence
+sacred unease
+Visual identity
+Overall silhouette
+Keep the silhouette humanoid and legible, but with a posture that suggests it was frozen during a meaningful act:
+kneeling
+reaching outward
+shielding
+one arm raised in witness or accusation
+bowed torso with tension in the shoulders and fingers
+The silhouette should read as:
+statue at rest
+person caught in memory
+something that can move, but should not
+Avoid broad monster exaggeration. It should remain close enough to a real figure to feel uncanny.
+Body structure
+Stone body with lifelike anatomy underneath
+Not bulky like a golem; more like a preserved humanoid form
+Slightly elongated limbs are acceptable only if subtle
+Hands are important: fingers should feel expressive, tense, partially curled, as if memory is locked inside them
+Joints should be readable through fine cracks, seam-like stress lines, or form breaks that imply movement is difficult but possible
+Surface treatment
+Because the lore says lifelike stone figures, the stone should not look ornamental or heavily carved. It should feel like:
+smooth to moderately weathered stone skin
+faint fracture lines around joints, neck, ribs, fingers, and face
+minimal chipped edges
+no decorative engraving unless extremely sparse and lore-justified
+No heavy texture rendering. Use just enough internal linework to show:
+planes of the torso
+stress at elbows/knees
+finger segmentation
+facial structure beneath stone stillness
+Head and face
+Face direction
+The face should be one of the strongest lore anchors. It should suggest:
+recognition without expression
+memory without speech
+accusation without overt anger
+Possible facial treatment:
+blank stone eyes or softly hollowed eye sockets
+closed mouth, or a mouth line barely indicated
+calm, sorrowful, almost devotional stillness
+no monstrous teeth, screaming maw, or overt facial horror
+A useful design choice is a face that looks partially individualized, as if it was once a specific person, but now reduced into archetypal silence.
+Gaze
+Even while inert, it should feel like it is aware when unobserved.
+The head angle can help:
+slightly lowered for kneeling variants
+subtly turned as if listening
+tilted in a way that feels deliberate, not broken
+Pose selection
+For the main sheet, I would recommend:
+Main pose
+A kneeling, half-risen pose
+one knee down
+torso lifting slightly forward
+one hand braced low or touching the ground
+other hand raised partway, either reaching or signaling halt
+head inclined toward the viewer
+This pose captures:
+dormancy
+reactivation
+memory-based anticipation
+“slow, unnerving grace”
+Optional inset
+A small secondary inset showing:
+the same Bound a moment later, with a slight shift in hand or spine position
+or a close-up of the chest cavity shimmer / hollow core revealed during vulnerability
+That would support the “remembers how to move” concept without turning the sheet into an action illustration.
+Lore-defining traits to emphasize
+These should be visibly prioritized over generic fantasy details:
+1. Mid-action petrification
+Each Bound should look frozen in an emotionally meaningful instant, not posed like a guard statue.
+2. Slow remembered movement
+Build this into the anatomy through:
+tension in fingers
+slightly offset shoulders
+asymmetry in posture
+subtle readiness, not obvious attack posing
+3. Silence as presence
+No rattling armor, no cloth drama, no visual noise. The design should feel stripped down and reverent.
+4. Memory construct nature
+This can be suggested with:
+faint hollow area in chest/sternum region
+fine interior crack paths converging toward the core
+a barely perceptible cavity or absence under the rib/torso structure
+Do not make it a glowing sci-fi weak point. In graphite sheet language, it should read as a hollow remembered center.
+Materials and costume logic
+The lore does not strongly support elaborate clothing, armor, or ornaments. So keep this restrained.
+Possible supported approach:
+the figure is mostly bare stone anatomy
+only the faint suggestion of once-worn drapery or simplified stone folds if needed
+no weapons
+no shields unless a shielding pose alone implies it
+no crests, crowns, ritual jewelry, or faction insignia unless later lore adds them
+If any garment forms are used, they should be:
+simple
+ancient
+fused into the stone body
+secondary to the humanoid figure itself
+Group logic
+Since The Bound linger in groups and usually only one animates at a time, the sheet can hint at this with one faint background mini-silhouette or very small secondary sketch of alternate poses:
+kneeling variant
+reaching variant
+shielding variant
+Keep these secondary figures minimal and light, as supporting design notes rather than scene composition.
+Behavior translated into form
+“They anticipate”
+Avoid sprinting/hunter anatomy. Instead, make the design feel like it wins by:
+timing
+presence
+inevitability
+“Delayed but catastrophic strikes”
+You can imply this with:
+heavy, committed arm arcs in construction lines
+stable lower body
+poised shoulders
+hands that look capable of crushing rather than slashing
+“Cannot be dodged traditionally”
+This suggests a design that feels psychologically in sync with the player, not physically fast. So the body should not look agile; it should look certain.
+Sheet composition recommendation
+For your default format:
+Main view
+one full-body Bound in kneeling half-risen pose
+front 3/4 angle preferred for readability
+Optional inset A
+chest/core close-up showing the hollow memory-center
+Optional inset B
+hand study: stone fingers curled like they are remembering a weapon or gesture they no longer hold
+Optional inset C
+alternate head angle with blank eyes / bowed stillness
+Keep the page clean. No environmental background beyond blank white paper and maybe a minimal ground cue under the kneeling leg.
+What to avoid
+Strictly avoid:
+gargoyle features
+exaggerated golem chunkiness
+decorative cathedral motifs unless explicitly added later
+glowing rune overload
+broken chains, extra relics, or symbolic props not in the lore
+cinematic dust clouds or dramatic impact posing
+heavy crosshatching or moody darkness
+obvious attack wind-up as the main presentation
+Final image prompt draft
+The Bound – Witnesses of Stillness
+A creature design sheet in a low-detail to moderate-detail graphite concept sketch style on blank white paper, monochrome only, clean thin uniform pencil lines, visible construction lines and form guides, easy to trace and iterate over by hand.
+Design a humanoid stone sentinel called The Bound, based strictly on the supplied lore: a lifelike stone figure frozen mid-memory, uncanny and silent, with the feeling of a person arrested in a meaningful gesture rather than a carved monument. The main figure should be in a readable kneeling half-risen pose, one knee down, torso leaning slightly forward, one hand low or braced, the other raised partway in a gesture that could read as warning, reaching, or accusation.
+The body should be slender to average humanoid proportions, not bulky, made of smooth to moderately weathered stone with subtle crack lines around joints, neck, ribs, fingers, and face. The anatomy beneath the stone should remain readable and lifelike. The face should be calm, blank, and deeply unsettling rather than monstrous: closed or barely indicated mouth, empty or simplified stone eyes, slight head tilt or bowed stillness.
+Emphasize silence, latency, remembered motion, and reactive danger. Suggest that the figure can move with slow, deliberate grace, as if remembering how to move. Include only minimal internal linework to describe form, joints, planes, and a faint hollow core in the chest area that hints at its memory-construct nature.
+Optional small inset: a chest/core detail showing a hollow remembered center, or a hand study with curled stone fingers. No extra weapons, armor, symbols, or accessories not supported by the lore. No color, no dramatic lighting, no heavy shading, no dense crosshatching, no cinematic scene dressing, no polished splash-art finish.

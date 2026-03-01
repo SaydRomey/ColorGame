@@ -1,0 +1,139 @@
+enemies-auralith.md
+
+For Auralith – The Dimming Hollow, a region of memory, decay,
+soul-binding, and forgotten alchemy, the enemies here should embody
+echoes of the past, rusted purpose, and the alchemical failure of
+permanence. Here’s a fitting list of haunting, slow-burning, and deeply
+atmospheric enemy concepts:
+
+---
+
+🟤 Enemy Concepts for Auralith – The Dimming Hollow
+
+---
+
+1. Memory Husk
+
+> “A shell of who you were… or might become.”
+
+A ghostly figure that resembles a past version of the player.
+
+Mimics a skill or item the player once used.
+
+Defeated by replaying correct memory sequences or confronting it in
+dialogue.
+
+---
+
+2. Sootshade Collector
+
+> “It gathers burnt truths. And whispers them.”
+
+Cloaked entity made of ash and charred parchment.
+
+Uses memory-reveal fog that forces the player into past trauma moments.
+
+Immune to fire; vulnerable to silence spells or Bistre Lantern.
+
+---
+
+3. Caput Marionette
+
+> “They were never truly alive — just waiting to be dismissed.”
+
+Alchemically animated corpses, leaking rust and dried crimson.
+
+Shamble slowly until triggered by player interaction with certain
+relics.
+
+Explode in decay clouds on death unless dispelled first.
+
+---
+
+4. Ochre Golem
+
+> “It doesn’t move fast. It moves deliberately.”
+
+Stone guardian carved by the Burnt Sienna Sculptor.
+
+Will not engage until a player breaks a nearby object, then tracks them
+relentlessly.
+
+Temporarily pacified by placing the correct memory tokens nearby.
+
+---
+
+5. Rustworn Judge
+
+> “Its verdict was written in corrosion.”
+
+A tall armored specter with cracked lacquered blades.
+
+Initiates trials on players — disables HUD and forces “honor duels.”
+
+Can be outwitted with memory-based bluffing.
+
+---
+
+6. Wickbone Lantern
+
+> “A cage of ribs, a candle of memory.”
+
+Undead creature with a flame sealed inside its chest.
+
+Lights up rooms — but if followed too closely, triggers soul traps.
+
+Flame can be transferred to unlock ghost-locked doors.
+
+---
+
+7. Alchemical Echo
+
+> “It dissolved... but not enough.”
+
+Twisted being mid-transmutation — half metal, half mind.
+
+Shoots unstable potion orbs that warp player abilities (swap healing for
+harm, for example).
+
+Temporarily stabilized using Caput Mortuum Phylactery.
+
+---
+
+8. Ashweaver Recluse
+
+> “Spins memories into traps.”
+
+Spider-like entity that spins memory webs in narrow corridors.
+
+Touching a thread plays past player choices as whispers — too many cause
+panic/fear debuff.
+
+Can be burned or disrupted with loud sound/light.
+
+---
+
+9. Tapestry Watcher
+
+> “It stares at the wall where you betrayed yourself.”
+
+A hooded figure pinned to a giant weaving of player past decisions.
+
+Uses threads of past regrets to bind the player in guilt — paralyzes on
+misremembered dialogue.
+
+Beaten through confession or by wielding truth artifacts.
+
+---
+
+10. Phylactery Swarm
+
+> “Tiny. Hungry. Each holds a name they never earned.”
+
+Cloud of hovering, brass-eyed insects bound to old soul fragments.
+
+Each one steals a piece of the player’s stored XP/memories on contact.
+
+Dispersed by fire, echo pulses, or by feeding them a forgotten name.
+
+---

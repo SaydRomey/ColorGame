@@ -1,0 +1,131 @@
+enemies-huevale.md
+
+Based on Huevale’s lush, alchemic, and overgrown nature theme — and its
+quirky yet haunting tone — here’s a curated enemy list for the Verdant
+Frontier that aligns with both lore and gameplay:
+
+---
+
+🌿 Enemy Concepts for Huevale – The Verdant Frontier
+
+---
+
+1. Sapborn Stalker
+
+> “Roots remember where you stepped.”
+
+Semi-humanoid creature made of twisting sap and bark.
+
+Burrows through roots to ambush. Weak to fire and severing effects.
+
+Camouflages among foliage when still.
+
+---
+
+2. Boglight Mimic
+
+> “Some will-o’-the-wisps aren't lost. They're hunting.”
+
+Glowing green-blue orbs that lure players into swamp traps.
+
+On close approach, transforms into a leeching spirit.
+
+Weak to light-based spells or illusions.
+
+---
+
+3. Verdant Maw
+
+> “A flower with teeth is still a flower.”
+
+Giant carnivorous plant rooted in place.
+
+Lures players with illusory items or NPCs, then snaps.
+
+Can be bypassed with stealth or charmed with Limerick Druid’s flute.
+
+---
+
+4. Sporekin
+
+> “Born of breath, fed by decay.”
+
+Child-sized fungal husks with mossy faces and glowing eyes.
+
+Release hallucinogenic spores that alter controls or visuals.
+
+Immune to poison, vulnerable to sonic and purifying effects.
+
+---
+
+5. Thornwrithe Beast
+
+> “It bleeds bramble. And it’s fast.”
+
+Quadruped overgrown with thorns and vines.
+
+Leaves a trail of entangling roots, lunges from the underbrush.
+
+Can be slowed with earth magic, enraged by Crimson.
+
+---
+
+6. Limeroot Trickster
+
+> “It rhymes, then strikes.”
+
+Illusion-casting spirit that copies Limerick Druid’s mannerisms.
+
+Speaks in reversed limericks, casts mirror illusions to disorient.
+
+Must be unrhymed (interrupted spellcasting) to break illusions.
+
+---
+
+7. Chartreuse Husk
+
+> “A tonic left too long to rot.”
+
+Once-human monk bloated by corrupted potions.
+
+Sprays acidic laughter mist (damages and causes confusion).
+
+Bursts on death, leaving puddles of unstable alchemy.
+
+---
+
+8. Grovebound Sentinel
+
+> “The trees gave it orders. It never stopped listening.”
+
+Animated wooden golem clad in emerald vines.
+
+Guards sacred ruins, resists all elemental magic.
+
+Can only be disabled by solving nearby environment puzzle.
+
+---
+
+9. Fangbloom Wyrm
+
+> “Buried in blossom, it waits for motion.”
+
+Snake-like vine beast hiding beneath flower beds.
+
+Emerges to grab and constrict, then slithers back.
+
+Detected only with Skobeloff Lens or Echo spells.
+
+---
+
+10. Mossgrave Revenant
+
+> “Even the ghosts here wear green.”
+
+Verdant-armored specter of a fallen knight.
+
+Channels dream-poison through sword swings.
+
+Weak to light and memory-based attacks (e.g. Celadon Shards).
+
+---

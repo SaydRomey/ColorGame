@@ -1,0 +1,57 @@
+enemies misc intro
+
+Perfect — this “unbound” list is rich with design potential, especially
+as flexible encounters, NG+ variants, postgame threats, or hidden boss
+paths.
+
+To bring these into full integration, I’ll do the following for you:
+
+1. Assign each enemy to its most fitting region — based on theme,
+mechanics, and lore (including “optional” or “cross-regional” status
+where needed).
+
+2. Present that as a clean, organized Region Assignment Table, so you
+can later decide where to place them in your world structure or boss
+logic.
+
+3. If you like, we can then develop their full-format entries one by one
+— just say the word.
+
+---
+
+🧭 Unassigned Enemy Region Mapping
+
+# Enemy Assigned Region Notes
+
+1 Hue Leeches 🌈 Cross-Regional (Hue-based puzzles, NG+, post-boss)
+Ambient threat tied to color system mechanics. Ideal for multi-hue
+shrines or failed hue usage zones.
+
+2 Tyrian Echo 🟪 The Blooming Veil (Violet) Direct Crimson/Violet blend;
+likely a Color War ghost in a dream fragment. Optional echo boss.
+
+3 Bloomrot Titan 🟩 Huevale (Verdant) Overgrown root-monster fits
+Huevale’s unchecked growth. Could guard a late-game relic.
+
+4 Wickerborn 🟫 Auralith (Brown) Construct-based, shrine-bound. Matches
+memory + decay themes of Auralith. Could appear in older shrine areas.
+
+5 Nullshade Revenant ⚫ Nullshade (Void) Thematically tied to Nullshade’s
+voidborn memory — clearly from that zone. Optional rare spawn.
+
+6 Moth-Witch of the Verdant Spiral 🟩 Huevale (Verdant) Named Verdant
+boss — fits in hidden glade. Optional miniboss / puzzle-gated.
+
+7 Huefractals ⚫ Nullshade / 🌈 Cross-Regional Tied to Prismatic Core
+shatter — ideal for late Nullshade areas or broken monolith fields.
+
+8 Memory Grafter 🟫 Auralith (Brown) Identity theft, memory rewriting —
+core to Auralith themes. Could appear as miniboss in catacombs.
+
+9 Spectral Harvester ⚫ Nullshade / 🟫 Auralith Best used during memory
+echo failure segments — either post-Auralith or pre-Core.
+
+10 The Unhued Choir ⚫ Nullshade Directly themed around Nullshade endgame
+— likely a pre-boss optional horror or corrupted prayer node.
+
+---

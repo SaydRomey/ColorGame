@@ -1,0 +1,136 @@
+enemies-iriseld.md
+
+For Iriseld – The Tidespire Reach, steeped in wisdom, sorrow, storm
+magic, and illusion, here’s a list of elegant, eerie, and atmospheric
+enemies designed to reflect the region's skybound mystique and emotional
+undercurrents:
+
+---
+
+🌊 Enemy Concepts for Iriseld – The Tidespire Reach
+
+---
+
+1. Glassborne Echo
+
+> “It doesn’t shatter. It reflects you... wrong.”
+
+Phantom entity formed from broken enchanted glass.
+
+Mimics the player’s last movement pattern — delayed mirror attacks.
+
+Shatters into sharp arcs when hit by lightning.
+
+---
+
+2. Skycall Wraith
+
+> “The wind lost its name. So it screams.”
+
+Pale, robed specters drifting on updrafts.
+
+Emit disruption shrieks that disable gliding and storm-gliding for short
+durations.
+
+Weak to grounded attacks and heavy elements.
+
+---
+
+3. Abyssal Current
+
+> “The tide remembers. The tide regrets.”
+
+Serpentine water creature made of living memory-water, hunts near
+storm-wrecked coasts.
+
+Shifts between water and vapor; hits drain memory charges (disabling
+certain passive buffs).
+
+Temporarily banished by Zaffre Vial or Mind Echo abilities.
+
+---
+
+4. Stormwrit Hound
+
+> “It howls in lightning — and leaps between bolts.”
+
+Four-legged skybeast made of cloud, wire, and plasma.
+
+Attacks with flash-teleports and static fields.
+
+Weak to harmonic resonance (e.g. flute, skybell chimes).
+
+---
+
+5. Sorrowwing
+
+> “It cries your name before you hear it.”
+
+Ghostly birdlike creatures with humanlike eyes.
+
+Emit a sorrowful call that pulls the player toward ledges.
+
+Blocked by Cerulean Cloak or resisted with a memory artifact.
+
+---
+
+6. Tempest Marionette
+
+> “She dances on wires strung from lightning.”
+
+Sky-dancer puppet animated by storm-energy.
+
+Fights with aerial combos; parries magic with elegance.
+
+Can be overloaded by storm surge spells.
+
+---
+
+7. Whisperglass Wyrm
+
+> “You never hear it speak. But the cliff listens.”
+
+Semi-transparent serpent that burrows through sky-islands.
+
+Spawns illusions of falling paths or invisible foes.
+
+Best revealed using Payne’s Brush or Skyglass Prisms.
+
+---
+
+8. Tideworn Apostle
+
+> “She drowned for knowledge. Now she walks for silence.”
+
+Sea-cloaked undead scholar with glowing journal pages.
+
+Casts ink-black storm runes that scramble spell targeting.
+
+Weak to silence and fire.
+
+---
+
+9. Feathered Null
+
+> “The wind gave up. It became still.”
+
+A hovering, colorless humanoid creature with shredded wings.
+
+Disables storm-based traversal nearby.
+
+Can only be defeated with a combo of hue-bound gliding and memory
+reactivation.
+
+---
+
+10. Mirrorwake Duelist
+
+> “She fights in reflections. Yours. Hers. Anyone’s.”
+
+Illusory swordmaster from the ancient Skyglass arena.
+
+Moves unpredictably; teleports through mirrored surfaces and puddles.
+
+Can only be struck when reflected in water or glass at the same time.
+
+---
