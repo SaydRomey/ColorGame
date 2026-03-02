@@ -35,3 +35,27 @@ with_tempdir() {
 	# Cleanup on normal exit or interruptions
 	trap 'rm -rf "$CG_TMPDIR"' EXIT INT TERM
 }
+
+find_files_by_extension() {
+    local dir="$1"
+    local ext="$2"
+    local array_name="$3"
+
+    shopt -s nullglob
+    local files=("$dir"/*."$ext")
+    shopt -u nullglob
+
+    eval "$array_name"='("${files[@]}")'
+}
+
+print_file_list() {
+    local heading="$1"
+    shift
+
+    echo "$heading"
+    local f
+    for f in "$@"; do
+        echo "  $(basename "$f")"
+    done
+}
+

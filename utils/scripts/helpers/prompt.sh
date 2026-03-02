@@ -10,6 +10,17 @@
 # Designed to be *sourced* (not executed)
 # =====================================
 
+prompt_for_directory() {
+    local prompt_text="${1:-Enter directory to process [default: current]: }"
+    read -r -p "$prompt_text" DIR
+    DIR=${DIR:-.}
+
+    if [ ! -d "$DIR" ]; then
+        echo "Directory does not exist: $DIR" >&2
+        return 1
+    fi
+}
+
 # yes_no "Prompt text" [default_y_or_n]
 # Returns 0 for yes, 1 for no
 yes_no() {
@@ -28,6 +39,13 @@ yes_no() {
 # 	response=${response:-$default}
 # 	[[ \"${response,,}\" =~ ^(y|yes)$ ]]
 # }
+
+confirm_action() {
+    local prompt_text="${1:-Do you want to continue? (y/n): }"
+    local reply
+    read -r -p "$prompt_text" reply
+    [[ "$reply" =~ ^[Yy]$ ]]
+}
 
 # select_menu "Title" "opt1" "opt2" ...
 # On success: sets SELECT_MENU_CHOICE to the chosen string and returns 0
