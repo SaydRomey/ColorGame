@@ -9,7 +9,7 @@
     "hue_interaction": "Suppresses Hue-based traversal abilities (gliding, storm-riding) within a radius.\n\nBound colors dim when in its aura; affects Crimson surge and Cobalt reaction timing.\n\nTemporarily disrupted by Verdant Skygrowth, which restores buoyancy nearby.",
     "behavior": "Does not pursue. It drifts.\n\nEngages only when provoked or approached during a storm ritual.\n\nBehavior cycle:\nNull Pulse – disables midair movement for several seconds.\nWing Veil – conceals its position in a dome of pale wind.\nEcho Stillness – causes a silence field that interrupts dialogue and spellcasting.",
     "weaknesses": "Momentarily repelled by sky-sound (e.g., storm chimes, flute melodies).\n\nSuffers minor instability if trapped in a triangulation of multiple hues (player + relic + echo site).\n\nOnly vulnerable during emotive wind surges triggered by memory sequences.",
-    "notes": "The Glaucous Wing claims this creature is “a hymn never sung.”\nCannot be bound, named, or remembered by normal means — journals written near it lose ink."
+    "notes": "The Glaucous Wing claims this creature is "a hymn never sung."\nCannot be bound, named, or remembered by normal means — journals written near it lose ink."
   },
   "lore": {
     "title": "The Stillborn Sky",

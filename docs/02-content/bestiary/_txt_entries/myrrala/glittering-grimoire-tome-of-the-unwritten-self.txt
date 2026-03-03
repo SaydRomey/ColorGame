@@ -26,7 +26,7 @@ Lore Entry
 <details><summary>See Glittering Grimoire Lore Entry</summary>Lore
 Entry: Recovered Margins from the Library of Echoes
 
-> “We never finished writing it. So it kept writing itself.”
+> "We never finished writing it. So it kept writing itself."
 
 > The Glittering Grimoire was once a journal — empty, waiting to be
 filled by a young mage. But as she grew uncertain, it began writing her
@@ -42,7 +42,7 @@ it drifts alone, seeking unfinished stories and half-cast spells.
 
 > If it begins to write before you speak… run.
 
-> — Payne’s Shade, “On Living Texts”
+> — Payne’s Shade, "On Living Texts"
 
 </details>
 
@@ -91,7 +91,7 @@ Known Weaknesses:
 Pages are fragile during page-turning animation — hit then to break a
 spell loop.
 
-If hit while it's “rewriting,” the book suffers a Truth Tear and becomes
+If hit while it's "rewriting," the book suffers a Truth Tear and becomes
 stunned.
 
 Defeated more easily when attacked with non-spell damage (e.g. melee,
@@ -100,10 +100,10 @@ environmental).
 Notes:
 
 On death, drops Unwritten Page, which can be bound to a spell to create
-a “ghost echo” — an auto-cast illusion of it that can act independently
+a "ghost echo" — an auto-cast illusion of it that can act independently
 once per day.
 
-Rare encounters may cause it to “remember” future player actions —
+Rare encounters may cause it to "remember" future player actions —
 causing strange feedback in later fights.
 
 ---

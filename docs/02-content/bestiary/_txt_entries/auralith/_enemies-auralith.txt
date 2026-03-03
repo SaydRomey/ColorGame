@@ -14,7 +14,7 @@ atmospheric enemy concepts:
 
 1. Memory Husk
 
-> “A shell of who you were… or might become.”
+> "A shell of who you were… or might become."
 
 A ghostly figure that resembles a past version of the player.
 
@@ -27,7 +27,7 @@ dialogue.
 
 2. Sootshade Collector
 
-> “It gathers burnt truths. And whispers them.”
+> "It gathers burnt truths. And whispers them."
 
 Cloaked entity made of ash and charred parchment.
 
@@ -39,7 +39,7 @@ Immune to fire; vulnerable to silence spells or Bistre Lantern.
 
 3. Caput Marionette
 
-> “They were never truly alive — just waiting to be dismissed.”
+> "They were never truly alive — just waiting to be dismissed."
 
 Alchemically animated corpses, leaking rust and dried crimson.
 
@@ -52,7 +52,7 @@ Explode in decay clouds on death unless dispelled first.
 
 4. Ochre Golem
 
-> “It doesn’t move fast. It moves deliberately.”
+> "It doesn’t move fast. It moves deliberately."
 
 Stone guardian carved by the Burnt Sienna Sculptor.
 
@@ -65,11 +65,11 @@ Temporarily pacified by placing the correct memory tokens nearby.
 
 5. Rustworn Judge
 
-> “Its verdict was written in corrosion.”
+> "Its verdict was written in corrosion."
 
 A tall armored specter with cracked lacquered blades.
 
-Initiates trials on players — disables HUD and forces “honor duels.”
+Initiates trials on players — disables HUD and forces "honor duels."
 
 Can be outwitted with memory-based bluffing.
 
@@ -77,7 +77,7 @@ Can be outwitted with memory-based bluffing.
 
 6. Wickbone Lantern
 
-> “A cage of ribs, a candle of memory.”
+> "A cage of ribs, a candle of memory."
 
 Undead creature with a flame sealed inside its chest.
 
@@ -89,7 +89,7 @@ Flame can be transferred to unlock ghost-locked doors.
 
 7. Alchemical Echo
 
-> “It dissolved... but not enough.”
+> "It dissolved... but not enough."
 
 Twisted being mid-transmutation — half metal, half mind.
 
@@ -102,7 +102,7 @@ Temporarily stabilized using Caput Mortuum Phylactery.
 
 8. Ashweaver Recluse
 
-> “Spins memories into traps.”
+> "Spins memories into traps."
 
 Spider-like entity that spins memory webs in narrow corridors.
 
@@ -115,7 +115,7 @@ Can be burned or disrupted with loud sound/light.
 
 9. Tapestry Watcher
 
-> “It stares at the wall where you betrayed yourself.”
+> "It stares at the wall where you betrayed yourself."
 
 A hooded figure pinned to a giant weaving of player past decisions.
 
@@ -128,7 +128,7 @@ Beaten through confession or by wielding truth artifacts.
 
 10. Phylactery Swarm
 
-> “Tiny. Hungry. Each holds a name they never earned.”
+> "Tiny. Hungry. Each holds a name they never earned."
 
 Cloud of hovering, brass-eyed insects bound to old soul fragments.
 

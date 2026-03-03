@@ -15,17 +15,17 @@
 
 🧠 Lore Entry
 
-<details><summary>See Nullshade Revenant Lore Entry</summary>Excerpt from “Core-Walker's Notes, Vol. VII” – Anonymous Prismwalker
+<details><summary>See Nullshade Revenant Lore Entry</summary>Excerpt from "Core-Walker's Notes, Vol. VII" – Anonymous Prismwalker
 
-> “We found her kneeling at the edge of a Shatterglass Pool. Not praying. Not breathing. Just… remembering.”
+> "We found her kneeling at the edge of a Shatterglass Pool. Not praying. Not breathing. Just… remembering."
 
-“A crimson sash fluttered from one arm. A green tattoo pulsed beneath her cracked skin. Once, she was a hero of the Color War. Now, she barely casts a shadow.”
+"A crimson sash fluttered from one arm. A green tattoo pulsed beneath her cracked skin. Once, she was a hero of the Color War. Now, she barely casts a shadow."
 
-“When she rose, her eyes didn’t see us. They saw some place we weren’t. She moved through our attacks like they hadn’t happened yet.”
+"When she rose, her eyes didn’t see us. They saw some place we weren’t. She moved through our attacks like they hadn’t happened yet."
 
-“Then she struck — and I forgot how to defend.”
+"Then she struck — and I forgot how to defend."
 
-“The Nullshade does not raise the dead. It reflects what it means to never have died right.”
+"The Nullshade does not raise the dead. It reflects what it means to never have died right."
 
 
 
@@ -81,7 +81,7 @@ In combat:
 
 Heavy, deliberate swings — infused with color-ghosts of old abilities.
 
-Their attacks “corrupt” the player’s hue alignment temporarily (turning abilities gray or misaligned).
+Their attacks "corrupt" the player’s hue alignment temporarily (turning abilities gray or misaligned).
 
 At 50% HP, they begin to teleport erratically, repeating your previous movements with lagging mimicry.
 
@@ -104,9 +104,9 @@ Prismwalker Shard glow pulses stronger near them — a clue to real-space alignm
 
 Notes:
 
-Some Prismwalkers report “remembering” events they never lived after battling one.
+Some Prismwalkers report "remembering" events they never lived after battling one.
 
-The Bistre Archivist theorized they are “souls who fractured across hues too often — now trapped in the space between.”
+The Bistre Archivist theorized they are "souls who fractured across hues too often — now trapped in the space between."
 
 
 

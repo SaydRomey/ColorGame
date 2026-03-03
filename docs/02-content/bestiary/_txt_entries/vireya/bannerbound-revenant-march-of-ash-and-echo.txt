@@ -26,7 +26,7 @@ Lore Entry
 <details><summary>See Bannerbound Revenant Lore Entry</summary>Lore
 Entry: Recovered from the Ashstandard Archives, page half-burned
 
-> “Some soldiers die. Others march past death.”
+> "Some soldiers die. Others march past death."
 
 > "The Bannerbound were once commanders — proud standard-bearers whose
 banners outlived their battalions. When their cause died, they didn’t.
@@ -72,7 +72,7 @@ shades if not suppressed.
 Vulnerable to Cobalt silence fields — can temporarily disable the call
 to arms.
 
-Violet resonance can “recode” the banner — turning its shades against it
+Violet resonance can "recode" the banner — turning its shades against it
 for a short time.
 
 Behavior:
@@ -93,7 +93,7 @@ using specific Hue relics).
 Suffers major weakness while unarmed — flails slowly and loses
 summoning.
 
-Immobile during “echo pulse” — a war-horn gesture that warns of incoming
+Immobile during "echo pulse" — a war-horn gesture that warns of incoming
 waves.
 
 Notes:

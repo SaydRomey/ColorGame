@@ -27,7 +27,7 @@ They are nature’s mischief and its mercy, wrapped in petals, thorns, and memor
 ---
 
 ### [Sapborn Stalker](./enemies/sapborn-stalker.md)
-> “Roots remember where you stepped.”
+> "Roots remember where you stepped."
 
 <img src="../assets/sprites/enemies/huevale/sapborn-stalker.png" alt="Sapborn Stalker Sprite" width="200">
 
@@ -39,7 +39,7 @@ Camouflages among foliage when still.
 ---
 
 ### [Boglight Mimic](./enemies/boglight-mimic.md)
-> “Some will-o’-the-wisps aren't lost. They're hunting.”
+> "Some will-o’-the-wisps aren't lost. They're hunting."
 
 <img src="../assets/sprites/enemies/huevale/boglight-mimic.png" alt="Boglight Mimic Sprite" width="200">
 
@@ -50,7 +50,7 @@ Weak to light-based spells or illusions.
 ---
 
 ### [Verdant Maw](./enemies/verdant-maw.md)
-> “A flower with teeth is still a flower.”
+> "A flower with teeth is still a flower."
 
 <img src="../assets/sprites/enemies/huevale/verdant-maw.png" alt="Verdant Maw Sprite" width="200">
 
@@ -61,7 +61,7 @@ Can be bypassed with stealth or charmed with Limerick Druid’s flute.
 ---
 
 ### [Sporekin](./enemies/sporekin.md)
-> “Born of breath, fed by decay.”
+> "Born of breath, fed by decay."
 
 <img src="../assets/sprites/enemies/huevale/sporekin.png" alt="Sporekin Sprite" width="200">
 
@@ -72,7 +72,7 @@ Immune to poison, vulnerable to sonic and purifying effects.
 ---
 
 ### [Thornwrithe Beast](./enemies/thornwrithe-beast.md)
-> “It bleeds bramble. And it’s fast.”
+> "It bleeds bramble. And it’s fast."
 
 <img src="../assets/sprites/enemies/huevale/thornwrithe-beast.png" alt="Thornwrithe Beast Sprite" width="200">
 
@@ -83,7 +83,7 @@ Can be slowed with earth magic, enraged by Crimson.
 ---
 
 ### [Limeroot Trickster](./enemies/limeroot-trickster.md)
-> “It rhymes, then strikes.”
+> "It rhymes, then strikes."
 
 <img src="../assets/sprites/enemies/huevale/limeroot-trickster.png" alt="Limeroot Trickster Sprite" width="200">
 
@@ -94,7 +94,7 @@ Must be unrhymed (interrupted spellcasting) to break illusions.
 ---
 
 ### [Chartreuse Husk](./enemies/chartreuse-husk.md)
-> “A tonic left too long to rot.”
+> "A tonic left too long to rot."
 
 <img src="../assets/sprites/enemies/huevale/chartreuse-husk.png" alt="Chartreuse Husk Sprite" width="200">
 
@@ -105,7 +105,7 @@ Bursts on death, leaving puddles of unstable alchemy.
 ---
 
 ### [Grovebound Sentinel](./enemies/grovebound-sentinel.md)
-> “The trees gave it orders. It never stopped listening.”
+> "The trees gave it orders. It never stopped listening."
 
 <img src="../assets/sprites/enemies/huevale/grovebound-sentinel.png" alt="Grovebound Sentinel Sprite" width="200">
 
@@ -116,7 +116,7 @@ Can only be disabled by solving nearby environment puzzle.
 ---
 
 ### [Fangbloom Wyrm](./enemies/fangbloom-wyrm.md)
-> “Buried in blossom, it waits for motion.”
+> "Buried in blossom, it waits for motion."
 
 <img src="../assets/sprites/enemies/huevale/fangbloom-wyrm.png" alt="Fangbloom Wyrm Sprite" width="200">
 
@@ -127,7 +127,7 @@ Detected only with Skobeloff Lens or Echo spells.
 ---
 
 ### [Mossgrave Revenant](./enemies/mossgrave-revenant.md)
-> “Even the ghosts here wear green.”
+> "Even the ghosts here wear green."
 
 <img src="../assets/sprites/enemies/huevale/mossgrave-revenant.png" alt="Mossgrave Revenant Sprite" width="200">
 
@@ -156,7 +156,7 @@ Every blow here is a history lesson written in blood and smoke.
 ---
 
 ### [Ashwrought Colossus](./enemies/ashwrought-colossus.md)
-> “Built for war. Reforged by memory.”
+> "Built for war. Reforged by memory."
 
 <img src="../assets/sprites/enemies/vireya/ashwrought-colossus.png" alt="Ashwrought Colossus Sprite" width="200">
 
@@ -167,7 +167,7 @@ Can be staggered by fire magic — it absorbs too much and cracks.
 ---
 
 ### [Crimson Echo](./enemies/crimson-echo.md)
-> “Battle never ends when memory screams louder than death.”
+> "Battle never ends when memory screams louder than death."
 
 <img src="../assets/sprites/enemies/vireya/crimson-echo.png" alt="Crimson Echo Sprite" width="200">
 
@@ -178,7 +178,7 @@ Weak to silence and time-breaking effects.
 ---
 
 ### [Fox Mirage](./enemies/fox-mirage.md)
-> “Blink once — it’s gone. Blink again — it’s behind you.”
+> "Blink once — it’s gone. Blink again — it’s behind you."
 
 <img src="../assets/sprites/enemies/vireya/fox-mirage.png" alt="Fox Mirage Sprite" width="200">
 
@@ -189,7 +189,7 @@ Revealed only in mirrored terrain or by Cinnabar Seal.
 ---
 
 ### [Searblood Cultist](./enemies/searblood-cultist.md)
-> “Their veins boil. Their gods demand it.”
+> "Their veins boil. Their gods demand it."
 
 <img src="../assets/sprites/enemies/vireya/searblood-cultist.png" alt="Searblood Cultist Sprite" width="200">
 
@@ -200,7 +200,7 @@ Can be pacified briefly by Crimson Weaver’s thread.
 ---
 
 ### [Lava-Fused Behemoth](./enemies/lava-fused-behemoth.md)
-> “Born in magma. Tempered by wrath.”
+> "Born in magma. Tempered by wrath."
 
 <img src="../assets/sprites/enemies/vireya/lava-fused-behemoth.png" alt="Lava-Fused Behemoth Sprite" width="200">
 
@@ -211,7 +211,7 @@ Weak spot: molten vent on its back.
 ---
 
 ### [Red Widow](./enemies/red-widow.md)
-> “Her kisses are funerals.”
+> "Her kisses are funerals."
 
 <img src="../assets/sprites/enemies/vireya/red-widow.png" alt="Red Widow Sprite" width="200">
 
@@ -222,7 +222,7 @@ Can charm NPCs mid-fight or turn them on the player.
 ---
 
 ### [Bannerbound Revenant](./enemies/bannerbound-revenant.md)
-> “It doesn't remember who it fought for — only that it must keep marching.”
+> "It doesn't remember who it fought for — only that it must keep marching."
 
 <img src="../assets/sprites/enemies/vireya/bannerbound-revenant.png" alt="Bannerbound Revenant Sprite" width="200">
 
@@ -233,7 +233,7 @@ Silence the banner (or steal it) to weaken them.
 ---
 
 ### [Glasslash Serpent](./enemies/glasslash-serpent.md)
-> “Born of heat and betrayal.”
+> "Born of heat and betrayal."
 
 <img src="../assets/sprites/enemies/vireya/glasslash-serpent.png" alt="Glasslash Serpent Sprite" width="200">
 
@@ -244,7 +244,7 @@ Weak to vibration (use drum-based or sonic magic).
 ---
 
 ### [Funeral Dancer](./enemies/funeral-dancer.md)
-> “She dances to end things. And always ends with a bow.”
+> "She dances to end things. And always ends with a bow."
 
 <img src="../assets/sprites/enemies/vireya/funeral-dancer.png" alt="Funeral Dancer Sprite" width="200">
 
@@ -255,7 +255,7 @@ Leaves a glowing sigil on the ground — triggers a delayed explosion.
 ---
 
 ### [Bloodroot Effigy](./enemies/bloodroot-effigy.md)
-> “Built of martyr bones. Fueled by prayer.”
+> "Built of martyr bones. Fueled by prayer."
 
 <img src="../assets/sprites/enemies/vireya/bloodroot-effigy.png" alt="Bloodroot Effigy Sprite" width="200">
 
@@ -283,7 +283,7 @@ They attack not just your body, but your sense of time, sound, and self.
 ---
 
 ### [Glassborne Echo](./enemies/glassborne-echo.md)
-> “It doesn’t shatter. It reflects you... wrong.”
+> "It doesn’t shatter. It reflects you... wrong."
 
 <img src="../assets/sprites/enemies/iriseld/glassborne-echo.png" alt="Glassborne Echo Sprite" width="200">
 
@@ -294,7 +294,7 @@ Shatters into sharp arcs when hit by lightning.
 ---
 
 ### [Skycall Wraith](./enemies/skycall-wraith.md)
-> “The wind lost its name. So it screams.”
+> "The wind lost its name. So it screams."
 
 <img src="../assets/sprites/enemies/iriseld/skycall-wraith.png" alt="Skycall Wraith Sprite" width="200">
 
@@ -305,7 +305,7 @@ Weak to grounded attacks and heavy elements.
 ---
 
 ### [Abyssal Current](./enemies/abyssal-current.md)
-> “The tide remembers. The tide regrets.”
+> "The tide remembers. The tide regrets."
 
 <img src="../assets/sprites/enemies/iriseld/abyssal-current.png" alt="Abyssal Current Sprite" width="200">
 
@@ -316,7 +316,7 @@ Temporarily banished by Zaffre Vial or Mind Echo abilities.
 ---
 
 ### [Stormwrit Hound](./enemies/stormwrit-hound.md)
-> “It howls in lightning — and leaps between bolts.”
+> "It howls in lightning — and leaps between bolts."
 
 <img src="../assets/sprites/enemies/iriseld/stormwrit-hound.png" alt="Stormwrit Hound Sprite" width="200">
 
@@ -327,7 +327,7 @@ Weak to harmonic resonance (e.g. flute, skybell chimes).
 ---
 
 ### [Sorrowwing](./enemies/sorrowwing.md)
-> “It cries your name before you hear it.”
+> "It cries your name before you hear it."
 
 <img src="../assets/sprites/enemies/iriseld/sorrowwing.png" alt="Sorrowwing Sprite" width="200">
 
@@ -338,7 +338,7 @@ Blocked by Cerulean Cloak or resisted with a memory artifact.
 ---
 
 ### [Tempest Marionette](./enemies/tempest-marionette.md)
-> “She dances on wires strung from lightning.”
+> "She dances on wires strung from lightning."
 
 <img src="../assets/sprites/enemies/iriseld/tempest-marionette.png" alt="Tempest Marionette Sprite" width="200">
 
@@ -349,7 +349,7 @@ Can be overloaded by storm surge spells.
 ---
 
 ### [Whisperglass Wyrm](./enemies/whisperglass-wyrm.md)
-> “You never hear it speak. But the cliff listens.”
+> "You never hear it speak. But the cliff listens."
 
 <img src="../assets/sprites/enemies/iriseld/whisperglass-wyrm.png" alt="Whisperglass Wyrm Sprite" width="200">
 
@@ -360,7 +360,7 @@ Best revealed using Payne’s Brush or Skyglass Prisms.
 ---
 
 ### [Tideworn Apostle](./enemies/tideworn-apostle.md)
-> “She drowned for knowledge. Now she walks for silence.”
+> "She drowned for knowledge. Now she walks for silence."
 
 <img src="../assets/sprites/enemies/iriseld/tideworn-apostle.png" alt="Tideworn Apostle Sprite" width="200">
 
@@ -371,7 +371,7 @@ Weak to silence and fire.
 ---
 
 ### [Feathered Null](./enemies/feathered-null.md)
-> “The wind gave up. It became still.”
+> "The wind gave up. It became still."
 
 <img src="../assets/sprites/enemies/iriseld/feathered-null.png" alt="Feathered Null Sprite" width="200">
 
@@ -382,7 +382,7 @@ Can only be defeated with a combo of hue-bound gliding and memory reactivation.
 ---
 
 ### [Mirrorwake Duelist](./enemies/mirrorwake-duelist.md)
-> “She fights in reflections. Yours. Hers. Anyone’s.”
+> "She fights in reflections. Yours. Hers. Anyone’s."
 
 > [!WARNING] No sprite yet...
 
@@ -402,7 +402,7 @@ A feytouched realm of glamour, illusion, and dream-born trickery.
 Here, reality is a suggestion, identity is a costume, 
 and the flowers ask questions you forget answering.  
 
-Nothing is as it Click to seems — and even that truth is suspicious.
+Nothing is as it seems — and even that truth is suspicious.
 
 Myrrala’s enemies laugh as they strike.  
 They dance, echo, mimic, and mislead.  
@@ -413,7 +413,7 @@ To survive is to remember what’s real… if anything is.
 ---
 
 ### [Doppelshade](./enemies/doppelshade.md)
-> “You think it’s you. It hopes you don’t realize too late.”
+> "You think it’s you. It hopes you don’t realize too late."
 
 <img src="../assets/sprites/enemies/myrrala/doppelshade.png" alt="Doppelshade Sprite" width="200">
 
@@ -424,7 +424,7 @@ Can only be revealed by indirect light or Thulian Mirror.
 ---
 
 ### [Lilyborn Mirage](./enemies/lilyborn-mirage.md)
-> “It breathes petals. Then it asks questions you forget answering.”
+> "It breathes petals. Then it asks questions you forget answering."
 
 <img src="../assets/sprites/enemies/myrrala/lilyborn-mirage.png" alt="Lilyborn Mirage Sprite" width="200">
 
@@ -435,7 +435,7 @@ Best countered with rhythmic attacks or dialogue-based counters.
 ---
 
 ### [Chronopollen Sprite](./enemies/chronopollen-sprite.md)
-> “Every sneeze moves the clock.”
+> "Every sneeze moves the clock."
 
 <img src="../assets/sprites/enemies/myrrala/chronopollen-sprite.png" alt="Chronopollen Sprite Sprite" width="200">
 
@@ -446,7 +446,7 @@ Can be trapped in dreamcatcher-like artifacts or frozen in a stasis loop.
 ---
 
 ### [Bloomveil Widow](./enemies/bloomveil-widow.md)
-> “Draped in dusk. Her webs charm, then choke.”
+> "Draped in dusk. Her webs charm, then choke."
 
 <img src="../assets/sprites/enemies/myrrala/bloomveil-widow.png" alt="Bloomveil Widow Sprite" width="200">
 
@@ -457,7 +457,7 @@ Vulnerable when mirrored or silenced.
 ---
 
 ### [Fandancer Fragment](./enemies/fandancer-fragment.md)
-> “She’s still on stage, even if the stage burned down.”
+> "She’s still on stage, even if the stage burned down."
 
 <img src="../assets/sprites/enemies/myrrala/fandancer-fragment.png" alt="Fandancer Fragment Sprite" width="200">
 
@@ -468,7 +468,7 @@ Defeated by desynchronizing or breaking the rhythm pattern.
 ---
 
 ### [Razzflare Imp](./enemies/razzflare-imp.md)
-> “Laughter that burns. Mischief that lingers.”
+> "Laughter that burns. Mischief that lingers."
 
 <img src="../assets/sprites/enemies/myrrala/razzflare-imp.png" alt="Razzflare Imp Sprite" width="200">
 
@@ -479,7 +479,7 @@ Can be grounded by music or rhythmic pulses.
 ---
 
 ### [Heliotropic Lurker](./enemies/heliotropic-lurker.md)
-> “It Click to sees only light. But dreams in shadow.”
+> "It sees only light. But dreams in shadow."
 
 <img src="../assets/sprites/enemies/myrrala/heliotropic-lurker.png" alt="Heliotropic Lurker Sprite" width="200">
 
@@ -490,7 +490,7 @@ Stronger if the player carries Heliotrope Band or casts light-based spells.
 ---
 
 ### [Thulian Vowkeeper](./enemies/thulian-vowkeeper.md)
-> “It remembers every promise you made. Even lies.”
+> "It remembers every promise you made. Even lies."
 
 <img src="../assets/sprites/enemies/myrrala/thulian-vowkeeper.png" alt="Thulian Vowkeeper Sprite" width="200">
 
@@ -501,18 +501,18 @@ Can be pacified or weakened through honesty (or tricked with illusion).
 ---
 
 ### [Glittering Grimoire](./enemies/glittering-grimoire.md)
-> “It reads you when opened.”
+> "It reads you when opened."
 
 <img src="../assets/sprites/enemies/myrrala/glittering-grimoire.png" alt="Glittering Grimoire Sprite" width="200">
 
 Floating, sentient spellbook covered in sparkling runes.  
 Summons phantom spells from the player’s past spell usage history.  
-Must be “closed” via counter-rhythm or illusion feedback loop.
+Must be "closed" via counter-rhythm or illusion feedback loop.
 
 ---
 
 ### [Veilshift Matron](./enemies/veilshift-matron.md)
-> “You’re in her garden now. She decides where the paths go.”
+> "You’re in her garden now. She decides where the paths go."
 
 <img src="../assets/sprites/enemies/myrrala/veilshift-matron.png" alt="Veilshift Matron Sprite" width="200">
 
@@ -554,7 +554,7 @@ Theme	Enemies Emphasizing It
 ---
 
 ### [Sunburnt Jackal](./enemies/sunburnt-jackal.md)
-> “It never learned the difference between shadow and prey.”
+> "It never learned the difference between shadow and prey."
 
 <img src="../assets/sprites/enemies/luxeran/sunburnt-jackal.png" alt="Sunburnt Jackal Sprite" width="200">
 
@@ -565,7 +565,7 @@ Weaker at night or in shadow; lunges toward heat-based spells or torches.
 ---
 
 ### [Mirage Revenant](./enemies/mirage-revenant.md)
-> “You blinked. It was never there. But now it is.”
+> "You blinked. It was never there. But now it is."
 
 <img src="../assets/sprites/enemies/luxeran/mirage-revenant.png" alt="Mirage Revenant Sprite" width="200">
 
@@ -576,7 +576,7 @@ Dispelled by true-vision items or bursts of non-elemental force.
 ---
 
 ### [Ambercoil Asp](./enemies/ambercoil-asp.md)
-> “Even its scales lie.”
+> "Even its scales lie."
 
 <img src="../assets/sprites/enemies/luxeran/ambercoil-asp.png" alt="Ambercoil Asp Sprite" width="200">
 
@@ -587,7 +587,7 @@ Reflects light spells unless disrupted by sonic or echo attacks.
 ---
 
 ### [Gamboge Djinnling](./enemies/gamboge-djinnling.md)
-> “A wish, half-spoken. A trick, fully paid.”
+> "A wish, half-spoken. A trick, fully paid."
 
 <img src="../assets/sprites/enemies/luxeran/gamboge-djinnling.png" alt="Gamboge Djinnling Sprite" width="200">
 
@@ -598,7 +598,7 @@ Tamed briefly with Orange Peel Charms or negotiation spells.
 ---
 
 ### [Cinnabar Scarab](./enemies/cinnabar-scarab.md)
-> “It shines when afraid. Which is always.”
+> "It shines when afraid. Which is always."
 
 <img src="../assets/sprites/enemies/luxeran/cinnabar-scarab.png" alt="Cinnabar Scarab Sprite" width="200">
 
@@ -609,7 +609,7 @@ Real one only harmed by AoE, aura, or memory-scent detection.
 ---
 
 ### [Hollow Prophet](./enemies/hollow-prophet.md)
-> “It speaks in blinding truths… and burns away lies.”
+> "It speaks in blinding truths… and burns away lies."
 
 <img src="../assets/sprites/enemies/luxeran/hollow-prophet.png" alt="Hollow Prophet Sprite" width="200">
 
@@ -620,7 +620,7 @@ Defeated by silence spells or the Eburnean Dice (gambling memory sacrifice).
 ---
 
 ### [Citrine Golem](./enemies/citrine-golem.md)
-> “A gem is eternal. So is its temper.”
+> "A gem is eternal. So is its temper."
 
 <img src="../assets/sprites/enemies/luxeran/citrine-golem.png" alt="Citrine Golem Sprite" width="200">
 
@@ -631,7 +631,7 @@ Best fought with reflected terrain or manipulated architecture.
 ---
 
 ### [Sunflare Marionette](./enemies/sunflare-marionette.md)
-> “Dances on beams. Cracks like porcelain.”
+> "Dances on beams. Cracks like porcelain."
 
 <img src="../assets/sprites/enemies/luxeran/sunflare-marionette.png" alt="Sunflare Marionette Sprite" width="200">
 
@@ -642,7 +642,7 @@ Can be tangled using shadow or smoke-based mechanics.
 ---
 
 ### [Sundial Scarwalker](./enemies/sundial-scarwalker.md)
-> “You can’t run from time. Especially when it’s hunting.”
+> "You can’t run from time. Especially when it’s hunting."
 
 <img src="../assets/sprites/enemies/luxeran/sundial-scarwalker-2.png" alt="Sundial Scarwalker Sprite" width="200">
 <img src="../assets/sprites/enemies/luxeran/sundial-scarwalker.png" alt="Sundial Scarwalker Sprite" width="200">
@@ -654,7 +654,7 @@ Timing-based fight: strike only when its own shadow is cast forward.
 ---
 
 ### [Mirrorthirst Wyrm](./enemies/mirrorthirst-wyrm.md)
-> “It swam through light until it forgot the sky.”
+> "It swam through light until it forgot the sky."
 
 <img src="../assets/sprites/enemies/luxeran/mirrorthirst-wyrm.png" alt="Mirrorthirst Wyrm Sprite" width="200">
 
@@ -683,7 +683,7 @@ they fray the truth of who you are, and who you once were.
 ---
 
 ### [Memory Husk](./enemies/memory-husk.md)
-> “A shell of who you were… or might become.”
+> "A shell of who you were… or might become."
 
 <img src="../assets/sprites/enemies/auralith/memory-husk.png" alt="Memory Husk Sprite" width="200">
 
@@ -694,7 +694,7 @@ Defeated by replaying correct memory sequences or confronting it in dialogue.
 ---
 
 ### [Sootshade Collector](./enemies/sootshade-collector.md)
-> “It gathers burnt truths. And whispers them.”
+> "It gathers burnt truths. And whispers them."
 
 <img src="../assets/sprites/enemies/auralith/sootshade-collector.png" alt="Sootshade Collector Sprite" width="200">
 <img src="../assets/sprites/enemies/auralith/sootshade-collector-test.png" alt="Sootshade Collector Sprite" width="200">
@@ -706,7 +706,7 @@ Immune to fire; vulnerable to silence spells or Bistre Lantern.
 ---
 
 ### [Caput Marionette](./enemies/caput-marionette.md)
-> “They were never truly alive — just waiting to be dismissed.”
+> "They were never truly alive — just waiting to be dismissed."
 
 <img src="../assets/sprites/enemies/auralith/caput-marionette.png" alt="Caput Marionette Sprite" width="200">
 
@@ -717,7 +717,7 @@ Explode in decay clouds on death unless dispelled first.
 ---
 
 ### [Ochre Golem](./enemies/ochre-golem.md)
-> “It doesn’t move fast. It moves deliberately.”
+> "It doesn’t move fast. It moves deliberately."
 
 <img src="../assets/sprites/enemies/auralith/ochre-golem.png" alt="Ochre Golem Sprite" width="200">
 
@@ -728,18 +728,18 @@ Temporarily pacified by placing the correct memory tokens nearby.
 ---
 
 ### [Rustworn Judge](./enemies/rustworn-judge.md)
-> “Its verdict was written in corrosion.”
+> "Its verdict was written in corrosion."
 
 <img src="../assets/sprites/enemies/auralith/rustworn-judge.png" alt="Rustworn Judge Sprite" width="200">
 
 A tall armored specter with cracked lacquered blades.  
-Initiates trials on players — disables HUD and forces “honor duels.”  
+Initiates trials on players — disables HUD and forces "honor duels."  
 Can be outwitted with memory-based bluffing.
 
 ---
 
 ### [Wickbone Lantern](./enemies/wickbone-lantern.md)
-> “A cage of ribs, a candle of memory.”
+> "A cage of ribs, a candle of memory."
 
 <img src="../assets/sprites/enemies/auralith/wickbone-lantern.png" alt="Wickbone Lantern Sprite" width="200">
 <!-- <img src="../assets/sprites/enemies/auralith/wickbone-lantern-2.png" alt="Wickbone Lantern Sprite" width="200"> -->
@@ -752,7 +752,7 @@ Flame can be transferred to unlock ghost-locked doors.
 ---
 
 ### [Alchemical Echo](./enemies/alchemical-echo.md)
-> “It dissolved... but not enough.”
+> "It dissolved... but not enough."
 
 <img src="../assets/sprites/enemies/auralith/alchemical-echo.png" alt="Alchemical Echo Sprite" width="200">
 <img src="../assets/sprites/enemies/auralith/alchemical-echo-test.png" alt="Alchemical Echo Sprite" width="200">
@@ -764,7 +764,7 @@ Temporarily stabilized using Caput Mortuum Phylactery.
 ---
 
 ### [Ashweaver Recluse](./enemies/ashweaver-recluse.md)
-> “Spins memories into traps.”
+> "Spins memories into traps."
 
 <img src="../assets/sprites/enemies/auralith/ashweaver-recluse.png" alt="Ashweaver Recluse Sprite" width="200">
 
@@ -775,7 +775,7 @@ Can be burned or disrupted with loud sound/light.
 ---
 
 ### [Tapestry Watcher](./enemies/tapestry-watcher.md)
-> “It stares at the wall where you betrayed yourself.”
+> "It stares at the wall where you betrayed yourself."
 
 <img src="../assets/sprites/enemies/auralith/tapestry-watcher.png" alt="Tapestry Watcher Sprite" width="200">
 
@@ -786,7 +786,7 @@ Beaten through confession or by wielding truth artifacts.
 ---
 
 ### [Phylactery Swarm](./enemies/phylactery-swarm.md)
-> “Tiny. Hungry. Each holds a name they never earned.”
+> "Tiny. Hungry. Each holds a name they never earned."
 
 <img src="../assets/sprites/enemies/auralith/phylactery-swarm.png" alt="Phylactery Swarm Sprite" width="200">
 <img src="../assets/sprites/enemies/auralith/phylactery-swarm-test.png" alt="Phylactery Swarm Sprite" width="200">
@@ -814,7 +814,7 @@ You do not defeat them — you must un-become what they recognize.
 ---
 
 ### [Prism Unform](./enemies/prism-unform.md)
-> “A hue that forgot what it was.”
+> "A hue that forgot what it was."
 
 <img src="../assets/sprites/enemies/nullshade/prism-unform.png" alt="Prism Unform Sprite" width="200">
 
@@ -825,7 +825,7 @@ Becomes more violent the more hues you’ve unlocked.
 ---
 
 ### [The Bound](./enemies/the-bound.md)
-> “They stood still long enough… and became silence.”
+> "They stood still long enough… and became silence."
 
 <img src="../assets/sprites/enemies/nullshade/the-bound.png" alt="The Bound Sprite" width="200">
 
@@ -836,7 +836,7 @@ Resist all hue magic — can only be calmed or undone by memory artifacts or pla
 ---
 
 ### [Nullshade Echo](./enemies/nullshade-echo.md)
-> “It doesn’t attack. It remembers you doing so.”
+> "It doesn’t attack. It remembers you doing so."
 
 <img src="../assets/sprites/enemies/nullshade/nullshade-echo.png" alt="Nullshade Echo Sprite" width="200">
 
@@ -847,7 +847,7 @@ Defeated only through nonviolent means (e.g., standing still, choosing silence).
 ---
 
 ### [Fractal Shardling](./enemies/fractal-shardling.md)
-> “A thought. A shape. Repeating until it breaks.”
+> "A thought. A shape. Repeating until it breaks."
 
 <img src="../assets/sprites/enemies/nullshade/fractal-shardling.png" alt="Fractal Shardling Sprite" width="200">
 
@@ -858,7 +858,7 @@ Eventually collapses into a silent burst that rewrites nearby terrain.
 ---
 
 ### [Wound Remnant](./enemies/wound-remnant.md)
-> “It bled light. Now it bleeds memory.”
+> "It bled light. Now it bleeds memory."
 
 <img src="../assets/sprites/enemies/nullshade/wound-remnant.png" alt="Wound Remnant Sprite" width="200">
 
@@ -869,7 +869,7 @@ Emits ambient whispers from the shattered Core.
 ---
 
 ### [Shatterglass Choir](./enemies/shatterglass-choir.md)
-> “They sing. The color leaves your screen.”
+> "They sing. The color leaves your screen."
 
 <img src="../assets/sprites/enemies/nullshade/shatterglass-choir.png" alt="Shatterglass Choir Sprite" width="200">
 
@@ -880,7 +880,7 @@ Must be silenced in the order of color loss (e.g. ROYGBV → gray).
 ---
 
 ### [Null-Root](./enemies/null-root.md)
-> “The Core tried to grow again. It failed beautifully.”
+> "The Core tried to grow again. It failed beautifully."
 
 <img src="../assets/sprites/enemies/nullshade/null-root.png" alt="Null-Root Sprite" width="200">
 
@@ -891,18 +891,18 @@ Vulnerable to self-sacrifice: must let them strike a fragment of the Prismwalker
 ---
 
 ### [Silence Incarnate](./enemies/silence-incarnate.md)
-> “It watches. It judges. It never blinks.”
+> "It watches. It judges. It never blinks."
 
 <img src="../assets/sprites/enemies/nullshade/silence-incarnate.png" alt="Silence Incarnate Sprite" width="200">
 
 A cloaked, hovering enemy that never moves — only watches.  
-As long as it Click to sees you, you cannot cast or dodge.  
+As long as it sees you, you cannot cast or dodge.  
 Must break its line of sight using warped architecture or bending light.
 
 ---
 
 ### [Memory Leech](./enemies/memory-leech.md)
-> “What it bites, it forgets for you.”
+> "What it bites, it forgets for you."
 
 <img src="../assets/sprites/enemies/nullshade/memory-leech.png" alt="Memory Leech Sprite" width="200">
 
@@ -913,7 +913,7 @@ Defeated by triggering true memories — usually from collected lore items.
 ---
 
 ### [Tapestry Watcher](./enemies/tapestry-watcher.md)
-> “It weaves choices you didn’t make. Then punishes you for forgetting them.”
+> "It weaves choices you didn’t make. Then punishes you for forgetting them."
 
 > [!NOTE] (Previously introduced in Auralith but echoes in Nullshade)
 
@@ -927,12 +927,12 @@ Appears again in Nullshade — but broken, flickering, mirroring forgotten possi
 Now exists across multiple points in space 
 — each version mutely reacting to different player decisions not taken 
 (e.g., unchosen dialogue trees, skipped side quests).  
-To escape it, the player must choose a new “first decision” and overwrite a prior truth.
+To escape it, the player must choose a new "first decision" and overwrite a prior truth.
 
 ---
 
 ### [The Seventh Hue](./enemies/the-seventh-hue.md)
-> “It was never named. So it never died.”
+> "It was never named. So it never died."
 
 > [!WARNING] no image yet...
 
@@ -942,12 +942,12 @@ A mythic enemy hidden behind the optional puzzle path ("The hue that never had a
 Appears only if the player solves five or more Nullshade prism riddles without error.  
 It mirrors nothing — instead, it attempts to invert the player’s core attributes.
 
-If defeated, unlocks an optional dialogue path before the final boss: **“What if the Prism was wrong?”**
+If defeated, unlocks an optional dialogue path before the final boss: **"What if the Prism was wrong?"**
 
 ---
 
 ### [The Colorless Shape](./enemies/the-colorless-shape.md)
-> “It is everything. And it is no one.”
+> "It is everything. And it is no one."
 
 <img src="../assets/sprites/enemies/nullshade/the-colorless-shape.png" alt="The Colorless Shape Sprite" width="200">
 
@@ -962,7 +962,7 @@ Final form before the boss; its final words echo your first dialogue choice in t
 ## 🌐 Unbound / Cross-Regional Entities
 These appear across multiple zones, during special events, or under narrative triggers:
 
-<details><summary>Click to see Undbound enemy list</summary>
+<details><summary>Click to see Unbound enemy list</summary>
 
 ---
 
@@ -978,7 +978,7 @@ Attacking them risks being drained of hue — causing **temporary colorblindness
 ---
 
 ### [Hue Leeches](./enemies/hue-leeches.md)
-> “They shimmer with borrowed light — and leave you pale.”
+> "They shimmer with borrowed light — and leave you pale."
 
 <img src="../assets/sprites/enemies/unbound/hue-leeches.png" alt="Hue Leeches Sprite" width="200">
 
@@ -989,7 +989,7 @@ Can be popped with AoE or flashed with strong color bursts.
 ---
 
 ### [Tyrian Echo](./enemies/tyrian-echo.md)
-> “Not a person. A memory repeating itself into violence.”
+> "Not a person. A memory repeating itself into violence."
 
 <img src="../assets/sprites/enemies/unbound/tyrian-echo.png" alt="Tyrian Echo Sprite" width="200">
 <img src="../assets/sprites/enemies/unbound/tyrian-echo-2.png" alt="Tyrian Echo Sprite" width="200">
@@ -1001,18 +1001,18 @@ Represents a replay of a warrior from the Color War, trapped in echo.
 ---
 
 ### [Bloomrot Titan](./enemies/bloomrot-titan.md)
-> “Where growth was unchecked, the root turned cruel.”
+> "Where growth was unchecked, the root turned cruel."
 
 <img src="../assets/sprites/enemies/unbound/bloomrot-titan.png" alt="Bloomrot Titan Sprite" width="200">
 
 Massive, overgrown Verdant horror — fungus and bark fused around a desiccated core.  
-Spawns poisonous pollen clouds and throws explosive Click to seed pods.  
+Spawns poisonous pollen clouds and throws explosive seed pods.  
 Weak spot: glowing hollow in its twisted chest.
 
 ---
 
 ### [Wickerborn](./enemies/wickerborn.md)
-> “They built guardians to watch color relics. The husks never stopped watching.”
+> "They built guardians to watch color relics. The husks never stopped watching."
 
 <img src="../assets/sprites/enemies/unbound/wickerborn.png" alt="Wickerborn Sprite" width="200">
 
@@ -1023,7 +1023,7 @@ Can reassemble unless burned or shattered with Crimson/Earthen.
 ---
 
 ### [Nullshade Revenant](./enemies/nullshade-revenant.md)
-> “It remembers dying. It forgot why it came back.”
+> "It remembers dying. It forgot why it came back."
 
 <img src="../assets/sprites/enemies/unbound/nullshade-revenant.png" alt="Nullshade Revenant Sprite" width="200">
 
@@ -1034,7 +1034,7 @@ Heavy, slow attacker with aura that corrupts hue alignment on hit.
 ---
 
 ### [Moth-Witch of the Verdant Spiral](./enemies/moth-witch-of-the-verdant-spiral.md)
-> “Eyes like blossoms, wings like whispers.”
+> "Eyes like blossoms, wings like whispers."
 
 <img src="../assets/sprites/enemies/unbound/moth-witch-of-the-verdant-spiral.png" alt="Moth-Witch of the Verdant Spiral Sprite" width="200">
 
@@ -1045,7 +1045,7 @@ Found in hidden glades; whispers riddles mid-fight.
 ---
 
 ### [Huefractals](./enemies/huefractals.md)
-> “Fragments of forgotten color, shattered but sentient.”
+> "Fragments of forgotten color, shattered but sentient."
 
 <img src="../assets/sprites/enemies/unbound/huefractals.png" alt="Huefractals Sprite" width="200">
 
@@ -1056,18 +1056,18 @@ Collide with each other to create random chromatic effects.
 ---
 
 ### [Memory Grafter](./enemies/memory-grafter.md)
-> “He does not take lives. He replaces them.”
+> "He does not take lives. He replaces them."
 
 <img src="../assets/sprites/enemies/unbound/memory-grafter.png" alt="Memory Grafter Sprite" width="200">
 
 A tall, cloaked humanoid with a scroll of names written in color-ink.  
-Attacks using “rewrites”: steals your ability and replaces it with a fake one.  
+Attacks using "rewrites": steals your ability and replaces it with a fake one.  
 Leaves color illusions of the player behind — like echoes.
 
 ---
 
 ### [Spectral Harvester](./enemies/spectral-harvester.md)
-> “One swing, and your history falls away.”
+> "One swing, and your history falls away."
 
 <img src="../assets/sprites/enemies/unbound/spectral-harvester.png" alt="Spectral Harvester Sprite" width="200">
 
@@ -1078,7 +1078,7 @@ Can only be banished by completing a lore puzzle or using Hue Reforge relics.
 ---
 
 ### [The Unhued Choir](./enemies/the-unhued-choir.md)
-> “They sing the Prism’s dirge. Each note unmakes.”
+> "They sing the Prism’s dirge. Each note unmakes."
 
 <img src="../assets/sprites/enemies/unbound/the-unhued-choir.png" alt="The Unhued Choir Sprite" width="200">
 
@@ -1120,10 +1120,10 @@ Can be silenced with specific color sigils or broken with sonic feedback.
 | **Spectral Echoes & Revenants**    | • **Crimson Echo**: duels you in looped attacks; break pattern with rhythm pauses.                             |
 |                                    | • **Bannerbound Revenant**: momentum summoner; seize banner to end shades.                                     |
 |                                    | • **Nullshade Revenant**: phase shifts unless lit by designated hue lanterns.                                  |
-| **Arachnid / Trap-weavers**        | • **Ashweaver Recluse**: memory-web traps → “panic echo”; dispel webs with sound/flashes.                      |
+| **Arachnid / Trap-weavers**        | • **Ashweaver Recluse**: memory-web traps → "panic echo"; dispel webs with sound/flashes.                      |
 |                                    | • **Spider Variants** (Bloomveil Widow’s webs, etc.) integrate similar trap loops.                             |
 | **Boss-Scale Illusionists**        | • **Moth-Witch of the Verdant Spiral**: riddle choices reshape arena; wrong answer → shifting illusions.       |
-|                                    | • **Veilshift Matron**: rewrites battlefield geometry; counter with mirror, “true map” buff.                   |
+|                                    | • **Veilshift Matron**: rewrites battlefield geometry; counter with mirror, "true map" buff.                   |
 | **Time & Reflection Masters**      | • **Sundial Scarwalker**: mimics your movement with delay; stutter-step to confuse it.                         |
 |                                    | • **Mirrorwake Duelist**: fights via reflections; break all local mirrors to remove her mobility.              |
 |                                    | • **Whisperglass Wyrm**: burrows through reflective terrain; reveal with Mind Echo under glass.                |

@@ -1,13 +1,13 @@
 enemies misc intro
 
-Perfect — this “unbound” list is rich with design potential, especially
+Perfect — this "unbound" list is rich with design potential, especially
 as flexible encounters, NG+ variants, postgame threats, or hidden boss
 paths.
 
 To bring these into full integration, I’ll do the following for you:
 
 1. Assign each enemy to its most fitting region — based on theme,
-mechanics, and lore (including “optional” or “cross-regional” status
+mechanics, and lore (including "optional" or "cross-regional" status
 where needed).
 
 2. Present that as a clean, organized Region Assignment Table, so you

@@ -23,16 +23,16 @@ Lore Entry
 
 <details><summary>See Ochre Golem Lore Entry</summary>
 
-Lore Entry: From “Steles and Stillness,” by the Burnt Sienna Sculptor>
-“A statue is only still when it is being watched. Leave, and it
-breathes.”
+Lore Entry: From "Steles and Stillness," by the Burnt Sienna Sculptor>
+"A statue is only still when it is being watched. Leave, and it
+breathes."
 
-> “We carved them to remember — not to defend. But the weight of memory
-is heavier than armor.”
+> "We carved them to remember — not to defend. But the weight of memory
+is heavier than armor."
 
-> “One still stands in Mortuum’s orchard, beneath the ash-fruit tree. I
+> "One still stands in Mortuum’s orchard, beneath the ash-fruit tree. I
 etched my first sin in its chest. It has never forgiven me. That’s how I
-know it still works.”
+know it still works."
 
 </details>
 
@@ -79,7 +79,7 @@ Known Weaknesses:
 Temporarily pacified if a correct Memory Token (tied to its origin) is
 placed at its feet.
 
-Vulnerable from behind during its “memory surge” animation — a slow,
+Vulnerable from behind during its "memory surge" animation — a slow,
 glowing pause.
 
 Cannot cross sanctified lines created with Bistre Lantern flame.

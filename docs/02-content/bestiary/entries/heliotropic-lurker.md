@@ -19,7 +19,7 @@ Lore Entry
 
 <details><summary>See Heliotropic Lurker Lore Entry</summary>Lore Entry: From the Garden Notes of the Liseran Caretaker
 
-> “The lilies grieve when it feeds. They know it was once part of them.”
+> "The lilies grieve when it feeds. They know it was once part of them."
 
 
 
@@ -63,7 +63,7 @@ Description:
 
 A vine-creature that moves only when light shifts. It uses heliotrope blossoms as sensors, blooming toward sources of hue. Its strikes are sudden — from petal to fang in less than a heartbeat.
 
-It is silent, but players report feeling “watched” before it strikes.
+It is silent, but players report feeling "watched" before it strikes.
 
 Hue Interaction:
 

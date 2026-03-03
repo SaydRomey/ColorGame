@@ -5,7 +5,7 @@
 
 </div>
 
-# 🎮 IN-GAME SCENE: “Ashes That Whisper”
+# 🎮 IN-GAME SCENE: "Ashes That Whisper"
 
 Location: Duelist’s Pit, Vireya Highlands
 Visual Style:
@@ -22,7 +22,7 @@ Player Status: Bound to Crimson (Red), Earthen (Brown), and Cobalt (Blue) hues.
 
 ---
 
-Scene	“Ashes That Whisper”
+Scene	"Ashes That Whisper"
 
 Location:	Duelist’s Pit, Vireya Highlands
 Visual Style:	Flickering crimson light over scorched stone. Wind carries ash and whispers. Banners crackle and curl.
@@ -54,8 +54,8 @@ One arena gate creaks open… no one comes out.
 
 🎙️ Narration (Internal Monologue)
 
-> “The pit holds no champions anymore.
-Only names carved in ash. And those still burn.”
+> "The pit holds no champions anymore.
+Only names carved in ash. And those still burn."
 
 
 
@@ -71,19 +71,19 @@ A cloaked figure stands with sword drawn, unmoving, before a molten stone throne
   </br><i>Vermilion Duelist – Keeper of the Ember Oath</i></br>
 </div>Duelist:
 
-> “The throne holds no one. The fire waits for choice.”
+> "The throne holds no one. The fire waits for choice."
 
-“Fight me — and leave part of yourself in the ash.”
+"Fight me — and leave part of yourself in the ash."
 
 
 
 Dialogue Options (Color-Gated):
 
-🟥 [Crimson-Bound] “I bleed purpose. Let fire be the answer.”
+🟥 [Crimson-Bound] "I bleed purpose. Let fire be the answer."
 
-🪨 [Earthen-Bound] “Every cut tells a story. I came to read.”
+🪨 [Earthen-Bound] "Every cut tells a story. I came to read."
 
-🟦 [Cobalt-Bound] “The flame blinds. I came for truth.”
+🟦 [Cobalt-Bound] "The flame blinds. I came for truth."
 
 
 
@@ -110,12 +110,12 @@ Upon victory or surrender, the Duelist drops a shard.
 Using Earthen’s Memory Echo reveals:
 
 > Amaranth and a younger Prismara fighting side by side.
-“If we die here, let it mean something.”
+"If we die here, let it mean something."
 She sets herself ablaze to protect him.
 
 
 
-Unlocks: Hue Archive Entry: “The Ember Accord”
+Unlocks: Hue Archive Entry: "The Ember Accord"
 
 
 ---
@@ -127,7 +127,7 @@ If Crimson-bound, a flame bridge rises.
 
 If not:
 
-> “Ash does not carry the bold. Only those who burned for something.”
+> "Ash does not carry the bold. Only those who burned for something."
 
 
 

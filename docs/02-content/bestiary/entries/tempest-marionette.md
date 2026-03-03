@@ -27,8 +27,8 @@ Lore Entry
 
 
 
-> “Every bow is a goodbye.”
-“Every step is applause from the storm.”
+> "Every bow is a goodbye."
+"Every step is applause from the storm."
 
 
 

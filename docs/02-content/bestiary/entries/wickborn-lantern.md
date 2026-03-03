@@ -13,15 +13,15 @@ Wickbone Lantern – The Light That Judges
 Lore Entry
 
 <details><summary>See Wickbone Lantern Lore Entry</summary>
-Lore Entry: From “Catacombs of Auralith,” Scribed by Bistre Archivist> “The dead do not always lie still in Auralith. Some walk — not out of spite, but because their name hasn’t been laid to rest.”
+Lore Entry: From "Catacombs of Auralith," Scribed by Bistre Archivist> "The dead do not always lie still in Auralith. Some walk — not out of spite, but because their name hasn’t been laid to rest."
 
 
 
-> “The Wickbone Lanterns were once torchbearers of the Phylactery Vault. Now they bear witness instead — to false pilgrims, broken promises, and memories sealed too tightly.”
+> "The Wickbone Lanterns were once torchbearers of the Phylactery Vault. Now they bear witness instead — to false pilgrims, broken promises, and memories sealed too tightly."
 
 
 
-> “To follow one is to risk being led into truths you hoped would stay buried. Their flame does not burn, but it reveals. That, some say, is worse.”
+> "To follow one is to risk being led into truths you hoped would stay buried. Their flame does not burn, but it reveals. That, some say, is worse."
 
 
 
@@ -44,7 +44,7 @@ Hue Interaction:
 
 Flame reacts strongly to Violet-bound illusions, warping nearby terrain into false memories.
 
-Yellow-bound players can “follow” its path safely for longer without triggering traps.
+Yellow-bound players can "follow" its path safely for longer without triggering traps.
 
 Earthen spells may dim or brighten its flame — useful for revealing hidden lore.
 
@@ -60,7 +60,7 @@ If its flame is extinguished without care, it screams — summoning 1–3 Memory
 
 Known Weaknesses:
 
-The Bistre Lantern’s light can stabilize its flame, revealing its “last burial site” — allowing peaceful dispelling.
+The Bistre Lantern’s light can stabilize its flame, revealing its "last burial site" — allowing peaceful dispelling.
 
 Alchemical cold or illusions of stillness (e.g. Glamour Pulse) may cause it to halt long enough to pass.
 
@@ -68,7 +68,7 @@ Can be bound temporarily using a Caput Mortuum Phylactery for puzzle or environm
 
 
 Notes:
-Players who ignore the Lantern’s path often miss hidden vaults and Memory Echo entries. However, following too closely without the correct hue-balance may cause “reflection bleed” — a debuff where the player’s reflection attacks them in later scenes.
+Players who ignore the Lantern’s path often miss hidden vaults and Memory Echo entries. However, following too closely without the correct hue-balance may cause "reflection bleed" — a debuff where the player’s reflection attacks them in later scenes.
 
 
 ---

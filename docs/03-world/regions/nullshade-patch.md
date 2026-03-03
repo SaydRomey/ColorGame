@@ -209,7 +209,7 @@ we experience a Memory Echo that is not ours—the world’s memory.
 
 ### Scene beat
 - Mneme UI goes blank (not drained—muted).
-- The shard emits a “negative glow” (absence light).
+- The shard emits a "negative glow" (absence light).
 - The map gets a new scar: a fracture line pointing inward.
 - A single line of diegetic UI text (rare, so it lands):
   - **"RETURN VECTOR ACQUIRED."**

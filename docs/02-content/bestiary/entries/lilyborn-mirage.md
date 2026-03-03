@@ -80,7 +80,7 @@ Opens with a shimmerburst that reverses dialogue choices.
 
 Repeats 3–5 second memory loops that affect hitboxes and terrain.
 
-Casts “Memory Bloom” — an AoE illusion that causes the player to speak involuntarily, re-triggering decision points.
+Casts "Memory Bloom" — an AoE illusion that causes the player to speak involuntarily, re-triggering decision points.
 
 
 Known Weaknesses:
@@ -96,7 +96,7 @@ Notes:
 
 A rare scholar wrote:
 
-> “The lily only lies if you ask it to bloom.”
+> "The lily only lies if you ask it to bloom."
 That scroll ends with a sentence that trails off… repeating itself… again… and again…
 
 

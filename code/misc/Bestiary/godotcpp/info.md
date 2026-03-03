@@ -31,7 +31,7 @@ protected:
 public:
 		bool load_dir(String path) { return _reg.loadMetadataDirectory(path.utf8().get_data()); }
 
-		/* Return an Array of StringNames (“BEAST_…”) */
+		/* Return an Array of StringNames ("BEAST_…") */
 		Array get_ids() const {
 				Array ids;
 				for (int i = 0; i < BESTIARY_ID_COUNT; ++i)
@@ -86,7 +86,7 @@ Bestiary (Control)
 ├─ Background      : NinePatchRect (paper/book texture)
 ├─ IndexPanel      : VBoxContainer        # list of unlocked beasts
 │   └─ BeastButton : Button (created at runtime, one per beast)
-├─ PageContainer   : Control              # holds current “page”
+├─ PageContainer   : Control              # holds current "page"
 │   ├─ Sprite      : TextureRect          # tiny monster portrait
 │   ├─ PageText    : RichTextLabel        # main text
 │   └─ PageQuote   : RichTextLabel (ital) # quote

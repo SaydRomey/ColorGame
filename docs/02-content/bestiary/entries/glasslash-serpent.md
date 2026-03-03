@@ -19,7 +19,7 @@ Lore Entry
 
 <details><summary>See Glasslash Serpent Lore Entry</summary>Lore Entry: Fragment inscribed on a broken obsidian blade, source unknown
 
-> “She loved him. He left her in fire.”
+> "She loved him. He left her in fire."
 
 
 
@@ -83,7 +83,7 @@ Vulnerable to vibration-based spells (e.g. seismic drums, ground pulse), which d
 
 If shattered over cooled lava, fragments remain inert — allows safe pathing.
 
-Momentarily stunned after “glass bloom” — when it erupts in full defense mode.
+Momentarily stunned after "glass bloom" — when it erupts in full defense mode.
 
 
 Notes:

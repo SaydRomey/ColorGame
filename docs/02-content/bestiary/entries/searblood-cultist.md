@@ -19,7 +19,7 @@ Lore Entry
 
 <details><summary>See Searblood Cultist Lore Entry</summary>Lore Entry: Burned parchment recovered from the Ember Reliquary
 
-> “We gave them fire and they gave us back belief.”
+> "We gave them fire and they gave us back belief."
 
 
 

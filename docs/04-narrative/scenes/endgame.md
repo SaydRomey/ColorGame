@@ -140,7 +140,7 @@ A crystal forms before you with two options:
 
 ---
 
-## 🌘 **FINAL CHOICE – Dialogue Tree: “What hue remains in you?”**
+## 🌘 **FINAL CHOICE – Dialogue Tree: "What hue remains in you?"**
 
 > *(The arena is shattered. The spectral remnants of the Core float before you.  
 > A crystal forms — still, silent. You may speak before your choice is made.)*
@@ -193,7 +193,7 @@ A crystal forms before you with two options:
 🗣 *Fractured Core Response:*  
 *"Then speak the dream you want to wake in."*
 
-✅ Prompts a **“Speak Your Truth”** option — player types/refines a choice.
+✅ Prompts a **"Speak Your Truth"** option — player types/refines a choice.
 
 ---
 
@@ -219,11 +219,11 @@ A crystal forms before you with two options:
 
 ### 🎮 **PLAYER ACTION PROMPT**
 
-> **“What do you do?”**  
+> **"What do you do?"**  
 > *(Options fade in, based on your dialogue):*
 
 - 🔹 **[Rebind the Prism]**  
-  *“Shape the world whole again.”*
+  *"Shape the world whole again."*
 
 - 🔸 **[Let It Fracture]**  
-  *“Let the hues stay free — even if it means they drift apart forever.”*
+  *"Let the hues stay free — even if it means they drift apart forever."*

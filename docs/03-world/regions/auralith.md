@@ -23,7 +23,7 @@
 - **Artifact Examples:** Bistre Lantern, Burnt Sienna Golem Core  
 
 **Environmental Twist:**  
-You leave behind “ghosts” of past deaths/actions that either help or haunt you later.
+You leave behind "ghosts" of past deaths/actions that either help or haunt you later.
 
 ---
 

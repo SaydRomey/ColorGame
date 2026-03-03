@@ -19,7 +19,7 @@ Lore Entry
 
 <details><summary>See Funeral Dancer Lore Entry</summary>Lore Entry: Carved into the steps of a scorched amphitheater
 
-> “We gave her grief. She gave us grace.”
+> "We gave her grief. She gave us grace."
 
 
 
@@ -35,7 +35,7 @@ Lore Entry
 
 
 
-> — Authored by Fennel “Redchalk” Vireen, former archivist turned battlefield scribe
+> — Authored by Fennel "Redchalk" Vireen, former archivist turned battlefield scribe
 
 
 
@@ -68,14 +68,14 @@ Behavior:
 
 Opens with a slow spiral step — each movement leaving a glowing sigil.
 
-After four to six steps, stops to perform a “bow” — triggering the explosion of all active sigils.
+After four to six steps, stops to perform a "bow" — triggering the explosion of all active sigils.
 
 If struck mid-combo, immediately shifts into evasive spin and relocates.
 
 
 Known Weaknesses:
 
-During her “final pose,” she is vulnerable for a full second — ideal time to strike.
+During her "final pose," she is vulnerable for a full second — ideal time to strike.
 
 Sigils can be absorbed by Reflection Ward or overwritten with player sigil-magic.
 

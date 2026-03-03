@@ -13,7 +13,7 @@ Sundial Scarwalker – The Weight of Time
 Lore Entry
 
 <details><summary>See Sundial Scarwalker Lore Entry</summary>
-Lore Entry: From “The Clocks That Bled,” Eburnean desert chronicle etched into goldleaf bark> "Before there were calendars, there were these things — time given feet and fury."
+Lore Entry: From "The Clocks That Bled," Eburnean desert chronicle etched into goldleaf bark> "Before there were calendars, there were these things — time given feet and fury."
 
 
 
@@ -43,14 +43,14 @@ First Emerged: Built pre-Shattering as timekeepers and guardians of sacred solar
 ---
 
 Description:
-Towering warrior built from layered sun-tempered stone and obsidian. Its “face” is a circular sundial ring that rotates subtly. It leaves scorch-marks shaped like clock hands where it steps.
+Towering warrior built from layered sun-tempered stone and obsidian. Its "face" is a circular sundial ring that rotates subtly. It leaves scorch-marks shaped like clock hands where it steps.
 
 
 ---
 
 Hue Interaction:
 
-Ignores illusionary magic completely — always acts on “true” player movement
+Ignores illusionary magic completely — always acts on "true" player movement
 
 Highly reactive to Aurelian light mechanics: speeds up when in bright light, slows in shadow
 
@@ -87,9 +87,9 @@ Blocking light or using sun-disruption tools disables its Noonstrike temporarily
 ---
 
 Notes:
-Many travelers mistakenly believe Scarwalkers are blind — they’re not. They simply don’t need eyes. Their “vision” is your rhythm, your weight, your urgency. Walk without purpose… and you live. For a little longer.
+Many travelers mistakenly believe Scarwalkers are blind — they’re not. They simply don’t need eyes. Their "vision" is your rhythm, your weight, your urgency. Walk without purpose… and you live. For a little longer.
 
-> “The shadow doesn’t chase. It waits where you were always going.”
+> "The shadow doesn’t chase. It waits where you were always going."
 
 
 

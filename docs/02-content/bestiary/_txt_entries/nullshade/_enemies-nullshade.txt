@@ -1,7 +1,7 @@
 enemies-nullshade.md
 
 Nullshade — as the colorless, final realm — is a place where enemies are
-less “alive” and more like echoes, fragments, and contradictions. Their
+less "alive" and more like echoes, fragments, and contradictions. Their
 purpose is not just to threaten, but to question, distort, and reveal.
 Here's a list of enemies designed to fully embody the themes of void,
 identity, memory, and metaphysical unraveling.
@@ -14,7 +14,7 @@ identity, memory, and metaphysical unraveling.
 
 1. Prism Unform
 
-> “A hue that forgot what it was.”
+> "A hue that forgot what it was."
 
 Shifting spectral figure that constantly flickers between hues — its
 form glitches.
@@ -28,7 +28,7 @@ Becomes more violent the more hues you’ve unlocked.
 
 2. The Bound
 
-> “They stood still long enough… and became silence.”
+> "They stood still long enough… and became silence."
 
 The stone figures scattered across Nullshade.
 
@@ -42,7 +42,7 @@ or player dialogue.
 
 3. Nullshade Echo
 
-> “It doesn’t attack. It remembers you doing so.”
+> "It doesn’t attack. It remembers you doing so."
 
 Ghostly silhouette that replays your past actions — literal echoes of
 your earlier fights, dialogue choices, or attacks.
@@ -57,7 +57,7 @@ silence).
 
 4. Fractal Shardling
 
-> “A thought. A shape. Repeating until it breaks.”
+> "A thought. A shape. Repeating until it breaks."
 
 Jagged, floating prism fragment with recursive movement patterns.
 
@@ -69,7 +69,7 @@ Eventually collapses into a silent burst that rewrites nearby terrain.
 
 5. Wound Remnant
 
-> “It bled light. Now it bleeds memory.”
+> "It bled light. Now it bleeds memory."
 
 A cracked, semi-humanoid construct born from the Prism Wound.
 
@@ -82,7 +82,7 @@ Emits ambient whispers from the shattered Core.
 
 6. Shatterglass Choir
 
-> “They sing. The color leaves your screen.”
+> "They sing. The color leaves your screen."
 
 Cluster of floating childlike silhouettes, each a broken hue echo.
 
@@ -95,7 +95,7 @@ Must be silenced in the order of color loss (e.g. ROYGBV → gray).
 
 7. Null-Root
 
-> “The Core tried to grow again. It failed beautifully.”
+> "The Core tried to grow again. It failed beautifully."
 
 Void-black vine-beasts wrapped in crystallized color veins.
 
@@ -108,7 +108,7 @@ Prismwalker to activate their decay.
 
 8. Silence Incarnate
 
-> “It watches. It judges. It never blinks.”
+> "It watches. It judges. It never blinks."
 
 A cloaked, hovering enemy that never moves — only watches.
 
@@ -120,7 +120,7 @@ Must break its line of sight using warped architecture or bending light.
 
 9. Memory Leech
 
-> “What it bites, it forgets for you.”
+> "What it bites, it forgets for you."
 
 Insectoid shape with crystal mandibles; feeds on the player’s HUD,
 memories, and controls.
@@ -135,7 +135,7 @@ items.
 
 10. The Colorless Shape
 
-> “It is everything. And it is no one.”
+> "It is everything. And it is no one."
 
 Boss-tier elite enemy — a shifting, humanoid mirror that reflects your
 loadout and current hue alignment.

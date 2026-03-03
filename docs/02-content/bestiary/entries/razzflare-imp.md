@@ -19,7 +19,7 @@ Lore Entry
 
 <details><summary>See Razzflare Imp Lore Entry</summary>Lore Entry: From the Notes of Mauveine Spark
 
-> “Yes, yes, I made it. But I didn’t teach it to laugh.”
+> "Yes, yes, I made it. But I didn’t teach it to laugh."
 
 
 

@@ -42,7 +42,7 @@ As long as it sees you, you cannot act.
 > But know this — when it blinks, it remembers your shape."
 
 <!--
-### Lore Entry: “Notes on Spectral Stagnation” — Scratched into obsidian by a forgotten archivist.
+### Lore Entry: "Notes on Spectral Stagnation" — Scratched into obsidian by a forgotten archivist.
 
 > "It hovered where thought slowed. 
 > Where voices curled back into minds."
@@ -84,7 +84,7 @@ You cannot confront it directly — only escape its gaze.
 <!--
 ### Description:
 A floating shrouded figure with no visible face.  
-Its “eye” is a subtle shimmer in the hood’s center — not always open, not always there.  
+Its "eye" is a subtle shimmer in the hood’s center — not always open, not always there.  
 When it gazes at the player, action becomes impossible: casting, dodging, speaking all fail.
 -->
 
@@ -124,7 +124,7 @@ When it gazes at the player, action becomes impossible: casting, dodging, speaki
 <!--
 ### Known Weaknesses:
 - Breaking line of sight with terrain or mirrored prism shards allows action again.
-- Defeated by using the “Reverse Gaze” effect from the Prismwalker’s relic arsenal.
+- Defeated by using the "Reverse Gaze" effect from the Prismwalker’s relic arsenal.
 - Whisper-based spells (from Violet or Brown hue sets) disrupt its fixation.
 -->
 

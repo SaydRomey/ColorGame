@@ -68,12 +68,12 @@ This pose captures:
 dormancy
 reactivation
 memory-based anticipation
-“slow, unnerving grace”
+"slow, unnerving grace"
 Optional inset
 A small secondary inset showing:
 the same Bound a moment later, with a slight shift in hand or spine position
 or a close-up of the chest cavity shimmer / hollow core revealed during vulnerability
-That would support the “remembers how to move” concept without turning the sheet into an action illustration.
+That would support the "remembers how to move" concept without turning the sheet into an action illustration.
 Lore-defining traits to emphasize
 These should be visibly prioritized over generic fantasy details:
 1. Mid-action petrification
@@ -112,18 +112,18 @@ reaching variant
 shielding variant
 Keep these secondary figures minimal and light, as supporting design notes rather than scene composition.
 Behavior translated into form
-“They anticipate”
+"They anticipate"
 Avoid sprinting/hunter anatomy. Instead, make the design feel like it wins by:
 timing
 presence
 inevitability
-“Delayed but catastrophic strikes”
+"Delayed but catastrophic strikes"
 You can imply this with:
 heavy, committed arm arcs in construction lines
 stable lower body
 poised shoulders
 hands that look capable of crushing rather than slashing
-“Cannot be dodged traditionally”
+"Cannot be dodged traditionally"
 This suggests a design that feels psychologically in sync with the player, not physically fast. So the body should not look agile; it should look certain.
 Sheet composition recommendation
 For your default format:

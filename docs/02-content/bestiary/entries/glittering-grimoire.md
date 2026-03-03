@@ -19,7 +19,7 @@ Lore Entry
 
 <details><summary>See Glittering Grimoire Lore Entry</summary>Lore Entry: Recovered Margins from the Library of Echoes
 
-> “We never finished writing it. So it kept writing itself.”
+> "We never finished writing it. So it kept writing itself."
 
 
 
@@ -43,7 +43,7 @@ Lore Entry
 
 
 
-> — Payne’s Shade, “On Living Texts”
+> — Payne’s Shade, "On Living Texts"
 
 
 
@@ -87,15 +87,15 @@ Known Weaknesses:
 
 Pages are fragile during page-turning animation — hit then to break a spell loop.
 
-If hit while it's “rewriting,” the book suffers a Truth Tear and becomes stunned.
+If hit while it's "rewriting," the book suffers a Truth Tear and becomes stunned.
 
 Defeated more easily when attacked with non-spell damage (e.g. melee, environmental).
 
 
 Notes:
 
-On death, drops Unwritten Page, which can be bound to a spell to create a “ghost echo” — an auto-cast illusion of it that can act independently once per day.
-Rare encounters may cause it to “remember” future player actions — causing strange feedback in later fights.
+On death, drops Unwritten Page, which can be bound to a spell to create a "ghost echo" — an auto-cast illusion of it that can act independently once per day.
+Rare encounters may cause it to "remember" future player actions — causing strange feedback in later fights.
 
 
 ---

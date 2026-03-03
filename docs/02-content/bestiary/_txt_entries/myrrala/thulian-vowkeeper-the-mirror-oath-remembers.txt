@@ -26,7 +26,7 @@ Lore Entry
 <details><summary>See Thulian Vowkeeper Lore Entry</summary>Lore Entry:
 From the Vault of the Thulian Emissary
 
-> “It is not justice. It is memory polished until it cuts.”
+> "It is not justice. It is memory polished until it cuts."
 
 > The Vowkeepers were once truth-bound protectors of the Mirror Courts —
 warriors who could not lie, and who punished those who did.
@@ -37,12 +37,12 @@ longer reflect truth — only promises made and broken.
 > They appear where lies fester or where promises die — even small ones.
 Especially small ones.
 
-> If you told someone you'd return and didn’t… if you said “I’ll protect
-you,” and failed… it remembers.
+> If you told someone you'd return and didn’t… if you said "I’ll protect
+you," and failed… it remembers.
 
 > And it will finish the sentence with a blade.
 
-> — Thulian Emissary, “On the Nature of Promised Things”
+> — Thulian Emissary, "On the Nature of Promised Things"
 
 </details>
 
@@ -80,7 +80,7 @@ falsehood.
 Behavior:
 
 Begins combat by reciting a promise or dialogue the player once made —
-“You said you’d protect them.”
+"You said you’d protect them."
 
 Uses Truth Slash, which reflects prior movement patterns in a delayed
 echo.
@@ -90,7 +90,7 @@ if the player fled a vow-bound fight.
 
 Known Weaknesses:
 
-Vulnerable only during its “judgment pause” — when it hesitates after
+Vulnerable only during its "judgment pause" — when it hesitates after
 speaking a truth.
 
 Can be confused by paradoxes: use opposing truth/lie dialogue

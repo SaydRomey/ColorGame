@@ -12,7 +12,7 @@
 
 Lore Entry
 
-<details><summary>See Null-Root Lore Entry</summary>Lore Entry: Journal Fragment, written by the Caput Mortuum Ascetic — “Notes on the Hollow Bloom”
+<details><summary>See Null-Root Lore Entry</summary>Lore Entry: Journal Fragment, written by the Caput Mortuum Ascetic — "Notes on the Hollow Bloom"
 
 > "It germinated in absence — from a sliver of the Prism that refused to fade."
 
@@ -45,7 +45,7 @@ Hue Interaction:
 
 Drawn to equipped Hue shards — becomes violent the more hues are active.
 
-Grows passive if player unequips all hue-bound gear or uses “Voidstep” relic.
+Grows passive if player unequips all hue-bound gear or uses "Voidstep" relic.
 
 ---
 
@@ -65,7 +65,7 @@ Cannot be killed directly — must let it strike a Prismwalker shard to trigger 
 
 Once it latches to a hue-infused item, it begins dissolving — that item is sacrificed.
 
-Exposed to the “Caput Mortuum Phylactery,” it becomes inert for one cycle.
+Exposed to the "Caput Mortuum Phylactery," it becomes inert for one cycle.
 
 ---
 
@@ -75,6 +75,6 @@ Emits a low, heartbeat-like thrum when nearby.
 
 > [!WARNING]  ??  
 
-Some echoes report a brief visual of the Prismwalker being “buried in roots” after defeating it — a non-lethal memory echo tied to its origin.
+Some echoes report a brief visual of the Prismwalker being "buried in roots" after defeating it — a non-lethal memory echo tied to its origin.
 
 ---

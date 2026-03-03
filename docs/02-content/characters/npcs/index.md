@@ -27,12 +27,12 @@ List of some "main" NPC characters with:
 </div>
 
 > "Gardens grow again, even over bones."  
-> “This garden grew thorns when we fled.”  
+> "This garden grew thorns when we fled."  
 > "If you listen, the moss remembers where you buried the truth."  
-> “Hold the stone in moonlight — it’ll show you what we forgot.”  
+> "Hold the stone in moonlight — it’ll show you what we forgot."  
 
 **When leading the player into ancient ruins:**  
-> “Roots grow around memory. Tread softly — some stones grieve.”
+> "Roots grow around memory. Tread softly — some stones grieve."
 
 **Item:** *Xanadu Stone* – Ancient mossy relic; grants visions of lost utopias when held in moonlight.
 
@@ -49,11 +49,11 @@ List of some "main" NPC characters with:
 
 > "Balance is pigment and patience."  
 > "When the ink runs dry, the spell is complete."  
-> “A drop of this will make a promise eternal — or a lie irreversible.”  
-> “Some colors need silence to set.”  
+> "A drop of this will make a promise eternal — or a lie irreversible."  
+> "Some colors need silence to set."  
 
 **When offering a spell recipe:**  
-> “Write it with care. Ink has memory… and moods.”
+> "Write it with care. Ink has memory… and moods."
 
 **Item:** *Viridian Ink* – Alchemical dye that makes enchanted glyphs permanent and immune to dispelling.
 
@@ -68,11 +68,11 @@ List of some "main" NPC characters with:
 
 > "Cover the blade in green, and the blood won't shine."  
 > "I've seen ghosts lose their war... and still stand guard."  
-> “I buried more comrades than I remember. But moss remembers them all.”  
-> “Don’t ask about my medals. Ask the forest where I left them.”  
+> "I buried more comrades than I remember. But moss remembers them all."  
+> "Don’t ask about my medals. Ask the forest where I left them."  
 
 **When asked to teach strategy:**  
-> “Plan like the forest — layered, patient, and ready to swallow noise.”
+> "Plan like the forest — layered, patient, and ready to swallow noise."
 
 **Item:** *Feldgrau Cloak* – Worn by ghost soldiers; renders the wearer near-invisible in forests or ruins.
 
@@ -87,11 +87,11 @@ List of some "main" NPC characters with:
 
 > "Below the blue, there’s only pressure and memory."  
 > "The deeper you dive, the older the lies become."  
-> “Light lies. Pressure doesn’t.”  
-> “This lens? It’s seen ghosts smile at their traps.”  
+> "Light lies. Pressure doesn’t."  
+> "This lens? It’s seen ghosts smile at their traps."  
 
 **When spotting a hidden artifact:**  
-> “There. It blinks when your heart does. Don’t ask how I know.”
+> "There. It blinks when your heart does. Don’t ask how I know."
 
 **Item:** *Skobeloff Lens* – A monocle that sees through illusion and detects magical traps in dim light.
 
@@ -106,11 +106,11 @@ List of some "main" NPC characters with:
 
 > "Joy ferments like herbs — bitter, then healing."  
 > "Laugh, and the gods might laugh with you. Or at you."  
-> “Drink with intent. Laugh with abandon. Regret with wisdom.”  
-> “The gods cackle. Why shouldn’t we?”  
+> "Drink with intent. Laugh with abandon. Regret with wisdom."  
+> "The gods cackle. Why shouldn’t we?"  
 
 **When giving the player a potion:**  
-> “Side effects may include euphoria, clarity… and bears.”
+> "Side effects may include euphoria, clarity… and bears."
 
 **Item:** *Chartreuse Tonic* – Electric-green potion brewed by monks; restores stamina and induces laughter.
 
@@ -126,11 +126,11 @@ List of some "main" NPC characters with:
 
 > "When the stone speaks, silence obeys."  
 > "Change is the only truth the roots trust."  
-> “Fate is a serpent. I only provide the fang.”  
-> “I don’t speak prophecy. I just repeat what the moss sings.”  
+> "Fate is a serpent. I only provide the fang."  
+> "I don’t speak prophecy. I just repeat what the moss sings."  
 
 **When asked for a vision:**  
-> “Bring me something forgotten. Only then can I show you what’s ahead.”
+> "Bring me something forgotten. Only then can I show you what’s ahead."
 
 **Item:** *Malachite Fang* – Serpent-blade of verdant ore; poisons foes with dreams of transformation.
 
@@ -145,11 +145,11 @@ List of some "main" NPC characters with:
 
 > "Armor grown, not forged, binds better to purpose."  
 > "Even the emerald bleeds green in war."  
-> “The vine crowned me, not kings.”  
-> “If my blade shakes, it’s because the forest weeps with me.”  
+> "The vine crowned me, not kings."  
+> "If my blade shakes, it’s because the forest weeps with me."  
 
 **When rallying before a fight:**  
-> “Stand with the grove. Bend if you must, but do not fall.”
+> "Stand with the grove. Bend if you must, but do not fall."
 
 **Item:** *Smaragdine Circlet* – Crown of living vine and emerald; boosts nature magic and calms beasts.
 
@@ -164,11 +164,11 @@ List of some "main" NPC characters with:
 
 > "Each glaze holds a lifetime. Crack it, and you hear the end."  
 > "Nothing fades — only layers build."  
-> “Don’t drop that shard. It remembers your secrets faster than you forget them.”  
-> “Porcelain has better memory than flesh.”  
+> "Don’t drop that shard. It remembers your secrets faster than you forget them."  
+> "Porcelain has better memory than flesh."  
 
 **When asked about a forgotten incantation:**  
-> “Check the seventh shelf. No, not that one. The one that hums when you lie.”
+> "Check the seventh shelf. No, not that one. The one that hums when you lie."
 
 **Item:** *Celadon Shards* – Pieces of enchanted porcelain; used to record spells visually like film.
 
@@ -248,11 +248,11 @@ List of some "main" NPC characters with:
 
 > "Chaos is the only pattern sharp enough to cut fate."  
 > "I laugh when death forgets its cue."  
-> “Every stab’s a joke with a punchline in blood.”  
-> “Catch me? You’re already part of the act.”  
+> "Every stab’s a joke with a punchline in blood."  
+> "Catch me? You’re already part of the act."  
 
 **When disappearing mid-battle:**  
-> “Guess who? Wrong answer!”
+> "Guess who? Wrong answer!"
 
 **Item:** *Harlequin Mask* – Jester’s enchanted visage; wearer can mimic any voice and dodge fate once per day.
 
@@ -267,11 +267,11 @@ List of some "main" NPC characters with:
 
 > "The god sleeps in bark — dream too loud and it might wake."  
 > "Rot is just birth with teeth."  
-> “I bleed sap, not doubt.”  
-> “Decay’s not death. It’s the soil praying.”  
+> "I bleed sap, not doubt."  
+> "Decay’s not death. It’s the soil praying."  
 
 **When defending their faith:**  
-> “Worship the rot. It’s the only thing that listens forever.”
+> "Worship the rot. It’s the only thing that listens forever."
 
 **Item:** *Saproot Idol* – Carved from swamp wood and berries; protects its owner from decay and curses.
 
@@ -284,10 +284,10 @@ List of some "main" NPC characters with:
   </br><i>Translucent figure with green-glowing antlers</i></br></br>
 </div>
 
-> “Your feet are bare. Your breath uncolored.  
-> You do not belong, Prismwalker.”  
+> "Your feet are bare. Your breath uncolored.  
+> You do not belong, Prismwalker."  
 >   
-> “Yet… you carry the Root’s grief in your steps.”
+> "Yet… you carry the Root’s grief in your steps."
 
 [**See Verdant Ghost in Example Scene**](../scenes/scene-greenwood.md#npc-encounter)  
 
@@ -308,11 +308,11 @@ List of some "main" NPC characters with:
 
 > "Rebirth is a mercy. I’ve done it too many times."  
 > "The bloom is beautiful... just before it drinks."  
-> “My death matters more than my life. That’s why I keep dying.”  
-> “This isn’t immortality. It’s a long apology.”  
+> "My death matters more than my life. That’s why I keep dying."  
+> "This isn’t immortality. It’s a long apology."  
 
 **When recruiting the player into battle:**  
-> “Fight beside me, and if we fall… the bloom remembers us both.”
+> "Fight beside me, and if we fall… the bloom remembers us both."
 
 **Item:** *Amaranth Rose* – Crimson flower preserved in crystal; heals mortal wounds but shortens life span.
 
@@ -328,11 +328,11 @@ List of some "main" NPC characters with:
 
 > "Only blood can sign a name in fire."  
 > "A blade’s purpose is to be answered."  
-> “Cut hesitation first. Then the enemy.”  
-> “Every duel is a question. My blade is the answer.”  
+> "Cut hesitation first. Then the enemy."  
+> "Every duel is a question. My blade is the answer."  
 
 **Before a duel begins:**  
-> “No second cuts. Speak through your steel.”
+> "No second cuts. Speak through your steel."
 
 **Item:** *Vermilion Brand* – A tattooed sigil applied by fire; grants war fury and immunity to heat.
 
@@ -347,11 +347,11 @@ List of some "main" NPC characters with:
 
 > "The desert buries liars quickly. And cleanly."  
 > "Mirages don’t lie — they just let you dream wrong."  
-> “Want truth? Catch a fox. Want lies? Catch your shadow.”  
-> “I never vanish — I just slip into stories.”  
+> "Want truth? Catch a fox. Want lies? Catch your shadow."  
+> "I never vanish — I just slip into stories."  
 
 **When slipping the player a stolen key:**  
-> “Don’t thank me. Just don’t get caught — I’m allergic to gratitude.”
+> "Don’t thank me. Just don’t get caught — I’m allergic to gratitude."
 
 **Item:** *Nacarat Ember* – Glowing coal carried in a fox-skin pouch; ignites at a whisper, burns without fuel.
 
@@ -366,11 +366,11 @@ List of some "main" NPC characters with:
 
 > "If the hearth dies, so do the hills."  
 > "Redwood walls don't fall... they remember why they stand."  
-> “Call me stubborn one more time. I’ll outlive the insult.”  
-> “This hammer built hope. And broke bones.”  
+> "Call me stubborn one more time. I’ll outlive the insult."  
+> "This hammer built hope. And broke bones."  
 
 **When asked about leaving town:**  
-> “This land raised me. I won’t leave until it dies. And maybe not then.”
+> "This land raised me. I won’t leave until it dies. And maybe not then."
 
 **Item:** *Falu Charm* – House-shaped pendant from red timber; wards off undead and snow spirits.
 
@@ -385,11 +385,11 @@ List of some "main" NPC characters with:
 
 > "Threads bind what memory cannot."  
 > "I sew fate. Careful what color you bleed."  
-> “Want to know if you’re brave? Touch a red square.”  
-> “Even death has patterns. I just embroider them.”  
+> "Want to know if you’re brave? Touch a red square."  
+> "Even death has patterns. I just embroider them."  
 
 **When gifting a square of her quilt:**  
-> “This one’s blank. Fill it with something worth mourning.”
+> "This one’s blank. Fill it with something worth mourning."
 
 **Item:** *Alizarin Quilt* – A patchwork battle banner; each square records a heroic death, grants courage.
 
@@ -404,11 +404,11 @@ List of some "main" NPC characters with:
 
 > "Smiles are masks. Mine just fits better."  
 > "A ritual is only wrong if no one claps."  
-> “I’ve danced at ten funerals. And nine weddings. I forget which was louder.”  
-> “Blood is just ink for a louder story.”  
+> "I’ve danced at ten funerals. And nine weddings. I forget which was louder."  
+> "Blood is just ink for a louder story."  
 
 **When performing a rite in the field:**  
-> “Clap, or it gets awkward. The spirits hate awkward.”
+> "Clap, or it gets awkward. The spirits hate awkward."
 
 **Item:** *Cinnabar Seal* – Enchanted wax stamp; bonds contracts with joyful truth or cruel irony.
 
@@ -423,11 +423,11 @@ List of some "main" NPC characters with:
 
 > "Poppies bloom where martyrs fall."  
 > "Raise a flag, bury a name. It’s the same gesture."  
-> “When the wind lifts the banner, it remembers who held it.”  
-> “No grave marks me. The flowers do.”  
+> "When the wind lifts the banner, it remembers who held it."  
+> "No grave marks me. The flowers do."  
 
 **When giving the brooch to the player:**  
-> “This doesn’t make you a hero. It makes you the next.”
+> "This doesn’t make you a hero. It makes you the next."
 
 **Item:** *Coquelicot Brooch* – Worn by war widows; summons a field of ghostly poppies once per year.
 
@@ -450,7 +450,7 @@ List of some "main" NPC characters with:
 > "I don’t make windows. I make confessions."  
 
 **When using the vial to unlock a memory gate:**  
-> “Step through. Just don’t expect the same person to come out.”
+> "Step through. Just don’t expect the same person to come out."
 
 **Item:** *Zaffre Vial* – Cobalt bottle filled with enchanted tears; reveals hidden doors or passages.
 
@@ -470,7 +470,7 @@ List of some "main" NPC characters with:
 > "Feathers are liars. The wind is honest."  
 
 **When offering a lift to high cliffs:**  
-> “Hold tight. The clouds bite when you hesitate.”
+> "Hold tight. The clouds bite when you hesitate."
 
 **Item:** *Glaucous Feather* – From a sky-serpent; lets the bearer hover silently or speak with birds.
 
@@ -489,7 +489,7 @@ List of some "main" NPC characters with:
 > "Flight is a promise — not to fall, but to keep dancing."  
 
 **Before a sky-ritual sequence:**  
-> “Move like lightning forgot your name.”
+> "Move like lightning forgot your name."
 
 **Item:** *Cerulean Cloak* – Azure silk garment; wearer is immune to lightning while in open skies.
 
@@ -509,7 +509,7 @@ List of some "main" NPC characters with:
 > "Fear isn’t a wall. It’s a mirror with dust on it."  
 
 **When the player hesitates to look into the prism:**  
-> “You won’t like what you see. That’s why it’s worth looking.”
+> "You won’t like what you see. That’s why it’s worth looking."
 
 **Item:** *Eigengrau Prism* – Dark crystal; shows the user's subconscious desires or fears when gazed into.
 
@@ -528,7 +528,7 @@ List of some "main" NPC characters with:
 > "I’ve painted gods, liars, and myself. Only the canvas knows who’s real."  
 
 **While casting a large-scale illusion:**  
-> “The world is easier to fix when you paint over it first.”
+> "The world is easier to fix when you paint over it first."
 
 **Item:** *Payne’s Brush* – Artist’s brush made from shadow-hair; paints illusions that persist for an hour.
 
@@ -552,7 +552,7 @@ List of some "main" NPC characters with:
 > "If the moon nods at you — don’t blink."  
 
 **When encountered during twilight hours:**  
-> “The light’s soft now. It listens better than it speaks.”
+> "The light’s soft now. It listens better than it speaks."
 
 **Item:** *Wisteria Veil* – Shimmering shawl; obscures the wearer’s presence in twilight and dreams.
 
@@ -575,7 +575,7 @@ List of some "main" NPC characters with:
 > "Sing back — if you remember the tune."  
 
 **If you resist her magic:**  
-> “Mmm… A strong mind. I wonder who last owned it.”
+> "Mmm… A strong mind. I wonder who last owned it."
 
 **Item:** *Periwinkle Pearl* – Held by sea witches; grants underwater breathing and mild hypnosis powers.
 
@@ -596,7 +596,7 @@ List of some "main" NPC characters with:
 > "I brew brilliance. Accidents are a side effect."  
 
 **Before handing you a volatile concoction:**  
-> “It might explode. But beautifully.”
+> "It might explode. But beautifully."
 
 **Item:** *Mauveine Flask* – Contains the first artificial magic dye; causes chaotic effects with every sip.
 
@@ -615,7 +615,7 @@ List of some "main" NPC characters with:
 > "The light that saves also sears."  
 
 **During sunrise rites:**  
-> “Watch the petals. They know before we do.”
+> "Watch the petals. They know before we do."
 
 **Item:** *Heliotrope Band* – Bracelet that glows with solar devotion; protects from dark curses at dawn.
 
@@ -634,7 +634,7 @@ List of some "main" NPC characters with:
 > "Magic’s more fun when it’s not yours."  
 
 **When helping unlock a sealed relic:**  
-> “Boom or bloom? Depends if I’m bored.”
+> "Boom or bloom? Depends if I’m bored."
 
 **Item:** *Razzmatazz Drum* – A fey instrument; awakens slumbering magic in artifacts when played.
 
@@ -653,7 +653,7 @@ List of some "main" NPC characters with:
 > "The crowd never applauds silence."  
 
 **Before a staged combat sequence:**  
-> “Shall we waltz in wounds?”
+> "Shall we waltz in wounds?"
 
 **Item:** *Fandango Dagger* – Curved pink-steel blade; glows during duels and sings when blood is spilled.
 
@@ -673,7 +673,7 @@ List of some "main" NPC characters with:
 > "This mirror shows your truth, not mine."  
 
 **When the player questions their motives:**  
-> “Does a prism pick its angles?”
+> "Does a prism pick its angles?"
 
 **Item:** *Thulian Mirror* – Polished rare stone; shows only truth, but not always the full picture.
 
@@ -692,7 +692,7 @@ List of some "main" NPC characters with:
 > "Power isn’t taken — it’s worn well."  
 
 **When advising you in court intrigue:**  
-> “Smile. Then command. In that order.”
+> "Smile. Then command. In that order."
 
 **Item:** *Pomp and Power Mantle* – Opulent royal cape; grants temporary command over nobles and weak-willed minds.
 
@@ -711,7 +711,7 @@ List of some "main" NPC characters with:
 > "Each birth echoes a loss unspoken."  
 
 **When helping restore a fading memory:**  
-> “Let the petals carry what you can’t.”
+> "Let the petals carry what you can’t."
 
 **Item:** *Liseran Lily* – Frail blossom encased in mana crystal; releases a healing aura upon breaking.
 
@@ -730,7 +730,7 @@ List of some "main" NPC characters with:
 > "I duel to compose beauty — not to win."  
 
 **During combat in radiant fields:**  
-> “Strike like a stanza. Parry like a rhyme.”
+> "Strike like a stanza. Parry like a rhyme."
 
 **Item:** *Quinacridone Codex* – A grimoire of vibrant pigments; its spells must be painted mid-battle.
 

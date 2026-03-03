@@ -141,11 +141,11 @@ A list of rare color names that started the NPCs brainstorm
 - carmine
   - *Carmine pigment or dye was made from the small red cochineal insect.*
 - sanguine
-  - *from the Latin sanguineus, meaning “bloody.” Sanguine can also be used figuratively to mean “cheerfully optimistic, hopeful, or confident.”*
+  - *from the Latin sanguineus, meaning "bloody." Sanguine can also be used figuratively to mean "cheerfully optimistic, hopeful, or confident."*
 - rubicund
   - * Describing someone as rubicund signals that they like to live life to the fullest—particularly eating and drinking well.*
 - rufous
-  - *Rufus comes from the Latin for “red-headed” and shares a common root with rufous.*
+  - *Rufus comes from the Latin for "red-headed" and shares a common root with rufous.*
 - crimson/cramoisy
   - *"From the Arabic qirmizī, the Arabic word for the red dye made from small insects known as kermes."*
 
@@ -164,13 +164,13 @@ A list of rare color names that started the NPCs brainstorm
 - azure
   - *from an alteration of the Persian lāzhuward, referring to lapis lazuli*
 - sapphire
-  - *from the from Greek sáppheiros, which may have origins in the Sanskrit śanipuriya, meaning “dear to (the planet) Saturn.”*
+  - *from the from Greek sáppheiros, which may have origins in the Sanskrit śanipuriya, meaning "dear to (the planet) Saturn."*
 - cerulean
-  - *from Latin caerule, which means “dark blue,” derived from caelum, or “sky.”*
+  - *from Latin caerule, which means "dark blue," derived from caelum, or "sky."*
 - cyan
-  - *from the Greek kýanos, or “dark blue,”*
+  - *from the Greek kýanos, or "dark blue,"*
 - Turquoise
-  - *from a French word meaning “Turkish (stone)”*
+  - *from a French word meaning "Turkish (stone)"*
 
 ### Purple/Pink:
 
@@ -200,21 +200,21 @@ A list of rare color names that started the NPCs brainstorm
 - [Incarnadine](https://www.google.com/search?q=Incarnadine+wiki&oq=Incarnadine+wiki&aqs=chrome.0.69i59.1113j0j7&sourceid=chrome&ie=UTF-8)
 - [Phlox](https://encycolorpedia.com/df00ff)
 - Plum
-  - *fruit that grows on plum trees. It can be traced to the Greek proúmnē, or “plum tree”*
+  - *fruit that grows on plum trees. It can be traced to the Greek proúmnē, or "plum tree"*
 - amethyst
-  - *has roots in the Greek améthystos, meaning “not intoxicating, not intoxicated.”(once believed amethyst could  prevent intoxication)*
+  - *has roots in the Greek améthystos, meaning "not intoxicating, not intoxicated."(once believed amethyst could  prevent intoxication)*
 - lilac
-  - *from the Persian līlak, meaning “bluish.”*
+  - *from the Persian līlak, meaning "bluish."*
 - violaceous
-  - *means “of a violet color; bluish-purple.”*
+  - *means "of a violet color; bluish-purple."*
 - lavender
-  - *from the Medieval Latin lavendula, meaning “a plant livid in color.”*
+  - *from the Medieval Latin lavendula, meaning "a plant livid in color."*
 - amaranthine
-  - *“of purplish-red color,”* - *Amaranth comes from the Latin amarantus, an alteration of the Greek amáranton, meaning “unfading flower.”*
+  - *"of purplish-red color,"* - *Amaranth comes from the Latin amarantus, an alteration of the Greek amáranton, meaning "unfading flower."*
 - Pomegrenate
-  - *from the Medieval Latin pomum granatum, which literally means “a seedy apple.”*
+  - *from the Medieval Latin pomum granatum, which literally means "a seedy apple."*
 - Heliotrope
-  - *Helios is Greek for “sun,” while the Greek trópos means “a turn, change.” The plant heliotrope was named for the way its flowers and leaves turn towards the sun.*
+  - *Helios is Greek for "sun," while the Greek trópos means "a turn, change." The plant heliotrope was named for the way its flowers and leaves turn towards the sun.*
 
 ### Yellow/Orange:
 
@@ -269,7 +269,7 @@ A list of rare color names that started the NPCs brainstorm
 
 - [Wenge](https://en.wikipedia.org/wiki/Shades_of_brown#Wenge)
 - Tawn
-  - comes from Middle French tané, meaning “tanned.”
+  - comes from Middle French tané, meaning "tanned."
 - Fallow
   - *yellow tending toward red, brown or gray*
 - Ocher
@@ -354,12 +354,12 @@ A list of rare color names that started the NPCs brainstorm
 - Snugglepuss
   - *purple hue with a tinge of blue* - (maybe a cat)
 - [amber](https://www.figma.com/colors/amber/)
-  - *“the yellowish-brown color of resin.”*
+  - *"the yellowish-brown color of resin."*
 - russet
   - *russet-colored clothes were associated with the rough fabric worn by peasants.*
 - primrose
-  - *“pale yellow” named for the primrose flower family.*
-  - *The word comes from Medieval Latin prīma rosa, or “first rose"*
+  - *"pale yellow" named for the primrose flower family.*
+  - *The word comes from Medieval Latin prīma rosa, or "first rose"*
     - #E28EA8: This is a pinkish shade, often described as "Primrose Pink".
     - #EDEA99: This is a pale, slightly greenish yellow.
     - #F6D155: This is a more vibrant, saturated yellow.

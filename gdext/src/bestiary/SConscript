@@ -25,7 +25,7 @@ e.Append(CXXFLAGS=["-fexceptions"])
 # Let this plugin #include headers from:
 #   - its own folder (src/bestiary)
 #   - the shared src root (src/) for common headers
-# Note: "#/" means “project root” in SCons path syntax.
+# Note: "#/" means "project root" in SCons path syntax.
 e.Append(CPPPATH=[f"#/src/{PLUGIN}", "#/src"])
 
 

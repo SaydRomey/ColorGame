@@ -60,7 +60,7 @@ Slowly patrols the Prism Wound region.
 
 Attacks by stepping into proximity — causing echo pulses that stagger and blind.
 
-Periodically emits a “light bleed” — briefly fades the screen to white and removes HUD elements.
+Periodically emits a "light bleed" — briefly fades the screen to white and removes HUD elements.
 
 ---
 
@@ -70,7 +70,7 @@ Memory artifacts like the Bistre Lantern anchor its location, preventing phasing
 
 Violet’s Illusion Clone causes it to mimic a false version of you and momentarily collapse.
 
-Crimson damage (if timed correctly) during its “pulse sync” can fracture its memory spine.
+Crimson damage (if timed correctly) during its "pulse sync" can fracture its memory spine.
 
 ---
 
@@ -78,6 +78,6 @@ Notes:
 
 Sometimes whispers past player dialogue lines during whiteout pulses — lines you may have said earlier in the game.
 
-After defeat, leaves behind a “Cracked Memory Core” — required to access the deepest level of the Prism Wound.
+After defeat, leaves behind a "Cracked Memory Core" — required to access the deepest level of the Prism Wound.
 
 ---

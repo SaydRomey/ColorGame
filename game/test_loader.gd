@@ -17,7 +17,7 @@ func _initialize() -> void:
 
 	var first: Dictionary = L[0]
 
-	# Cast to String (fixes the “Cannot infer type” error)
+	# Cast to String (fixes the "Cannot infer type" error)
 	var id_str: String = String(first.get("id_str", ""))
 
 	print("first id_str: ", id_str)

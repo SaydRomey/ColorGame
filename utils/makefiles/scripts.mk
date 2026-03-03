@@ -2,6 +2,7 @@
 # TODO:
 # (if more than one script template) in 'new-script' target, prompt selection from template list
 # Append ".sh" in 'new-script' name prompt. (unless already included in user input)
+# handle case when logging output prevents user input (maybe copy output into log instead of redirecting?)
 # 
 
 # ==============================

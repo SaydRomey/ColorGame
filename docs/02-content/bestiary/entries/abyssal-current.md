@@ -36,7 +36,7 @@ Its body pulses with flickers of lightning and ghosted memory runes.
 
 > — Entry torn, ink water-smeared. 
 > Final line reads:
-> “If you see it coming, ask yourself: what haven’t you forgiven yet?”
+> "If you see it coming, ask yourself: what haven’t you forgiven yet?"
 
 </details>
 

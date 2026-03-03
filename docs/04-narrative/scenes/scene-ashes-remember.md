@@ -5,7 +5,7 @@
 
 </div>
 
-# IN-GAME SCENE: “Ashes Remember Us”
+# IN-GAME SCENE: "Ashes Remember Us"
 
 Location: Isabelline Catacombs, beneath Mortuum Hold
 Visual Style:
@@ -22,7 +22,7 @@ Player Status: Bound to Earthen (Brown), Crimson (Red), and Violet (Purple) hues
 
 ---
 
-Scene	“Ashes Remember Us”
+Scene	"Ashes Remember Us"
 
 Location:	Isabelline Catacombs, Auralith's underground memory vault
 Visual Style:	Ancient corridors etched with names. Dust glows softly. Decay is peaceful — but watching.
@@ -54,8 +54,8 @@ Some names are scratched out. Others… still breathing.
 
 🎙️ Narration (Internal Monologue)
 
-> “They buried history here. Not just bodies.
-The silence doesn't wait. It judges.”
+> "They buried history here. Not just bodies.
+The silence doesn't wait. It judges."
 
 
 
@@ -72,18 +72,18 @@ She doesn’t look up. She doesn’t need to.
   </br><i>Isabelline Widow — Weaver of Warnings</i></br>
 </div>Widow:
 
-> “He lied with a smile. I still wear the dust.”
-“The thread shivers. Someone nearby has blood on a borrowed name.”
+> "He lied with a smile. I still wear the dust."
+"The thread shivers. Someone nearby has blood on a borrowed name."
 
 
 
 Dialogue Options (Color-Gated):
 
-🪨 [Earthen-Bound] “Let me see what the silence won’t tell.”
+🪨 [Earthen-Bound] "Let me see what the silence won’t tell."
 
-🟥 [Crimson-Bound] “What he bled for, I’ll finish.”
+🟥 [Crimson-Bound] "What he bled for, I’ll finish."
 
-🟪 [Violet-Bound] “I’ve walked false paths. Let me unweave one.”
+🟪 [Violet-Bound] "I’ve walked false paths. Let me unweave one."
 
 
 
@@ -131,11 +131,11 @@ Violet’s Glamour Pulse reveals which is fake.
 After combat, lighting the Bistre Lantern near a cracked mural shows:
 
 > The Caput Mortuum Ascetic handing a phylactery to a dying Prismara mage.
-“You’ll forget yourself to buy us time. That is the price of stalling death.”
+"You’ll forget yourself to buy us time. That is the price of stalling death."
 
 
 
-Unlocks: Hue Archive Entry: “The Hollow Pact”
+Unlocks: Hue Archive Entry: "The Hollow Pact"
 
 
 ---
@@ -143,11 +143,11 @@ Unlocks: Hue Archive Entry: “The Hollow Pact”
 🚪 Scene Exit: Coffin Gate
 
 A sarcophagus ahead glows.
-To exit, you must place one “true name” into the tomb — one that you’ve discovered or remembered.
+To exit, you must place one "true name" into the tomb — one that you’ve discovered or remembered.
 
 If none entered:
 
-> “Then the silence must choose one from you.”
+> "Then the silence must choose one from you."
 
 
 

@@ -22,7 +22,7 @@ e = env.Clone()
 # Let this plugin #include headers from:
 #   - its own folder (src/colortest)
 #   - the shared src root (src/) for common headers
-# Note: "#/" means “project root” in SCons path syntax.
+# Note: "#/" means "project root" in SCons path syntax.
 e.Append(CPPPATH=[f"#/src/{PLUGIN}", "#/src"])
 
 

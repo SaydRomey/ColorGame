@@ -19,7 +19,7 @@ Lore Entry
 
 <details><summary>See Glassborne Echo Lore Entry</summary>Lore Entry: Etching from a sealed mirror-window, signed by the Zaffre Glasswright
 
-> “Some reflections lie. Others linger.”
+> "Some reflections lie. Others linger."
 
 
 
@@ -74,7 +74,7 @@ Behavior:
 
 Loops player actions back at them with a time delay (mimics dashes, spells, jumps).
 
-Trails mirror shards that apply “Reflection Wound” (any repeated action takes more damage).
+Trails mirror shards that apply "Reflection Wound" (any repeated action takes more damage).
 
 Will vanish if reflected in more than one surface at once (dual mirrors or glass pool).
 

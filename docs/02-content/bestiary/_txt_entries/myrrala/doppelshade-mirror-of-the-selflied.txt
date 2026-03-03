@@ -13,7 +13,7 @@ width="300">
 
 </div>Mimics the player's current appearance and equipment loadout.
 
-Reacts to your last 3 movement patterns, trying to “catch” your next
+Reacts to your last 3 movement patterns, trying to "catch" your next
 input.
 
 Damaging it without revealing its illusion form causes hue feedback — a
@@ -26,8 +26,8 @@ Lore Entry
 <details><summary>See Doppelshade Lore Entry</summary>Lore Entry:
 Fragmented Memory from the Thulian Mirror
 
-> “Reflections should show truth. But in dreams, even mirrors lie
-kindly.”
+> "Reflections should show truth. But in dreams, even mirrors lie
+kindly."
 
 > There are things that wear your face. Not out of malice — but because
 they don’t know their own anymore.

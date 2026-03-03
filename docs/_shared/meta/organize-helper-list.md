@@ -32,8 +32,8 @@ Void - Silence, Endings, Erasure
 	- Graveyard of color shards; evokes silence and brokenness
 - **Colorend** - Mythic location where the first hue died
 	- Name for a mythic site or moment when hue was first lost
-- **Unglim** - Whispered name for the erased “seventh hue”
-	- Derived from “unglimmering” or “unglow”; an erased location or god
+- **Unglim** - Whispered name for the erased "seventh hue"
+	- Derived from "unglimmering" or "unglow"; an erased location or god
 - **Vantoros** - Fortress swallowed by the Nullshade; only remembered in echoes
 	- Invented from *Vantablack* + *toros* (mountain); swallowed fortress or null monolith
 - **Prismund** - (used elsewhere, but could work as a mythic name for the world before the Core shattered)
@@ -46,7 +46,7 @@ Void - Silence, Endings, Erasure
 - **Order of the Seventh Hue** - Heretics who believe a missing color was erased from reality
 - **The Grey Reliquary** - Keeps and corrupts forgotten relics; priests of entropy
 - **Null Choir** - Fragmented spectral voices that haunt decisions and split identity
-- **The Absence** - A name whispered, not spoken — those who bring “rest” to hues
+- **The Absence** - A name whispered, not spoken — those who bring "rest" to hues
 
 ### Notable enemies:
 - Wound Remnant
@@ -90,13 +90,13 @@ Verdant Order:
 - **Verdelune** - Moonlit verdancy; could be a ruined grove or sacred forest
 	- Moonlit verdancy; ties green to cycles, healing, and subtle growth
 - **Boscara** - Deep woods city; sounds ancient, druidic
-	- Sounds like “bosk” (thicket); ideal for an ancient forest kingdom
+	- Sounds like "bosk" (thicket); ideal for an ancient forest kingdom
   - **Thalloroot** - A fungal jungle or shrine overgrown with sacred spores
 	- From *thallus* (plant body, fungi); ideal for fungal jungles or root cults
 - **Mosschant** - A cult or order that sings to control vegetation
 	- Druid enclave where songs control growth or memory
-- **Virdatha** - Sacred forest-hall; echo of “verdant” and “wrath”
-	- “Vir” (green) + “wrath” or “data”; ideal for a militant green faction or forest AI remnant
+- **Virdatha** - Sacred forest-hall; echo of "verdant" and "wrath"
+	- "Vir" (green) + "wrath" or "data"; ideal for a militant green faction or forest AI remnant
 - **Chartrevia** - Shrine or fortress tied to the Chartreuse Initiate
 - **Sapreach** - Vine-draped canyon or overgrown aqueduct structure
 - **Viridia** - A region ruled or once ruled by herbalist queens
@@ -107,7 +107,7 @@ Verdant Order:
 - **Thornward Circle** - Defensive, ritual-focused grove alliance
 - **Sapbound Covenant** - Swamp-based cult that believes color is blood of the earth
 - **Rootwake Communion** - Group that communes with ancient plants and fungal minds
-- **The Mycofen** - Spore-based green cult; name evokes “mycelium” + “fen”
+- **The Mycofen** - Spore-based green cult; name evokes "mycelium" + "fen"
 
 
 ### Key NPCs:
@@ -152,7 +152,7 @@ Crimson Order:
 - **Ashglint** - A former battlefield now glowing with cursed embers
 	- A spark surviving from ruin; red’s association with fire and death
 - **Crimsonhale** - Warborn city or stronghold near lava plains
-	- “Hale” as in breath or health; suggests a city that thrives on battle
+	- "Hale" as in breath or health; suggests a city that thrives on battle
 - **Flinthymn** - A warrior order that forges weapons and songs in blood
 	- War order or forge-cult; *flint* for sparks, *hymn* for ritual
 - **Serrakar** - A fortress or duel school named after a legendary blade
@@ -168,7 +168,7 @@ Crimson Order:
 - **The Crimson Bloom** - Martyr faction or rebellion order
 - **The Emberlash** - Fire sorcerers or flagellants; sacrifice = purity
 - **Ashvein Legion** - Bloodbound warriors tied to flame and ancestral rage
-- **Serracult** - Duellist cult; “serra” suggests jagged honor or blade rites
+- **Serracult** - Duellist cult; "serra" suggests jagged honor or blade rites
 - **Order of the Cinnabar Flame** - Ritualists who sign contracts in burning red wax
 
 ### Key NPCs: 
@@ -213,7 +213,7 @@ Wisdom, Storms, Sorrow, Intellect
 - Moonwake Docks
 - **Glasvale** - Glass valley where winds whisper truths
 	- Blue = clarity, reflection; vale of truth or mourning
-	- Temple in the clouds where sky is given “birth”
+	- Temple in the clouds where sky is given "birth"
 - **Stormirth** - Storm + birth = genesis of weather or air cult; links blue to elemental forces
 	- A ruined observatory on a cliff edge
 - **Tidewatch** - Observatory or oracle node facing oceanic knowledge
@@ -380,7 +380,7 @@ Memory, Decay, Silence, Entropy, Alchemy
 - **Phasmaran** - Library-temple of ghosts and forgotten rituals
 	- From *phasma* (ghost) + *maran* (root of *memory*); archive of the dead
 - **Mortubrae** - Tomb-city preserved in salt and ash
-	- “Mort” (death) + “umbrae” (shadows); city of the alchemical dead
+	- "Mort" (death) + "umbrae" (shadows); city of the alchemical dead
 - **Ochrim** - Cracked gold mine where voices echo from stone
 	- From *ochre*; could be a pigment mine, ruin, or fading citadel
 - **Tenebrax** - A vault of darkness and preserved history
@@ -427,8 +427,8 @@ Memory, Decay, Silence, Entropy, Alchemy
 - [ ] **Prismara** - Prism + aura; feels mystic and feminine
 - [x] **Tinctara** - From tincture, suggesting color + alchemy
 - [ ] **Luscaris** - "Lus" (light) + "caris" (from ancient root for grace or color)
-- [ ] **Velora** - Derived from “velum” (veil) and “aura”; suggests color as atmosphere
-- [ ] **Kalidora** - “Kala” = color (in Sanskrit, Greek roots) + fantasy suffix
+- [ ] **Velora** - Derived from "velum" (veil) and "aura"; suggests color as atmosphere
+- [ ] **Kalidora** - "Kala" = color (in Sanskrit, Greek roots) + fantasy suffix
 
 ### 🔮 Arcane & Mythic
 - [x] **Iriseld** - From Iris (goddess of color, messenger) + elden or shield

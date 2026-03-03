@@ -8,7 +8,7 @@ light, trickery, vitality, and the cost of brilliance.
 
 1. Sunburnt Jackal
 
-> “It never learned the difference between shadow and prey.”
+> "It never learned the difference between shadow and prey."
 
 Lean, sun-scorched predator with light-blind eyes.
 
@@ -21,7 +21,7 @@ torches.
 
 2. Mirage Revenant
 
-> “You blinked. It was never there. But now it is.”
+> "You blinked. It was never there. But now it is."
 
 Shimmering specter that flickers in and out of visibility.
 
@@ -34,7 +34,7 @@ Dispelled by true-vision items or bursts of non-elemental force.
 
 3. Ambercoil Asp
 
-> “Even its scales lie.”
+> "Even its scales lie."
 
 Golden serpent with reflective glassy hide.
 
@@ -46,7 +46,7 @@ Reflects light spells unless disrupted by sonic or echo attacks.
 
 4. Gamboge Djinnling
 
-> “A wish, half-spoken. A trick, fully paid.”
+> "A wish, half-spoken. A trick, fully paid."
 
 Tiny elemental born from scorched lamp remnants.
 
@@ -58,7 +58,7 @@ Tamed briefly with Orange Peel Charms or negotiation spells.
 
 5. Cinnabar Scarab
 
-> “It shines when afraid. Which is always.”
+> "It shines when afraid. Which is always."
 
 Swarm creature with shell that refracts firelight into false shadows.
 
@@ -70,7 +70,7 @@ Real one only harmed by AoE, aura, or memory-scent detection.
 
 6. Hollow Prophet
 
-> “It speaks in blinding truths… and burns away lies.”
+> "It speaks in blinding truths… and burns away lies."
 
 Wandering preacher figure made of light and bone.
 
@@ -83,7 +83,7 @@ sacrifice).
 
 7. Citrine Golem
 
-> “A gem is eternal. So is its temper.”
+> "A gem is eternal. So is its temper."
 
 Massive guardian built of fused yellow crystals and gold.
 
@@ -96,7 +96,7 @@ Best fought with reflected terrain or manipulated architecture.
 
 8. Sunflare Marionette
 
-> “Dances on beams. Cracks like porcelain.”
+> "Dances on beams. Cracks like porcelain."
 
 Glass‑limbed puppet floating on sunlight threads.
 
@@ -108,7 +108,7 @@ Can be tangled using shadow or smoke-based mechanics.
 
 9. Sundial Scarwalker
 
-> “You can’t run from time. Especially when it’s hunting.”
+> "You can’t run from time. Especially when it’s hunting."
 
 Living sandstone warrior with a sundial for a face.
 
@@ -120,7 +120,7 @@ Timing-based fight: strike only when its own shadow is cast forward.
 
 10. Mirrorthirst Wyrm
 
-> “It swam through light until it forgot the sky.”
+> "It swam through light until it forgot the sky."
 
 Serpentine desert wyrm made of reflected mirage currents.
 

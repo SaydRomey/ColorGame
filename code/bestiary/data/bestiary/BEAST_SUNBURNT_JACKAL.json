@@ -12,18 +12,20 @@
     "notes": "Desert guides often carry heat-absorbent stones or cold-blood salves to mask their presence.\nIt's said that if a Sunburnt Jackal is howling at an empty flame, it’s mourning a prey that never burned."
   },
   "lore": {
-    "title": "Fragment from “Scorch and Silence,” a journal recovered near the Gamboge Vault",
-    "quote": "“I watched it circle the mirage fire for hours, never knowing it wasn’t real. It yipped and snapped at flickering sand. Not blind — not quite — but worse: its mind burns with too much sun and too little shadow.”",
+    "title": "Fragment from "Scorch and Silence,
+    " a journal recovered near the Gamboge Vault",
+    "quote": ""I watched it circle the mirage fire for hours, never knowing it wasn’t real. It yipped and snapped at flickering sand. Not blind — not quite — but worse: its mind burns with too much sun and too little shadow."",
     "flavor_description": [
       "A skeletal predator of burning dunes"
     ],
     "field_notes": [
-      "“I watched it circle the mirage fire for hours, never knowing it wasn’t real. It yipped and snapped at flickering sand. Not blind — not quite — but worse: its mind burns with too much sun and too little shadow.”",
-      "“They don’t see. They feel heat like scent — like music. My torch nearly killed me. I had to drop it and run silent into the dunes.”",
-      "“They say these beasts were once clever pack hunters, adapted to the shifting deserts. But now… now they worship warmth like it’s a god that betrayed them.”",
-      "“At night, I found one curled into a broken clay brazier, whimpering at the cold stars.”"
+      ""I watched it circle the mirage fire for hours, never knowing it wasn’t real. It yipped and snapped at flickering sand. Not blind — not quite — but worse: its mind burns with too much sun and too little shadow."",
+      ""They don’t see. They feel heat like scent — like music. My torch nearly killed me. I had to drop it and run silent into the dunes."",
+      ""They say these beasts were once clever pack hunters, adapted to the shifting deserts. But now… now they worship warmth like it’s a god that betrayed them."",
+      ""At night, I found one curled into a broken clay brazier, whimpering at the cold stars.""
     ],
-    "source": "Fragment from “Scorch and Silence,” a journal recovered near the Gamboge Vault"
+    "source": "Fragment from "Scorch and Silence,
+    " a journal recovered near the Gamboge Vault"
   },
   "drops": []
 }

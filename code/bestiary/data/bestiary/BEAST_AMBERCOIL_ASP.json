@@ -9,7 +9,7 @@
     "hue_interaction": "Reflects most Aurelian spells unless they are pulse-based or truth-bound\n\nDisoriented by Cobalt’s Mind Echo or sonic waves\n\nVerdant roots can trap it if cast preemptively, before light-blind reflexes trigger",
     "behavior": "Remains motionless for hours, coiled around artifacts or ruins\n\nReacts to motion, heat, and glint-focused vision\n\nWhen threatened, spins rapidly in a defensive spiral that distorts the air\n\nLays false relics that pulse faintly to lure scavengers closer",
     "weaknesses": "Susceptible to rhythm disruption or echo-based abilities\n\nSluggish in full shadow or moonlight\n\nShatters when struck by its own reflected light (e.g., mirrored relic bounceback)",
-    "notes": "Some Citrine Artisans believe Ambercoil Asps were bred or enchanted long ago to guard treasures too powerful for vaults — letting beauty itself become the bait. One old Luxeran proverb warns:\n\n“If it gleams in silence, bow. If it gleams and hisses, run.”"
+    "notes": "Some Citrine Artisans believe Ambercoil Asps were bred or enchanted long ago to guard treasures too powerful for vaults — letting beauty itself become the bait. One old Luxeran proverb warns:\n\n"If it gleams in silence, bow. If it gleams and hisses, run.""
   },
   "lore": {
     "title": "The Glinting Deceiver",
@@ -26,7 +26,8 @@
       "",
       "Do not chase shimmer in the sand. Sometimes, it hisses."
     ],
-    "source": "Excerpt from “The False Wealth of Luxeran,” by Archivist Mosa Quire"
+    "source": "Excerpt from "The False Wealth of Luxeran,
+    " by Archivist Mosa Quire"
   },
   "drops": []
 }

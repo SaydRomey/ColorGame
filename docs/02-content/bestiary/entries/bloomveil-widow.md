@@ -19,7 +19,7 @@ Lore Entry
 
 <details><summary>See Bloomveil Widow Lore Entry</summary>Lore Entry: From the Wisteria Enchantress' Lament
 
-> “I found her first, but she spoke in threads.”
+> "I found her first, but she spoke in threads."
 
 
 

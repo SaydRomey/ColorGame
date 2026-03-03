@@ -9,10 +9,10 @@
     "hue_interaction": "Aligned with Verdant (Green) and Earthen (Brown), but triggered by Crimson (Red) proximity.\n\nIgnore most damage unless purpose is disrupted (e.g. disturbing relics, lying to NPCs near them).\n\nStrong resistance to illusion and glamour effects.",
     "behavior": "Remain inert until:\n• A nearby relic is touched.\n• A lie is spoken during dialogue nearby.\n• A shrine is activated without proper hue alignment.\n\nOnce triggered:\n• Slow pursuit begins (deliberate, methodical, and inescapable in straight lines).\n• Enters a berserk state if cornered — flailing vine whips and lash roots.\n\nWill reassemble over time if not destroyed by fire or crystalline impact.",
     "weaknesses": "Burnable — vulnerable to Crimson fire, especially to joints and binding roots.\n\nShattering via Earthen shock collapses their inner structure.\n\n\"Stillbark Oils\" can slow their motion if applied to relics in advance.",
-    "notes": "Some Whisperers claim that Wickerborn remember names spoken in their presence — even centuries later.\n\nThe Caput Mortuum Ascetic once called them “our final promise — to watch what mattered when we no longer could.”"
+    "notes": "Some Whisperers claim that Wickerborn remember names spoken in their presence — even centuries later.\n\nThe Caput Mortuum Ascetic once called them "our final promise — to watch what mattered when we no longer could.""
   },
   "lore": {
-    "title": "Excerpt from “The Silent Watch” – Archive of the Bistre Lantern",
+    "title": "Excerpt from "The Silent Watch" – Archive of the Bistre Lantern",
     "quote": "\"They were built, not born — shaped by Verdant hands, bound by Crimson oaths, and given Earthen patience.\"",
     "flavor_description": [
       "An ever-watchful husks woven to guard relics long forgotten."

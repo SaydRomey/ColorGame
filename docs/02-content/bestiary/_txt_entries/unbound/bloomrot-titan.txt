@@ -11,7 +11,7 @@ It towers over most enemies in the game, dragging whole root systems behind it l
 
 🧠 Lore Entry
 See Bloomrot Titan Lore Entry
-Field Record – “Rot in the Rootlands” by Huewarden Lilael
+Field Record – "Rot in the Rootlands" by Huewarden Lilael
 "Verdant magic was never supposed to be this… greedy. It heals, yes — but healing without judgment becomes infestation."
 
 "The Titan wasn't born. It accumulated. Dead treants, overgrown shrines, corrupted spores, blood-fed vines — all swallowed into the same groaning body."
@@ -41,11 +41,11 @@ Weak to Crimson (purifying flame), Brown (memory disruption), and Yellow (aura m
 Behavior:
 Spawns poisonous pollen clouds when struck — linger in air, causing hallucinations or reversed controls.
 Launches explosive seed pods — each explodes into parasitic seedlings unless destroyed in time.
-Occasionally “roots” itself to regenerate — vulnerable but emits thick fungal fog.
+Occasionally "roots" itself to regenerate — vulnerable but emits thick fungal fog.
 Known Weaknesses:
 Glowing chest core is vulnerable when attacking — exposes inner rot for brief moments.
 Burning terrain around it limits its healing capacity.
-“Truthroot Salts” or Caput Mortuum Alchemy slows its regrowth.
+"Truthroot Salts" or Caput Mortuum Alchemy slows its regrowth.
 Notes:
 Encountered deep in overgrown ruins, burial groves, or failed Verdant sanctuaries.
 Its death releases a ring of new growth — dangerous but collectible.

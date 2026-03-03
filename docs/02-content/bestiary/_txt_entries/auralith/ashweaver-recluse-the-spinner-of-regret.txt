@@ -22,20 +22,20 @@ Lore Entry
 
 <details><summary>See Ashweaver Recluse Lore Entry</summary>
 
-Lore Entry: Extracted from a dust-bound scroll marked “THREADS OF
-UNRAVELING” – scribed by the Bistre Archivist> “The Ashweaver does not
+Lore Entry: Extracted from a dust-bound scroll marked "THREADS OF
+UNRAVELING" – scribed by the Bistre Archivist> "The Ashweaver does not
 feed on blood. It feeds on recollection. Its web catches nothing but
-thought — and it is always hungry.”
+thought — and it is always hungry."
 
-> “To pass near its lair is to hear what you almost said. To step into
-its thread is to walk into the moment you most regret.”
+> "To pass near its lair is to hear what you almost said. To step into
+its thread is to walk into the moment you most regret."
 
-> “One hunter once spoke of facing her own laughter — twisted and made
-venomous. Another saw their mother’s voice woven into the strands.”
+> "One hunter once spoke of facing her own laughter — twisted and made
+venomous. Another saw their mother’s voice woven into the strands."
 
-> “Avoid narrow halls in the Isabelline Catacombs. Listen for whispers
+> "Avoid narrow halls in the Isabelline Catacombs. Listen for whispers
 you’ve never spoken. And if you feel the chill of something watching… it
-already knows your secrets.”
+already knows your secrets."
 
 </details>
 
@@ -72,7 +72,7 @@ Behavior:
 
 Lays dense networks of memory-thread traps across key passageways.
 
-When disturbed, triggers a “panic echo” — the player hears a cascade of
+When disturbed, triggers a "panic echo" — the player hears a cascade of
 whispers from past in-game choices.
 
 May attempt to cocoon the player in suspended animation, locking them in

@@ -16,7 +16,7 @@ When awakened, they move with slow, unnerving grace — as if remembering how to
 
 Lore Entry
 
-<details><summary>See The Bound Lore Entry</summary>Lore Entry: Fragment from “Etchings of the Silent Monolith” – recovered on a cracked memory shard in Prism Wound
+<details><summary>See The Bound Lore Entry</summary>Lore Entry: Fragment from "Etchings of the Silent Monolith" – recovered on a cracked memory shard in Prism Wound
 
 > "We called them guardians, once. Remnants of the Prismara who refused hue. But I think now... they were simply those who saw too much."
 
@@ -27,7 +27,7 @@ Lore Entry
 > "If silence had a form, it would kneel beside them."
 
 
-— Archivist Reiss, “Final Echoes of the Core”
+— Archivist Reiss, "Final Echoes of the Core"
 
 </details>
 ---
@@ -90,7 +90,7 @@ In proximity to The Bound, audio muffles and time subtly distorts — causing a 
 
 When defeated, The Bound collapse into dust, leaving behind one whisper:
 
-> “You remembered too loudly.”
+> "You remembered too loudly."
 
 
 ---

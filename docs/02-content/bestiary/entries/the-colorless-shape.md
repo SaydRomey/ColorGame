@@ -13,15 +13,15 @@ Lore Entry
 
 <details><summary>See Colorless Shape Lore Entry</summary>Lore Entry: Scratched into a broken blade found in Nullshade.
 
-> “It moved before I did. Not faster — earlier.”
+> "It moved before I did. Not faster — earlier."
 
-> “It doesn’t mimic. It remembers… before you remember yourself.”
+> "It doesn’t mimic. It remembers… before you remember yourself."
 
-> “My sword struck it once. I bled. Not it. Not fair, I thought. But the Shape never promised fair — only truth.”
+> "My sword struck it once. I bled. Not it. Not fair, I thought. But the Shape never promised fair — only truth."
 
-> “When I saw it raise the Prism, just like I had… I understood. It is not your reflection. It is what the world became while you blinked.”
+> "When I saw it raise the Prism, just like I had… I understood. It is not your reflection. It is what the world became while you blinked."
 
-> “We are not alone in our choices. Not even in our endings.”
+> "We are not alone in our choices. Not even in our endings."
 
 </details>
 

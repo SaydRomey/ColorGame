@@ -13,7 +13,7 @@ The player should feel their HUD is *part of the shard*.
 - **Health/Essence Bar:**
   - Represented as cracks in glass or a prism shard fragment in the corner.
   - As you take damage, cracks spread outward; healing causes them to fuse back together.
-  - Adds tension when “near shattering.”
+  - Adds tension when "near shattering."
 
 - **Hue Binding Display:**
   - Orbiting gems or shards around a central prism icon (like the one in the Prismwalker’s chest).
@@ -30,7 +30,7 @@ The player should feel their HUD is *part of the shard*.
 Menus should feel like stepping into a memory echo instead of opening a spreadsheet.
 
 - **Background:** Faint rippling light across a dark prism surface.
-- **Sections:** Tabs represented by floating shard fragments that the player “rotates” through.
+- **Sections:** Tabs represented by floating shard fragments that the player "rotates" through.
 - **Item Icons:** Each relic/item sits on a circular sigil, tinted subtly to its hue alignment.
 - **Lore & Echo Entries:** Fade in as whisper-text, with ghostly voices or subtle resonant tones when opened.
 
@@ -59,7 +59,7 @@ Displaying personality system through UI.
 Combat is prismatic, so effects should be clear but not cluttered.
 
 - **Skill Prompts:**
-  - When a hue ability is ready, the icon glows faintly with “edge lighting.”
+  - When a hue ability is ready, the icon glows faintly with "edge lighting."
   - On cast, it leaves a short-lived trail matching the hue (e.g., Red = ember sparks).
 
 - **Enemy Targeting:**
@@ -67,7 +67,7 @@ Combat is prismatic, so effects should be clear but not cluttered.
   - HUD hint (small shard fragment) vibrates when the correct counter-hue is equipped.
 
 - **Ultimate (Prismatic Burst):**
-  - UI “overcharges”: shards orbit faster, prism icon refracts rainbow light.
+  - UI "overcharges": shards orbit faster, prism icon refracts rainbow light.
   - When unleashed, the whole screen gets a subtle kaleidoscope ripple.
 
 ---
@@ -76,7 +76,7 @@ Combat is prismatic, so effects should be clear but not cluttered.
 
 For Echo puzzles and shrine interactions:
   - **Echo Prompts:** Text/images distort and rearrange like shards of stained glass.
-  - **Shrine Interaction:** Binding colors looks like slotting shards into a glowing circle, with the UI fracturing and resolving as hues “lock.”
+  - **Shrine Interaction:** Binding colors looks like slotting shards into a glowing circle, with the UI fracturing and resolving as hues "lock."
   - **Failure:** If you get it wrong, the menu/UI shatters briefly before reforming.
 
 ---

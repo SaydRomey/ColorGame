@@ -45,7 +45,7 @@ Don’t listen too hard when the breeze starts whispering.
 
 
 
-> – Signed only: “P.”
+> – Signed only: "P."
 
 
 
@@ -96,7 +96,7 @@ Exposed by Payne’s Brush illusion-reveal strokes.
 
 Loses invisibility if caught in stormlight flashes or lightning surges.
 
-Vulnerable when attempting to “sync” with the player’s reflection — brief window for high-damage strikes.
+Vulnerable when attempting to "sync" with the player’s reflection — brief window for high-damage strikes.
 
 
 Notes:

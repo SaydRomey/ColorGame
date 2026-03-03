@@ -44,7 +44,7 @@ Don’t listen too hard when the breeze starts whispering.
 > And if you feel a shiver in your spine — it’s already coiled around
 it.
 
-> – Signed only: “P.”
+> – Signed only: "P."
 
 </details>
 
@@ -99,7 +99,7 @@ Exposed by Payne’s Brush illusion-reveal strokes.
 
 Loses invisibility if caught in stormlight flashes or lightning surges.
 
-Vulnerable when attempting to “sync” with the player’s reflection —
+Vulnerable when attempting to "sync" with the player’s reflection —
 brief window for high-damage strikes.
 
 Notes:

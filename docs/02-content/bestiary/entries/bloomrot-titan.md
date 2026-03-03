@@ -15,7 +15,7 @@ It towers over most enemies in the game, dragging whole root systems behind it l
 
 ## 🧠 Lore Entry
 
-<details><summary>See Bloomrot Titan Lore Entry</summary>Field Record – “Rot in the Rootlands” by Huewarden Lilael
+<details><summary>See Bloomrot Titan Lore Entry</summary>Field Record – "Rot in the Rootlands" by Huewarden Lilael
 
 > "Verdant magic was never supposed to be this… greedy. 
 > It heals, yes — but healing without judgment becomes infestation."  
@@ -65,14 +65,14 @@ It moves slowly but with explosive force, uprooting itself to crash down with tr
 ### Behavior:
 - Spawns poisonous pollen clouds when struck — linger in air, causing hallucinations or reversed controls.
 - Launches explosive seed pods — each explodes into parasitic seedlings unless destroyed in time.
-- Occasionally “roots” itself to regenerate — vulnerable but emits thick fungal fog.
+- Occasionally "roots" itself to regenerate — vulnerable but emits thick fungal fog.
 
 ---
 
 ### Known Weaknesses:
 - Glowing chest core is vulnerable when attacking — exposes inner rot for brief moments.
 - Burning terrain around it limits its healing capacity.
-- “Truthroot Salts” or Caput Mortuum Alchemy slows its regrowth.
+- "Truthroot Salts" or Caput Mortuum Alchemy slows its regrowth.
 
 ---
 

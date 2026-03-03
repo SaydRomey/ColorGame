@@ -19,7 +19,7 @@ It fights like a dancer remembering the steps, even as the music has long stoppe
 
 <details><summary>See Tyrian Echo Lore Entry</summary>
 
-### Recovered field note – “Echoes Along the Violet Scar” by the Prismwalker Serael
+### Recovered field note – "Echoes Along the Violet Scar" by the Prismwalker Serael
 
 > "We found her in the ruins where Violet turned back Crimson. 
 > She moved before we saw her. 
@@ -78,7 +78,7 @@ Her body glitches between swordplay and spellcasting, sometimes mid-animation.
 
 ### Known Weaknesses:
 - Loses form briefly when exposed to Echo Pulse or Truth Sigils.
-- Disrupted by reframing dialogue (“I forgive them,” “That wasn’t me,” etc.).
+- Disrupted by reframing dialogue ("I forgive them," "That wasn’t me," etc.).
 - Final phase collapses if player stands still during her final loop.
 
 ---

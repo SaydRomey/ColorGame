@@ -13,7 +13,7 @@ undercurrents:
 
 1. Glassborne Echo
 
-> “It doesn’t shatter. It reflects you... wrong.”
+> "It doesn’t shatter. It reflects you... wrong."
 
 Phantom entity formed from broken enchanted glass.
 
@@ -25,7 +25,7 @@ Shatters into sharp arcs when hit by lightning.
 
 2. Skycall Wraith
 
-> “The wind lost its name. So it screams.”
+> "The wind lost its name. So it screams."
 
 Pale, robed specters drifting on updrafts.
 
@@ -38,7 +38,7 @@ Weak to grounded attacks and heavy elements.
 
 3. Abyssal Current
 
-> “The tide remembers. The tide regrets.”
+> "The tide remembers. The tide regrets."
 
 Serpentine water creature made of living memory-water, hunts near
 storm-wrecked coasts.
@@ -52,7 +52,7 @@ Temporarily banished by Zaffre Vial or Mind Echo abilities.
 
 4. Stormwrit Hound
 
-> “It howls in lightning — and leaps between bolts.”
+> "It howls in lightning — and leaps between bolts."
 
 Four-legged skybeast made of cloud, wire, and plasma.
 
@@ -64,7 +64,7 @@ Weak to harmonic resonance (e.g. flute, skybell chimes).
 
 5. Sorrowwing
 
-> “It cries your name before you hear it.”
+> "It cries your name before you hear it."
 
 Ghostly birdlike creatures with humanlike eyes.
 
@@ -76,7 +76,7 @@ Blocked by Cerulean Cloak or resisted with a memory artifact.
 
 6. Tempest Marionette
 
-> “She dances on wires strung from lightning.”
+> "She dances on wires strung from lightning."
 
 Sky-dancer puppet animated by storm-energy.
 
@@ -88,7 +88,7 @@ Can be overloaded by storm surge spells.
 
 7. Whisperglass Wyrm
 
-> “You never hear it speak. But the cliff listens.”
+> "You never hear it speak. But the cliff listens."
 
 Semi-transparent serpent that burrows through sky-islands.
 
@@ -100,7 +100,7 @@ Best revealed using Payne’s Brush or Skyglass Prisms.
 
 8. Tideworn Apostle
 
-> “She drowned for knowledge. Now she walks for silence.”
+> "She drowned for knowledge. Now she walks for silence."
 
 Sea-cloaked undead scholar with glowing journal pages.
 
@@ -112,7 +112,7 @@ Weak to silence and fire.
 
 9. Feathered Null
 
-> “The wind gave up. It became still.”
+> "The wind gave up. It became still."
 
 A hovering, colorless humanoid creature with shredded wings.
 
@@ -125,7 +125,7 @@ reactivation.
 
 10. Mirrorwake Duelist
 
-> “She fights in reflections. Yours. Hers. Anyone’s.”
+> "She fights in reflections. Yours. Hers. Anyone’s."
 
 Illusory swordmaster from the ancient Skyglass arena.
 

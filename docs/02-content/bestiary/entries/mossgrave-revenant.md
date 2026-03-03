@@ -18,7 +18,7 @@ Lore Entry
 
 <details><summary>See Mossgrave Revenant Lore Entry</summary>Lore Entry: Inscription etched on a stone sarcophagus, overgrown in the Tinctara Crypt-Ruins
 
-> “Let no hue claim him. Let no name follow him. He bled green, and that was enough.”
+> "Let no hue claim him. Let no name follow him. He bled green, and that was enough."
 
 
 
@@ -80,7 +80,7 @@ Vulnerable to light-infused weapons that pierce shadow and root alike.
 
 Notes:
 
-Scholars speculate the Revenant remembers not just his own life, but fragments of every life buried near him. Some who defeat him claim to hear a soft “thank you” as his moss crumbles and his sword returns to root. Others hear nothing—but dream of him for nights afterward.
+Scholars speculate the Revenant remembers not just his own life, but fragments of every life buried near him. Some who defeat him claim to hear a soft "thank you" as his moss crumbles and his sword returns to root. Others hear nothing—but dream of him for nights afterward.
 
 
 

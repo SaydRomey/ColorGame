@@ -13,19 +13,19 @@ Mirrorthirst Wyrm – The Reflection Beneath
 Lore Entry
 
 <details><summary>See Mirrorthirst Wyrm Lore Entry</summary>
-Lore Entry: Fragment from “Sands Untrue,” journal of Fulvous Hunter Jaxem Kresh> “They told me it was a heat shimmer. That you could outrun it.”
+Lore Entry: Fragment from "Sands Untrue," journal of Fulvous Hunter Jaxem Kresh> "They told me it was a heat shimmer. That you could outrun it."
 
 
 
-> “But the ground wasn’t hot. It was hollow. The shimmer twisted — like glass half-melted into water.”
+> "But the ground wasn’t hot. It was hollow. The shimmer twisted — like glass half-melted into water."
 
 
 
-> “Then the dune rose and I saw the teeth.”
+> "Then the dune rose and I saw the teeth."
 
 
 
-> “You don’t kill a Mirrorthirst. You distract it with reflections of yourself and pray the real you gets away.”
+> "You don’t kill a Mirrorthirst. You distract it with reflections of yourself and pray the real you gets away."
 
 
 
@@ -62,7 +62,7 @@ Reacts unpredictably to rhythmic movement (e.g. dance, music, timed traversal pu
 
 Behavior:
 
-Burrows just beneath desert surfaces, creating “liquid light wakes” — shimmering trails that ripple like reflections
+Burrows just beneath desert surfaces, creating "liquid light wakes" — shimmering trails that ripple like reflections
 
 Lures players toward false oasis markers before striking from below
 
@@ -89,7 +89,7 @@ Cannot cross pure darkness or zones entirely devoid of light-hue influence
 Notes:
 Local sun-priests claim the Wyrm is the desert’s memory of the ocean — a dream of drowning transmuted into heat. Its shimmer isn’t just light — it’s thirst, searching for a reflection it once had and lost.
 
-> “Step gently on sunlight. Something is watching its own reflection… through your shadow.”
+> "Step gently on sunlight. Something is watching its own reflection… through your shadow."
 
 
 

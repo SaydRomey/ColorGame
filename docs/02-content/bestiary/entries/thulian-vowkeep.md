@@ -19,7 +19,7 @@ Lore Entry
 
 <details><summary>See Thulian Vowkeeper Lore Entry</summary>Lore Entry: From the Vault of the Thulian Emissary
 
-> “It is not justice. It is memory polished until it cuts.”
+> "It is not justice. It is memory polished until it cuts."
 
 
 
@@ -32,7 +32,7 @@ When the Bloom fractured, so too did their clarity. Their mirrors no longer refl
 
 
 
-> If you told someone you'd return and didn’t… if you said “I’ll protect you,” and failed… it remembers.
+> If you told someone you'd return and didn’t… if you said "I’ll protect you," and failed… it remembers.
 
 
 
@@ -40,7 +40,7 @@ When the Bloom fractured, so too did their clarity. Their mirrors no longer refl
 
 
 
-> — Thulian Emissary, “On the Nature of Promised Things”
+> — Thulian Emissary, "On the Nature of Promised Things"
 
 
 
@@ -72,7 +72,7 @@ Immune to illusion-based misdirection — its blade slices through falsehood.
 
 Behavior:
 
-Begins combat by reciting a promise or dialogue the player once made — “You said you’d protect them.”
+Begins combat by reciting a promise or dialogue the player once made — "You said you’d protect them."
 
 Uses Truth Slash, which reflects prior movement patterns in a delayed echo.
 
@@ -81,7 +81,7 @@ Counters healing spells with Oathburn: turns healing into minor damage if the pl
 
 Known Weaknesses:
 
-Vulnerable only during its “judgment pause” — when it hesitates after speaking a truth.
+Vulnerable only during its "judgment pause" — when it hesitates after speaking a truth.
 
 Can be confused by paradoxes: use opposing truth/lie dialogue back-to-back.
 

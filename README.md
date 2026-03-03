@@ -59,7 +59,7 @@ Catalog of the major artifacts, relics, consumables, powers and tools, grouped b
 <div align="center">
   <h3>[The Realm]</h3>
   <img src="./assets/world-map-overview.png" alt="World Map Preview" width="300">
-  </br><i>“The Prism shattered. Now the hues rule alone...”</i></br>
+  </br><i>"The Prism shattered. Now the hues rule alone..."</i></br>
 
   [**Read full world breakdown ►**](./docs/world.md)
 
@@ -83,7 +83,7 @@ Catalog of the major artifacts, relics, consumables, powers and tools, grouped b
 
 ## 📜 Timeline & History
 
-> “All color was once one — until we tried to own it.”
+> "All color was once one — until we tried to own it."
 
 [**See full timeline ►**](./docs/timeline.md)
 
@@ -100,7 +100,7 @@ Catalog of the major artifacts, relics, consumables, powers and tools, grouped b
 <div align="center">
   <h3>The Prismwalker</h3>
   <img src="./assets/prismwalker-sketch.png" alt="Prismwalker Concept Art" width="200">
-  </br><i>“Born without color. Bound to none. Shaped by every hue.”</i></br>
+  </br><i>"Born without color. Bound to none. Shaped by every hue."</i></br>
 
   [**Character breakdown ►**](./docs/main-character.md)
 
@@ -161,8 +161,8 @@ Some example in-game scene scripts for each regions
 
 ## 🪄 Myths & Omens
 
-> “The first color was silence.”  
-> “When the sun weeps amber, even the blind must wear masks.”
+> "The first color was silence."  
+> "When the sun weeps amber, even the blind must wear masks."
 
 [**Click to see More Prophecies & cryptic sayings ►**](./docs/myths-and-omens.md)
 
@@ -184,12 +184,12 @@ Includes:
 *Guardian of the Forgotten Gardens; poet-scout cloaked in ancient gray-green*  
 **Item:** *Xanadu Stone* – Ancient mossy relic; grants visions of lost utopias when held in moonlight.
 > "Gardens grow again, even over bones."\
-> “This garden grew thorns when we fled.”\
+> "This garden grew thorns when we fled."\
 > "If you listen, the moss remembers where you buried the truth."\
-> “Hold the stone in moonlight — it’ll show you what we forgot.”  
+> "Hold the stone in moonlight — it’ll show you what we forgot."  
 
 **When leading the player into ancient ruins:**  
-> “Roots grow around memory. Tread softly — some stones grieve.”
+> "Roots grow around memory. Tread softly — some stones grieve."
 </details>
 
 ---

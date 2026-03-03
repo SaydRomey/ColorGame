@@ -20,7 +20,7 @@ until it shattered—scattering color-fragments across the world and birthing co
 
 ### **🎭 [Main Character] ✨ The Prismwalker**  
 
-You play as a colorless entity (a being of “Eigengrau,” the color of darkness before perception), 
+You play as a colorless entity (a being of "Eigengrau," the color of darkness before perception), 
 capable of absorbing and wielding colors by reclaiming fragments from each region.\
 As you gather colors, your appearance, powers, and moral choices evolve.
 
@@ -48,8 +48,8 @@ the imperial remnant corrupted by color hoarding and control.
 #### **🎨 Color Binding System**
 
 Absorb color from:
-- Artifacts (e.g., “Malachite Fang,” “Citrine Lens”)
-- Bosses (e.g., “Skobeloff Diver”)
+- Artifacts (e.g., "Malachite Fang," "Citrine Lens")
+- Bosses (e.g., "Skobeloff Diver")
 - Shrines / Biomes
 
 Each color grants:
@@ -83,7 +83,7 @@ Real-time but rhythmic, color effects interact:
 Discover Tomes of Hue to deepen regional history.\
 Align with color factions to unlock special storylines and upgrades.
 
-Decisions can “tint” your soul: \
+Decisions can "tint" your soul: \
 your dialogue options, quest access, and endings change based on accumulated hues.
 
 ---
@@ -91,7 +91,7 @@ your dialogue options, quest access, and endings change based on accumulated hue
 ### **💡 Art Style & Tone**
 
 - Painterly pixel art or stylized 2.5D, with heavy use of dynamic lighting and color overlays.
-- Colors “bleed” when used, smearing or illuminating the scene.
+- Colors "bleed" when used, smearing or illuminating the scene.
 - UI reacts to your current bound colors.
 
 ---

@@ -19,7 +19,7 @@ Lore Entry
 
 <details><summary>See Ashwrought Colossus Lore Entry</summary>Lore Entry: Etching on the underside of a rusted siege plate, found in the Pitfall Ridges
 
-> “They told it the war was over. But no one ever said it loud enough.”
+> "They told it the war was over. But no one ever said it loud enough."
 
 
 
@@ -77,7 +77,7 @@ Known Weaknesses:
 
 Weak point: Exhaust vent in upper spine glows bright orange when overheating — exposed after 3 consecutive attacks.
 
-Earthen “Memory Echo” spells can cause hesitation or stagger, if tied to specific war memories.
+Earthen "Memory Echo" spells can cause hesitation or stagger, if tied to specific war memories.
 
 Vulnerable to sonic resonance or vibration-based attacks — disrupt internal furnace chambers.
 

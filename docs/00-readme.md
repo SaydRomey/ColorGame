@@ -30,7 +30,7 @@ docs/
 │     ├ hue-binding.md              # (move from gameplay/)
 │     ├ personality-system.md
 │     └ personality-system-notes.md # from personality-system-mixed.md
-├ 02-content/                       # the “content bible”
+├ 02-content/                       # the "content bible"
 │  ├ characters/
 │  │  ├ player/
 │  │  │  └ prismwalker.md      # merge main-character.md + prismwalker.md maybe
@@ -152,7 +152,7 @@ updated: 2025-08-27
 - **kebab-case** filenames; one thing per file.
 - **one canonical index per folder** (`index.md`) with a short TL;DR and auto-generated tables (see below).
 - single source of truth for numbers: JSON in `game/data/bestiary/*.json` (already true!); docs reference with `links.json`.
-- keep “notes/mixed” pages (like `personality-system-mixed.md`) but suffix with `-notes.md` so they never masquerade as specs.
+- keep "notes/mixed" pages (like `personality-system-mixed.md`) but suffix with `-notes.md` so they never masquerade as specs.
 
 ---
 
@@ -169,7 +169,7 @@ and update `docs/02-content/bestiary/index.md` with a table grouped by `tags.reg
 ## optional buckets to maybe add over time
 - **08-engineering/schemas/** — JSON schemas for `BEAST_*.json`
 - **09-production/** — roadmap, playtest notes, checklists
-- **_shared/templates/** — drop a template for “bestiary entry” and “scene”
+- **_shared/templates/** — drop a template for "bestiary entry" and "scene"
 
 ---
 

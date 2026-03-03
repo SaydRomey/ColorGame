@@ -59,7 +59,7 @@ They drift in the air or hover near hue-aligned shrines,
 drawn to magic or activated color states.
 
 When they latch onto the player, they drain a hue, 
-causing equipped abilities to “gray out” for several seconds, 
+causing equipped abilities to "gray out" for several seconds, 
 rendering them unusable.
 
 ---

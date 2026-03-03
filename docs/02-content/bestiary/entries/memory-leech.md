@@ -12,7 +12,7 @@
 
 Lore Entry
 
-<details><summary>See Memory Leech Lore Entry</summary>Lore Entry: Fragment from “Nullborne Ecology,” etched in fading ink by a Bistre Archivist.
+<details><summary>See Memory Leech Lore Entry</summary>Lore Entry: Fragment from "Nullborne Ecology," etched in fading ink by a Bistre Archivist.
 
 > "They were first seen crawling from Shatterglass Pools — drawn to forgotten words and interrupted thoughts."
 
@@ -68,11 +68,11 @@ Can be knocked off by triggering a memory echo (e.g., stepping into a past scene
 
 Known Weaknesses:
 
-Repelled by memory artifacts (like the “Tethered Locket” or “Truth Echo Scroll”).
+Repelled by memory artifacts (like the "Tethered Locket" or "Truth Echo Scroll").
 
 Fire-based AoE flushes them from stealth; they avoid direct sunlight or radiant zones.
 
-Vulnerable when “full” — after stealing too many prompts, they slow down visibly.
+Vulnerable when "full" — after stealing too many prompts, they slow down visibly.
 
 ---
 
@@ -82,6 +82,6 @@ Rarely appear in groups, but the damage they do accumulates psychologically.
 
 Defeating them restores lost prompts gradually — some may only return after interacting with a remembered NPC or shrine.
 
-Nullshade survivors say, “If you hear yourself forget… run.”
+Nullshade survivors say, "If you hear yourself forget… run."
 
 ---

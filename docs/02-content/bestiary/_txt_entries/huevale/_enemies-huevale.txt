@@ -12,7 +12,7 @@ Frontier that aligns with both lore and gameplay:
 
 1. Sapborn Stalker
 
-> “Roots remember where you stepped.”
+> "Roots remember where you stepped."
 
 Semi-humanoid creature made of twisting sap and bark.
 
@@ -24,7 +24,7 @@ Camouflages among foliage when still.
 
 2. Boglight Mimic
 
-> “Some will-o’-the-wisps aren't lost. They're hunting.”
+> "Some will-o’-the-wisps aren't lost. They're hunting."
 
 Glowing green-blue orbs that lure players into swamp traps.
 
@@ -36,7 +36,7 @@ Weak to light-based spells or illusions.
 
 3. Verdant Maw
 
-> “A flower with teeth is still a flower.”
+> "A flower with teeth is still a flower."
 
 Giant carnivorous plant rooted in place.
 
@@ -48,7 +48,7 @@ Can be bypassed with stealth or charmed with Limerick Druid’s flute.
 
 4. Sporekin
 
-> “Born of breath, fed by decay.”
+> "Born of breath, fed by decay."
 
 Child-sized fungal husks with mossy faces and glowing eyes.
 
@@ -60,7 +60,7 @@ Immune to poison, vulnerable to sonic and purifying effects.
 
 5. Thornwrithe Beast
 
-> “It bleeds bramble. And it’s fast.”
+> "It bleeds bramble. And it’s fast."
 
 Quadruped overgrown with thorns and vines.
 
@@ -72,7 +72,7 @@ Can be slowed with earth magic, enraged by Crimson.
 
 6. Limeroot Trickster
 
-> “It rhymes, then strikes.”
+> "It rhymes, then strikes."
 
 Illusion-casting spirit that copies Limerick Druid’s mannerisms.
 
@@ -84,7 +84,7 @@ Must be unrhymed (interrupted spellcasting) to break illusions.
 
 7. Chartreuse Husk
 
-> “A tonic left too long to rot.”
+> "A tonic left too long to rot."
 
 Once-human monk bloated by corrupted potions.
 
@@ -96,7 +96,7 @@ Bursts on death, leaving puddles of unstable alchemy.
 
 8. Grovebound Sentinel
 
-> “The trees gave it orders. It never stopped listening.”
+> "The trees gave it orders. It never stopped listening."
 
 Animated wooden golem clad in emerald vines.
 
@@ -108,7 +108,7 @@ Can only be disabled by solving nearby environment puzzle.
 
 9. Fangbloom Wyrm
 
-> “Buried in blossom, it waits for motion.”
+> "Buried in blossom, it waits for motion."
 
 Snake-like vine beast hiding beneath flower beds.
 
@@ -120,7 +120,7 @@ Detected only with Skobeloff Lens or Echo spells.
 
 10. Mossgrave Revenant
 
-> “Even the ghosts here wear green.”
+> "Even the ghosts here wear green."
 
 Verdant-armored specter of a fallen knight.
 

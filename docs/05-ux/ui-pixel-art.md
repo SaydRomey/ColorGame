@@ -29,7 +29,7 @@
 - A segmented horizontal shard bar sits just above the Hue Core.
 - Each segment fills with the cast hue’s color, then fades back toward neutral gray.
 - Drained bar looks dull/ashen.
-- Refill animation: colors “drip” in from the shard core at the bottom-right.
+- Refill animation: colors "drip" in from the shard core at the bottom-right.
 
 ---
 

@@ -13,15 +13,15 @@ Rustworn Judge – The Verdigris Verdict
 Lore Entry
 
 <details><summary>See Rustworn Judge Lore Entry</summary>
-Lore Entry: Fragment from “The Tribunal of Dust” — Sootleaf Scroll, Mortuum Hold> “He presided over the Ash Trials — where guilt was presumed, and memory was the only plea. His blade struck truth from hesitation.”
+Lore Entry: Fragment from "The Tribunal of Dust" — Sootleaf Scroll, Mortuum Hold> "He presided over the Ash Trials — where guilt was presumed, and memory was the only plea. His blade struck truth from hesitation."
 
 
 
-> “When the Catacombs crumbled, the Judge did not fall. He simply waited, verdict unspoken, blade still angled toward indecision.”
+> "When the Catacombs crumbled, the Judge did not fall. He simply waited, verdict unspoken, blade still angled toward indecision."
 
 
 
-> “We say: do not argue with the rust. It has waited longer than you have drawn breath.”
+> "We say: do not argue with the rust. It has waited longer than you have drawn breath."
 
 
 
@@ -32,7 +32,7 @@ Bestiary Entry
 
 Name: Rustworn Judge
 Type: Spectral Adjudicator / Trialbound Duelist
-Threat Level: ⚠️ High (Triggers zone-wide “duel” state)
+Threat Level: ⚠️ High (Triggers zone-wide "duel" state)
 First Emerged: Post-Shattering – Bound to the Isabelline Tribunal Ruins
 
 Description:
@@ -55,16 +55,16 @@ Begins neutral; approaches only if a dialogue deception or broken vow is detecte
 
 Upon engagement, all other threats vanish from the arena — this becomes a Trial Zone.
 
-Speaks only in verdicts: “Guilty,” “Paused,” “Judged.” Each phase tightens its aggression.
+Speaks only in verdicts: "Guilty," "Paused," "Judged." Each phase tightens its aggression.
 
 
 Known Weaknesses:
 
-During the “Paused” phase, players may offer a Memory Token from a known past regret to delay the duel.
+During the "Paused" phase, players may offer a Memory Token from a known past regret to delay the duel.
 
 The Bistre Lantern, when lit at the edge of the arena, reveals its original name — speaking this name aloud (in dialogue) weakens its form.
 
-Defeated only by a perfect parry during its “Judged” strike or by ending the duel through confession.
+Defeated only by a perfect parry during its "Judged" strike or by ending the duel through confession.
 
 
 Notes:

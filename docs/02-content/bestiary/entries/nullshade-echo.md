@@ -12,7 +12,7 @@
 
 Lore Entry
 
-<details><summary>See Nullshade Echo Lore Entry</summary>Lore Entry: Entry recorded by the Caput Mortuum Ascetic in “Reverberations of Unselfing”
+<details><summary>See Nullshade Echo Lore Entry</summary>Lore Entry: Entry recorded by the Caput Mortuum Ascetic in "Reverberations of Unselfing"
 
 > "I watched one retrace my sister’s footsteps — even though she died in the war of hues. The Echo did not bleed. It did not speak. It simply… reminded."
 
@@ -87,7 +87,7 @@ Some can be interacted with through dialogue. One was seen whispering a phrase t
 
 If defeated properly, it fades whispering:
 
-> “It wasn’t wrong. It was just… before.”
+> "It wasn’t wrong. It was just… before."
 
 
 ---

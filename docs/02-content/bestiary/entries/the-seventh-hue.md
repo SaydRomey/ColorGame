@@ -66,7 +66,7 @@ Only defeated by confronting a final player-typed truth prompt during combat’s
 
 Certain dialogue choices from The Blooming Veil or Auralith echo as resistance.
 
-Use of “Silent Hue” alignment temporarily reveals its true form.
+Use of "Silent Hue" alignment temporarily reveals its true form.
 
 ---
 
@@ -77,6 +77,6 @@ If defeated, unlocks Optional Dialogue Before Final Boss:
 
 If spared, leaves behind a black shard that pulses between names never chosen.
 
-Adds entry to Hue Archive: “The Forbidden Color.”
+Adds entry to Hue Archive: "The Forbidden Color."
 
 ---

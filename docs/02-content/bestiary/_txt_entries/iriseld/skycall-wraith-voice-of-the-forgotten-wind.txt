@@ -26,8 +26,8 @@ Lore Entry
 <details><summary>See Skycall Wraith Lore Entry</summary>Lore Fragment:
 Recovered from a shattered listening bell atop the Skyglass Spires
 
-> “When the storm broke the tower, we thought the cries were just wind
-in the bells.”
+> "When the storm broke the tower, we thought the cries were just wind
+in the bells."
 
 > But it was the wind forgetting its name. Forgetting how to be silent.
 
@@ -89,7 +89,7 @@ Cancels flight/glide
 
 Disorients sound-based UI cues
 
-At high stacks, triggers a “Vertigo Pulse” (pulls player down or
+At high stacks, triggers a "Vertigo Pulse" (pulls player down or
 sideways mid-air)
 
 Will flee into fog if surrounded by silence (e.g., Cerulean Cloak
@@ -102,7 +102,7 @@ rhythm breaks.
 
 Silence interrupts their shriek cycle.
 
-Mind Echo can “overwrite” their cry with a stored sound (especially a
+Mind Echo can "overwrite" their cry with a stored sound (especially a
 player’s own voice).
 
 Notes:

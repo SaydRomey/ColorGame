@@ -14,12 +14,12 @@
 
 <details><summary>See Spectral Harvester Lore Entry</summary>Recovered Voice-Echo – Nullshade, Monolith Theta-9
 
-> “I missed the glyph. Just one.”
-“Didn’t say the right name. Didn’t speak the truth.”
-“Then… the hum started. Like glass grinding through silk.”
-“I saw them — not me, but the ones I could’ve been. And it swung.”
+> "I missed the glyph. Just one."
+"Didn’t say the right name. Didn’t speak the truth."
+"Then… the hum started. Like glass grinding through silk."
+"I saw them — not me, but the ones I could’ve been. And it swung."
 
-“My journal is gone. My name in the Archive turned blank. That… thing didn’t kill me. It unremembered me.”
+"My journal is gone. My name in the Archive turned blank. That… thing didn’t kill me. It unremembered me."
 — Unknown, faded inscription near broken Shatterglass Pool
 
 
@@ -84,9 +84,9 @@ Known Weaknesses:
 
 Avoidable entirely by completing Echo segments correctly or resolving Nullshade riddles.
 
-Vulnerable during “Frozen Memory” state — when it pauses to recall a version of you it cannot confirm.
+Vulnerable during "Frozen Memory" state — when it pauses to recall a version of you it cannot confirm.
 
-Can be dispelled permanently by presenting a “True Memory” — an artifact you kept unchanged since Act I.
+Can be dispelled permanently by presenting a "True Memory" — an artifact you kept unchanged since Act I.
 
 
 

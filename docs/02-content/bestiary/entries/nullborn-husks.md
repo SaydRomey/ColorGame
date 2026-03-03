@@ -20,7 +20,7 @@
 
 ### Lore Entry: From the Scroll of [placeholder], Last Verdant Archivist
 
-> *“I write this in root-ink, though I know not if ink can hold what I must say.”*  
+> *"I write this in root-ink, though I know not if ink can hold what I must say."*  
 
 > *They came after the Core broke — crawling things, 
 > pale and featureless, like clay left out too long. 

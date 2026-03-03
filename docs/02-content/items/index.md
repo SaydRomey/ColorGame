@@ -6,7 +6,7 @@ Catalog of the major artifacts, relics, consumables, powers and tools, grouped b
 
 ---
 
-## Memory & “Echo” Tools
+## Memory & "Echo" Tools
 
 **Purpose**: Recover UI/Hue charges, pacify memory-drainers, resolve Echo puzzles
 - **Memory Echo** (spell)
@@ -15,7 +15,7 @@ Catalog of the major artifacts, relics, consumables, powers and tools, grouped b
 - **Memory Token** (used to delay or pacify judgment entities)
 - **Prism Archive** Key (retroactively resolve past regrets)
 - **Bistre Lantern** (reveals true echoes, names; dispels dark reflections)
-- **True-Memory** Artifact / Scroll (final “truth” to banish memory threats)
+- **True-Memory** Artifact / Scroll (final "truth" to banish memory threats)
 
 ---
 

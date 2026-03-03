@@ -64,7 +64,7 @@ Behavior:
 
 Appears in mirrored paths or failed puzzles.
 
-Paralyzes the player momentarily with threads of “missing memory” — visuals from dialogue branches never taken.
+Paralyzes the player momentarily with threads of "missing memory" — visuals from dialogue branches never taken.
 
 Will teleport behind the player if they ignore a manifested regret.
 
@@ -88,7 +88,7 @@ Notes:
 
 If defeated in all its variants, unlocks the full tapestry mural in Nullshade’s archive vault — a visual display of the player’s total unchosen truths.
 
-Final Watcher, if spared, leaves behind a whisper: “The next you may still choose better.”
+Final Watcher, if spared, leaves behind a whisper: "The next you may still choose better."
 
 
 

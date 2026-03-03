@@ -23,7 +23,7 @@
 - **Artifact Examples:** Alizarin Quilt, Cinnabar Seal  
 
 **Environmental Twist:**  
-Heat and light affect your stamina; blood spilled in battle may “wake” old gods or curses.
+Heat and light affect your stamina; blood spilled in battle may "wake" old gods or curses.
 
 ---
 

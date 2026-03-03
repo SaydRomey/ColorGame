@@ -19,19 +19,19 @@ Lore Entry
 
 <details><summary>See Fox Mirage Lore Entry</summary>Lore Entry: Spoken by Nacarat the Laughing Blade, overheard near Emberlight Cliffs
 
-> “Oh, that one? The Fox Mirage? She's a clever ghost, or maybe just a lie wrapped in fur.”
+> "Oh, that one? The Fox Mirage? She's a clever ghost, or maybe just a lie wrapped in fur."
 
 
 
-> “She’s not real — not the way we are. She’s an ember thought that got too smug. You see her in the corner of your eye, or in the shimmer on a blade, or laughing just before the strike lands. She’s the memory of being hunted, kept warm too long in the coals.”
+> "She’s not real — not the way we are. She’s an ember thought that got too smug. You see her in the corner of your eye, or in the shimmer on a blade, or laughing just before the strike lands. She’s the memory of being hunted, kept warm too long in the coals."
 
 
 
-> “They say she was once a trickster in life — Nacarat’s sister, some claim — weaving illusions into flame. When she died, the desert didn’t let her go. It just learned her trick.”
+> "They say she was once a trickster in life — Nacarat’s sister, some claim — weaving illusions into flame. When she died, the desert didn’t let her go. It just learned her trick."
 
 
 
-> “If you want to fight her, don’t. Fight what she makes you think she is. That’s where she hides — behind your own mistake.”
+> "If you want to fight her, don’t. Fight what she makes you think she is. That’s where she hides — behind your own mistake."
 
 
 

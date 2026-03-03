@@ -13,7 +13,7 @@ Sunflare Marionette – The Dance of Scorching Strings
 Lore Entry
 
 <details><summary>See Sunflare Marionette Lore Entry</summary>
-Lore Entry: From “Songs of the Marion Shrine,” a forbidden playbill burned at the Aureolin Temple> "They said the dancer was too beautiful to cast a shadow. So the sun made one — and gave it strings."
+Lore Entry: From "Songs of the Marion Shrine," a forbidden playbill burned at the Aureolin Temple> "They said the dancer was too beautiful to cast a shadow. So the sun made one — and gave it strings."
 
 
 
@@ -62,11 +62,11 @@ Weakens in heavy cloud or artificial shade
 
 Behavior:
 
-“Sunline Steps” mark healing zones under solar focus; it dances between them
+"Sunline Steps" mark healing zones under solar focus; it dances between them
 
 Uses ribbon-lash attacks to slice light-bound enemies
 
-Will enter “Solar Bloom” state at 50% health: emits flares that detonate if not dodged in rhythm with her gestures
+Will enter "Solar Bloom" state at 50% health: emits flares that detonate if not dodged in rhythm with her gestures
 
 Can teleport via reflected surfaces during battle
 
@@ -89,7 +89,7 @@ Highly vulnerable when caught without light for more than 10 seconds
 Notes:
 Ancient performance scrolls suggest the Marionette was once a celebrant — not a killer. Some dancers in Eburnea still perform her final dance at dusk, praying to blind the sun just long enough to forget their debts.
 
-> “If you step into the spotlight… be sure you’re ready to bow.”
+> "If you step into the spotlight… be sure you’re ready to bow."
 
 
 

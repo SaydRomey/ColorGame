@@ -66,7 +66,7 @@ Stationary until provoked or until artifact proximity detected
 
 Stomps ground to fracture terrain; creates radiant aftershocks that slow movement
 
-“Gleam Pulse” releases radial lightburst upon taking damage, stunning nearby attackers
+"Gleam Pulse" releases radial lightburst upon taking damage, stunning nearby attackers
 
 Can regenerate minor cracks if exposed to direct sunlight too long
 
@@ -89,7 +89,7 @@ Echo-charged percussion weapons (like Prismhammer) disrupt its inner resonance
 Notes:
 Citrine Golems were never meant to kill — only to withstand. Their presence marks places the sun itself once vowed to protect.
 
-> “If it still stands, perhaps your purpose does not.”
+> "If it still stands, perhaps your purpose does not."
 
 
 

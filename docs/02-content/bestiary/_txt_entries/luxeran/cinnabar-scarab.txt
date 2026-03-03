@@ -9,7 +9,7 @@ A desert jewel that lives to mislead. The Cinnabar Scarab is as radiant as it is
 Lore Entry
 
 See Cinnabar Scarab Lore Entry
-Lore Entry: Recovered notes from “Scarab Whispers” by Fulvous Hunter Orei> "You don’t find a scarab nest. You walk into one — thinking it’s treasure, or shade, or salvation."
+Lore Entry: Recovered notes from "Scarab Whispers" by Fulvous Hunter Orei> "You don’t find a scarab nest. You walk into one — thinking it’s treasure, or shade, or salvation."
 "I cracked one with my heel once. It screamed. I did too. Because then there were ten. Then twenty. All of them fake. All of them not quite wrong."
 
 "Only the real one bleeds dust. The rest... flicker. They don’t stop moving unless you sing."
@@ -51,6 +51,6 @@ Vulnerable to heat-sensing relics or wide-range pulse attacks
 
 Notes: To Luxeran jewelhunters, a single real scarab is worth a satchel of gold — if they can catch it. But many vanish chasing light that turns to laughter.
 
-“In Luxeran, even fear learns to sparkle.”
+"In Luxeran, even fear learns to sparkle."
 
 

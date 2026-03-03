@@ -14,10 +14,10 @@
 
 <details><summary>See Unhued Choir Lore Entry</summary>Recovered Note – Nullshade, Shatterglass Pool (Distorted Reflection)
 
-> “It wasn’t that they were children. Not really. Just the shape sorrow took that day.”
-“They sang like they knew what came next — like they remembered silence being born.”
-“When I tried to speak, they hummed it away. My thoughts turned to fog. My spells turned to noise.”
-“Each voice sang in a hue we buried. And when the last note faded… so did color.”
+> "It wasn’t that they were children. Not really. Just the shape sorrow took that day."
+"They sang like they knew what came next — like they remembered silence being born."
+"When I tried to speak, they hummed it away. My thoughts turned to fog. My spells turned to noise."
+"Each voice sang in a hue we buried. And when the last note faded… so did color."
 — Fragmented confession, signed with no name
 
 
@@ -48,7 +48,7 @@ Encounter Conditions:
 
 Often found in Echo Collapse zones or guarding Nullshade altars.
 
-May emerge from failed “Hue Alignment” puzzles or during emotional memory sequences.
+May emerge from failed "Hue Alignment" puzzles or during emotional memory sequences.
 
 
 
@@ -72,7 +72,7 @@ Vulnerable to sonic-based spells, or relics tied to truthful sound (e.g., Verdan
 
 Silenced only by using Color Sigils tied to the Order the player has chosen the fewest times.
 
-Each fragment represents a lost hue — targeting them in their “resonant color moment” makes them vulnerable briefly.
+Each fragment represents a lost hue — targeting them in their "resonant color moment" makes them vulnerable briefly.
 
 
 
@@ -94,9 +94,9 @@ Notes:
 
 Choir fragments whisper faintly even after defeat — their echoes may be heard near important player decisions.
 
-Some NPCs (e.g., the Isabelline Widow or Bistre Archivist) may reference hearing “child-song” in high Nullshade zones.
+Some NPCs (e.g., the Isabelline Widow or Bistre Archivist) may reference hearing "child-song" in high Nullshade zones.
 
-It is rumored that if all Choir fragments are defeated without taking damage, an ancient line of the Prismara’s hymn is restored — granting temporary “Uncolor” immunity.
+It is rumored that if all Choir fragments are defeated without taking damage, an ancient line of the Prismara’s hymn is restored — granting temporary "Uncolor" immunity.
 
 
 

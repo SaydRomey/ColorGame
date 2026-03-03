@@ -7,7 +7,7 @@ Doppelshade – Mirror of the Selflied
   </br><i>"I saw myself dodge. But I hadn’t moved yet."</i></br></br>
 </div>Mimics the player's current appearance and equipment loadout.
 
-Reacts to your last 3 movement patterns, trying to “catch” your next input.
+Reacts to your last 3 movement patterns, trying to "catch" your next input.
 
 Damaging it without revealing its illusion form causes hue feedback — a psychic jolt that scrambles your HUD.
 
@@ -19,7 +19,7 @@ Lore Entry
 
 <details><summary>See Doppelshade Lore Entry</summary>Lore Entry: Fragmented Memory from the Thulian Mirror
 
-> “Reflections should show truth. But in dreams, even mirrors lie kindly.”
+> "Reflections should show truth. But in dreams, even mirrors lie kindly."
 
 
 

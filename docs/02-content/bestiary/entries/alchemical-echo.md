@@ -13,15 +13,15 @@ Alchemical Echo – The Failed Transmutation
 Lore Entry
 
 <details><summary>See Alchemical Echo Lore Entry</summary>
-Lore Entry: Fragment from “Notes of the Hollow Crucible,” scribbled in ash by the Caput Mortuum Ascetic> “We were so close. Gold, perhaps. Or memory without pain. Or simply an end that didn’t unravel.”
+Lore Entry: Fragment from "Notes of the Hollow Crucible," scribbled in ash by the Caput Mortuum Ascetic> "We were so close. Gold, perhaps. Or memory without pain. Or simply an end that didn’t unravel."
 
 
 
-> “The Alchemical Echo is not a monster. It is a sentence interrupted. A retort left boiling too long. It speaks in unfinished incantations and dreams in half-bonded reactions.”
+> "The Alchemical Echo is not a monster. It is a sentence interrupted. A retort left boiling too long. It speaks in unfinished incantations and dreams in half-bonded reactions."
 
 
 
-> “Do not listen to it. Do not touch its trail. And above all, do not pity it. What it wants... is to finish becoming.”
+> "Do not listen to it. Do not touch its trail. And above all, do not pity it. What it wants... is to finish becoming."
 
 
 
@@ -53,7 +53,7 @@ Wanders lab ruins and memory shrines, seeking raw components to complete itself.
 
 Fires orbs of unstable potion energy that inflict randomized status swaps (e.g., healing turns to damage, dodge becomes stumble).
 
-May attempt to “fuse” with the player on low health — initiates a struggle event.
+May attempt to "fuse" with the player on low health — initiates a struggle event.
 
 
 Known Weaknesses:

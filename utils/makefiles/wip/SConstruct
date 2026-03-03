@@ -61,7 +61,7 @@ else:
 
 # Put all build artifacts under build/<platform>.<target>/
 build_root = Path("build") / f"{env['platform']}.{env['target']}"
-# Create a mirrored “view” of src/ in build/, without copying files
+# Create a mirrored "view" of src/ in build/, without copying files
 VariantDir(str(build_root / "src"), "src", duplicate=0)
 
 # Optional DX: print a one-line summary of what we're about to build

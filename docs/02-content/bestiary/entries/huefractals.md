@@ -18,13 +18,13 @@
 
 <details><summary>See Huefractals Lore Entry</summary>Fragment from "The Spectrum that Broke" — Scrawlings in Nullshade Dust
 
-> “They were once part of something sacred. The Core sang with their chorus. But when the Prism cracked, the notes scattered and forgot the tune.”
+> "They were once part of something sacred. The Core sang with their chorus. But when the Prism cracked, the notes scattered and forgot the tune."
 
-“Some tried to collect them. None returned whole. Not dead — just… chromatically incorrect.”
+"Some tried to collect them. None returned whole. Not dead — just… chromatically incorrect."
 
-“One danced near me once. It laughed in teal. Then wept in a color I didn’t have a word for.”
+"One danced near me once. It laughed in teal. Then wept in a color I didn’t have a word for."
 
-“They want to return. But they don’t remember where they began. So they collide with anything that might have been their origin.”
+"They want to return. But they don’t remember where they began. So they collide with anything that might have been their origin."
 
 
 
@@ -54,7 +54,7 @@ Hue Interaction:
 
 React violently to concentrated hue magic — especially if multiple hues are active.
 
-Each fragment carries an unstable “echo” of a specific hue. When struck, may cast random low-tier spell effects of that hue (e.g., Red = fire burst, Yellow = flash pulse).
+Each fragment carries an unstable "echo" of a specific hue. When struck, may cast random low-tier spell effects of that hue (e.g., Red = fire burst, Yellow = flash pulse).
 
 When three or more collide, they may cause a Hue Cascade — a zone-wide chromatic distortion field that temporarily disables all hue-bound abilities.
 
@@ -66,9 +66,9 @@ Behavior:
 
 Not aggressive unless provoked by hue alignment, spells, or AoE proximity.
 
-In some cases, may follow the player briefly, attempting to “resonate” — which can overload equipment or inflict hue blur.
+In some cases, may follow the player briefly, attempting to "resonate" — which can overload equipment or inflict hue blur.
 
-In rare Nullshade time loops, Huefractals may briefly align and “sing” a lost color, triggering a puzzle glyph sequence.
+In rare Nullshade time loops, Huefractals may briefly align and "sing" a lost color, triggering a puzzle glyph sequence.
 
 
 

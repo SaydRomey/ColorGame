@@ -19,7 +19,7 @@ Lore Entry
 
 <details><summary>See Bloodroot Effigy Lore Entry</summary>Lore Entry: Found etched into a stone altar in the Shrine of Ashpetal
 
-> “This is what we do with heroes: we bury them, then build something out of the bones.”
+> "This is what we do with heroes: we bury them, then build something out of the bones."
 
 
 

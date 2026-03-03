@@ -15,19 +15,19 @@ Carries ash-scrolls in trailing ribbons; each contains the echo of a forgotten m
 Lore Entry
 
 <details><summary>See Sootshade Collector Lore Entry</summary>
-Lore Entry: Notes from the Bistre Archivist, smudged but intact> “Not all things burned are lost. Some simply migrate.”
+Lore Entry: Notes from the Bistre Archivist, smudged but intact> "Not all things burned are lost. Some simply migrate."
 
 
 
-> “The Sootshade comes not to kill, but to recall. To trap you in a page you never turned — and make you read it aloud.”
+> "The Sootshade comes not to kill, but to recall. To trap you in a page you never turned — and make you read it aloud."
 
 
 
-> “One stepped into my archive once. It didn’t walk. It lingered. When it passed, an entire section of blackened scrolls whispered back into ink — confessions no one meant to leave behind.”
+> "One stepped into my archive once. It didn’t walk. It lingered. When it passed, an entire section of blackened scrolls whispered back into ink — confessions no one meant to leave behind."
 
 
 
-> “They do not judge. But they never forget. And memory, when weaponized, burns colder than any fire.”
+> "They do not judge. But they never forget. And memory, when weaponized, burns colder than any fire."
 
 
 
@@ -72,7 +72,7 @@ Becomes unstable when the player speaks truth during a forced memory sequence.
 
 
 Notes:
-Sootshades leave behind “Ash-Bound Pages” — rare consumable scrolls that reveal one hidden event or decision the player has forgotten. Using one rewrites the memory log... at a cost.
+Sootshades leave behind "Ash-Bound Pages" — rare consumable scrolls that reveal one hidden event or decision the player has forgotten. Using one rewrites the memory log... at a cost.
 
 
 ---

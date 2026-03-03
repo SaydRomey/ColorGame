@@ -19,7 +19,7 @@ Lore Entry
 
 <details><summary>See Bannerbound Revenant Lore Entry</summary>Lore Entry: Recovered from the Ashstandard Archives, page half-burned
 
-> “Some soldiers die. Others march past death.”
+> "Some soldiers die. Others march past death."
 
 
 
@@ -61,7 +61,7 @@ The banner resonates with Crimson, growing in size and summoning more shades if 
 
 Vulnerable to Cobalt silence fields — can temporarily disable the call to arms.
 
-Violet resonance can “recode” the banner — turning its shades against it for a short time.
+Violet resonance can "recode" the banner — turning its shades against it for a short time.
 
 
 Behavior:
@@ -79,7 +79,7 @@ Banner can be stolen or severed (by completing a timed interaction or using spec
 
 Suffers major weakness while unarmed — flails slowly and loses summoning.
 
-Immobile during “echo pulse” — a war-horn gesture that warns of incoming waves.
+Immobile during "echo pulse" — a war-horn gesture that warns of incoming waves.
 
 
 Notes:

@@ -1,6 +1,6 @@
 🟡 Sunburnt Jackal
 
-> “It never learned the difference between shadow and prey.”
+> "It never learned the difference between shadow and prey."
 
 Type: Desert Predator
 
@@ -54,8 +54,8 @@ Dropping torches or Radiant Flares can mislead them temporarily.
 
 Lore Fragment – Memory Echo (if defeated near Gamboge Monk):
 
-> “It chased the sun until its shadow disappeared. And then it ate the
-silence.”
+> "It chased the sun until its shadow disappeared. And then it ate the
+silence."
 
 ---
 

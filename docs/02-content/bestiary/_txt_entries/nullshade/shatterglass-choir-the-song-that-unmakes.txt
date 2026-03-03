@@ -22,7 +22,7 @@ that no longer belongs to them.
 Lore Entry
 
 <details><summary>See Shatterglass Choir Lore Entry</summary>Lore Entry:
-Torn page from “Echoes of a Prism Lost” by the Bistre Archivist
+Torn page from "Echoes of a Prism Lost" by the Bistre Archivist
 
 > "They weren’t always like this. Once, they were singers of balance —
 prism children born to echo each hue as it rose."
@@ -104,8 +104,8 @@ Nullroot exposure nearby can silence one choir member temporarily.
 
 Notes:
 
-Occasionally sing snatches of your choices, warping phrases like: “You
-chose… silence,” or “Color was never yours to hold.”
+Occasionally sing snatches of your choices, warping phrases like: "You
+chose… silence," or "Color was never yours to hold."
 
 Killing them all restores color to the region for a short time — enough
 to access sealed memory pools.

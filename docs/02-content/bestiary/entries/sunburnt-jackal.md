@@ -18,7 +18,7 @@ they fear cold and recoil from shade, becoming sluggish after dusk.
 ## Lore Entry
 
 <details><summary>See Sunburnt Jackal Lore Entry</summary>
-Lore Entry: Fragment from “Scorch and Silence,” a journal recovered near the Gamboge Vault> "I watched it circle the mirage fire for hours, never knowing it wasn’t real. It yipped and snapped at flickering sand. Not blind — not quite — but worse: its mind burns with too much sun and too little shadow."
+Lore Entry: Fragment from "Scorch and Silence," a journal recovered near the Gamboge Vault> "I watched it circle the mirage fire for hours, never knowing it wasn’t real. It yipped and snapped at flickering sand. Not blind — not quite — but worse: its mind burns with too much sun and too little shadow."
 
 > "They don’t see. They feel heat like scent — like music. My torch nearly killed me. I had to drop it and run silent into the dunes."
 
@@ -81,7 +81,7 @@ It's said that if a Sunburnt Jackal is howling at an empty flame, it’s mournin
 
 <!--
 ### 🟡 Sunburnt Jackal
-> “It never learned the difference between shadow and prey.”
+> "It never learned the difference between shadow and prey."
 
 Type: Desert Predator  
 Region: Luxeran – The Gilded Expanse  
@@ -117,7 +117,7 @@ Dropping torches or Radiant Flares can mislead them temporarily.
 ---
 
 Lore Fragment – Memory Echo (if defeated near Gamboge Monk):  
-> “It chased the sun until its shadow disappeared. And then it ate the silence.”
+> "It chased the sun until its shadow disappeared. And then it ate the silence."
 
 
 ---

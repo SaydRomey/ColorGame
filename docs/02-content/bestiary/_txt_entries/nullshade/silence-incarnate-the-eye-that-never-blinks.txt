@@ -27,7 +27,7 @@ Lore Entry
 
 <details><summary>See Silence Incarnate Lore Entry</summary>
 
-### Lore Entry: “Notes on Spectral Stagnation” — Scratched into obsidian
+### Lore Entry: "Notes on Spectral Stagnation" — Scratched into obsidian
 by a forgotten archivist.
 
 > "It hovered where thought slowed.
@@ -62,7 +62,7 @@ First Emerged: When the seventh hue was silenced
 
 Description:
 
-A floating shrouded figure with no visible face. Its “eye” is a subtle
+A floating shrouded figure with no visible face. Its "eye" is a subtle
 shimmer in the hood’s center — not always open, not always there. When
 it gazes at the player, action becomes impossible: casting, dodging,
 speaking all fail.
@@ -95,7 +95,7 @@ Known Weaknesses:
 Breaking line of sight with terrain or mirrored prism shards allows
 action again.
 
-Defeated by using the “Reverse Gaze” effect from the Prismwalker’s relic
+Defeated by using the "Reverse Gaze" effect from the Prismwalker’s relic
 arsenal.
 
 Whisper-based spells (from Violet or Brown hue sets) disrupt its

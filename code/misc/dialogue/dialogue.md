@@ -5,11 +5,11 @@
 
 Like a **flowchart** of speech options:
 ```text
-NPC: “You’re not from around here, are you?”
+NPC: "You’re not from around here, are you?"
 
-1) [Calm] “No, I just arrived.”      → (neutral response)
-2) [Red]  “Back off. None of your business.” → (hostile response)
-3) [Purple] “Does it matter?”        → (cryptic response)
+1) [Calm] "No, I just arrived."      → (neutral response)
+2) [Red]  "Back off. None of your business." → (hostile response)
+3) [Purple] "Does it matter?"        → (cryptic response)
 ```
 Based on what the player chooses, 
 or what hue(s) they're aligned with, the conversation shifts paths.
@@ -60,11 +60,11 @@ let the player choose, then jump to the `nextNodeId`.
 ## 🔮 Example in the game
 
 **Wisteria Enchantress:**
-> “You dream in color. But which one wakes you?”
+> "You dream in color. But which one wakes you?"
 
-1. 🌱 “Green. I trust what grows.” (Wisteria smiles gently)
-2. 🔥 “Red. I strike before I think.” (Wisteria frowns)
-3. 🌌 “Purple. I don’t wake at all.” (Wisteria leans closer)
+1. 🌱 "Green. I trust what grows." (Wisteria smiles gently)
+2. 🔥 "Red. I strike before I think." (Wisteria frowns)
+3. 🌌 "Purple. I don’t wake at all." (Wisteria leans closer)
 
 ---
 

@@ -14,7 +14,7 @@ Cinnabar Scarab – The Gleam that Lies
 Lore Entry
 
 <details><summary>See Cinnabar Scarab Lore Entry</summary>
-Lore Entry: Recovered notes from “Scarab Whispers” by Fulvous Hunter Orei> "You don’t find a scarab nest. You walk into one — thinking it’s treasure, or shade, or salvation."
+Lore Entry: Recovered notes from "Scarab Whispers" by Fulvous Hunter Orei> "You don’t find a scarab nest. You walk into one — thinking it’s treasure, or shade, or salvation."
 
 
 
@@ -90,7 +90,7 @@ Vulnerable to heat-sensing relics or wide-range pulse attacks
 Notes:
 To Luxeran jewelhunters, a single real scarab is worth a satchel of gold — if they can catch it. But many vanish chasing light that turns to laughter.
 
-> “In Luxeran, even fear learns to sparkle.”
+> "In Luxeran, even fear learns to sparkle."
 
 
 

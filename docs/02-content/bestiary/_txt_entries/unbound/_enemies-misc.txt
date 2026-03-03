@@ -4,7 +4,7 @@
 
 ## Hue Leeches
 
-> “They shimmer with borrowed light — and leave you pale.”
+> "They shimmer with borrowed light — and leave you pale."
 
 Small, floating jellyfish-like creatures made of dripping,
 semi-transparent color.
@@ -18,7 +18,7 @@ Can be popped with AoE or flashed with strong color bursts.
 
 ## Tyrian Echo
 
-> “Not a person. A memory repeating itself into violence.”
+> "Not a person. A memory repeating itself into violence."
 
 A shimmering humanoid form looped in fragmented animation.
 
@@ -30,7 +30,7 @@ Represents a replay of a warrior from the Color War, trapped in echo.
 
 3. Bloomrot Titan
 
-> “Where growth was unchecked, the root turned cruel.”
+> "Where growth was unchecked, the root turned cruel."
 
 Massive, overgrown Verdant horror — fungus and bark fused around a
 desiccated core.
@@ -43,8 +43,8 @@ Weak spot: glowing hollow in its twisted chest.
 
 4. Wickerborn
 
-> “They built guardians to watch color relics. The husks never stopped
-watching.”
+> "They built guardians to watch color relics. The husks never stopped
+watching."
 
 Constructed from woven roots, vines, and bone.
 
@@ -57,7 +57,7 @@ Can reassemble unless burned or shattered with Crimson/Earthen.
 
 5. Nullshade Revenant
 
-> “It remembers dying. It forgot why it came back.”
+> "It remembers dying. It forgot why it came back."
 
 A once-colorful figure — now blackened, only faint trails of color
 remain.
@@ -70,7 +70,7 @@ Heavy, slow attacker with aura that corrupts hue alignment on hit.
 
 6. Moth-Witch of the Verdant Spiral
 
-> “Eyes like blossoms, wings like whispers.”
+> "Eyes like blossoms, wings like whispers."
 
 A rare caster-type boss that controls swarms of Thalera moths.
 
@@ -82,7 +82,7 @@ Found in hidden glades; whispers riddles mid-fight.
 
 7. Huefractals
 
-> “Fragments of forgotten color, shattered but sentient.”
+> "Fragments of forgotten color, shattered but sentient."
 
 Living shards of the Prismatic Core.
 
@@ -94,11 +94,11 @@ Collide with each other to create random chromatic effects.
 
 8. Memory Grafter
 
-> “He does not take lives. He replaces them.”
+> "He does not take lives. He replaces them."
 
 A tall, cloaked humanoid with a scroll of names written in color-ink.
 
-Attacks using “rewrites”: steals your ability and replaces it with a
+Attacks using "rewrites": steals your ability and replaces it with a
 fake one.
 
 Leaves color illusions of the player behind — like echoes.
@@ -107,7 +107,7 @@ Leaves color illusions of the player behind — like echoes.
 
 9. Spectral Harvester
 
-> “One swing, and your history falls away.”
+> "One swing, and your history falls away."
 
 Appears during Memory Echo segments if failed.
 
@@ -121,7 +121,7 @@ relics.
 
 10. The Unhued Choir
 
-> “They sing the Prism’s dirge. Each note unmakes.”
+> "They sing the Prism’s dirge. Each note unmakes."
 
 A floating cluster of childlike Nullborns, singing in perfect harmony.
 

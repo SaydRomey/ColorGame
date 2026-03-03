@@ -1,8 +1,8 @@
 
 # 🌊 Iriseld – *The Tidespire Reach (Blue)*
 
-> “Suspended between storm and sky, Iriseld is a place where grief rides the wind 
-> and truth flickers like lightning over distant waves.”
+> "Suspended between storm and sky, Iriseld is a place where grief rides the wind 
+> and truth flickers like lightning over distant waves."
 
 A realm of floating islands, refracted storms, and illusion-bound skyglass.  
 The air carries memories, songs, and gravity distortions.  
@@ -94,27 +94,27 @@ Artisan of memory-sealing glass; creates living vials and whisperpanes.
 
 Item: Zaffre Vial — contains tears or memories; reveals what was buried.
 
-> “Let him forget me. If it will let him live.”
+> "Let him forget me. If it will let him live."
 
-> “Glass keeps what words forget.”  
-> “This vial doesn’t show you what’s hidden 
-> — it shows you what you buried.”
+> "Glass keeps what words forget."  
+> "This vial doesn’t show you what’s hidden 
+> — it shows you what you buried."
 
 ---
 
 ### 💃 Cerulean Skydancer – Spirit of the Storm Hymn
 Messenger of wind spirits; dances in midair to communicate with the storm.
 
-- Found in “The Skyglass Hymn” scene.
-- Ethereal, floating figure who teaches the player to “move with the wind” rather than fight it.
+- Found in "The Skyglass Hymn" scene.
+- Ethereal, floating figure who teaches the player to "move with the wind" rather than fight it.
 - Delivers cryptic wisdom about letting go vs. clinging to control.
 - Possibly connected to Iriseld’s wind-memory mechanics or the Zaffre Glasswright.
 
 Item: Cerulean Cloak — grants lightning immunity and grace in freefall.
 
-> “Your feet cling to stone. That is why you fall.”
+> "Your feet cling to stone. That is why you fall."
 
-> “Flight is a promise — not to fall, but to keep dancing.”
+> "Flight is a promise — not to fall, but to keep dancing."
 
 ---
 
@@ -123,7 +123,7 @@ Avian shapeshifter and guardian of the high cliffs; feathers carry forgotten win
 
 Item: Glaucous Feather — grants silent hover or bird-communication.
 
-> “Storms nest in my ribs. I just let them breathe.”
+> "Storms nest in my ribs. I just let them breathe."
 
 ---
 
@@ -132,7 +132,7 @@ Painter of illusions, soul-fragments, and impossible skies.
 
 Item: Payne’s Brush — illusions persist until someone stops believing.
 
-> “What you see isn’t false — it’s just unfinished.”
+> "What you see isn’t false — it’s just unfinished."
 
 ---
 
@@ -141,6 +141,6 @@ Blind seer who gazes inward to understand truth. Dwells at the edge of visibilit
 
 Item: Eigengrau Prism — reveals subconscious fears or desires.
 
-> “Fear isn’t a wall. It’s a mirror with dust on it.”
+> "Fear isn’t a wall. It’s a mirror with dust on it."
 
 ---

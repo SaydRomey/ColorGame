@@ -9,7 +9,7 @@ A skittering, crystalline arthropod with glinting mandibles and eyes like broken
 Lore Entry
 
 See Memory Leech Lore Entry
-Lore Entry: Fragment from “Nullborne Ecology,” etched in fading ink by a Bistre Archivist.
+Lore Entry: Fragment from "Nullborne Ecology," etched in fading ink by a Bistre Archivist.
 "They were first seen crawling from Shatterglass Pools — drawn to forgotten words and interrupted thoughts."
 
 "One latched onto me during a glyph alignment. For hours, I couldn’t recall what fire was. Only when I held my child’s drawing did the memory return."
@@ -48,11 +48,11 @@ Can be knocked off by triggering a memory echo (e.g., stepping into a past scene
 
 Known Weaknesses:
 
-Repelled by memory artifacts (like the “Tethered Locket” or “Truth Echo Scroll”).
+Repelled by memory artifacts (like the "Tethered Locket" or "Truth Echo Scroll").
 
 Fire-based AoE flushes them from stealth; they avoid direct sunlight or radiant zones.
 
-Vulnerable when “full” — after stealing too many prompts, they slow down visibly.
+Vulnerable when "full" — after stealing too many prompts, they slow down visibly.
 
 Notes:
 
@@ -60,6 +60,6 @@ Rarely appear in groups, but the damage they do accumulates psychologically.
 
 Defeating them restores lost prompts gradually — some may only return after interacting with a remembered NPC or shrine.
 
-Nullshade survivors say, “If you hear yourself forget… run.”
+Nullshade survivors say, "If you hear yourself forget… run."
 
 

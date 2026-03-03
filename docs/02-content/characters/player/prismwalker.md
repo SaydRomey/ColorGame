@@ -7,7 +7,7 @@
 
 ## 🧬 Core Concept
 
-> “Born without color. Bound to none. Shaped by every hue.”
+> "Born without color. Bound to none. Shaped by every hue."
 
 The Prismwalker is a colorless vessel, awakened in the ruins of Nullshade. 
 They are not entirely human, nor entirely divine 

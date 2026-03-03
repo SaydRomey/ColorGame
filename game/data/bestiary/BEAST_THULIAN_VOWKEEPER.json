@@ -7,8 +7,8 @@
     "first_emerged": "After the collapse of the Mirror Courts of Myrrala",
     "description": "Gleaming knight forged from Thulian crystal, with a mirror-like visor that reflects only yourself.\n\nAppears noble, almost regal, but speaks only in repeated fragments of your past dialogue.\n\nIts blade shines with words unkept.",
     "hue_interaction": "Empowered if the player has broken multiple dialogue-based choices or rejected questlines.\n\nPacified (briefly) by honest recollection via Violet’s Illusion Clone or Cobalt’s Mind Echo.\n\nImmune to illusion-based misdirection — its blade slices through falsehood.",
-    "behavior": "Begins combat by reciting a promise or dialogue the player once made — “You said you’d protect them.”\n\nUses Truth Slash, which reflects prior movement patterns in a delayed echo.\n\nCounters healing spells with Oathburn: turns healing into minor damage if the player fled a vow-bound fight.",
-    "weaknesses": "Vulnerable only during its “judgment pause” — when it hesitates after speaking a truth.\n\nCan be confused by paradoxes: use opposing truth/lie dialogue back-to-back.\n\nSeverely weakened if shown a Thulian Mirror containing its own origin reflection.",
+    "behavior": "Begins combat by reciting a promise or dialogue the player once made — "You said you’d protect them."\n\nUses Truth Slash, which reflects prior movement patterns in a delayed echo.\n\nCounters healing spells with Oathburn: turns healing into minor damage if the player fled a vow-bound fight.",
+    "weaknesses": "Vulnerable only during its "judgment pause" — when it hesitates after speaking a truth.\n\nCan be confused by paradoxes: use opposing truth/lie dialogue back-to-back.\n\nSeverely weakened if shown a Thulian Mirror containing its own origin reflection.",
     "notes": "Some players report that defeating a Vowkeeper triggers an echo elsewhere — as if another has been freed from a guilt they didn’t know they carried."
   },
   "lore": {
@@ -20,10 +20,11 @@
     "field_notes": [
       "\"The Vowkeepers were once truth-bound protectors of the Mirror Courts — warriors who could not lie, and who punished those who did.\"",
       "\"They appear where lies fester or where promises die — even small ones. Especially small ones.\"",
-      "\"If you told someone you'd return and didn’t… if you said “I’ll protect you,” and failed… it remembers.\"",
+      "\"If you told someone you'd return and didn’t… if you said "I’ll protect you,
+      " and failed… it remembers.\"",
       "\"And it will finish the sentence with a blade.\""
     ],
-    "source": "Thulian Emissary, “On the Nature of Promised Things”"
+    "source": "Thulian Emissary, "On the Nature of Promised Things""
   },
   "drops": []
 }

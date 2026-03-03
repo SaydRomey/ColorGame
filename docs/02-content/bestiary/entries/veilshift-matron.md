@@ -19,7 +19,7 @@ Lore Entry
 
 <details><summary>See Veilshift Matron Lore Entry</summary>Lore Entry: From the Gardenstone Tablet, Bloomfold Spiral
 
-> “She was once a gardener. Then she began pruning time.”
+> "She was once a gardener. Then she began pruning time."
 
 
 
@@ -40,7 +40,7 @@ The Matron remained — but the paths began to obey her fears instead of her wis
 
 
 
-> — Liseran Caretaker, “Elegy for the Wayward”
+> — Liseran Caretaker, "Elegy for the Wayward"
 
 
 
@@ -64,7 +64,7 @@ Her illusion magic is emotion-driven, tied to grief, protection, and forgotten n
 
 Hue Interaction:
 
-Weak to Cobalt’s Mind Echo during moments of doubt — reveals the “true map” for a short time.
+Weak to Cobalt’s Mind Echo during moments of doubt — reveals the "true map" for a short time.
 
 Violet-bound players can attempt to mimic her shifts to counter terrain changes.
 
@@ -77,7 +77,7 @@ Teleports during dodges, shifting arena tiles with her.
 
 Can swap positions of the player and their illusion, if one exists.
 
-Mid-fight phase change: she calls out a false name — if the player responds incorrectly, the arena “blooms,” scattering into 6 mirrored fragments.
+Mid-fight phase change: she calls out a false name — if the player responds incorrectly, the arena "blooms," scattering into 6 mirrored fragments.
 
 
 Known Weaknesses:

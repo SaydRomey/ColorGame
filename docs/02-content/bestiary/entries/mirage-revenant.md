@@ -15,7 +15,7 @@ Often found near ruins, vaults, or mirage oases, the Mirage Revenant is a remnan
 Lore Entry
 
 <details><summary>See Mirage Revenant Lore Entry</summary>
-Lore Entry: Transcript from “The Gambler’s Mirage,” an oral tale passed in Eburnea markets> "It looked like my brother. I hadn’t seen him since the siege. He waved me over — smiled with that chipped tooth he had."
+Lore Entry: Transcript from "The Gambler’s Mirage," an oral tale passed in Eburnea markets> "It looked like my brother. I hadn’t seen him since the siege. He waved me over — smiled with that chipped tooth he had."
 
 
 

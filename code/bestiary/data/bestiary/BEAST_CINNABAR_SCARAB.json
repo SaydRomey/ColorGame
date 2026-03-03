@@ -9,7 +9,7 @@
     "hue_interaction": "Reacts erratically to Aurelian light pulses\n\nSusceptible to Cobalt-based tracking spells (Mind Echo reveals the original’s thought pattern)\n\nConfused by Verdant growth spells that disrupt its mirrored movement path",
     "behavior": "Travels in loose clusters; nests near ruins, shade-stones, and citrus groves\n\nUpon threat, splits into visual duplicates with randomized patterns\n\nDuplicates fade if player stands completely still for several seconds",
     "weaknesses": "Easily scattered by sound-based effects (drums, chants, Razzmatazz Drum)\n\nDisrupted by illusion counters, especially from Violet-bound illusions\n\nVulnerable to heat-sensing relics or wide-range pulse attacks",
-    "notes": "To Luxeran jewelhunters, a single real scarab is worth a satchel of gold — if they can catch it. But many vanish chasing light that turns to laughter.\n\n“In Luxeran, even fear learns to sparkle.”"
+    "notes": "To Luxeran jewelhunters, a single real scarab is worth a satchel of gold — if they can catch it. But many vanish chasing light that turns to laughter.\n\n"In Luxeran, even fear learns to sparkle.""
   },
   "lore": {
     "title": "The Gleam that Lies",
@@ -19,15 +19,15 @@
       "When threatened, it does what all bright things in Luxeran do: it multiplies... or pretends to."
     ],
     "field_notes": [
-      "“You don’t find a scarab nest. You walk into one — thinking it’s treasure, or shade, or salvation.”",
+      ""You don’t find a scarab nest. You walk into one — thinking it’s treasure, or shade, or salvation."",
       "",
-      "“I cracked one with my heel once. It screamed. I did too. Because then there were ten. Then twenty. All of them fake. All of them not quite wrong.”",
+      ""I cracked one with my heel once. It screamed. I did too. Because then there were ten. Then twenty. All of them fake. All of them not quite wrong."",
       "",
-      "“Only the real one bleeds dust. The rest... flicker. They don’t stop moving unless you sing.”",
+      ""Only the real one bleeds dust. The rest... flicker. They don’t stop moving unless you sing."",
       "",
-      "“I don’t hunt them anymore. I just let them follow me. And hope the fake ones scare off worse things.”"
+      ""I don’t hunt them anymore. I just let them follow me. And hope the fake ones scare off worse things.""
     ],
-    "source": "Recovered notes from “Scarab Whispers” by Fulvous Hunter Orei"
+    "source": "Recovered notes from "Scarab Whispers" by Fulvous Hunter Orei"
   },
   "drops": []
 }

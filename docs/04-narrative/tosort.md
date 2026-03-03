@@ -5,7 +5,7 @@
 - **Gameplay Start:** 
   This could be the tutorial phase before Huebinding unlocks. 
   The Prismwalker hasn’t bound any colors yet 
-  — they are truly “born without color.”
+  — they are truly "born without color."
 - **Dialogue Tone:** 
   Almost silent or minimal. 
   NPCs may be afraid, dismissive, or curious — unsure what this figure is.

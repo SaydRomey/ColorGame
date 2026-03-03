@@ -19,7 +19,7 @@ Lore Entry
 
 <details><summary>See Lava-Fused Behemoth Lore Entry</summary>Lore Entry: Chiseled into a broken obsidian tablet near the Furnace Maw
 
-> “We did not create it. We unburied it.”
+> "We did not create it. We unburied it."
 
 
 

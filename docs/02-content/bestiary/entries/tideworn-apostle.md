@@ -47,7 +47,7 @@ Lore Entry
 
 
 
-> — Archive Note, marked “Untranslatable, but afraid.”
+> — Archive Note, marked "Untranslatable, but afraid."
 
 
 
@@ -103,7 +103,7 @@ Particularly vulnerable when caught between contradictory Hue pulses (e.g., Crim
 
 Notes:
 
-Legends say she once held the “Codex of the Last Drown,” a book that only writes in storms.
+Legends say she once held the "Codex of the Last Drown," a book that only writes in storms.
 
 Zaffran sailors believe if you dream of her, you’ve already forgotten something you swore never to.
 

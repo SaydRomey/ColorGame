@@ -13,7 +13,7 @@ a visual indicator of the currently bound hues.
 
 ## Single Hue Bound
 - The shard glows in one solid color.
-- Faint pixel “veins” radiate from the shard’s cracks in that hue.
+- Faint pixel "veins" radiate from the shard’s cracks in that hue.
 - Example:
   - Red → ember flickers inside the crystal.
   - Green → moss-like glow, tiny motes drifting.
@@ -30,7 +30,7 @@ a visual indicator of the currently bound hues.
 
 ## Three Hues Bound
 - The shard glows with a triangular prismatic fracture pattern, each section representing a hue.
-- When charges are spent, the active hue pulses outward brighter in its “slice.”
+- When charges are spent, the active hue pulses outward brighter in its "slice."
 - Between casts, a faint prismatic shimmer runs across the crystal surface.
 
 ---

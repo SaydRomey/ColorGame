@@ -13,7 +13,7 @@ Ambercoil Asp – The Glinting Deceiver
 Lore Entry
 
 <details><summary>See Ambercoil Asp Lore Entry</summary>
-Lore Entry: Excerpt from “The False Wealth of Luxeran,” by Archivist Mosa Quire> "They say the Asp doesn't hunt. It waits. And what it guards isn't treasure — it's attention."
+Lore Entry: Excerpt from "The False Wealth of Luxeran," by Archivist Mosa Quire> "They say the Asp doesn't hunt. It waits. And what it guards isn't treasure — it's attention."
 
 
 
@@ -91,7 +91,7 @@ Shatters when struck by its own reflected light (e.g., mirrored relic bounceback
 Notes:
 Some Citrine Artisans believe Ambercoil Asps were bred or enchanted long ago to guard treasures too powerful for vaults — letting beauty itself become the bait. One old Luxeran proverb warns:
 
-> “If it gleams in silence, bow. If it gleams and hisses, run.”
+> "If it gleams in silence, bow. If it gleams and hisses, run."
 
 
 

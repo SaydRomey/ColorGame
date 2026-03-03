@@ -13,15 +13,15 @@
 
 🧠 Lore Entry
 
-<details><summary>See Moth-Witch Lore Entry</summary>Extract from “Dreambloom Recordings, Entry 17” – Archivist Sellen Orvine
+<details><summary>See Moth-Witch Lore Entry</summary>Extract from "Dreambloom Recordings, Entry 17" – Archivist Sellen Orvine
 
-> “She speaks in riddles while you bleed. She hums while your reflection loses its face. But she’s not cruel. She simply doesn’t understand what truth is anymore.”
+> "She speaks in riddles while you bleed. She hums while your reflection loses its face. But she’s not cruel. She simply doesn’t understand what truth is anymore."
 
-“The Verdant Spiral wasn’t a place. It was a question that grew out of control. Moss crept into logic. Petals wrapped around doubt. And at the center — her.”
+"The Verdant Spiral wasn’t a place. It was a question that grew out of control. Moss crept into logic. Petals wrapped around doubt. And at the center — her."
 
-“I saw a thousand moths, all with my face. Then none with eyes. Then only her, smiling as my voice said her name backwards.”
+"I saw a thousand moths, all with my face. Then none with eyes. Then only her, smiling as my voice said her name backwards."
 
-“If you find her, do not speak. Let her wings speak first. That is the test.”
+"If you find her, do not speak. Let her wings speak first. That is the test."
 
 
 
@@ -53,7 +53,7 @@ Alternates between Verdant (Green) and Cobalt (Blue) alignment in phase rhythm.
 
 Her moths carry hue echoes: when struck, they trigger illusion sequences from the player’s past.
 
-She is vulnerable only during “dewing” phase — when her wings pulse and the air becomes thick with spores.
+She is vulnerable only during "dewing" phase — when her wings pulse and the air becomes thick with spores.
 
 
 
@@ -99,11 +99,11 @@ Notes:
 
 Her death does not yield treasure — it yields a question:
 
-“Was she ever real… or was she your future, grown in the wrong direction?”
+"Was she ever real… or was she your future, grown in the wrong direction?"
 
 Optional encounter. Found only by following a non-map-marked moth trail in the Verdant region during dusk cycle.
 
-Defeating her unlocks the “Thalera Bloom” — a memory sigil that lets the player resist fear-induced status effects and decode flora-based glyphs.
+Defeating her unlocks the "Thalera Bloom" — a memory sigil that lets the player resist fear-induced status effects and decode flora-based glyphs.
 
 
 

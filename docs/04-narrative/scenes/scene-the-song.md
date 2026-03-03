@@ -5,10 +5,10 @@
 
 </div>
 
-# IN-GAME SCENE: “The Song That Grew Thorns”
+# IN-GAME SCENE: "The Song That Grew Thorns"
 Blends the lush mysticism of the Verdant Frontier with subtle puzzle and narrative beats.
 
-Scene Name: “The Song That Grew Thorns”  
+Scene Name: "The Song That Grew Thorns"  
 Location: Malachite Grove, Huevale (Verdant Order Territory)  
 Visual Style:
   - Painterly pixel art in soft green tones and golden haze.
@@ -19,7 +19,7 @@ Player Status: Bound to Verdant (Green) and Earthen (Brown); optional Violet (Pu
 
 ---
 
-Scene Name: “The Song That Grew Thorns”  
+Scene Name: "The Song That Grew Thorns"  
 Location:	Malachite Grove, overgrown amphitheater ruins
 Visual Style:
   - Fern-choked ruins glowing with mosslight.
@@ -44,8 +44,8 @@ A massive vine-wrapped harp rises in the background, broken strings reaching int
 ---
 
 ## 🎙️ Narration (Voice-over)
-> “The trees remember the song.  
-> But something in it soured… and now it chokes the grove.”
+> "The trees remember the song.  
+> But something in it soured… and now it chokes the grove."
 
 ---
 
@@ -69,13 +69,13 @@ repair the grove’s music by realigning three Harmonic Roots
 
 ## 🎮 Puzzle Sequence – Harmonic Root Alignments
 
-Three vine-covered instruments must be “played” via Color-Attuned Actions:
+Three vine-covered instruments must be "played" via Color-Attuned Actions:
 - 1. 🟩 Verdant: Use Thorn Trail to cut open a vine tangle and regrow a leafy lute.
 - 2. 🪨 Earthen: Apply Echo Weight on a drumstone to harmonize its bass pulse.
 - 3. 🟪 Violet (if available): Cast Dream-Warp to reassemble a spectral violin across dimensions.
 
 ### Puzzle Prompt:
-> “Three played hearts. One broken note.”
+> "Three played hearts. One broken note."
 
 When all are restored, the massive harp behind the grove begins to hum with soft harmonic light.
 
@@ -106,7 +106,7 @@ Defeating the Echoform triggers a memory buried in the harp’s base:
 The scene flashes briefly: 
 a peaceful moment between two figures exchanging a glowing green note under moonlight.
 
-Unlocks: **Hue Archive Entry: “The Lullaby of Tinctara”**
+Unlocks: **Hue Archive Entry: "The Lullaby of Tinctara"**
 
 ---
 
@@ -116,9 +116,9 @@ The harp parts its strings like curtains,
 revealing a narrow passage bound in flowering vines.
 
 If the player has completed all color alignments:  
-> “The song forgives. The grove listens once more.”
+> "The song forgives. The grove listens once more."
 
 If not:  
-> “Return when your heart remembers how to bloom.”
+> "Return when your heart remembers how to bloom."
 
 ---

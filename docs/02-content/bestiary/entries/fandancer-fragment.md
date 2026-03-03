@@ -19,7 +19,7 @@ Lore Entry
 
 <details><summary>See Fandancer Fragment Lore Entry</summary>Lore Entry: From the Carved Masks of the Passion Stage
 
-> “When the crowd stopped clapping, she danced louder.”
+> "When the crowd stopped clapping, she danced louder."
 
 
 
@@ -66,7 +66,7 @@ Neutral to most damage unless the player matches or disrupts her rhythm.
 
 Cobalt’s Mind Echo can copy her next move for perfect parry timing.
 
-Violet’s Illusion Clone lets the player “dance with her” safely from a distance.
+Violet’s Illusion Clone lets the player "dance with her" safely from a distance.
 
 
 Behavior:
@@ -75,7 +75,7 @@ Leaves glowing footstep markers that emit afterimages if followed in rhythm.
 
 Can lock the player in a duet, forcing movement input to match her tempo or suffer damage.
 
-Mid-fight, she may “bow” and reset her combo — this is your chance to break her rhythm with a disruptive hue.
+Mid-fight, she may "bow" and reset her combo — this is your chance to break her rhythm with a disruptive hue.
 
 
 Known Weaknesses:
@@ -84,7 +84,7 @@ Her illusion falters if the Rhythm Loop is broken (step out of her range mid-pat
 
 Vulnerable to sudden tempo shifts — Aurelian Radiant Echo or Mauveine Flask can destabilize her choreography.
 
-Mask shatters briefly when hit during her “bow” animation — that’s her true face.
+Mask shatters briefly when hit during her "bow" animation — that’s her true face.
 
 
 Notes:

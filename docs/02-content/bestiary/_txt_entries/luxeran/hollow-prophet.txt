@@ -35,9 +35,9 @@ Behavior:
 
 Patrols ancient ruins and former shrines
 
-Initiates combat with a “Sermon Pulse” — a flash-rune that inverts movement controls and destabilizes the HUD
+Initiates combat with a "Sermon Pulse" — a flash-rune that inverts movement controls and destabilizes the HUD
 
-Casts “Truthbrands” — radiant glyphs that bind targets who have lied in previous dialogue paths
+Casts "Truthbrands" — radiant glyphs that bind targets who have lied in previous dialogue paths
 
 Immune to most light-based attacks; feeds on them to cast stronger judgment spells
 
@@ -51,4 +51,4 @@ Will not attack characters who carry unbroken vows or truth-touched relics
 
 Notes: Some believe Hollow Prophets cannot lie. Others think they burned their own lies away — and now hunt yours.
 
-“They do not seek followers. Only confessions.”
+"They do not seek followers. Only confessions."

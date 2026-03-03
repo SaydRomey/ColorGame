@@ -5,9 +5,9 @@
 
 </div>
 
-# IN-GAME SCENE: “Whispers Beneath the Greenwood”
+# IN-GAME SCENE: "Whispers Beneath the Greenwood"
 
-**Scene Name**: “Whispers Beneath the Greenwood”  
+**Scene Name**: "Whispers Beneath the Greenwood"  
 **Location**: *Emerald Hollow, Verdant Order territory*  
 **Visual Style**: 
   - Pixel art with painterly flourishes - deep forest greens with streaks of glowing viridian.
@@ -33,8 +33,8 @@ In the distance, a ruined shrine pulses with fading green light.
 ---
 
 ## 🎙️ Narration (Internal Monologue / Voice-over)
-> “Greenwood does not speak in words.  
-> It breathes, it remembers. And it knows I am not its child.”
+> "Greenwood does not speak in words.  
+> It breathes, it remembers. And it knows I am not its child."
 
 ---
 
@@ -47,15 +47,15 @@ In the distance, a ruined shrine pulses with fading green light.
 </div>
 
 ### Thalera:
-> “Your feet are bare. Your breath uncolored.  
-> You do not belong, Prismwalker.”  
+> "Your feet are bare. Your breath uncolored.  
+> You do not belong, Prismwalker."  
 >  
-> “Yet… you carry the Root’s grief in your steps.”
+> "Yet… you carry the Root’s grief in your steps."
 
 ### Dialogue Options (Color-Gated):
-- 🟩 **[Verdant-Bound]** “The Grove weeps. I’ve come to listen.”
-- 🟦 **[Cobalt-Bound]** “Memory stirs here. Show me what was forgotten.”
-- 🪨 **[Earthen-Bound]** “Decay is truth. Let me touch what remains.”
+- 🟩 **[Verdant-Bound]** "The Grove weeps. I’ve come to listen."
+- 🟦 **[Cobalt-Bound]** "Memory stirs here. Show me what was forgotten."
+- 🪨 **[Earthen-Bound]** "Decay is truth. Let me touch what remains."
 
 ---
 
@@ -65,7 +65,7 @@ Thalera vanishes, revealing three moss-covered obelisks.
 Each is dormant until touched with the right hue.  
 
 ### Puzzle Prompt:
-> “Only one who speaks with root, rain, and rot may pass.”
+> "Only one who speaks with root, rain, and rot may pass."
 
 - 🟩 Use **Verdant’s Vine Grasp** to awaken the left obelisk (growth).
 - 🟦 Use **Cobalt’s Mind Echo** to resonate the middle one (spirit).
@@ -98,10 +98,10 @@ The creatures **distort your hue UI**, forcing quick **Chromatic Shifts** to ada
 After the battle, you step into a glade where the air shimmers.  
 Activating a stone with **Earthen Bound** plays a fragmented memory:  
 > *A young Verdant sage pleading with a Tyrian emissary...*  
-> “If you twist color to rule, you will unmake the world.”  
-> The emissary smiles: “That’s the idea.”
+> "If you twist color to rule, you will unmake the world."  
+> The emissary smiles: "That’s the idea."
 
-Unlocks: **Hue Archive Entry: “The Tyrian Accord Betrayal”**
+Unlocks: **Hue Archive Entry: "The Tyrian Accord Betrayal"**
 
 ---
 
@@ -111,6 +111,6 @@ Only opens once the **player soul is tinted green enough** -
 measured by absorbed fragments, dialogue choices, and combat outcomes.  
 
 If not green enough:  
-> *“The forest sees through lies. Come back when you’ve bled chlorophyll.”*
+> *"The forest sees through lies. Come back when you’ve bled chlorophyll."*
 
 ---

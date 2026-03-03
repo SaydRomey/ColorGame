@@ -25,7 +25,7 @@ Lore Entry
 <details><summary>See Lava-Fused Behemoth Lore Entry</summary>Lore
 Entry: Chiseled into a broken obsidian tablet near the Furnace Maw
 
-> “We did not create it. We unburied it.”
+> "We did not create it. We unburied it."
 
 > "They say the Lava-Fused was born from beneath — a beast the size of a
 siege tower, resting in magma until rage woke it. Not a dragon, not a

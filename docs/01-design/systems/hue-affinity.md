@@ -38,10 +38,10 @@ Players earn Hue-Affinity XP in each color through:
 ## Dialogue & Scene Gates
 
 Certain choices or ending scenes only appear if your Hue is at a given Tier:
-  - **Initiate**: basic “flavor” lines—NPCs greet you in that color.
+  - **Initiate**: basic "flavor" lines—NPCs greet you in that color.
   - **Adept**: persuasion/bribe options, hue-specific lore reveals.
   - **Expert**: secret quest triggers, hidden NPC confidences.
-  - **EXPERT**: alternate endings or epilogues unlocked (e.g. you “speak the true name” at the final Prism pool).
+  - **EXPERT**: alternate endings or epilogues unlocked (e.g. you "speak the true name" at the final Prism pool).
 
 ---
 
@@ -58,7 +58,7 @@ Every Hue-linked item carries a **Required Tier** and a **Bonus Tier**:
 
 - **Combo Bonus**: quickly switch A→B for small burst effects.
 - **Counter-Cast**: hitting an enemy’s weakness Hue stuns or deals bonus.
-- **Conflict**: using the Hue an enemy “feeds on” can actually buff them.
+- **Conflict**: using the Hue an enemy "feeds on" can actually buff them.
 
 ---
 

@@ -13,23 +13,23 @@ Phylactery Swarm – The Names That Never Rest
 Lore Entry
 
 <details><summary>See Phylactery Swarm Lore Entry</summary>
-Lore Entry: Fragmented field report from the Bistre Archivist, sealed in ash> “At first, I thought them ash-fleas. Harmless, if persistent. But the swarm began to sing — in names. Names I had forgotten.”
+Lore Entry: Fragmented field report from the Bistre Archivist, sealed in ash> "At first, I thought them ash-fleas. Harmless, if persistent. But the swarm began to sing — in names. Names I had forgotten."
 
 
 
-> “They circle. They whisper. And if one touches skin, a piece of memory loosens.”
+> "They circle. They whisper. And if one touches skin, a piece of memory loosens."
 
 
 
-> “Caput Mortuum warned us: failed phylacteries don’t just break — they scatter. A name is a soul’s handle. These insects collect… and misuse.”
+> "Caput Mortuum warned us: failed phylacteries don’t just break — they scatter. A name is a soul’s handle. These insects collect… and misuse."
 
 
 
-> “I burned the scrolls. I prayed over the ink. Still, they murmured the names I never told anyone.”
+> "I burned the scrolls. I prayed over the ink. Still, they murmured the names I never told anyone."
 
 
 
-> “If you’ve forgotten your own voice, they’ll help. But it will cost you.”
+> "If you’ve forgotten your own voice, they’ll help. But it will cost you."
 
 
 
@@ -50,7 +50,7 @@ Hue Interaction:
 
 Brown-bound memory spells repel or redirect their feeding pattern.
 
-Violet illusions confuse their targeting (they can’t find the “real” name).
+Violet illusions confuse their targeting (they can’t find the "real" name).
 
 Blue mind-based defenses lock out name resonance, reducing damage over time.
 
@@ -61,7 +61,7 @@ Aggressive in clusters; each hit reduces XP, disrupts equipped memory-bound reli
 
 They prioritize targets with the most stored names, such as players with saved dialogue trees, memory fragments, or death-echoes.
 
-If fed a “forgotten name” (e.g. an unused True Name), the swarm dissipates peacefully.
+If fed a "forgotten name" (e.g. an unused True Name), the swarm dissipates peacefully.
 
 
 Known Weaknesses:
@@ -74,7 +74,7 @@ Bistre Lantern stuns them in shadow if activated in silence.
 
 
 Notes:
-Destroying a swarm sometimes releases “Whispers in Dust,” a rare crafting essence used for soul-bound relic upgrades. But if you kill them while carrying a forgotten name, your own may become unstable in the Codex.
+Destroying a swarm sometimes releases "Whispers in Dust," a rare crafting essence used for soul-bound relic upgrades. But if you kill them while carrying a forgotten name, your own may become unstable in the Codex.
 
 
 ---

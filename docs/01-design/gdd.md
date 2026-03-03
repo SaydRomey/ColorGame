@@ -29,8 +29,8 @@ A single, tidy pass that unifies terminology, resolves contradictions, and adds 
 
 **\[Unified] Resource Names**
 
-* **Color Charge (CC)** — the shared, spendable energy used by all bound hue actives (**formerly** “Hue Bar” / “memory charges”).
-* **Memory Stability (MS)** — a status that represents the Prismwalker’s intact self/UI. Certain enemies drain CC; if they push you to **CC ≤ 0**, they begin corrupting **MS**, causing UI lockouts and “echo glitches” until repaired.
+* **Color Charge (CC)** — the shared, spendable energy used by all bound hue actives (**formerly** "Hue Bar" / "memory charges").
+* **Memory Stability (MS)** — a status that represents the Prismwalker’s intact self/UI. Certain enemies drain CC; if they push you to **CC ≤ 0**, they begin corrupting **MS**, causing UI lockouts and "echo glitches" until repaired.
 
 **\[Unified] Affinity Tiers**
 
@@ -46,7 +46,7 @@ A single, tidy pass that unifies terminology, resolves contradictions, and adds 
 
 * Discover **Hue Shards** to unlock a hue permanently.
 * Bind up to **3** hues at any time; switching in combat is allowed but incurs a **Global Swap Cooldown** (GSC) of **0.75s** (tunable).
-* Bound hues expose **passives** (always on) and **actives** (CC-costed skills). A small, on-hit **“microcharge”** trickle (0.5 CC/sec) occurs out of combat.
+* Bound hues expose **passives** (always on) and **actives** (CC-costed skills). A small, on-hit **"microcharge"** trickle (0.5 CC/sec) occurs out of combat.
 
 ### 2.2 Color Charge (CC) & Memory Stability (MS)
 
@@ -58,10 +58,10 @@ A single, tidy pass that unifies terminology, resolves contradictions, and adds 
 
   * Randomly hidden HUD elements (e.g., hue icons gray out)
   * Input inversion on a small per-action chance
-  * “Echo latch” debuff that requires a **Memory Echo** interaction to clear
+  * "Echo latch" debuff that requires a **Memory Echo** interaction to clear
 * **Repair MS** via: Memory Shrines, Echo puzzles, or certain relics (Caput Mortuum, Bistre Lantern).
 
-> This merges your earlier “memory charges” and “Hue Bar” into a clear two-layer model: **CC** (for casting) atop **MS** (self/integrity).
+> This merges your earlier "memory charges" and "Hue Bar" into a clear two-layer model: **CC** (for casting) atop **MS** (self/integrity).
 
 ### 2.3 Affinity (Per-Hue Progression)
 
@@ -83,7 +83,7 @@ A single, tidy pass that unifies terminology, resolves contradictions, and adds 
 
 **\[Refined]**
 
-* “Echo Segments” spawn near lore sites and after MS corruption.
+* "Echo Segments" spawn near lore sites and after MS corruption.
 * Solve micro-puzzles (reorder lines, truth-choice, rhythm recall) to **restore MS**, purge latches, and sometimes grant a **CC overshield** (+25 temporary CC).
 
 ---
@@ -359,7 +359,7 @@ bool HueAffinity::load(std::istream& in) {
 
 1. Keep **GSC 0.75s** or let specific relics shorten hue swap time?
 2. Do we want **Aurelian** to tilt more into **truth-binding** (dialogue oaths) vs. raw light?
-3. Should **Nullshade** have unique “anti-hue” mechanics that *invert* combos?
+3. Should **Nullshade** have unique "anti-hue" mechanics that *invert* combos?
 4. Are **tier thresholds** too large for early game? (Consider 0/500/2500/10000 for faster ramp.)
 5. HUD: show **MS** as a subtle rim around the shard, or only surface when corrupted?
 

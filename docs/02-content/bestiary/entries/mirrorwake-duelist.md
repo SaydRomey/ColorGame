@@ -98,7 +98,7 @@ Mirrorwake loses coordination if the player breaks all local reflections (e.g., 
 
 Combat simplified during storm-induced fog, which dulls mirrored clarity.
 
-Temporarily stunned by Payne’s Brush illusions (overwhelms her sense of “who is real”).
+Temporarily stunned by Payne’s Brush illusions (overwhelms her sense of "who is real").
 
 
 Notes:

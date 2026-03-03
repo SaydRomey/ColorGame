@@ -42,56 +42,56 @@ They are written to feel ancient and ambiguous — usable in quests, dialogue, o
 
 ### 🟢 Greens — Growth, Decay, Nature
 
-> “When roots twist to strangle and vines whisper secrets, the forest prepares to choose a master.”  
-> “Beware the bloom that grows in stone — it remembers blood more than water.”  
-> “The last tree shall not fall, but walk.”
+> "When roots twist to strangle and vines whisper secrets, the forest prepares to choose a master."  
+> "Beware the bloom that grows in stone — it remembers blood more than water."  
+> "The last tree shall not fall, but walk."
 
 ---
 
 ### 🔴 Reds — Passion, War, Fury
 
-> “When red bleeds through the sky, the ancestors rise with no names.”  
-> “He who wears fire on his tongue shall burn both friend and foe.”  
-> “A banner soaked too long becomes a noose.”
+> "When red bleeds through the sky, the ancestors rise with no names."  
+> "He who wears fire on his tongue shall burn both friend and foe."  
+> "A banner soaked too long becomes a noose."
 
 ---
 
 ### 🔵 Blues — Wisdom, Storms, Sorrow
 
-> “When the sea turns its back to the sky, a voice will rise from the glass.”  
-> “Storms do not forget the lies of kings.”  
-> “Only silence can drown what the waves remember.”
+> "When the sea turns its back to the sky, a voice will rise from the glass."  
+> "Storms do not forget the lies of kings."  
+> "Only silence can drown what the waves remember."
 
 ---
 
 ### 🟣 Purples — Magic, Dreams, Fate
 
-> “The mirror knows your face — even if you forget.”  
-> “Beware those who dream in bloom; they wake with thorns.”  
-> “One will come who speaks every truth and belongs to none.”
+> "The mirror knows your face — even if you forget."  
+> "Beware those who dream in bloom; they wake with thorns."  
+> "One will come who speaks every truth and belongs to none."
 
 ---
 
 ### 🟡 Yellows & Oranges — Sunlight, Trickery, Vitality
 
-> “Gold is the color of joy… until the last coin is spent.”  
-> “When the sun weeps amber, even the blind must wear masks.”  
-> “One laugh too loud may wake the desert.”
+> "Gold is the color of joy… until the last coin is spent."  
+> "When the sun weeps amber, even the blind must wear masks."  
+> "One laugh too loud may wake the desert."
 
 ---
 
 ### 🤎 Browns & Neutrals — Memory, Alchemy, Death
 
-> “Ash does not rot. It waits.”  
-> “The color of forgotten things returns in dust and bone.”  
-> “A soul bound in ochre is never fully free.”
+> "Ash does not rot. It waits."  
+> "The color of forgotten things returns in dust and bone."  
+> "A soul bound in ochre is never fully free."
 
 ---
 
 ### ⚫ Nullshade — The Colorless Core
 
-> “No hue, no truth, no shape. It comes to erase.”  
-> “The first color was silence.”  
+> "No hue, no truth, no shape. It comes to erase."  
+> "The first color was silence."  
 
 These can be scattered throughout the **Nullshade zone**:  
 - **Crystal Monoliths** show fragmented quotations of the Prismara.  
@@ -100,10 +100,10 @@ These can be scattered throughout the **Nullshade zone**:
 - **Voidlings**, if they communicate at all, do so in fractured syllables or thoughts like cracked mirrors.
 
 **Etchings in Broken Crystal**  
-> “To fracture the Prism is to unravel time.”  
-> “The Core did not fall. It was fled from.”  
-> “Six truths were carved — the seventh was silence.”  
-> “We hoarded hue like breath… until the world suffocated.”  
+> "To fracture the Prism is to unravel time."  
+> "The Core did not fall. It was fled from."  
+> "Six truths were carved — the seventh was silence."  
+> "We hoarded hue like breath… until the world suffocated."  
 
 **Spectral Whispers (heard in slow-time zones):**  
 > *"Color is choice. You chose too many."*  
@@ -113,9 +113,9 @@ These can be scattered throughout the **Nullshade zone**:
 > *"Don’t trust the next reflection. It isn’t yours."*  
 
 **Echoes of the Prismara (fading fragments):**  
-> “Balance isn’t stillness — it’s motion in agreement.”  
-> “We sang in hues, and it was enough. Until we envied the chorus.”  
-> “Do not bind your soul to a single color. That was our first lie.”  
+> "Balance isn’t stillness — it’s motion in agreement."  
+> "We sang in hues, and it was enough. Until we envied the chorus."  
+> "Do not bind your soul to a single color. That was our first lie."  
 
 **Final Warnings (approaching the Core):**  
 > *"The Prism does not forgive. It reflects."*  
@@ -146,19 +146,19 @@ These can hint at past sins, metaphysics, or unlock mechanics:
 #### 🧩 Nullshade Puzzle Riddles
 Used on sealed doors, prism relics, or forgotten altars, often requiring perspective changes, color negation, or rotating shards.
 
-1. “I am seen by none but all reflect me. What am I?”
+1. "I am seen by none but all reflect me. What am I?"
    → **Answer:** *The Void*
 
-2. “Split me and I multiply. Bind me and I vanish. I color your world, but have none. What am I?”
+2. "Split me and I multiply. Bind me and I vanish. I color your world, but have none. What am I?"
    → **Answer:** *Light*
 
-3. “I follow each color but belong to none. I am the space between choices. Who am I?”
+3. "I follow each color but belong to none. I am the space between choices. Who am I?"
    → **Answer:** *The Prismwalker*
 
-4. “Born from the bloom, bled into war. I held the sum, and now I am sore. What was I?”
+4. "Born from the bloom, bled into war. I held the sum, and now I am sore. What was I?"
    → **Answer:** *The Prismatic Core*
 
-5. “I speak in silence, echo the dead, walk without shadow, and name what you fled.”
+5. "I speak in silence, echo the dead, walk without shadow, and name what you fled."
    → **Answer:** *Memory*
 
 Optional Mechanic: Wrong answers cause the **shard gates** to shimmer and fracture the UI subtly, or freeze time for a moment.

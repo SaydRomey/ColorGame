@@ -17,15 +17,15 @@ Attacks with distorted animations of your moves — as though struggling to reca
 Lore Entry
 
 <details><summary>See Memory Husk Lore Entry</summary>
-Lore Entry: Fragment from “The Hollow Reflections,” recovered from the Isabelline Catacombs> “They stand just where you stood. Speak in your cadence. Swing with your uncertainty.”
+Lore Entry: Fragment from "The Hollow Reflections," recovered from the Isabelline Catacombs> "They stand just where you stood. Speak in your cadence. Swing with your uncertainty."
 
 
 
-> “In Auralith, death lingers — not as punishment, but as a rehearsal. The Husk is what remains when the soul forgets which version of itself it died as.”
+> "In Auralith, death lingers — not as punishment, but as a rehearsal. The Husk is what remains when the soul forgets which version of itself it died as."
 
 
 
-> “I watched mine draw breath. I do not remember breathing that way.”
+> "I watched mine draw breath. I do not remember breathing that way."
 
 
 
@@ -68,13 +68,13 @@ Known Weaknesses:
 
 Temporarily pacified when the player performs an action they never used before.
 
-Vulnerable to “Memory Echo” from the Earthen Bound hue.
+Vulnerable to "Memory Echo" from the Earthen Bound hue.
 
 Can be defeated by correctly replaying a sequence of past dialogue lines.
 
 
 Notes:
-Some Memory Husks whisper names of the player’s lost allies or reflect choices never taken. In rare cases, they drop “Faded Self” items — non-functional echoes of gear the player once wore.
+Some Memory Husks whisper names of the player’s lost allies or reflect choices never taken. In rare cases, they drop "Faded Self" items — non-functional echoes of gear the player once wore.
 
 
 ---

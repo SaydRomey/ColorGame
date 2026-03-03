@@ -5,7 +5,7 @@
 
 </div>
 
-# 🎮 IN-GAME SCENE: “Petals That Lie”
+# 🎮 IN-GAME SCENE: "Petals That Lie"
 
 Location: Veilgrove Spiral, Myrrala Dreamglades
 Visual Style:
@@ -22,7 +22,7 @@ Player Status: Bound to Violet (Purple), Yellow (Gold/Orange), and Blue (Cobalt)
 
 ---
 
-Scene	“Petals That Lie”
+Scene	"Petals That Lie"
 
 Location:	Veilgrove Spiral, Myrrala Dreamglades
 Visual Style:	Twilight blooms pulse gently. Bioluminescent petals float through shifting space. Reflection and reality blur.
@@ -54,8 +54,8 @@ A dreamlike shimmer pulses through the trees — then fades.
 
 🎙️ Narration (Internal Monologue)
 
-> “This place remembers dreams better than it remembers truth.
-Which one was I here?”
+> "This place remembers dreams better than it remembers truth.
+Which one was I here?"
 
 
 
@@ -71,23 +71,23 @@ A pair of identical figures sway in a clearing — each beckoning you to follow 
   </br><i>Wisteria Enchantress – One speaks softly. The other blinks.</i></br>
 </div>Enchantress A:
 
-> “You already chose me, remember? Come — you’re safe here.”
+> "You already chose me, remember? Come — you’re safe here."
 
 
 
 Enchantress B:
 
-> “That’s not me. She’s just your hope wearing my voice.”
+> "That’s not me. She’s just your hope wearing my voice."
 
 
 
 Dialogue Options (Color-Gated):
 
-🟪 [Violet-Bound] “I see both. But I trust neither. Let’s test the dream.”
+🟪 [Violet-Bound] "I see both. But I trust neither. Let’s test the dream."
 
-🟨 [Aurelian-Bound] “Only the one who laughs without blinking is real.”
+🟨 [Aurelian-Bound] "Only the one who laughs without blinking is real."
 
-🟦 [Cobalt-Bound] “The mirror broke before you lied. That’s your tell.”
+🟦 [Cobalt-Bound] "The mirror broke before you lied. That’s your tell."
 
 
 
@@ -135,11 +135,11 @@ At the spiral’s center, a glowing Heliotrope blooms beside a crystalized mask.
 Touching it with Violet Bound active triggers a vision:
 
 > Fandango Duelstar performing before a silent crowd of mirrors. One mirror weeps.
-“Don’t applaud. Just remember me in color.”
+"Don’t applaud. Just remember me in color."
 
 
 
-Unlocks: Hue Archive Entry: “The Petaled Lie”
+Unlocks: Hue Archive Entry: "The Petaled Lie"
 
 
 ---
@@ -147,11 +147,11 @@ Unlocks: Hue Archive Entry: “The Petaled Lie”
 🚪 Scene Exit: Bloomfold Arch
 
 An arch of living vines rearranges itself.
-To pass, the player must recite their last three dialogue choices or allow the dream to do so “for them.”
+To pass, the player must recite their last three dialogue choices or allow the dream to do so "for them."
 
 If incorrect:
 
-> “The dream bends around you. But it never forgets where you flinched.”
+> "The dream bends around you. But it never forgets where you flinched."
 
 
 

@@ -38,7 +38,7 @@
     "first_emerged": "Post-Shattering – Collapse of Auralith’s Outer Crucibles",
     "description": "A twitching form suspended in semi-liquid transmutation — limbs and organs flicker between solid metals, crystalline growths, and bubbling compounds. Its voice shifts between arcane formulae and broken screams.",
     "hue_interaction": "Caput Mortuum Phylactery stabilizes it briefly, allowing safe passage or conversation.\n\nViolet-bound players can interpret its unstable illusions to decode trapped spells.\n\nCobalt-bound players may reflect its chemical pulses back at it with correct timing.",
-    "behavior": "Wanders lab ruins and memory shrines, seeking raw components to complete itself.\n\nFires orbs of unstable potion energy that inflict randomized status swaps (e.g., healing turns to damage, dodge becomes stumble).\n\nMay attempt to “fuse” with the player on low health — initiates a struggle event.",
+    "behavior": "Wanders lab ruins and memory shrines, seeking raw components to complete itself.\n\nFires orbs of unstable potion energy that inflict randomized status swaps (e.g., healing turns to damage, dodge becomes stumble).\n\nMay attempt to "fuse" with the player on low health — initiates a struggle event.",
     "weaknesses": "Highly susceptible to rhythm-based disruption or echo spells.\n\nStabilized briefly in areas touched by the Burnt Sienna Sculptor’s work.\n\nLoud sounds (e.g., shattering glass or specific chants) disorient its progression.",
     "notes": "Some advanced alchemists can commune with the Echo using ancient elemental glyphs — though most who attempt it are either consumed… or remade. It is said one Echo remembers the face of the Ascetic — and weeps corrosive tears when it sees their sigil."
   },
@@ -49,13 +49,13 @@
       "An unstable remnant of forgotten alchemy — part flesh, part formula, endlessly flickering between failure and result. Its body churns with mismatched transmutations and haunting chemical whispers."
     ],
     "field_notes": [
-      "“We were so close. Gold, perhaps. Or memory without pain. Or simply an end that didn’t unravel.”",
+      ""We were so close. Gold, perhaps. Or memory without pain. Or simply an end that didn’t unravel."",
       "",
-      "“The Alchemical Echo is not a monster. It is a sentence interrupted. A retort left boiling too long. It speaks in unfinished incantations and dreams in half-bonded reactions.”",
+      ""The Alchemical Echo is not a monster. It is a sentence interrupted. A retort left boiling too long. It speaks in unfinished incantations and dreams in half-bonded reactions."",
       "",
-      "“Do not listen to it. Do not touch its trail. And above all, do not pity it. What it wants... is to finish becoming.”"
+      ""Do not listen to it. Do not touch its trail. And above all, do not pity it. What it wants... is to finish becoming.""
     ],
-    "source": "Fragment from “Notes of the Hollow Crucible,” scribbled in ash by the Caput Mortuum Ascetic"
+    "source": "Fragment from "Notes of the Hollow Crucible," scribbled in ash by the Caput Mortuum Ascetic"
   },
   "drops": []
 }{
@@ -69,7 +69,7 @@
     "hue_interaction": "Reflects most Aurelian spells unless they are pulse-based or truth-bound\n\nDisoriented by Cobalt’s Mind Echo or sonic waves\n\nVerdant roots can trap it if cast preemptively, before light-blind reflexes trigger",
     "behavior": "Remains motionless for hours, coiled around artifacts or ruins\n\nReacts to motion, heat, and glint-focused vision\n\nWhen threatened, spins rapidly in a defensive spiral that distorts the air\n\nLays false relics that pulse faintly to lure scavengers closer",
     "weaknesses": "Susceptible to rhythm disruption or echo-based abilities\n\nSluggish in full shadow or moonlight\n\nShatters when struck by its own reflected light (e.g., mirrored relic bounceback)",
-    "notes": "Some Citrine Artisans believe Ambercoil Asps were bred or enchanted long ago to guard treasures too powerful for vaults — letting beauty itself become the bait. One old Luxeran proverb warns:\n\n“If it gleams in silence, bow. If it gleams and hisses, run.”"
+    "notes": "Some Citrine Artisans believe Ambercoil Asps were bred or enchanted long ago to guard treasures too powerful for vaults — letting beauty itself become the bait. One old Luxeran proverb warns:\n\n"If it gleams in silence, bow. If it gleams and hisses, run.""
   },
   "lore": {
     "title": "The Glinting Deceiver",
@@ -86,7 +86,7 @@
       "",
       "Do not chase shimmer in the sand. Sometimes, it hisses."
     ],
-    "source": "Excerpt from “The False Wealth of Luxeran,” by Archivist Mosa Quire"
+    "source": "Excerpt from "The False Wealth of Luxeran," by Archivist Mosa Quire"
   },
   "drops": []
 }{
@@ -153,9 +153,9 @@
     "threat_level": "⚠️ High – Summoner, Momentum-Based Threat",
     "first_emerged": "Post-Ember Accord Collapse, date disputed",
     "description": "The Bannerbound Revenant is a ghostly war captain bound to a still-burning standard. It drags this ember-laced banner through scorched lands, its weight both burden and anchor. Wherever it marches, forgotten warriors rise to follow, compelled not by memory, but by the banner’s echoing will.",
-    "hue_interaction": "The banner resonates with Crimson, growing in size and summoning more shades if not suppressed.\n\nVulnerable to Cobalt silence fields — can temporarily disable the call to arms.\n\nViolet resonance can “recode” the banner — turning its shades against it for a short time.",
+    "hue_interaction": "The banner resonates with Crimson, growing in size and summoning more shades if not suppressed.\n\nVulnerable to Cobalt silence fields — can temporarily disable the call to arms.\n\nViolet resonance can "recode" the banner — turning its shades against it for a short time.",
     "behavior": "Slowly advances toward key terrain markers (shrines, walls, gates).\n\nEvery few steps, plants the banner to raise Ash Shades (basic melee ghosts).\n\nUpon losing enough health, it plants the banner and fuses with it — entering a second phase.",
-    "weaknesses": "Banner can be stolen or severed (by completing a timed interaction or using specific Hue relics).\n\nSuffers major weakness while unarmed — flails slowly and loses summoning.\n\nImmobile during “echo pulse” — a war-horn gesture that warns of incoming waves.",
+    "weaknesses": "Banner can be stolen or severed (by completing a timed interaction or using specific Hue relics).\n\nSuffers major weakness while unarmed — flails slowly and loses summoning.\n\nImmobile during "echo pulse" — a war-horn gesture that warns of incoming waves.",
     "notes": "The banner burns with no fuel. Some say it’s stitched from names, not cloth — those who died without cause. If you steal the banner and burn it in the right shrine, you can hear their final war song… or silence. Both are mercy."
   },
   "lore": {
@@ -167,13 +167,13 @@
       "Grows stronger the longer it marches uninterrupted."
     ],
     "field_notes": [
-      "“Some soldiers die. Others march past death.”",
+      ""Some soldiers die. Others march past death."",
       "",
-      "“The Bannerbound were once commanders — proud standard-bearers whose banners outlived their battalions. When their cause died, they didn’t. The flag burned, but they carried it anyway.”",
+      ""The Bannerbound were once commanders — proud standard-bearers whose banners outlived their battalions. When their cause died, they didn’t. The flag burned, but they carried it anyway."",
       "",
-      "“Now they march the ashlands, blind to time. Wherever their banner touches earth, shades rise to fight beneath it. Not because they remember the war — but because the banner tells them it still matters.”",
+      ""Now they march the ashlands, blind to time. Wherever their banner touches earth, shades rise to fight beneath it. Not because they remember the war — but because the banner tells them it still matters."",
       "",
-      "“To fight one is to fight many. To destroy one… you must make the banner forget.”",
+      ""To fight one is to fight many. To destroy one… you must make the banner forget."",
       "",
       "— Final entry of Flagseer Roen, whose banner was found folded and untouched, resting beside his ashes"
     ],
@@ -202,13 +202,13 @@
       "Cursed to mirror the pain it receives — unless the attacker is Verdant-bound."
     ],
     "field_notes": [
-      "“This is what we do with heroes: we bury them, then build something out of the bones.”",
+      ""This is what we do with heroes: we bury them, then build something out of the bones."",
       "",
-      "“The Effigy was never meant to fight. It was meant to kneel. A shrine made from those who died ‘gloriously’ — their armor melted into bark, their prayers twisted into flame.”",
+      ""The Effigy was never meant to fight. It was meant to kneel. A shrine made from those who died ‘gloriously’ — their armor melted into bark, their prayers twisted into flame."",
       "",
-      "“But memory is a seed. And too much blood feeds the wrong roots.”",
+      ""But memory is a seed. And too much blood feeds the wrong roots."",
       "",
-      "“Now it rises. Now it hurts what hurts it. Every time we ask it to stand for us, it forgets it was meant to rest.”",
+      ""Now it rises. Now it hurts what hurts it. Every time we ask it to stand for us, it forgets it was meant to rest."",
       "",
       "— Graffiti scrawled by an unknown priest, later found burned into his own robes"
     ],
@@ -224,8 +224,8 @@
     "first_emerged": "Late Verdant Bloom Cycle – Region unknown",
     "description": "The Bloomrot Titan resembles a twisted colossus of animated bark, fungal caps, and rotting wildflowers. Its core pulses with toxic light — a hollow, glowing knot where its heart might’ve been.\n\nIt moves slowly but with explosive force, uprooting itself to crash down with trunk-sized limbs.",
     "hue_interaction": "- Aligned to Green, but corrupted — embodies growth without limit.\n- Highly resistant to healing spells and regenerative effects (will mutate or reverse them).\n- Weak to Crimson (purifying flame), Brown (memory disruption), and Yellow (aura manipulation).",
-    "behavior": "- Spawns poisonous pollen clouds when struck — linger in air, causing hallucinations or reversed controls.\n- Launches explosive seed pods — each explodes into parasitic seedlings unless destroyed in time.\n- Occasionally “roots” itself to regenerate — vulnerable but emits thick fungal fog.",
-    "weaknesses": "- Glowing chest core is vulnerable when attacking — exposes inner rot for brief moments.\n- Burning terrain around it limits its healing capacity.\n- “Truthroot Salts” or Caput Mortuum Alchemy slows its regrowth.",
+    "behavior": "- Spawns poisonous pollen clouds when struck — linger in air, causing hallucinations or reversed controls.\n- Launches explosive seed pods — each explodes into parasitic seedlings unless destroyed in time.\n- Occasionally "roots" itself to regenerate — vulnerable but emits thick fungal fog.",
+    "weaknesses": "- Glowing chest core is vulnerable when attacking — exposes inner rot for brief moments.\n- Burning terrain around it limits its healing capacity.\n- "Truthroot Salts" or Caput Mortuum Alchemy slows its regrowth.",
     "notes": "Encountered deep in overgrown ruins, burial groves, or failed Verdant sanctuaries.\nIts death releases a ring of new growth — dangerous but collectible.\nSome Isabelline scrolls suggest the Titan was once a Warden — now consumed by what it once cultivated."
   },
   "lore": {
@@ -236,17 +236,17 @@
       "It towers over most enemies in the game, dragging whole root systems behind it like broken limbs."
     ],
     "field_notes": [
-      "“Verdant magic was never supposed to be this… greedy. It heals, yes — but healing without judgment becomes infestation.”",
+      ""Verdant magic was never supposed to be this… greedy. It heals, yes — but healing without judgment becomes infestation."",
       "",
-      "“The Titan wasn't born. It accumulated. Dead treants, overgrown shrines, corrupted spores, blood-fed vines — all swallowed into the same groaning body.”",
+      ""The Titan wasn't born. It accumulated. Dead treants, overgrown shrines, corrupted spores, blood-fed vines — all swallowed into the same groaning body."",
       "",
-      "“It threw pods that screamed when they landed. And its chest… Gods, its chest was hollow, glowing green, as if the thing was ashamed of the rot it wore like bark.”",
+      ""It threw pods that screamed when they landed. And its chest… Gods, its chest was hollow, glowing green, as if the thing was ashamed of the rot it wore like bark."",
       "",
-      "“I cast a growth-stall glyph. It laughed. The sound came from its blossoms. From its moss. From inside me.”",
+      ""I cast a growth-stall glyph. It laughed. The sound came from its blossoms. From its moss. From inside me."",
       "",
-      "“We left that grove. Burned what we could. What we couldn’t still whispers in the roots.”"
+      ""We left that grove. Burned what we could. What we couldn’t still whispers in the roots.""
     ],
-    "source": "Field Record – “Rot in the Rootlands” by Huewarden Lilael"
+    "source": "Field Record – "Rot in the Rootlands" by Huewarden Lilael"
   },
   "drops": []
 }{
@@ -270,11 +270,11 @@
       "Teleports using webs of silk to create traps and choke points."
     ],
     "field_notes": [
-      "“I found her first, but she spoke in threads.”",
+      ""I found her first, but she spoke in threads."",
       "",
-      "“Her webs never cease weaving. They are grown from moments left unresolved. Long-forgotten dreams. Pains she once whispered to me, and I believed her.”",
+      ""Her webs never cease weaving. They are grown from moments left unresolved. Long-forgotten dreams. Pains she once whispered to me, and I believed her."",
       "",
-      "“Do not speak to her. She wears promises, but never gives them back.”",
+      ""Do not speak to her. She wears promises, but never gives them back."",
       "",
       "— Wisteria Enchantress, evening twilight, in the dance of dreams"
     ],
@@ -302,11 +302,11 @@
       "Transforms rapidly into a spectral predator upon close approach."
     ],
     "field_notes": [
-      "“They dance where no one should wander—ghostly fires hanging in the mist. Most believe them mere wisps, tragic souls lost in the bog. But the truth is far more sinister.”",
+      ""They dance where no one should wander—ghostly fires hanging in the mist. Most believe them mere wisps, tragic souls lost in the bog. But the truth is far more sinister."",
       "",
-      "“Then it revealed its face—not a flame, but a spectral maw grinning with hunger. I escaped by chance alone, stumbling through fog that felt alive.”",
+      ""Then it revealed its face—not a flame, but a spectral maw grinning with hunger. I escaped by chance alone, stumbling through fog that felt alive."",
       "",
-      "“If you follow the glow, be prepared: for what seems brightest in darkness might merely be the deepest lie.”",
+      ""If you follow the glow, be prepared: for what seems brightest in darkness might merely be the deepest lie."",
       "",
       "— Viridian Alchemist, Journal of Lost Lights"
     ],
@@ -334,13 +334,13 @@
       "They obey long-dead commands. And they wait."
     ],
     "field_notes": [
-      "“Caput Mortuum. The name means death’s leftover. What the crucible couldn’t use.”",
+      ""Caput Mortuum. The name means death’s leftover. What the crucible couldn’t use."",
       "",
-      "“We made them to test transmutation rituals. Vessels for souls too broken to scream. They walked, moved, answered. But never lived.”",
+      ""We made them to test transmutation rituals. Vessels for souls too broken to scream. They walked, moved, answered. But never lived."",
       "",
-      "“I buried mine beneath the Phylactery Vault, but it clawed free. It didn’t attack — it waited at my old desk.”",
+      ""I buried mine beneath the Phylactery Vault, but it clawed free. It didn’t attack — it waited at my old desk."",
       "",
-      "“If they look at you, it’s not hate. It’s recognition. And that’s worse.”"
+      ""If they look at you, it’s not hate. It’s recognition. And that’s worse.""
     ],
     "source": "Found in the marginalia of an alchemy ledger, author unknown"
   },
@@ -366,13 +366,13 @@
       "Bodies swollen, skin pale-green and translucent, bubbling with unstable mixtures."
     ],
     "field_notes": [
-      "“Alchemy teaches patience; let a potion age carefully, and you find power. But leave it too long—neglect its whispers—and you get something worse than poison.”",
+      ""Alchemy teaches patience; let a potion age carefully, and you find power. But leave it too long—neglect its whispers—and you get something worse than poison."",
       "",
-      "“I saw this tragedy unfold in the heart of our order, among monks who drank deeply of spoiled brews, mistaking decay for wisdom.”",
+      ""I saw this tragedy unfold in the heart of our order, among monks who drank deeply of spoiled brews, mistaking decay for wisdom."",
       "",
-      "“They laughed first—uncontrollable laughter echoing through cloisters until their faces strained and their eyes dimmed with an eerie chartreuse glow.”",
+      ""They laughed first—uncontrollable laughter echoing through cloisters until their faces strained and their eyes dimmed with an eerie chartreuse glow."",
       "",
-      "“These Chartreuse Husks roam Huevale now, abandoned by reason, their laughter an endless, acidic mockery.”"
+      ""These Chartreuse Husks roam Huevale now, abandoned by reason, their laughter an endless, acidic mockery.""
     ],
     "source": "From \"Journal of Spoiled Vessels,\" by Malachite Oracle of Tinctara"
   },
@@ -388,7 +388,7 @@
     "hue_interaction": "Reacts erratically to Aurelian light pulses\n\nSusceptible to Cobalt-based tracking spells (Mind Echo reveals the original’s thought pattern)\n\nConfused by Verdant growth spells that disrupt its mirrored movement path",
     "behavior": "Travels in loose clusters; nests near ruins, shade-stones, and citrus groves\n\nUpon threat, splits into visual duplicates with randomized patterns\n\nDuplicates fade if player stands completely still for several seconds",
     "weaknesses": "Easily scattered by sound-based effects (drums, chants, Razzmatazz Drum)\n\nDisrupted by illusion counters, especially from Violet-bound illusions\n\nVulnerable to heat-sensing relics or wide-range pulse attacks",
-    "notes": "To Luxeran jewelhunters, a single real scarab is worth a satchel of gold — if they can catch it. But many vanish chasing light that turns to laughter.\n\n“In Luxeran, even fear learns to sparkle.”"
+    "notes": "To Luxeran jewelhunters, a single real scarab is worth a satchel of gold — if they can catch it. But many vanish chasing light that turns to laughter.\n\n"In Luxeran, even fear learns to sparkle.""
   },
   "lore": {
     "title": "The Gleam that Lies",
@@ -398,15 +398,15 @@
       "When threatened, it does what all bright things in Luxeran do: it multiplies... or pretends to."
     ],
     "field_notes": [
-      "“You don’t find a scarab nest. You walk into one — thinking it’s treasure, or shade, or salvation.”",
+      ""You don’t find a scarab nest. You walk into one — thinking it’s treasure, or shade, or salvation."",
       "",
-      "“I cracked one with my heel once. It screamed. I did too. Because then there were ten. Then twenty. All of them fake. All of them not quite wrong.”",
+      ""I cracked one with my heel once. It screamed. I did too. Because then there were ten. Then twenty. All of them fake. All of them not quite wrong."",
       "",
-      "“Only the real one bleeds dust. The rest... flicker. They don’t stop moving unless you sing.”",
+      ""Only the real one bleeds dust. The rest... flicker. They don’t stop moving unless you sing."",
       "",
-      "“I don’t hunt them anymore. I just let them follow me. And hope the fake ones scare off worse things.”"
+      ""I don’t hunt them anymore. I just let them follow me. And hope the fake ones scare off worse things.""
     ],
-    "source": "Recovered notes from “Scarab Whispers” by Fulvous Hunter Orei"
+    "source": "Recovered notes from "Scarab Whispers" by Fulvous Hunter Orei"
   },
   "drops": []
 }{
@@ -418,9 +418,9 @@
     "first_emerged": "Built during the early Aurelian Temple Age to guard vaults and forbidden scroll-tombs",
     "description": "Towering crystalline behemoth with arms like sculpted obelisks and a faceted citrine heart. It emits faint harmonic tones when struck, as if humming to itself. Carvings across its back depict solar rites and forgotten oaths.",
     "hue_interaction": "Absorbs Aurelian (Yellow) attacks completely, reflecting them as blinding flares\n\nSusceptible to extreme cold (Cobalt) and vibrational spells (sonic, echo-based)\n\nVerdant roots can crack surface if seeded in shadow",
-    "behavior": "Stationary until provoked or until artifact proximity detected\n\nStomps ground to fracture terrain; creates radiant aftershocks that slow movement\n\n“Gleam Pulse” releases radial lightburst upon taking damage, stunning nearby attackers\n\nCan regenerate minor cracks if exposed to direct sunlight too long",
+    "behavior": "Stationary until provoked or until artifact proximity detected\n\nStomps ground to fracture terrain; creates radiant aftershocks that slow movement\n\n"Gleam Pulse" releases radial lightburst upon taking damage, stunning nearby attackers\n\nCan regenerate minor cracks if exposed to direct sunlight too long",
     "weaknesses": "Cobalt’s Stormglass Barrier can refract its light internally, causing harmonic overload\n\nBest fought in shaded or eclipse-affected areas\n\nEcho-charged percussion weapons (like Prismhammer) disrupt its inner resonance",
-    "notes": "Citrine Golems were never meant to kill — only to withstand. Their presence marks places the sun itself once vowed to protect.\n\n“If it still stands, perhaps your purpose does not.”"
+    "notes": "Citrine Golems were never meant to kill — only to withstand. Their presence marks places the sun itself once vowed to protect.\n\n"If it still stands, perhaps your purpose does not.""
   },
   "lore": {
     "title": "The Unbreaking Gleam",
@@ -430,13 +430,13 @@
       "Though slow, its radiant fury is absolute — and its body, almost unbreakable under sunlit skies."
     ],
     "field_notes": [
-      "“We found it half-buried beyond the Gamboge Vault — just another glimmering ridge in the sand, we thought. Until it stood.”",
+      ""We found it half-buried beyond the Gamboge Vault — just another glimmering ridge in the sand, we thought. Until it stood."",
       "",
-      "“It didn’t roar. Didn’t run. It simply… turned. The light caught in its chest gem, and something inside me trembled. Like I owed it something.”",
+      ""It didn’t roar. Didn’t run. It simply… turned. The light caught in its chest gem, and something inside me trembled. Like I owed it something."",
       "",
-      "“Every strike we landed was swallowed — reflected in glints, as if it watched our failures and polished them.”",
+      ""Every strike we landed was swallowed — reflected in glints, as if it watched our failures and polished them."",
       "",
-      "“I think it waits not to fight — but to endure. It judges worth by how hard you try before quitting.”"
+      ""I think it waits not to fight — but to endure. It judges worth by how hard you try before quitting.""
     ],
     "source": "Scrawled notes from a sand-shielded expedition journal, author unknown"
   },
@@ -491,11 +491,11 @@
       "Repeats the last attack it received with increasing speed and accuracy."
     ],
     "field_notes": [
-      "“There is a scream in Vireya that never ends. It circles the same word. The same wound. Over and over again.”",
+      ""There is a scream in Vireya that never ends. It circles the same word. The same wound. Over and over again."",
       "",
-      "“The Crimson Echo is not a ghost — it's a loop. A memory caught in the final moments of a duel, so loud and furious that it tore itself free of death.”",
+      ""The Crimson Echo is not a ghost — it's a loop. A memory caught in the final moments of a duel, so loud and furious that it tore itself free of death."",
       "",
-      "“Each one is different, shaped by a fallen warrior’s last strike, last scream, last regret.”",
+      ""Each one is different, shaped by a fallen warrior’s last strike, last scream, last regret."",
       "",
       "— Vellidra, two days before she vanished in the Arena of Sighs"
     ],
@@ -509,7 +509,7 @@
     "type": "Illusory Mimic / Mirrorborne Trickster",
     "threat_level": "⚠️ Variable – Based on player complexity",
     "first_emerged": "Post-Shattering; earliest recorded in Myrrala",
-    "description": "Mimics the player's current appearance and equipment loadout.\n\nReacts to your last 3 movement patterns, trying to “catch” your next input.\n\nDamaging it without revealing its illusion form causes hue feedback — a psychic jolt that scrambles your HUD.",
+    "description": "Mimics the player's current appearance and equipment loadout.\n\nReacts to your last 3 movement patterns, trying to "catch" your next input.\n\nDamaging it without revealing its illusion form causes hue feedback — a psychic jolt that scrambles your HUD.",
     "hue_interaction": "Weak to truth-bound light (Aurelian) and sound-based rhythm (Cobalt).\n\nImmune to illusions unless constructed by the player using Violet (they can be \"tricked back\").\n\nReflected projectiles strike them for full damage if released with reversed timing.",
     "behavior": "Appears behind or near mirrors, often posing mid-gesture.\n\nOpens with your most frequent spell or attack combo — but slightly early.\n\nAdapts quickly: second encounter includes all choices made in first.",
     "weaknesses": "Temporarily stuns if caught in a Thulian Mirror beam or Heliotrope Band aura.\n\nBecomes unstable when confronted by multiple dialogue-paths or player contradictions.",
@@ -520,21 +520,21 @@
     "quote": "I saw myself dodge. But I hadn’t moved yet.",
     "flavor_description": [
       "Mimics the player's current appearance and equipment loadout.",
-      "Reacts to your last 3 movement patterns, trying to “catch” your next input.",
+      "Reacts to your last 3 movement patterns, trying to "catch" your next input.",
       "Damaging it without revealing its illusion form causes hue feedback — a psychic jolt that scrambles your HUD."
     ],
     "field_notes": [
-      "“Reflections should show truth. But in dreams, even mirrors lie kindly.”",
+      ""Reflections should show truth. But in dreams, even mirrors lie kindly."",
       "",
-      "“There are things that wear your face. Not out of malice — but because they don’t know their own anymore.”",
+      ""There are things that wear your face. Not out of malice — but because they don’t know their own anymore."",
       "",
-      "“The Doppelshade is not born. It is caught — a slip of intent, a lingering gesture you forgot you made. It waits in veil-thin mirrors, rehearsing your doubts until they can dance without you.”",
+      ""The Doppelshade is not born. It is caught — a slip of intent, a lingering gesture you forgot you made. It waits in veil-thin mirrors, rehearsing your doubts until they can dance without you."",
       "",
-      "“I watched a traveler argue with theirs for hours. When I returned, only one walked away. I couldn't say who.”",
+      ""I watched a traveler argue with theirs for hours. When I returned, only one walked away. I couldn't say who."",
       "",
-      "“They say the Thulian Court once kept a hall of mirrors where you could see every choice you didn’t make. That hall burned. But the reflections... didn’t die.”",
+      ""They say the Thulian Court once kept a hall of mirrors where you could see every choice you didn’t make. That hall burned. But the reflections... didn’t die."",
       "",
-      "“If your reflection attacks first, it was never yours.”",
+      ""If your reflection attacks first, it was never yours."",
       "",
       "— Scribed into the petals of a Liseran Lily, pressed between two illusion-stung pages."
     ],
@@ -549,9 +549,9 @@
     "threat_level": "⚠️ High – Pattern-locked Duelist Trap",
     "first_emerged": "The ruins of the Passion Stage, Myrrala",
     "description": "Illusory echo of a performer who once danced and dueled to a roaring crowd.\n\nFlickers like candlelight — always mid-performance.\n\nHer every move is rhythmic, deadly, and beautiful.",
-    "hue_interaction": "Neutral to most damage unless the player matches or disrupts her rhythm.\n\nCobalt’s Mind Echo can copy her next move for perfect parry timing.\n\nViolet’s Illusion Clone lets the player “dance with her” safely from a distance.",
-    "behavior": "Leaves glowing footstep markers that emit afterimages if followed in rhythm.\n\nCan lock the player in a duet, forcing movement input to match her tempo or suffer damage.\n\nMid-fight, she may “bow” and reset her combo — this is your chance to break her rhythm with a disruptive hue.",
-    "weaknesses": "Her illusion falters if the Rhythm Loop is broken (step out of her range mid-pattern).\n\nVulnerable to sudden tempo shifts — Aurelian Radiant Echo or Mauveine Flask can destabilize her choreography.\n\nMask shatters briefly when hit during her “bow” animation — that’s her true face.",
+    "hue_interaction": "Neutral to most damage unless the player matches or disrupts her rhythm.\n\nCobalt’s Mind Echo can copy her next move for perfect parry timing.\n\nViolet’s Illusion Clone lets the player "dance with her" safely from a distance.",
+    "behavior": "Leaves glowing footstep markers that emit afterimages if followed in rhythm.\n\nCan lock the player in a duet, forcing movement input to match her tempo or suffer damage.\n\nMid-fight, she may "bow" and reset her combo — this is your chance to break her rhythm with a disruptive hue.",
+    "weaknesses": "Her illusion falters if the Rhythm Loop is broken (step out of her range mid-pattern).\n\nVulnerable to sudden tempo shifts — Aurelian Radiant Echo or Mauveine Flask can destabilize her choreography.\n\nMask shatters briefly when hit during her "bow" animation — that’s her true face.",
     "notes": "Defeating her grants a Spectral Footwork Fragment, which lets the player mimic stylish attacks during future duels.\nSome players report hearing faint applause when they strike her final blow."
   },
   "lore": {
@@ -562,13 +562,13 @@
       "Illusory echo of a performer who once danced and dueled to a roaring crowd."
     ],
     "field_notes": [
-      "“When the crowd stopped clapping, she danced louder.”",
+      ""When the crowd stopped clapping, she danced louder."",
       "",
-      "“The Passion Stage once crowned duelists who fought with flair, each move a flourish, each wound a signature.\nFandango Duelstar was its final champion — a blur of glitter and blood, adored and feared. But when silence fell upon the Stage, she refused to stop.”",
+      ""The Passion Stage once crowned duelists who fought with flair, each move a flourish, each wound a signature.\nFandango Duelstar was its final champion — a blur of glitter and blood, adored and feared. But when silence fell upon the Stage, she refused to stop."",
       "",
-      "“Now, only her shadow remains: the Fandancer Fragment. A looped echo of her last encore.\nShe duels no one. She performs to no crowd. Her blade still sings, but the music is memory.”",
+      ""Now, only her shadow remains: the Fandancer Fragment. A looped echo of her last encore.\nShe duels no one. She performs to no crowd. Her blade still sings, but the music is memory."",
       "",
-      "“Step into her rhythm, and she welcomes you like a partner.\nMismatch her tempo, and you die offbeat.”",
+      ""Step into her rhythm, and she welcomes you like a partner.\nMismatch her tempo, and you die offbeat."",
       "",
       "— Maskkeeper of the Liseran Shrine"
     ],
@@ -596,13 +596,13 @@
       "Long, vine-serpent creature camouflaged beneath flowerbeds and moss."
     ],
     "field_notes": [
-      "“I knelt to gather dreampetals—careful, reverent, as my grandmother taught me. The blooms were warm from the sun, soft, still. Then the ground… breathed.”",
+      ""I knelt to gather dreampetals—careful, reverent, as my grandmother taught me. The blooms were warm from the sun, soft, still. Then the ground… breathed."",
       "",
-      "“I felt it—not just the movement, but the hunger. A sudden pull, my satchel gone, then a blur of blossoms spiraling into the underbrush. The flowers weren’t flowers. They were scales. And beneath them, rows of teeth.”",
+      ""I felt it—not just the movement, but the hunger. A sudden pull, my satchel gone, then a blur of blossoms spiraling into the underbrush. The flowers weren’t flowers. They were scales. And beneath them, rows of teeth."",
       "",
-      "“I’ve seen its path since—empty patches where no insects hum, no roots dare grow. It glides just beneath the surface, waiting. Watching. Camouflaged not in earth, but in beauty.”",
+      ""I’ve seen its path since—empty patches where no insects hum, no roots dare grow. It glides just beneath the surface, waiting. Watching. Camouflaged not in earth, but in beauty."",
       "",
-      "“The forest doesn’t warn of it. It lets it be. Maybe because it’s not a monster to the woods… just another bloom that bites.”",
+      ""The forest doesn’t warn of it. It lets it be. Maybe because it’s not a monster to the woods… just another bloom that bites."",
       "",
       "— Testimony of Eiren the Bloomwalker, last seen near Petalbend Glade"
     ],
@@ -620,7 +620,7 @@
     "hue_interaction": "Suppresses Hue-based traversal abilities (gliding, storm-riding) within a radius.\n\nBound colors dim when in its aura; affects Crimson surge and Cobalt reaction timing.\n\nTemporarily disrupted by Verdant Skygrowth, which restores buoyancy nearby.",
     "behavior": "Does not pursue. It drifts.\n\nEngages only when provoked or approached during a storm ritual.\n\nBehavior cycle:\nNull Pulse – disables midair movement for several seconds.\nWing Veil – conceals its position in a dome of pale wind.\nEcho Stillness – causes a silence field that interrupts dialogue and spellcasting.",
     "weaknesses": "Momentarily repelled by sky-sound (e.g., storm chimes, flute melodies).\n\nSuffers minor instability if trapped in a triangulation of multiple hues (player + relic + echo site).\n\nOnly vulnerable during emotive wind surges triggered by memory sequences.",
-    "notes": "The Glaucous Wing claims this creature is “a hymn never sung.”\nCannot be bound, named, or remembered by normal means — journals written near it lose ink."
+    "notes": "The Glaucous Wing claims this creature is "a hymn never sung."\nCannot be bound, named, or remembered by normal means — journals written near it lose ink."
   },
   "lore": {
     "title": "The Stillborn Sky",
@@ -670,13 +670,13 @@
       "Agile predator cloaked in shifting heat mirages."
     ],
     "field_notes": [
-      "“Oh, that one? The Fox Mirage? She's a clever ghost, or maybe just a lie wrapped in fur.”",
+      ""Oh, that one? The Fox Mirage? She's a clever ghost, or maybe just a lie wrapped in fur."",
       "",
-      "“She’s not real — not the way we are. She’s an ember thought that got too smug. You see her in the corner of your eye, or in the shimmer on a blade, or laughing just before the strike lands. She’s the memory of being hunted, kept warm too long in the coals.”",
+      ""She’s not real — not the way we are. She’s an ember thought that got too smug. You see her in the corner of your eye, or in the shimmer on a blade, or laughing just before the strike lands. She’s the memory of being hunted, kept warm too long in the coals."",
       "",
-      "“They say she was once a trickster in life — Nacarat’s sister, some claim — weaving illusions into flame. When she died, the desert didn’t let her go. It just learned her trick.”",
+      ""They say she was once a trickster in life — Nacarat’s sister, some claim — weaving illusions into flame. When she died, the desert didn’t let her go. It just learned her trick."",
       "",
-      "“If you want to fight her, don’t. Fight what she makes you think she is. That’s where she hides — behind your own mistake.”",
+      ""If you want to fight her, don’t. Fight what she makes you think she is. That’s where she hides — behind your own mistake."",
       "",
       "— Whispered with a grin by a campfire, then the wind carried the grin away."
     ],
@@ -704,13 +704,13 @@
       "Floating prisms shaped like broken math. They loop movement in recursive spirals, obeying no natural gravity."
     ],
     "field_notes": [
-      "“They fractured the Core, hoping each splinter might forget what the whole once knew. Instead, it remembered too well. Repeated. Echoed. Over and over.”",
+      ""They fractured the Core, hoping each splinter might forget what the whole once knew. Instead, it remembered too well. Repeated. Echoed. Over and over."",
       "",
-      "“A Shardling does not die. It subdivides — each generation forgetting more… and hurting more.”",
+      ""A Shardling does not die. It subdivides — each generation forgetting more… and hurting more."",
       "",
-      "“One split into five. Then twenty-five. Then still it sang. Until even its song forgot the words, but not the rhythm.”",
+      ""One split into five. Then twenty-five. Then still it sang. Until even its song forgot the words, but not the rhythm."",
       "",
-      "“Only one truth breaks recursion: memory without repetition.”"
+      ""Only one truth breaks recursion: memory without repetition.""
     ],
     "source": "Fragmented scrawl found etched on a Nullshade monolith"
   },
@@ -724,8 +724,8 @@
     "first_emerged": "The Last Ember Gala, pre-Crimson Collapse",
     "description": "Moves in wide, rhythmic spirals — every motion is part of a deadly choreography.\n\nWields ceremonial blades with precision and theatrical flair.\n\nLeaves behind sigils mid-dance — these explode after a set pattern or final pose.",
     "hue_interaction": "Cloaked in Crimson illusions while mid-dance — vulnerable only between steps.\n\nCobalt sound interrupts her tempo, breaking sigil formation.\n\nEarthen grounding slows her spin, allowing safer approach.",
-    "behavior": "Opens with a slow spiral step — each movement leaving a glowing sigil.\n\nAfter four to six steps, stops to perform a “bow” — triggering the explosion of all active sigils.\n\nIf struck mid-combo, immediately shifts into evasive spin and relocates.",
-    "weaknesses": "During her “final pose,” she is vulnerable for a full second — ideal time to strike.\n\nSigils can be absorbed by Reflection Ward or overwritten with player sigil-magic.\n\nInterrupt spells (particularly with rhythmic or musical timing) destabilize her choreography completely.",
+    "behavior": "Opens with a slow spiral step — each movement leaving a glowing sigil.\n\nAfter four to six steps, stops to perform a "bow" — triggering the explosion of all active sigils.\n\nIf struck mid-combo, immediately shifts into evasive spin and relocates.",
+    "weaknesses": "During her "final pose," she is vulnerable for a full second — ideal time to strike.\n\nSigils can be absorbed by Reflection Ward or overwritten with player sigil-magic.\n\nInterrupt spells (particularly with rhythmic or musical timing) destabilize her choreography completely.",
     "notes": "Some say she’s not a monster, but a memory too strong to forget — one dancer still trying to mourn a thousand souls alone. If you survive her dance, she sometimes vanishes in a swirl of ash… and you feel oddly honored, like you were briefly part of the performance."
   },
   "lore": {
@@ -736,15 +736,15 @@
       "Moves in wide, rhythmic spirals — every motion is part of a deadly choreography."
     ],
     "field_notes": [
-      "“We gave her grief. She gave us grace.”",
+      ""We gave her grief. She gave us grace."",
       "",
-      "“The Funeral Dancer once performed only for the dead — her steps choreographed to farewell the honored fallen. But war came too fast, and death too often. She could not keep up. So she never stopped.”",
+      ""The Funeral Dancer once performed only for the dead — her steps choreographed to farewell the honored fallen. But war came too fast, and death too often. She could not keep up. So she never stopped."",
       "",
-      "“Now she dances across ash-fields and battlegrounds, pirouetting through memory and flame. No audience. No end. Just names whispered in rhythm and the clang of blades to mark the time.”",
+      ""Now she dances across ash-fields and battlegrounds, pirouetting through memory and flame. No audience. No end. Just names whispered in rhythm and the clang of blades to mark the time."",
       "",
-      "“Her sigils are not spells. They are stories. And when she finishes the story, something always dies.”",
+      ""Her sigils are not spells. They are stories. And when she finishes the story, something always dies."",
       "",
-      "— Authored by Fennel “Redchalk” Vireen, former archivist turned battlefield scribe"
+      "— Authored by Fennel "Redchalk" Vireen, former archivist turned battlefield scribe"
     ],
     "source": "Carved into the steps of a scorched amphitheater"
   },
@@ -758,9 +758,9 @@
     "first_emerged": "During the Sun-Flecked Famine, post-Shattering",
     "description": "Born of scorched incense and forgotten rituals, Gamboge Djinnlings drift like playful smoke over ancient sands. Tiny, gleaming, and mischievous, they delight in twisting fortune — granting blessings laced with mayhem.",
     "hue_interaction": "Drawn to Aurelian-bound players; reacts to radiant spells with playful mimicry\n\nTemporarily soothed by Orange Peel Charms or trickster-aligned dialogue\n\nDisrupted by silence, darkness, or logical riddles",
-    "behavior": "May offer players “bargains” — usually with ironic outcomes\n\nCast chaotic aura bursts at short range, altering spell loadouts or HP temporarily\n\nMay aid players in combat if amused or impressed\n\nFlee when too predictable — thrives on spontaneity",
+    "behavior": "May offer players "bargains" — usually with ironic outcomes\n\nCast chaotic aura bursts at short range, altering spell loadouts or HP temporarily\n\nMay aid players in combat if amused or impressed\n\nFlee when too predictable — thrives on spontaneity",
     "weaknesses": "Vulnerable to emotional clarity (truth-bound spells, honesty artifacts)\n\nCannot pass through pure darkness or geometric constraint sigils\n\nTemporarily dissipated by citrus oils or harmonized chants",
-    "notes": "Some scholars claim Djinnlings are fractured pieces of ancient wish-gods, forever seeking new vessels for chaos. Local traders treat them with a mix of reverence and exasperation.\n\n“If it floats and giggles in yellow — bow, lie, or run. Your choice matters less than how funny it is.”"
+    "notes": "Some scholars claim Djinnlings are fractured pieces of ancient wish-gods, forever seeking new vessels for chaos. Local traders treat them with a mix of reverence and exasperation.\n\n"If it floats and giggles in yellow — bow, lie, or run. Your choice matters less than how funny it is.""
   },
   "lore": {
     "title": "The Bargain's Breath",
@@ -770,13 +770,13 @@
       "Born of scorched incense and forgotten rituals, Gamboge Djinnlings drift like playful smoke over ancient sands."
     ],
     "field_notes": [
-      "“You don't summon a Gamboge Djinnling. You entertain one. And if it likes your song, your scent, or your story — it offers a deal. Usually bad.”",
+      ""You don't summon a Gamboge Djinnling. You entertain one. And if it likes your song, your scent, or your story — it offers a deal. Usually bad."",
       "",
-      "“One drifted near my caravan during the brass eclipse. My horse learned to speak three tongues. My guide forgot how to walk forward.”",
+      ""One drifted near my caravan during the brass eclipse. My horse learned to speak three tongues. My guide forgot how to walk forward."",
       "",
-      "“Never thank it. Never bargain without irony. And never uncork anything that still feels warm.”",
+      ""Never thank it. Never bargain without irony. And never uncork anything that still feels warm."",
       "",
-      "“They're children of the smoke left behind when gods abandon their lamps.”"
+      ""They're children of the smoke left behind when gods abandon their lamps.""
     ],
     "source": "Fragment from \"Desert Pacts and Ash-Laced Jars\" by Relic-Seer Yawen the Uncorked"
   },
@@ -790,7 +790,7 @@
     "first_emerged": "During the Stormglass Fracture, Post-Shattering",
     "description": "Faintly humanoid, but distorted — limbs bend wrong, eyes reflect the player’s.\n\nTrails mirror-shards through the air; footsteps echo a second too late.\n\nFlickers unpredictably when struck — emits a shriek of reverse sound.",
     "hue_interaction": "Resonates violently with Cobalt echoes and Mind-based magic.\n\nBriefly stunned when surrounded by synchronized audio rhythms (wind chimes, harpstrings, Cerulean Cloak pulses).\n\nImmune to illusion — it is one.",
-    "behavior": "Loops player actions back at them with a time delay (mimics dashes, spells, jumps).\n\nTrails mirror shards that apply “Reflection Wound” (any repeated action takes more damage).\n\nWill vanish if reflected in more than one surface at once (dual mirrors or glass pool).",
+    "behavior": "Loops player actions back at them with a time delay (mimics dashes, spells, jumps).\n\nTrails mirror shards that apply "Reflection Wound" (any repeated action takes more damage).\n\nWill vanish if reflected in more than one surface at once (dual mirrors or glass pool).",
     "weaknesses": "Vulnerable to sonic resonance and multi-angle light (e.g., Skyglass Prisms).\n\nAvoid prolonged mimicry — stagger movement patterns to confuse it.\n\nMay flee if the player uses Payne’s Brush or displays a memory the Echo cannot interpret.",
     "notes": "Some say each Echo was born from a different regret — others claim they all share one memory: falling.\n\nA rare few Echoes have been seen pausing… as if remembering something they wish they hadn’t."
   },
@@ -802,15 +802,15 @@
       "Faintly humanoid, but distorted — limbs bend wrong, eyes reflect the player’s."
     ],
     "field_notes": [
-      "“Some reflections lie. Others linger.”",
+      ""Some reflections lie. Others linger."",
       "",
-      "“I thought to trap a memory in cobalt, a kindness in solid light. But the wind here remembers grief too well, and the glass began to ache.”",
+      ""I thought to trap a memory in cobalt, a kindness in solid light. But the wind here remembers grief too well, and the glass began to ache."",
       "",
-      "“The Echo was not what I captured. It was what I tried to forget — how I moved, how I reached, how I failed. It mimics the moment I last looked in the glass. That pain became recursive. It moved without me.”",
+      ""The Echo was not what I captured. It was what I tried to forget — how I moved, how I reached, how I failed. It mimics the moment I last looked in the glass. That pain became recursive. It moved without me."",
       "",
-      "“Now it wanders the skyglass shelves, looping itself — a broken dance. I hear my own voice call out when it strikes.”",
+      ""Now it wanders the skyglass shelves, looping itself — a broken dance. I hear my own voice call out when it strikes."",
       "",
-      "“If you see it, don’t fight what you know. Fight what you pretend not to.”",
+      ""If you see it, don’t fight what you know. Fight what you pretend not to."",
       "",
       "— Zaffre Glasswright"
     ],
@@ -827,7 +827,7 @@
     "description": "Long, sinuous serpent composed of volcanic glass and ember-embedded bone.\n\nSlithers silently through lava pools and ash fields.\n\nShatters violently when struck — flinging razor shards in all directions.",
     "hue_interaction": "Resonates negatively with Crimson — absorbing heat and increasing movement speed.\n\nExposes its true body when hit with Cobalt sound bursts or Violet prism fractures.\n\nImmune to most bleed or decay effects — it has no flesh.",
     "behavior": "Prefers ambush tactics — hides in lava pools, sand drifts, or shattered rock beds.\n\nUses whip-like lunges followed by slithering retreats.\n\nEvery 3rd strike it takes causes a defensive shatter, creating damaging glass fields.",
-    "weaknesses": "Vulnerable to vibration-based spells (e.g. seismic drums, ground pulse), which disrupt balance and expose its molten heart.\n\nIf shattered over cooled lava, fragments remain inert — allows safe pathing.\n\nMomentarily stunned after “glass bloom” — when it erupts in full defense mode.",
+    "weaknesses": "Vulnerable to vibration-based spells (e.g. seismic drums, ground pulse), which disrupt balance and expose its molten heart.\n\nIf shattered over cooled lava, fragments remain inert — allows safe pathing.\n\nMomentarily stunned after "glass bloom" — when it erupts in full defense mode.",
     "notes": "Some desert clans wear shards from fallen Glasslashes as pendants — not for strength, but for memory. They say if you listen close, the glass still hums with the moment it broke. And it’s always the same note: regret."
   },
   "lore": {
@@ -839,15 +839,15 @@
       "Shatters violently when struck — flinging razor shards in all directions."
     ],
     "field_notes": [
-      "“She loved him. He left her in fire.”",
+      ""She loved him. He left her in fire."",
       "",
-      "“The story of the Glasslash begins, like many Vireyan things, with heartbreak. A betrayal at the mouth of a caldera. A fall. A scream. A woman too burned to die — and something waiting below.”",
+      ""The story of the Glasslash begins, like many Vireyan things, with heartbreak. A betrayal at the mouth of a caldera. A fall. A scream. A woman too burned to die — and something waiting below."",
       "",
-      "“What crawled out of that glass-blown crevice was not her. But it remembers her scream.”",
+      ""What crawled out of that glass-blown crevice was not her. But it remembers her scream."",
       "",
-      "“The serpent wears pain like armor. Each flick of its body cuts the world that made it. And when you strike it? It only remembers how to shatter better.”",
+      ""The serpent wears pain like armor. Each flick of its body cuts the world that made it. And when you strike it? It only remembers how to shatter better."",
       "",
-      "“Some Embermaidens whisper that it is the weapon left behind by the first betrayal. That it still waits for an apology.”",
+      ""Some Embermaidens whisper that it is the weapon left behind by the first betrayal. That it still waits for an apology."",
       "",
       "— Engraved on a blade never drawn"
     ],
@@ -864,8 +864,8 @@
     "description": "A sentient, levitating spellbook woven with shifting violet runes and reflective ink.\n\nTrails pages behind it like wings. Occasionally \"gasps\" when it learns something new about you.\n\nWrites and erases mid-battle.",
     "hue_interaction": "Copies spells cast using Cobalt or Aurelian hues with high accuracy.\n\nDisoriented by Violet’s Illusion Clone — cannot distinguish mimic from caster.\n\nImmune to direct charm; vulnerable to feedback loops (e.g. looped illusions, memory echoes).",
     "behavior": "Begins battle closed — then snaps open with a gasp when you attack.\n\nSelects from player’s previously used spells (past encounters, even region-specific).\n\nUses Ink Trail to confuse visual effects, and Runic Pulse that inverts spell directions.",
-    "weaknesses": "Pages are fragile during page-turning animation — hit then to break a spell loop.\n\nIf hit while it's “rewriting,” the book suffers a Truth Tear and becomes stunned.\n\nDefeated more easily when attacked with non-spell damage (e.g. melee, environmental).",
-    "notes": "On death, drops Unwritten Page, which can be bound to a spell to create a “ghost echo” — an auto-cast illusion of it that can act independently once per day.\nRare encounters may cause it to “remember” future player actions — causing strange feedback in later fights."
+    "weaknesses": "Pages are fragile during page-turning animation — hit then to break a spell loop.\n\nIf hit while it's "rewriting," the book suffers a Truth Tear and becomes stunned.\n\nDefeated more easily when attacked with non-spell damage (e.g. melee, environmental).",
+    "notes": "On death, drops Unwritten Page, which can be bound to a spell to create a "ghost echo" — an auto-cast illusion of it that can act independently once per day.\nRare encounters may cause it to "remember" future player actions — causing strange feedback in later fights."
   },
   "lore": {
     "title": "Tome of the Unwritten Self",
@@ -875,19 +875,19 @@
       "Trails pages behind it like wings. Occasionally \"gasps\" when it learns something new about you."
     ],
     "field_notes": [
-      "“We never finished writing it. So it kept writing itself.”",
+      ""We never finished writing it. So it kept writing itself."",
       "",
-      "“The Glittering Grimoire was once a journal — empty, waiting to be filled by a young mage. But as she grew uncertain, it began writing her instead.”",
+      ""The Glittering Grimoire was once a journal — empty, waiting to be filled by a young mage. But as she grew uncertain, it began writing her instead."",
       "",
-      "“Each time she chose not to cast a spell — the book remembered. Each secret withheld, each fear unspoken — the book listened.”",
+      ""Each time she chose not to cast a spell — the book remembered. Each secret withheld, each fear unspoken — the book listened."",
       "",
-      "“When the library fell, the Grimoire vanished into Myrrala’s winds. Now it drifts alone, seeking unfinished stories and half-cast spells.”",
+      ""When the library fell, the Grimoire vanished into Myrrala’s winds. Now it drifts alone, seeking unfinished stories and half-cast spells."",
       "",
-      "“It opens only to reflect you.”",
+      ""It opens only to reflect you."",
       "",
-      "“If it begins to write before you speak… run.”",
+      ""If it begins to write before you speak… run."",
       "",
-      "— Payne’s Shade, “On Living Texts”"
+      "— Payne’s Shade, "On Living Texts""
     ],
     "source": "Recovered Margins from the Library of Echoes"
   },
@@ -913,13 +913,13 @@
       "Stationary until triggered by specific actions near ruins or relics."
     ],
     "field_notes": [
-      "“When words fail, the forest builds its silence. And silence, once shaped, stands eternal.”",
+      ""When words fail, the forest builds its silence. And silence, once shaped, stands eternal."",
       "",
-      "“The Grovebound Sentinels were not made—they were grown. Not by hands, but by decree. Root, stone, and memory braided into form by the elders of Huevale to guard what should never be touched, and to remember what must never be spoken.”",
+      ""The Grovebound Sentinels were not made—they were grown. Not by hands, but by decree. Root, stone, and memory braided into form by the elders of Huevale to guard what should never be touched, and to remember what must never be spoken."",
       "",
-      "“They do not breathe. They do not speak. Yet they listen, eternally attuned to vibrations of trespass and desecration. Their vines reach deeper than the ruins they protect, and they rise not with anger, but purpose.”",
+      ""They do not breathe. They do not speak. Yet they listen, eternally attuned to vibrations of trespass and desecration. Their vines reach deeper than the ruins they protect, and they rise not with anger, but purpose."",
       "",
-      "“One does not slay a Sentinel. One reasons with it—not through words, but by proving worth. Solve the forest’s puzzle, and the Sentinel sleeps once more. Fail… and the forest will erase the mistake with quiet precision.”",
+      ""One does not slay a Sentinel. One reasons with it—not through words, but by proving worth. Solve the forest’s puzzle, and the Sentinel sleeps once more. Fail… and the forest will erase the mistake with quiet precision."",
       "",
       "— Transcribed by the Celadon Archivist, from the root-code of an awakened Sentinel"
     ],
@@ -947,17 +947,17 @@
       "Hides in low light, strikes from bloom-covered surfaces."
     ],
     "field_notes": [
-      "“The lilies grieve when it feeds. They know it was once part of them.”",
+      ""The lilies grieve when it feeds. They know it was once part of them."",
       "",
-      "“The Heliotropic Lurker was not planted. It grew from sorrow, a vine that refused to wither when the sun set on its garden.”",
+      ""The Heliotropic Lurker was not planted. It grew from sorrow, a vine that refused to wither when the sun set on its garden."",
       "",
-      "“It stalks by scent, by shadow-angle, by memory of warmth. It never hunts in full light, but flares when dawn rises — a final hunger before retreat.”",
+      ""It stalks by scent, by shadow-angle, by memory of warmth. It never hunts in full light, but flares when dawn rises — a final hunger before retreat."",
       "",
-      "“Some say it only appears to those carrying heliotrope — the band, the bloom, or the guilt. Others believe it is drawn to unresolved farewells.”",
+      ""Some say it only appears to those carrying heliotrope — the band, the bloom, or the guilt. Others believe it is drawn to unresolved farewells."",
       "",
-      "“If it sees you, it won’t chase.”",
+      ""If it sees you, it won’t chase."",
       "",
-      "“It will wait.”",
+      ""It will wait."",
       "",
       "— Liseran Caretaker, beneath the Weeping Lilies"
     ],
@@ -973,9 +973,9 @@
     "first_emerged": "Mid-Color War, during the Siege of Eburnea",
     "description": "A radiant figure wrapped in tattered bone-cloth and sun-etched glyphs, the Hollow Prophet wanders the Gilded Expanse, offering revelations no one asks for — and silencing those who hesitate to listen.",
     "hue_interaction": "Aurelian spells fuel their flash-rune intensity unless mirrored or redirected\n\nVulnerable to Cobalt silence spells and emotional resonance interference\n\nVerdant abilities can root them briefly by overloading sensory bloom",
-    "behavior": "Patrols ancient ruins and former shrines\n\nInitiates combat with a “Sermon Pulse” — a flash-rune that inverts movement controls and destabilizes the HUD\n\nCasts “Truthbrands” — radiant glyphs that bind targets who have lied in previous dialogue paths\n\nImmune to most light-based attacks; feeds on them to cast stronger judgment spells",
+    "behavior": "Patrols ancient ruins and former shrines\n\nInitiates combat with a "Sermon Pulse" — a flash-rune that inverts movement controls and destabilizes the HUD\n\nCasts "Truthbrands" — radiant glyphs that bind targets who have lied in previous dialogue paths\n\nImmune to most light-based attacks; feeds on them to cast stronger judgment spells",
     "weaknesses": "The Eburnean Dice can gamble a memory against their power, weakening them briefly\n\nIllusion magic scrambles their sermon logic\n\nWill not attack characters who carry unbroken vows or truth-touched relics",
-    "notes": "Some believe Hollow Prophets cannot lie. Others think they burned their own lies away — and now hunt yours.\n\n“They do not seek followers. Only confessions.”"
+    "notes": "Some believe Hollow Prophets cannot lie. Others think they burned their own lies away — and now hunt yours.\n\n"They do not seek followers. Only confessions.""
   },
   "lore": {
     "title": "The Blinding Sermon",
@@ -985,13 +985,13 @@
       "Each step leaves a branded rune in the sand. Their voice doesn’t echo — it scorches."
     ],
     "field_notes": [
-      "“They say the Hollow Prophets were once true seers — priests who stared too long at the midday sun and saw only truth afterward.”",
+      ""They say the Hollow Prophets were once true seers — priests who stared too long at the midday sun and saw only truth afterward."",
       "",
-      "“Their sermons come in pulses. You don't hear them — you feel them. They light up every fear you've hidden in shadow and then ask: 'What will you burn to make it pure?'”",
+      ""Their sermons come in pulses. You don't hear them — you feel them. They light up every fear you've hidden in shadow and then ask: 'What will you burn to make it pure?'"",
       "",
-      "“One knelt by the Eburnean Gate for days, unmoving, its voice cracking through heatwaves. I offered coin. It offered blindness.”",
+      ""One knelt by the Eburnean Gate for days, unmoving, its voice cracking through heatwaves. I offered coin. It offered blindness."",
       "",
-      "“There’s no god left in them — only clarity too sharp to carry.”"
+      ""There’s no god left in them — only clarity too sharp to carry.""
     ],
     "source": "Scorched prayer-scroll from the Aureolin Temple Ruins"
   },
@@ -1004,8 +1004,8 @@
     "threat_level": "⚠️ Variable — Safe when still, catastrophic when agitated",
     "first_emerged": "Post-Core Collapse – Nullshade Genesis",
     "description": "These crystalline fragments of once-complete hue essence now drift, skitter, and hum with forgotten light. They are the aftershocks of color’s shattering — unstable, curious, and deadly when intersected.",
-    "hue_interaction": "React violently to concentrated hue magic — especially if multiple hues are active.\n\nEach fragment carries an unstable “echo” of a specific hue. When struck, may cast random low-tier spell effects of that hue (e.g., Red = fire burst, Yellow = flash pulse).\n\nWhen three or more collide, they may cause a Hue Cascade — a zone-wide chromatic distortion field that temporarily disables all hue-bound abilities.",
-    "behavior": "Not aggressive unless provoked by hue alignment, spells, or AoE proximity.\n\nIn some cases, may follow the player briefly, attempting to “resonate” — which can overload equipment or inflict hue blur.\n\nIn rare Nullshade time loops, Huefractals may briefly align and “sing” a lost color, triggering a puzzle glyph sequence.",
+    "hue_interaction": "React violently to concentrated hue magic — especially if multiple hues are active.\n\nEach fragment carries an unstable "echo" of a specific hue. When struck, may cast random low-tier spell effects of that hue (e.g., Red = fire burst, Yellow = flash pulse).\n\nWhen three or more collide, they may cause a Hue Cascade — a zone-wide chromatic distortion field that temporarily disables all hue-bound abilities.",
+    "behavior": "Not aggressive unless provoked by hue alignment, spells, or AoE proximity.\n\nIn some cases, may follow the player briefly, attempting to "resonate" — which can overload equipment or inflict hue blur.\n\nIn rare Nullshade time loops, Huefractals may briefly align and "sing" a lost color, triggering a puzzle glyph sequence.",
     "weaknesses": "Stabilized by complete silence — no music, no abilities, no movement.\n\nCan be grounded by Prism Glyph Anchors or Nullpulse fields (created via Nullshade puzzle completion).\n\nDestroyed Huefractals sometimes drop Fractal Residue — used to craft unstable hue grenades or Prism Shard keys.",
     "notes": "Some Archivists claim Huefractals are what remains of the Seventh Hue.\n\nIf one resonates with the player long enough without combat, a hidden memory scene may trigger — showing the moment the Prism broke, from a non-human perspective."
   },
@@ -1017,13 +1017,13 @@
       "Shards of a spectrum that no longer remembers its name."
     ],
     "field_notes": [
-      "“They were once part of something sacred. The Core sang with their chorus. But when the Prism cracked, the notes scattered and forgot the tune.”",
+      ""They were once part of something sacred. The Core sang with their chorus. But when the Prism cracked, the notes scattered and forgot the tune."",
       "",
-      "“Some tried to collect them. None returned whole. Not dead — just… chromatically incorrect.”",
+      ""Some tried to collect them. None returned whole. Not dead — just… chromatically incorrect."",
       "",
-      "“One danced near me once. It laughed in teal. Then wept in a color I didn’t have a word for.”",
+      ""One danced near me once. It laughed in teal. Then wept in a color I didn’t have a word for."",
       "",
-      "“They want to return. But they don’t remember where they began. So they collide with anything that might have been their origin.”"
+      ""They want to return. But they don’t remember where they began. So they collide with anything that might have been their origin.""
     ],
     "source": "Fragment from \"The Spectrum that Broke\" — Scrawlings in Nullshade Dust"
   },
@@ -1049,13 +1049,13 @@
       "They drift lazily until a hue is activated — then swarm to drain it from you."
     ],
     "field_notes": [
-      "“At first, I mistook them for droplets of oil falling upward — mesmerizing, harmless. But when I cast even the simplest burst of Crimson, they surged like starving children.”",
+      ""At first, I mistook them for droplets of oil falling upward — mesmerizing, harmless. But when I cast even the simplest burst of Crimson, they surged like starving children."",
       "",
-      "“One latched onto my back, and the world dimmed. My fire fizzled to ash. My pulse slowed. In that moment, I understood — they feed not on color… but on intention.”",
+      ""One latched onto my back, and the world dimmed. My fire fizzled to ash. My pulse slowed. In that moment, I understood — they feed not on color… but on intention."",
       "",
-      "“Hue Leeches do not kill. They erase. What you meant to do fades. What you believed, dulls. I survived by flashing a prism shard in their midst — they scattered, furious, luminous.”",
+      ""Hue Leeches do not kill. They erase. What you meant to do fades. What you believed, dulls. I survived by flashing a prism shard in their midst — they scattered, furious, luminous."",
       "",
-      "“They taught me the cruelest truth: color is trust. And they are doubt incarnate.”"
+      ""They taught me the cruelest truth: color is trust. And they are doubt incarnate.""
     ],
     "source": "Excerpt from \"Drifting Parasites of the Huefold Realms\" by Ashar of Huevale"
   },
@@ -1081,13 +1081,13 @@
       "Trails lava where it walks. Each footfall leaves behind burning terrain."
     ],
     "field_notes": [
-      "“We did not create it. We unburied it.”",
+      ""We did not create it. We unburied it."",
       "",
-      "“They say the Lava-Fused was born from beneath — a beast the size of a siege tower, resting in magma until rage woke it. Not a dragon, not a titan — just the shape fire chose to wear.”",
+      ""They say the Lava-Fused was born from beneath — a beast the size of a siege tower, resting in magma until rage woke it. Not a dragon, not a titan — just the shape fire chose to wear."",
       "",
-      "“Its back vents fury. Its breath melts spears. The earth bends around it. Nothing in Vireya moves so slowly — or kills so fast.”",
+      ""Its back vents fury. Its breath melts spears. The earth bends around it. Nothing in Vireya moves so slowly — or kills so fast."",
       "",
-      "“Some Ember Priests believe it carries a buried heart — the first fire, unquenched and still dreaming of destruction. Others say it has no heart. That’s why it burns so loud.”",
+      ""Some Ember Priests believe it carries a buried heart — the first fire, unquenched and still dreaming of destruction. Others say it has no heart. That’s why it burns so loud."",
       "",
       "— Translation by Elarin Flintwake, shortly before the Furnace Maw collapsed"
     ],
@@ -1103,9 +1103,9 @@
     "first_emerged": "During the Bloomwake Season in Myrrala",
     "description": "Cloaked in glowing lily petals and mist.\n\nSpeaks in looped fragments of previous conversations.\n\nStanding too close causes dialogue boxes to replay — even if they never happened.",
     "hue_interaction": "Weak to pattern disruption via Cobalt’s Mind Echo or Violet’s Glamour Pulse.\n\nAurelian’s Radiant Echo reveals which \"memories\" are false.\n\nVerdant tools like Skygrowth Seed can ground its mist temporarily.",
-    "behavior": "Opens with a shimmerburst that reverses dialogue choices.\n\nRepeats 3–5 second memory loops that affect hitboxes and terrain.\n\nCasts “Memory Bloom” — an AoE illusion that causes the player to speak involuntarily, re-triggering decision points.",
+    "behavior": "Opens with a shimmerburst that reverses dialogue choices.\n\nRepeats 3–5 second memory loops that affect hitboxes and terrain.\n\nCasts "Memory Bloom" — an AoE illusion that causes the player to speak involuntarily, re-triggering decision points.",
     "weaknesses": "Interrupted by call-and-response magic (e.g., Razzmatazz Drum).\n\nBecomes tangible during the final beat of a rhythmic cycle (watch the petals sway).\n\nUsing the Thulian Mirror during combat reveals which line it's about to speak — preempting the loop.",
-    "notes": "A rare scholar wrote:\n\n> “The lily only lies if you ask it to bloom.”\n\nThat scroll ends with a sentence that trails off… repeating itself… again… and again…"
+    "notes": "A rare scholar wrote:\n\n> "The lily only lies if you ask it to bloom."\n\nThat scroll ends with a sentence that trails off… repeating itself… again… and again…"
   },
   "lore": {
     "title": "Memory Wrapped in Bloom",
@@ -1151,13 +1151,13 @@
       "Communicates exclusively through reversed limericks, creating disorienting illusions."
     ],
     "field_notes": [
-      "“Beware the voice speaking in verse,\\nWhose words flow smoothly, reversed.\\nIt laughs from the shade,\\nWith mischief it's made—\\nIn echoes your senses immersed.”",
+      ""Beware the voice speaking in verse,\\nWhose words flow smoothly, reversed.\\nIt laughs from the shade,\\nWith mischief it's made—\\nIn echoes your senses immersed."",
       "",
-      "“It began as whispers in Huevale, perfectly mimicking the beloved Limerick Druid. We thought it harmless—just playful forest echoes. But soon we realized our mistake. Each rhyme it spoke twisted reality, illusions folding upon illusions, until we doubted which reflection was truly ours.”",
+      ""It began as whispers in Huevale, perfectly mimicking the beloved Limerick Druid. We thought it harmless—just playful forest echoes. But soon we realized our mistake. Each rhyme it spoke twisted reality, illusions folding upon illusions, until we doubted which reflection was truly ours."",
       "",
-      "“It lures wanderers astray, conjuring mirror selves that act with intent to confuse, leading them deep into forgotten groves or shadowed hollows from which they never return. Those who escape describe endless rhyme echoing in their dreams, language tangled and reversed, pulling sanity thread by thread.”",
+      ""It lures wanderers astray, conjuring mirror selves that act with intent to confuse, leading them deep into forgotten groves or shadowed hollows from which they never return. Those who escape describe endless rhyme echoing in their dreams, language tangled and reversed, pulling sanity thread by thread."",
       "",
-      "“In Huevale, the line between jest and threat is blurred by the Limeroot Trickster—a creature of rhyme, whose laughter is but the first warning of its cunning deception.”"
+      ""In Huevale, the line between jest and threat is blurred by the Limeroot Trickster—a creature of rhyme, whose laughter is but the first warning of its cunning deception.""
     ],
     "source": "Excerpt from \"Echoes and Rhymes: Verses of Verdant Mischief,\" anonymous manuscript found in Tinctara Archives"
   },
@@ -1171,28 +1171,28 @@
     "first_emerged": "Mid-Nullshade Collapse, during the Prism Shard Fracture",
     "description": "A tall, shrouded figure bearing a scroll of inked names and colored glyphs. Its face is an empty vellum mask that shifts depending on who sees it.\n\nMoves fluidly, yet without sound — always one step behind or ahead. Leaves behind fading afterimages that quote memories the player never made.",
     "hue_interaction": "Immune to most hue damage — instead, hue attacks are reflected as twisted abilities (e.g., a Green healing spell becomes a Brown decay tether).\n\nOccasionally rewrites one of your equipped abilities temporarily — switching it for a flawed version with different mechanics or cost.\n\nCan be destabilized briefly by Violet paradox effects or Bistre Lantern activations.",
-    "behavior": "Doesn’t initiate combat in the usual sense — instead, lingers near puzzle areas or lore reveals.\n\nBegins by mimicking small parts of the player’s history: gear loadout, early dialogue, voice lines.\n\nIf not interrupted, escalates by replacing one of your passive traits or even UI labels (e.g., renaming a button from “Attack” to “Regret”).",
-    "weaknesses": "Binding it within a Prism Sigil Circle can “pin” its scroll — revealing and undoing some of its grafts.\n\nInterrupted if a true memory is spoken aloud via a scripted prompt (player must recall something from early game).\n\nWeakens when confronted by another player-character’s memory shard (e.g., an NPC echo from a side quest).",
-    "notes": "Memory Grafters are said to be the reason some Prismwalkers “go silent” — not because they die, but because they forget they existed.\n\nOne theory suggests they are fragments of Prismara’s subconscious — the Core trying to rewrite its own shame."
+    "behavior": "Doesn’t initiate combat in the usual sense — instead, lingers near puzzle areas or lore reveals.\n\nBegins by mimicking small parts of the player’s history: gear loadout, early dialogue, voice lines.\n\nIf not interrupted, escalates by replacing one of your passive traits or even UI labels (e.g., renaming a button from "Attack" to "Regret").",
+    "weaknesses": "Binding it within a Prism Sigil Circle can "pin" its scroll — revealing and undoing some of its grafts.\n\nInterrupted if a true memory is spoken aloud via a scripted prompt (player must recall something from early game).\n\nWeakens when confronted by another player-character’s memory shard (e.g., an NPC echo from a side quest).",
+    "notes": "Memory Grafters are said to be the reason some Prismwalkers "go silent" — not because they die, but because they forget they existed.\n\nOne theory suggests they are fragments of Prismara’s subconscious — the Core trying to rewrite its own shame."
   },
   "lore": {
     "title": "Stolen Histories",
-    "quote": "“You don’t remember losing your name — just that he started calling you something else.”",
+    "quote": ""You don’t remember losing your name — just that he started calling you something else."",
     "flavor_description": [
       "He does not take lives. He replaces them.",
       "The Memory Grafter is not a killer — it is an editor.",
       "Cloaked in patchwork ink and hue-scratched robes, it walks the unseen line between truth and story, harvesting identity like fruit that ripened too early."
     ],
     "field_notes": [
-      "“It didn’t kill her. It rewrote her. When I found what was left, she still moved like my sister. Still used her name. But when she spoke, I knew…”",
+      ""It didn’t kill her. It rewrote her. When I found what was left, she still moved like my sister. Still used her name. But when she spoke, I knew…"",
       "",
-      "“She had new stories. Ones she hadn’t lived.”",
+      ""She had new stories. Ones she hadn’t lived."",
       "",
-      "“He holds a scroll. Always writing. Always replacing. You see yourself on it, eventually.”",
+      ""He holds a scroll. Always writing. Always replacing. You see yourself on it, eventually."",
       "",
-      "“If you forget the color of your thoughts — you’ve already been grafted.”"
+      ""If you forget the color of your thoughts — you’ve already been grafted.""
     ],
-    "source": "Transcript Fragment – “Stolen Histories,” banned from the Bistre Archive"
+    "source": "Transcript Fragment – "Stolen Histories," banned from the Bistre Archive"
   },
   "drops": []
 }{
@@ -1205,24 +1205,24 @@
     "description": "The Memory Husk appears as a ghostly copy of the player, often in older equipment or casting long-abandoned spells. It inhabits places where the player has previously died, failed, or made significant decisions.",
     "hue_interaction": "Reacts to the hues the player has bound before.\n\nAdapts to mimic combat rhythm based on equipped color.\n\nHighly unstable when faced with conflicting past choices.",
     "behavior": "Mimics player movements with slight delay or error.\n\nChanges attack pattern if player changes weapon mid-fight.\n\nMutters distorted fragments of the player’s past dialogue.",
-    "weaknesses": "Temporarily pacified when the player performs an action they never used before.\n\nVulnerable to “Memory Echo” from the Earthen Bound hue.\n\nCan be defeated by correctly replaying a sequence of past dialogue lines.",
-    "notes": "Some Memory Husks whisper names of the player’s lost allies or reflect choices never taken. In rare cases, they drop “Faded Self” items — non-functional echoes of gear the player once wore."
+    "weaknesses": "Temporarily pacified when the player performs an action they never used before.\n\nVulnerable to "Memory Echo" from the Earthen Bound hue.\n\nCan be defeated by correctly replaying a sequence of past dialogue lines.",
+    "notes": "Some Memory Husks whisper names of the player’s lost allies or reflect choices never taken. In rare cases, they drop "Faded Self" items — non-functional echoes of gear the player once wore."
   },
   "lore": {
     "title": "The Hollow Reflections",
-    "quote": "“A shell of who you were… or might become.”",
+    "quote": ""A shell of who you were… or might become."",
     "flavor_description": [
       "A pale, translucent figure echoing your form, posture, and past choices.",
       "Its presence carries the uncanny familiarity of a half-remembered dream, or the mistake you never corrected."
     ],
     "field_notes": [
-      "“They stand just where you stood. Speak in your cadence. Swing with your uncertainty.”",
+      ""They stand just where you stood. Speak in your cadence. Swing with your uncertainty."",
       "",
-      "“In Auralith, death lingers — not as punishment, but as a rehearsal. The Husk is what remains when the soul forgets which version of itself it died as.”",
+      ""In Auralith, death lingers — not as punishment, but as a rehearsal. The Husk is what remains when the soul forgets which version of itself it died as."",
       "",
-      "“I watched mine draw breath. I do not remember breathing that way.”"
+      ""I watched mine draw breath. I do not remember breathing that way.""
     ],
-    "source": "Lore Entry: Fragment from “The Hollow Reflections,” recovered from the Isabelline Catacombs"
+    "source": "Lore Entry: Fragment from "The Hollow Reflections," recovered from the Isabelline Catacombs"
   },
   "drops": []
 }{
@@ -1235,26 +1235,26 @@
     "description": "A wiry insect-like creature with limbs of glinting obsidian and a core that pulses like a heartbeat. When close, it emits a whispering hum — like your own thoughts turned alien.",
     "hue_interaction": "Highly resistant to logic- and pattern-based attacks (Blue); weak to memory-restoring items (e.g., Bistre Lantern).\n\nTemporarily disoriented by Echo-based spells or full silence auras (Brown/Violet mix).",
     "behavior": "Charges the player erratically; attaches with a flash of static.\n\nOn successful latch, it causes:\n- Temporary loss of button prompts\n- Disabling of 1–2 equipped Hue abilities\n- UI distortion (flickering text, backward narration)\n\nCan be knocked off by triggering a memory echo (e.g., stepping into a past scene reflection).",
-    "weaknesses": "Repelled by memory artifacts (like the “Tethered Locket” or “Truth Echo Scroll”).\n\nFire-based AoE flushes them from stealth; they avoid direct sunlight or radiant zones.\n\nVulnerable when “full” — after stealing too many prompts, they slow down visibly.",
-    "notes": "Rarely appear in groups, but the damage they do accumulates psychologically.\n\nDefeating them restores lost prompts gradually — some may only return after interacting with a remembered NPC or shrine.\n\nNullshade survivors say, “If you hear yourself forget… run.”"
+    "weaknesses": "Repelled by memory artifacts (like the "Tethered Locket" or "Truth Echo Scroll").\n\nFire-based AoE flushes them from stealth; they avoid direct sunlight or radiant zones.\n\nVulnerable when "full" — after stealing too many prompts, they slow down visibly.",
+    "notes": "Rarely appear in groups, but the damage they do accumulates psychologically.\n\nDefeating them restores lost prompts gradually — some may only return after interacting with a remembered NPC or shrine.\n\nNullshade survivors say, "If you hear yourself forget… run.""
   },
   "lore": {
     "title": "Nullborne Ecology",
-    "quote": "“It doesn’t feed on blood. It gnaws at your knowing.”",
+    "quote": ""It doesn’t feed on blood. It gnaws at your knowing."",
     "flavor_description": [
       "A skittering, crystalline arthropod with glinting mandibles and eyes like broken clocks.",
       "The Memory Leech doesn’t just attack—it unravels you."
     ],
     "field_notes": [
-      "“They were first seen crawling from Shatterglass Pools — drawn to forgotten words and interrupted thoughts.”",
+      ""They were first seen crawling from Shatterglass Pools — drawn to forgotten words and interrupted thoughts."",
       "",
-      "“One latched onto me during a glyph alignment. For hours, I couldn’t recall what fire was. Only when I held my child’s drawing did the memory return.”",
+      ""One latched onto me during a glyph alignment. For hours, I couldn’t recall what fire was. Only when I held my child’s drawing did the memory return."",
       "",
-      "“Their hunger is specific: they consume the shape of memory. They feed on the scaffolding of identity.”",
+      ""Their hunger is specific: they consume the shape of memory. They feed on the scaffolding of identity."",
       "",
-      "“To kill one is easy. To recover what it took is not.”"
+      ""To kill one is easy. To recover what it took is not.""
     ],
-    "source": "Lore Entry: Fragment from “Nullborne Ecology,” etched in fading ink by a Bistre Archivist"
+    "source": "Lore Entry: Fragment from "Nullborne Ecology," etched in fading ink by a Bistre Archivist"
   },
   "drops": []
 }{
@@ -1272,21 +1272,21 @@
   },
   "lore": {
     "title": "The Gambler’s Mirage",
-    "quote": "“You blinked. It was never there. But now it is.”",
+    "quote": ""You blinked. It was never there. But now it is."",
     "flavor_description": [
       "Appears as a harmless illusion — a friendly traveler, glinting treasure chest, or even a familiar face.",
       "But when approached or touched, the illusion breaks, revealing a bladed phantom wrapped in distorted light."
     ],
     "field_notes": [
-      "“It looked like my brother. I hadn’t seen him since the siege. He waved me over — smiled with that chipped tooth he had.”",
+      ""It looked like my brother. I hadn’t seen him since the siege. He waved me over — smiled with that chipped tooth he had."",
       "",
-      "“But when I stepped close, the smile stayed too still. The eyes didn’t blink. The shadow… wasn’t his.”",
+      ""But when I stepped close, the smile stayed too still. The eyes didn’t blink. The shadow… wasn’t his."",
       "",
-      "“I drew my blade too late. It stabbed through my own hesitation.”",
+      ""I drew my blade too late. It stabbed through my own hesitation."",
       "",
-      "“They say the desert keeps your hopes warm so they don’t rot. But sometimes, they burn instead — and something crawls out of the ashes wearing your smile.”"
+      ""They say the desert keeps your hopes warm so they don’t rot. But sometimes, they burn instead — and something crawls out of the ashes wearing your smile.""
     ],
-    "source": "Transcript from “The Gambler’s Mirage,” an oral tale passed in Eburnea markets"
+    "source": "Transcript from "The Gambler’s Mirage," an oral tale passed in Eburnea markets"
   },
   "drops": []
 }{
@@ -1298,27 +1298,27 @@
     "first_emerged": "Post-Shattering; believed to have formed when mirage illusions solidified during a solar collapse event",
     "description": "An immense serpentine creature, semi-transparent and refracting like broken glass submerged in water. It leaves undulating shimmer trails that pulse with radiant heat and light distortion.",
     "hue_interaction": "Only surfaces in proximity to strong light sources or illusion spells\n\nImmune to direct fire damage — light fuels it\n\nReacts unpredictably to rhythmic movement (e.g. dance, music, timed traversal puzzles)",
-    "behavior": "Burrows just beneath desert surfaces, creating “liquid light wakes” — shimmering trails that ripple like reflections\n\nLures players toward false oasis markers before striking from below\n\nOnly fully vulnerable when surfaced, typically during high heat or if baited by illusion spells",
+    "behavior": "Burrows just beneath desert surfaces, creating "liquid light wakes" — shimmering trails that ripple like reflections\n\nLures players toward false oasis markers before striking from below\n\nOnly fully vulnerable when surfaced, typically during high heat or if baited by illusion spells",
     "weaknesses": "Can be lured by rhythmic gliding, illusion patterns, or mirror-based artifacts (e.g. Thulian Mirror)\n\nTemporarily vulnerable when emerging into true shadow — especially during solar eclipses or dusk phase events\n\nCannot cross pure darkness or zones entirely devoid of light-hue influence",
-    "notes": "Local sun-priests claim the Wyrm is the desert’s memory of the ocean — a dream of drowning transmuted into heat. Its shimmer isn’t just light — it’s thirst, searching for a reflection it once had and lost.\n\n“Step gently on sunlight. Something is watching its own reflection… through your shadow.”"
+    "notes": "Local sun-priests claim the Wyrm is the desert’s memory of the ocean — a dream of drowning transmuted into heat. Its shimmer isn’t just light — it’s thirst, searching for a reflection it once had and lost.\n\n"Step gently on sunlight. Something is watching its own reflection… through your shadow.""
   },
   "lore": {
     "title": "Sands Untrue",
-    "quote": "“It swam through light until it forgot the sky.”",
+    "quote": ""It swam through light until it forgot the sky."",
     "flavor_description": [
       "It swims through light, not sand",
       "A serpentine mirage-beast that glides just below the desert’s surface — not through sand, but through warped, reflective light."
     ],
     "field_notes": [
-      "“They told me it was a heat shimmer. That you could outrun it.”",
+      ""They told me it was a heat shimmer. That you could outrun it."",
       "",
-      "“But the ground wasn’t hot. It was hollow. The shimmer twisted — like glass half-melted into water.”",
+      ""But the ground wasn’t hot. It was hollow. The shimmer twisted — like glass half-melted into water."",
       "",
-      "“Then the dune rose and I saw the teeth.”",
+      ""Then the dune rose and I saw the teeth."",
       "",
-      "“You don’t kill a Mirrorthirst. You distract it with reflections of yourself and pray the real you gets away.”"
+      ""You don’t kill a Mirrorthirst. You distract it with reflections of yourself and pray the real you gets away.""
     ],
-    "source": "Fragment from “Sands Untrue,” journal of Fulvous Hunter Jaxem Kresh"
+    "source": "Fragment from "Sands Untrue," journal of Fulvous Hunter Jaxem Kresh"
   },
   "drops": []
 }{
@@ -1331,31 +1331,31 @@
     "description": "A duelist bound not to memory, but to mirrored surfaces. She moves across puddles, fragments, and skyglass panels with eerie grace — her attacks calibrated to the player’s form, reflected with lethal delay.\n\nShe does not speak. Her blade interprets your posture like a question.",
     "hue_interaction": "Only vulnerable when reflected simultaneously in two surfaces (water/glass).\n\nCrimson clashes disrupt her rhythm; Cobalt echoes reveal hidden stances.\n\nVerdant’s vines distort her movement path but do not bind her.",
     "behavior": "Shifts position by teleporting between reflective zones.\n\nBehavior cycle:\n- Mirage Lunge – charges where your reflection last moved.\n- Refracted Parry – blocks frontal Hue spells with mirrored delay.\n- Glassflame Riposte – strikes from an adjacent reflection after being dodged.",
-    "weaknesses": "Mirrorwake loses coordination if the player breaks all local reflections (e.g., shattering panels or vaporizing puddles).\n\nCombat simplified during storm-induced fog, which dulls mirrored clarity.\n\nTemporarily stunned by Payne’s Brush illusions (overwhelms her sense of “who is real”).",
+    "weaknesses": "Mirrorwake loses coordination if the player breaks all local reflections (e.g., shattering panels or vaporizing puddles).\n\nCombat simplified during storm-induced fog, which dulls mirrored clarity.\n\nTemporarily stunned by Payne’s Brush illusions (overwhelms her sense of "who is real").",
     "notes": "Skydancer lore claims her final opponent left behind no reflection.\nSome say if you defeat her without casting a shadow, she will bow… and vanish."
   },
   "lore": {
     "title": "Blade Between Reflections",
-    "quote": "“She fights in reflections. Yours. Hers. Anyone’s.”",
+    "quote": ""She fights in reflections. Yours. Hers. Anyone’s."",
     "flavor_description": [
       "Flickers into mirrored puddles or glass surfaces.",
       "Her blade leaves no wound — only a fading silhouette of the strike.",
       "Eyes shine like still water before a storm."
     ],
     "field_notes": [
-      "“Her duels never end. Not because she wins, but because the mirror never breaks.”",
+      ""Her duels never end. Not because she wins, but because the mirror never breaks."",
       "",
-      "“In life, she was a master of the Skyglass Pillars — undefeated, yet unremembered.”",
+      ""In life, she was a master of the Skyglass Pillars — undefeated, yet unremembered."",
       "",
-      "“When the storms shattered the arena’s ceiling, she was still mid-swing.”",
+      ""When the storms shattered the arena’s ceiling, she was still mid-swing."",
       "",
-      "“Some say her opponent left. Others say he never existed.”",
+      ""Some say her opponent left. Others say he never existed."",
       "",
-      "“Now, she reflects the one who enters — matching form, speed, and flaw.”",
+      ""Now, she reflects the one who enters — matching form, speed, and flaw."",
       "",
-      "“There are no spectators anymore. Only reflections.”",
+      ""There are no spectators anymore. Only reflections."",
       "",
-      "“She draws her sword when your gaze lingers too long.”"
+      ""She draws her sword when your gaze lingers too long.""
     ],
     "source": "Whispered in the Skyglass Arena’s Empty Hall"
   },
@@ -1371,25 +1371,25 @@
     "hue_interaction": "Aura dampens Hue regen and subtly alters time perception, making dodges and counters feel mistimed.\n\nSword strikes cause Dream-Poison: induces ghostly hallucinations of the past.\n\nVulnerable to light-based or memory-echo spells (Cobalt or Earthen preferred).",
     "behavior": "Patrols sacred ruin-sites or lost glades where the forest has grown over old battlefields.\n\nDefends these places with grim resolve, attacking only when approached or disturbed.\n\nOccasionally pauses mid-combat to \"listen\" to the ground—reacts to memory resonance near graves.",
     "weaknesses": "Staggered by Celadon Shards, which resonate with buried memories.\n\nTemporarily stunned by Memory Echoes related to his past (scene-triggered flashbacks).\n\nVulnerable to light-infused weapons that pierce shadow and root alike.",
-    "notes": "Scholars speculate the Revenant remembers not just his own life, but fragments of every life buried near him. Some who defeat him claim to hear a soft “thank you” as his moss crumbles and his sword returns to root. Others hear nothing—but dream of him for nights afterward."
+    "notes": "Scholars speculate the Revenant remembers not just his own life, but fragments of every life buried near him. Some who defeat him claim to hear a soft "thank you" as his moss crumbles and his sword returns to root. Others hear nothing—but dream of him for nights afterward."
   },
   "lore": {
     "title": "The Sleeping Warden",
-    "quote": "“Even the ghosts here wear green.”",
+    "quote": ""Even the ghosts here wear green."",
     "flavor_description": [
       "A fallen warrior, bound by root and regret",
       "Armored specter overgrown with moss, ivy, and cracked Verdant glyphs."
     ],
     "field_notes": [
-      "“Let no hue claim him. Let no name follow him. He bled green, and that was enough.”",
+      ""Let no hue claim him. Let no name follow him. He bled green, and that was enough."",
       "",
-      "“They say the Verdant Orders buried their dead with vines wrapped tight—to carry memory down into the roots. But sometimes memory does not sleep. Sometimes, it stands up, sword in hand, searching for what it failed to protect.”",
+      ""They say the Verdant Orders buried their dead with vines wrapped tight—to carry memory down into the roots. But sometimes memory does not sleep. Sometimes, it stands up, sword in hand, searching for what it failed to protect."",
       "",
-      "“The Mossgrave Revenant was once a protector of Huevale’s sacred glades. When the Prism shattered, he fell defending a grove that did not survive. Now, he wanders, armor cracked and blooming, bound not by duty—but by grief.”",
+      ""The Mossgrave Revenant was once a protector of Huevale’s sacred glades. When the Prism shattered, he fell defending a grove that did not survive. Now, he wanders, armor cracked and blooming, bound not by duty—but by grief."",
       "",
-      "“He does not speak. But those who linger in his presence report fragments of dreams: a child singing in a glade, a sword sinking into moss, a name whispered and forgotten. He attacks without rage, but with deep certainty—like a story trying to finish itself.”",
+      ""He does not speak. But those who linger in his presence report fragments of dreams: a child singing in a glade, a sword sinking into moss, a name whispered and forgotten. He attacks without rage, but with deep certainty—like a story trying to finish itself."",
       "",
-      "“To face him is to face the memory of a forest mourning through a blade.”"
+      ""To face him is to face the memory of a forest mourning through a blade.""
     ],
     "source": "Lore Entry: Inscription etched on a stone sarcophagus, overgrown in the Tinctara Crypt-Ruins"
   },
@@ -1402,28 +1402,28 @@
     "threat_level": "☠️ High – Environmental/Mental Hazard",
     "first_emerged": "Unknown – Possibly pre-Color War anomaly",
     "description": "Tall, robed in layered silk woven from moth-skin and flower dust. Her eyes bloom and close like petals. Her wings emit a soporific sound that alters thought and slows reflexes.\n\nSurrounded by a swarm of Thalera moths that shimmer between green and blue — each tied to emotional memory.",
-    "hue_interaction": "Alternates between Verdant (Green) and Cobalt (Blue) alignment in phase rhythm.\n\nHer moths carry hue echoes: when struck, they trigger illusion sequences from the player’s past.\n\nShe is vulnerable only during “dewing” phase — when her wings pulse and the air becomes thick with spores.",
+    "hue_interaction": "Alternates between Verdant (Green) and Cobalt (Blue) alignment in phase rhythm.\n\nHer moths carry hue echoes: when struck, they trigger illusion sequences from the player’s past.\n\nShe is vulnerable only during "dewing" phase — when her wings pulse and the air becomes thick with spores.",
     "behavior": "Opens combat with a riddle. Choosing an answer affects the battlefield (correct = stable terrain; wrong = shifting illusions).\n\nCasts:\n- Spiral Bloom: creates a ring of growing vines that traps and roots the player unless escaped via blink/dash.\n- Whispercloak: renders her briefly invisible; only her moths remain visible.\n- Mirrored Murmurs: mimics a previously encountered NPC’s voice to distract or mislead.\n\nPhase 2 (below 50% HP):\n- Wings shed completely. Movement becomes erratic and dance-like.\n- Moths become explosive, triggering illusion bursts or emotion-based debuffs (e.g., confusion, hesitation).",
     "weaknesses": "Vulnerable to sonic feedback (e.g., echo-pulse, chord runes).\n\nCannot be silenced, but speaking her true name during the second riddle phase will briefly stun her.\n\nLantern-based vision tools (e.g., Bistre Lantern) reveal her true shape during Whispercloak.",
-    "notes": "Her death does not yield treasure — it yields a question:\n\n“Was she ever real… or was she your future, grown in the wrong direction?”\n\nOptional encounter. Found only by following a non-map-marked moth trail in the Verdant region during dusk cycle.\n\nDefeating her unlocks the “Thalera Bloom” — a memory sigil that lets the player resist fear-induced status effects and decode flora-based glyphs."
+    "notes": "Her death does not yield treasure — it yields a question:\n\n"Was she ever real… or was she your future, grown in the wrong direction?"\n\nOptional encounter. Found only by following a non-map-marked moth trail in the Verdant region during dusk cycle.\n\nDefeating her unlocks the "Thalera Bloom" — a memory sigil that lets the player resist fear-induced status effects and decode flora-based glyphs."
   },
   "lore": {
     "title": "Dreambloom Recordings, Entry 17",
-    "quote": "“She doesn't cast spells. She releases questions that root into you.”",
+    "quote": ""She doesn't cast spells. She releases questions that root into you."",
     "flavor_description": [
       "Eyes like blossoms. Wings like whispers.",
       "She speaks in riddles while you bleed. She hums while your reflection loses its face."
     ],
     "field_notes": [
-      "“She speaks in riddles while you bleed. She hums while your reflection loses its face. But she’s not cruel. She simply doesn’t understand what truth is anymore.”",
+      ""She speaks in riddles while you bleed. She hums while your reflection loses its face. But she’s not cruel. She simply doesn’t understand what truth is anymore."",
       "",
-      "“The Verdant Spiral wasn’t a place. It was a question that grew out of control. Moss crept into logic. Petals wrapped around doubt. And at the center — her.”",
+      ""The Verdant Spiral wasn’t a place. It was a question that grew out of control. Moss crept into logic. Petals wrapped around doubt. And at the center — her."",
       "",
-      "“I saw a thousand moths, all with my face. Then none with eyes. Then only her, smiling as my voice said her name backwards.”",
+      ""I saw a thousand moths, all with my face. Then none with eyes. Then only her, smiling as my voice said her name backwards."",
       "",
-      "“If you find her, do not speak. Let her wings speak first. That is the test.”"
+      ""If you find her, do not speak. Let her wings speak first. That is the test.""
     ],
-    "source": "Extract from “Dreambloom Recordings, Entry 17” – Archivist Sellen Orvine"
+    "source": "Extract from "Dreambloom Recordings, Entry 17" – Archivist Sellen Orvine"
   },
   "drops": []
 }{
@@ -1441,23 +1441,23 @@
   },
   "lore": {
     "title": "The Scroll of [placeholder]",
-    "quote": "“They are not undead. They are unmade…”",
+    "quote": ""They are not undead. They are unmade…"",
     "flavor_description": [
       "Twitching creatures with void-filled eyes",
       "They emit a faint color static, a sound like someone whispering a name you've forgotten."
     ],
     "field_notes": [
-      "“I write this in root-ink, though I know not if ink can hold what I must say.”",
+      ""I write this in root-ink, though I know not if ink can hold what I must say."",
       "",
-      "“They came after the Core broke — crawling things, pale and featureless, like clay left out too long. But they were not blank. No… they were hollowed. I watched a beast shudder and fall, not from wound, but from forgetting itself entirely.”",
+      ""They came after the Core broke — crawling things, pale and featureless, like clay left out too long. But they were not blank. No… they were hollowed. I watched a beast shudder and fall, not from wound, but from forgetting itself entirely."",
       "",
-      "“One touched my companion, and in an instant her eyes dimmed. She forgot her name. Forgot mine. When I wept for her, the husk smiled. It had taken something — not her blood, not her life, but her hue.”",
+      ""One touched my companion, and in an instant her eyes dimmed. She forgot her name. Forgot mine. When I wept for her, the husk smiled. It had taken something — not her blood, not her life, but her hue."",
       "",
-      "“I believe they were once like us. Carriers of color. When the Prism ruptured, they were caught in the lightless tide that followed — and in that moment, they were rewritten by absence.”",
+      ""I believe they were once like us. Carriers of color. When the Prism ruptured, they were caught in the lightless tide that followed — and in that moment, they were rewritten by absence."",
       "",
-      "“We call them Nullborn, but that name is a mercy. They are not born. They are what's left when all birth, all memory, all color has bled out.”",
+      ""We call them Nullborn, but that name is a mercy. They are not born. They are what's left when all birth, all memory, all color has bled out."",
       "",
-      "“If you see one, do not speak. They remember sounds. If you feel yourself forgetting, run. And if you hear your name from their mouths — it is already too late.”"
+      ""If you see one, do not speak. They remember sounds. If you feel yourself forgetting, run. And if you hear your name from their mouths — it is already too late.""
     ],
     "source": "From the Scroll of [placeholder], Last Verdant Archivist"
   },
@@ -1470,28 +1470,28 @@
     "threat_level": "⚠️⚠️ High (Environmental Threat)",
     "first_emerged": "Near the shattering of the Core Wound",
     "description": "Coiled like a vine from the core of nothing, the Null-Root is not plant, not beast, not crystal — but the suggestion of all three. It stirs beneath the broken geometry of Nullshade, its tendrils seeking light that no longer exists.",
-    "hue_interaction": "Drawn to equipped Hue shards — becomes violent the more hues are active.\n\nGrows passive if player unequips all hue-bound gear or uses “Voidstep” relic.",
+    "hue_interaction": "Drawn to equipped Hue shards — becomes violent the more hues are active.\n\nGrows passive if player unequips all hue-bound gear or uses "Voidstep" relic.",
     "behavior": "Burrows and strikes from any prism-corrupted terrain nearby.\n\nDrags chunks of floating geometry into battle — hurling or using them as shields.\n\nIf ignored, will reshape the battlefield itself, corrupting puzzle zones and shrines.",
-    "weaknesses": "Cannot be killed directly — must let it strike a Prismwalker shard to trigger decay bloom.\n\nOnce it latches to a hue-infused item, it begins dissolving — that item is sacrificed.\n\nExposed to the “Caput Mortuum Phylactery,” it becomes inert for one cycle.",
-    "notes": "Emits a low, heartbeat-like thrum when nearby.\n\nSome echoes report a brief visual of the Prismwalker being “buried in roots” after defeating it — a non-lethal memory echo tied to its origin."
+    "weaknesses": "Cannot be killed directly — must let it strike a Prismwalker shard to trigger decay bloom.\n\nOnce it latches to a hue-infused item, it begins dissolving — that item is sacrificed.\n\nExposed to the "Caput Mortuum Phylactery," it becomes inert for one cycle.",
+    "notes": "Emits a low, heartbeat-like thrum when nearby.\n\nSome echoes report a brief visual of the Prismwalker being "buried in roots" after defeating it — a non-lethal memory echo tied to its origin."
   },
   "lore": {
     "title": "Notes on the Hollow Bloom",
-    "quote": "“Even the void dreamed of life. That’s where the rot began.”",
+    "quote": ""Even the void dreamed of life. That’s where the rot began."",
     "flavor_description": [
       "The Core tried to grow again. It failed beautifully.",
       "It germinated in absence — from a sliver of the Prism that refused to fade."
     ],
     "field_notes": [
-      "“It germinated in absence — from a sliver of the Prism that refused to fade.”",
+      ""It germinated in absence — from a sliver of the Prism that refused to fade."",
       "",
-      "“A tendril of hunger disguised as growth. Roots made of void-veins. A longing to begin again, in a world that no longer remembers how.”",
+      ""A tendril of hunger disguised as growth. Roots made of void-veins. A longing to begin again, in a world that no longer remembers how."",
       "",
-      "“But growth without hue is not rebirth. It is corruption wearing hope.”",
+      ""But growth without hue is not rebirth. It is corruption wearing hope."",
       "",
-      "“To kill the Null-Root, you must offer what it seeks — a future it cannot digest.”"
+      ""To kill the Null-Root, you must offer what it seeks — a future it cannot digest.""
     ],
-    "source": "Journal Fragment — “Notes on the Hollow Bloom” by the Caput Mortuum Ascetic"
+    "source": "Journal Fragment — "Notes on the Hollow Bloom" by the Caput Mortuum Ascetic"
   },
   "drops": []
 }{
@@ -1505,25 +1505,25 @@
     "hue_interaction": "Immune to all hue-based attacks — any color used is reflected with inverted effect.\n\nVulnerable only to inaction, truth, or nonviolent choices.\n\nUse of the Bistre Lantern reveals its source echo (what memory it’s drawn from).",
     "behavior": "Appears at critical memory junctions or lore-rich areas.\n\nMimics player behavior with a one-second delay, including pausing, dodging, or emoting.\n\nOccasionally, it will \"speak\" — using past lines the player said in other regions.",
     "weaknesses": "Standing perfectly still causes it to vanish after 12 seconds.\n\nReciting or triggering remembered truths (via collected lore) calms it.\n\nTouching a Shatterglass Pool while near it causes mutual reflection — both vanish.",
-    "notes": "Multiple Nullshade Echoes can appear in NG+ modes — each based on a different past choice.\n\nSome can be interacted with through dialogue. One was seen whispering a phrase the player had never spoken aloud.\n\nIf defeated properly, it fades whispering:\n\n> “It wasn’t wrong. It was just… before.”"
+    "notes": "Multiple Nullshade Echoes can appear in NG+ modes — each based on a different past choice.\n\nSome can be interacted with through dialogue. One was seen whispering a phrase the player had never spoken aloud.\n\nIf defeated properly, it fades whispering:\n\n> "It wasn’t wrong. It was just… before.""
   },
   "lore": {
     "title": "Reverberations of Unselfing",
-    "quote": "“You moved first. It simply responded... eventually.”",
+    "quote": ""You moved first. It simply responded... eventually."",
     "flavor_description": [
       "A ghostly silhouette of the Prismwalker — not as they are, but as they once were.",
       "It retraces steps, replays actions, and confronts the player not with violence, but reflection."
     ],
     "field_notes": [
-      "“I watched one retrace my sister’s footsteps — even though she died in the war of hues. The Echo did not bleed. It did not speak. It simply… reminded.”",
+      ""I watched one retrace my sister’s footsteps — even though she died in the war of hues. The Echo did not bleed. It did not speak. It simply… reminded."",
       "",
-      "“It mimicked her hesitation, her step backward, the way her hands shook when she refused to strike. I had forgotten that about her. And yet, the Echo hadn’t.”",
+      ""It mimicked her hesitation, her step backward, the way her hands shook when she refused to strike. I had forgotten that about her. And yet, the Echo hadn’t."",
       "",
-      "“Some say they are mirror fragments of the Prismwalker. Others believe they are the world's last attempt to remind us what we once swore never to do again.”",
+      ""Some say they are mirror fragments of the Prismwalker. Others believe they are the world's last attempt to remind us what we once swore never to do again."",
       "",
-      "“Whatever they are, they cannot be bested. They can only be forgiven.”"
+      ""Whatever they are, they cannot be bested. They can only be forgiven.""
     ],
-    "source": "Entry recorded by the Caput Mortuum Ascetic in “Reverberations of Unselfing”"
+    "source": "Entry recorded by the Caput Mortuum Ascetic in "Reverberations of Unselfing""
   },
   "drops": []
 }{
@@ -1537,27 +1537,27 @@
     "hue_interaction": "Cannot be aligned. Causes instability in the player’s current hue if struck or touched.\n\nEnters phase-shift state when near strong hue magic, becoming invisible or displaced unless lit by:\n• Cobalt (Blue) reality-lock sigils\n• Yellow (Hope) illusions refracted through the Thulian Mirror\n• Violet dream-lensing (Glamour Pulse)",
     "behavior": "Wanders aimlessly until triggered by:\n• Player casting a hue spell near them.\n• Touching a Memory Echo shrine.\n• Saying a phrase tied to their former hue allegiance.\n\nIn combat:\n• Heavy, deliberate swings — infused with color-ghosts of old abilities.\n• At 50% HP, they begin to teleport erratically, repeating your previous movements with lagging mimicry.",
     "weaknesses": "Must be lit by hue before becoming vulnerable: e.g., Blue Sigils, Lanterns, or truth-based illusions.\n\nCannot be silenced, but disrupted by lore items tied to their past self (e.g., Journal Fragments, Relic Sketches).\n\nPrismwalker Shard glow pulses stronger near them — a clue to real-space alignment.",
-    "notes": "Some Prismwalkers report “remembering” events they never lived after battling one.\n\nThe Bistre Archivist theorized they are “souls who fractured across hues too often — now trapped in the space between.”"
+    "notes": "Some Prismwalkers report "remembering" events they never lived after battling one.\n\nThe Bistre Archivist theorized they are "souls who fractured across hues too often — now trapped in the space between.""
   },
   "lore": {
     "title": "Core‑Walker’s Notes, Vol. VII",
-    "quote": "“It remembers dying. It forgot why it came back.”",
+    "quote": ""It remembers dying. It forgot why it came back."",
     "flavor_description": [
       "A broken warrior or mage — once aligned with vivid hue — now drained, twisted, and filled with the noise of silence.",
       "Shimmers of past allegiance still cling to its form… barely."
     ],
     "field_notes": [
-      "“We found her kneeling at the edge of a Shatterglass Pool. Not praying. Not breathing. Just… remembering.”",
+      ""We found her kneeling at the edge of a Shatterglass Pool. Not praying. Not breathing. Just… remembering."",
       "",
-      "“A crimson sash fluttered from one arm. A green tattoo pulsed beneath her cracked skin. Once, she was a hero of the Color War. Now, she barely casts a shadow.”",
+      ""A crimson sash fluttered from one arm. A green tattoo pulsed beneath her cracked skin. Once, she was a hero of the Color War. Now, she barely casts a shadow."",
       "",
-      "“When she rose, her eyes didn’t see us. They saw some place we weren’t. She moved through our attacks like they hadn’t happened yet.”",
+      ""When she rose, her eyes didn’t see us. They saw some place we weren’t. She moved through our attacks like they hadn’t happened yet."",
       "",
-      "“Then she struck — and I forgot how to defend.”",
+      ""Then she struck — and I forgot how to defend."",
       "",
-      "“The Nullshade does not raise the dead. It reflects what it means to never have died right.”"
+      ""The Nullshade does not raise the dead. It reflects what it means to never have died right.""
     ],
-    "source": "Excerpt from “Core‑Walker’s Notes, Vol. VII” – Anonymous Prismwalker"
+    "source": "Excerpt from "Core‑Walker’s Notes, Vol. VII" – Anonymous Prismwalker"
   },
   "drops": []
 }{
@@ -1570,24 +1570,24 @@
     "description": "The Ochre Golem is a memory-bound sentinel — carved by hand and imbued with ancestral resonance. Its core is a Burnt Sienna Golem Core, pulsing only when nearby relics are disturbed. Despite its sluggishness, its strikes crumble stone and stun with historical weight.",
     "hue_interaction": "Absorbs Brown (Earthen) healing magic as stamina.\n\nImmobilized temporarily with Violet illusion patterns resembling its creator.\n\nCobalt echo-magic resonates with its memory core, forcing hesitation.",
     "behavior": "Remains inert until player breaks, moves, or scans an object marked with memory glyphs.\n\nOnce triggered, will not stop pursuing the intruder unless pacified or reset.\n\nAvoids stepping on certain burial glyphs unless provoked to frenzy.",
-    "weaknesses": "Temporarily pacified if a correct Memory Token (tied to its origin) is placed at its feet.\n\nVulnerable from behind during its “memory surge” animation — a slow, glowing pause.\n\nCannot cross sanctified lines created with Bistre Lantern flame.",
+    "weaknesses": "Temporarily pacified if a correct Memory Token (tied to its origin) is placed at its feet.\n\nVulnerable from behind during its "memory surge" animation — a slow, glowing pause.\n\nCannot cross sanctified lines created with Bistre Lantern flame.",
     "notes": "Some golems whisper unfinished phrases while they move — stuttering old oaths or forgotten names. If their chest etching is wiped clean, they weep stone dust… and cease."
   },
   "lore": {
     "title": "Steles and Stillness",
-    "quote": "“It waits not for permission — but for purpose.”",
+    "quote": ""It waits not for permission — but for purpose."",
     "flavor_description": [
       "Constructed from ochre-streaked limestone and fossilized memory ore, the Ochre Golem slumbers among ruins, unmoving for decades — until a trespasser disturbs what it was left to guard.",
       "It does not rush. But it does not stop."
     ],
     "field_notes": [
-      "“A statue is only still when it is being watched. Leave, and it breathes.”",
+      ""A statue is only still when it is being watched. Leave, and it breathes."",
       "",
-      "“We carved them to remember — not to defend. But the weight of memory is heavier than armor.”",
+      ""We carved them to remember — not to defend. But the weight of memory is heavier than armor."",
       "",
-      "“One still stands in Mortuum’s orchard, beneath the ash-fruit tree. I etched my first sin in its chest. It has never forgiven me. That’s how I know it still works.”"
+      ""One still stands in Mortuum’s orchard, beneath the ash-fruit tree. I etched my first sin in its chest. It has never forgiven me. That’s how I know it still works.""
     ],
-    "source": "From “Steles and Stillness,” by the Burnt Sienna Sculptor"
+    "source": "From "Steles and Stillness," by the Burnt Sienna Sculptor"
   },
   "drops": []
 }{
@@ -1598,28 +1598,28 @@
     "threat_level": "⚠️ Moderate-to-Severe – Memory Drain",
     "first_emerged": "Post-Shattering, shortly after the collapse of the Phylactery Vault",
     "description": "A drifting swarm of glimmering, fly-like constructs with miniature glyphs engraved on their chitin. Each holds a fragment of a soul — stolen, gifted, or long abandoned. They buzz softly, repeating half-spoken names and severed dreams.",
-    "hue_interaction": "Brown-bound memory spells repel or redirect their feeding pattern.\n\nViolet illusions confuse their targeting (they can’t find the “real” name).\n\nBlue mind-based defenses lock out name resonance, reducing damage over time.",
-    "behavior": "Aggressive in clusters; each hit reduces XP, disrupts equipped memory-bound relics, or causes temporary skill fog.\n\nThey prioritize targets with the most stored names, such as players with saved dialogue trees, memory fragments, or death-echoes.\n\nIf fed a “forgotten name” (e.g. an unused True Name), the swarm dissipates peacefully.",
+    "hue_interaction": "Brown-bound memory spells repel or redirect their feeding pattern.\n\nViolet illusions confuse their targeting (they can’t find the "real" name).\n\nBlue mind-based defenses lock out name resonance, reducing damage over time.",
+    "behavior": "Aggressive in clusters; each hit reduces XP, disrupts equipped memory-bound relics, or causes temporary skill fog.\n\nThey prioritize targets with the most stored names, such as players with saved dialogue trees, memory fragments, or death-echoes.\n\nIf fed a "forgotten name" (e.g. an unused True Name), the swarm dissipates peacefully.",
     "weaknesses": "Fire magic burns them outright — especially from purified sources.\n\nSonic pulses from Violet-aligned instruments cause disarray in their flight pattern.\n\nBistre Lantern stuns them in shadow if activated in silence.",
-    "notes": "Destroying a swarm sometimes releases “Whispers in Dust,” a rare crafting essence used for soul-bound relic upgrades. But if you kill them while carrying a forgotten name, your own may become unstable in the Codex."
+    "notes": "Destroying a swarm sometimes releases "Whispers in Dust," a rare crafting essence used for soul-bound relic upgrades. But if you kill them while carrying a forgotten name, your own may become unstable in the Codex."
   },
   "lore": {
     "title": "The Names That Never Rest",
-    "quote": "“If they whisper your name, run. If they forget it — it’s already too late.”",
+    "quote": ""If they whisper your name, run. If they forget it — it’s already too late."",
     "flavor_description": [
       "Tiny. Hungry. Each holds a name they never earned.",
       "A cloud of brass-eyed, soulbound insects formed from failed phylacteries — vessels meant to preserve life, now drifting husks of stolen identities."
     ],
     "field_notes": [
-      "“At first, I thought them ash-fleas. Harmless, if persistent. But the swarm began to sing — in names. Names I had forgotten.”",
+      ""At first, I thought them ash-fleas. Harmless, if persistent. But the swarm began to sing — in names. Names I had forgotten."",
       "",
-      "“They circle. They whisper. And if one touches skin, a piece of memory loosens.”",
+      ""They circle. They whisper. And if one touches skin, a piece of memory loosens."",
       "",
-      "“Caput Mortuum warned us: failed phylacteries don’t just break — they scatter. A name is a soul’s handle. These insects collect… and misuse.”",
+      ""Caput Mortuum warned us: failed phylacteries don’t just break — they scatter. A name is a soul’s handle. These insects collect… and misuse."",
       "",
-      "“I burned the scrolls. I prayed over the ink. Still, they murmured the names I never told anyone.”",
+      ""I burned the scrolls. I prayed over the ink. Still, they murmured the names I never told anyone."",
       "",
-      "“If you’ve forgotten your own voice, they’ll help. But it will cost you.”"
+      ""If you’ve forgotten your own voice, they’ll help. But it will cost you.""
     ],
     "source": "Fragmented field report from the Bistre Archivist, sealed in ash"
   },
@@ -1639,19 +1639,19 @@
   },
   "lore": {
     "title": "Crystal Monolith Etching, Nullshade Sector V",
-    "quote": "“It shifts. It splinters. It remembers every color but its own.”",
+    "quote": ""It shifts. It splinters. It remembers every color but its own."",
     "flavor_description": [
       "A spectral figure that flickers between all hues, each fragment representing a broken alignment.",
       "Mimics attacks and spells from multiple Orders in unstable, glitched forms."
     ],
     "field_notes": [
-      "“We wore colors like crowns. Then we drowned in them. One escaped the palette. One became many.”",
+      ""We wore colors like crowns. Then we drowned in them. One escaped the palette. One became many."",
       "",
-      "“The Unform wasn't made. It occurred. A glitch in memory. A reflection of those who wore every hue and called it balance.”",
+      ""The Unform wasn't made. It occurred. A glitch in memory. A reflection of those who wore every hue and called it balance."",
       "",
-      "“They say it remembers your colors before you do. That it chooses what you forget.”",
+      ""They say it remembers your colors before you do. That it chooses what you forget."",
       "",
-      "“It flickers — not because it's weak, but because the truth burns too brightly to hold still.”"
+      ""It flickers — not because it's weak, but because the truth burns too brightly to hold still.""
     ],
     "source": "Prism Unform – Crystal Monolith Etching, Nullshade Sector V"
   },
@@ -1671,20 +1671,20 @@
   },
   "lore": {
     "title": "Notes of Mauveine Spark",
-    "quote": "“It giggles in your blind spot. That’s when it strikes.”",
+    "quote": ""It giggles in your blind spot. That’s when it strikes."",
     "flavor_description": [
       "Tiny fey creature wrapped in ribbons of illusion fire.",
       "Uses chaotic glamour to scramble the player's senses.",
       "Appears in bursts of pink and purple sparks, laughing."
     ],
     "field_notes": [
-      "“Yes, yes, I made it. But I didn’t teach it to laugh.”",
+      ""Yes, yes, I made it. But I didn’t teach it to laugh."",
       "",
-      "“The Razzflare wasn’t born. It burst into being — a byproduct of an unstable glamour brew during one of my more... dazzling accidents.”",
+      ""The Razzflare wasn’t born. It burst into being — a byproduct of an unstable glamour brew during one of my more... dazzling accidents."",
       "",
-      "“They’re tricksters, sure, but my tricksters. Pink flames. Inverted shadows. Laughter that bends mirrors. They mess with minds because they don’t understand shape...”",
+      ""They’re tricksters, sure, but my tricksters. Pink flames. Inverted shadows. Laughter that bends mirrors. They mess with minds because they don’t understand shape..."",
       "",
-      "“If you hear giggling where there should be silence, it’s already too late.”"
+      ""If you hear giggling where there should be silence, it’s already too late.""
     ],
     "source": "From the Notes of Mauveine Spark"
   },
@@ -1699,23 +1699,23 @@
     "description": "The Red Widow is an assassin cloaked in beauty and flame. Her lace-wrapped body flows like smoke, vanishing in the shimmer of heat or stepping between shadows. She doesn’t stalk — she performs. Her presence bends minds, breaks loyalty, and unravels cohesion through elegance alone.",
     "hue_interaction": "Uses Crimson Hue defensively — turns heat into afterimage misdirection.\n\nVulnerable to Cobalt truthseeing and Violet counter-charm abilities.\n\nHer charm effect increases in power if the player has recently won a duel or is high in confidence-affecting stats.",
     "behavior": "Begins encounters with distance and dialogue — often offering a riddle or taunt.\n\nAttacks from odd angles using teleportation steps and delayed mirrored blades.\n\nCharms one nearby ally/NPC during midfight — forced to attack for her unless broken.",
-    "weaknesses": "Interrupting her “final pose” animation leaves her stunned.\n\nWeak to sound-disruption spells — her rhythm falters under noise or distortion.\n\nMirror terrain (obsidian floors, reflective lava glass) breaks her cloaking entirely.",
+    "weaknesses": "Interrupting her "final pose" animation leaves her stunned.\n\nWeak to sound-disruption spells — her rhythm falters under noise or distortion.\n\nMirror terrain (obsidian floors, reflective lava glass) breaks her cloaking entirely.",
     "notes": "Players who defeat the Red Widow sometimes find red silk tucked into their inventory, inexplicably. No explanation. No use. Just… soft, perfumed cloth. Some wear it. Others burn it. A few… report dreams of her returning. Smiling."
   },
   "lore": {
     "title": "The Burning Waltz",
-    "quote": "“Her kisses are funerals.”",
+    "quote": ""Her kisses are funerals."",
     "flavor_description": [
       "Assassin garbed in flowing red lace, moving with dancer's grace.",
       "Fades in and out of heat mirages, creating gaps in visibility and perception.",
       "Can charm or turn nearby NPCs — or, rarely, other players in co-op — mid-combat."
     ],
     "field_notes": [
-      "“I saw her only once. She stepped out of the smoke like a poem.”",
+      ""I saw her only once. She stepped out of the smoke like a poem."",
       "",
-      "“They say she was once the last dancer of the Crimson Court — trained in motion, not murder. But when the war came, she didn’t stop. She changed the music.”",
+      ""They say she was once the last dancer of the Crimson Court — trained in motion, not murder. But when the war came, she didn’t stop. She changed the music."",
       "",
-      "“If she looks your way, bow. If she reaches for you… well, at least the dance ends with grace.”"
+      ""If she looks your way, bow. If she reaches for you… well, at least the dance ends with grace.""
     ],
     "source": "Found in a perfume-stained letter burned at the corners"
   },
@@ -1725,29 +1725,29 @@
   "entry": {
     "name": "Rustworn Judge",
     "type": "Spectral Adjudicator / Trialbound Duelist",
-    "threat_level": "⚠️ High (Triggers zone-wide “duel” state)",
+    "threat_level": "⚠️ High (Triggers zone-wide "duel" state)",
     "first_emerged": "Post-Shattering – Bound to the Isabelline Tribunal Ruins",
     "description": "Tall, silent, and clad in lacquered remnants of gold and crimson armor, the Rustworn Judge emerges in areas where too many lies or falsehoods have been spoken. Its sword drags across the ground like a gavel across cracked marble.\n\nWhen it engages, the HUD disappears. Only heartbeats, footfalls, and spoken choices remain.",
     "hue_interaction": "Cannot perceive illusions — Violet-bound players may delay confrontation.\n\nAttuned to Earthen truths; lying in dialogue triggers its full aggression.\n\nWill challenge Crimson-bound characters more harshly, invoking blood-duel rites.",
-    "behavior": "Begins neutral; approaches only if a dialogue deception or broken vow is detected nearby.\n\nUpon engagement, all other threats vanish from the arena — this becomes a Trial Zone.\n\nSpeaks only in verdicts: “Guilty,” “Paused,” “Judged.” Each phase tightens its aggression.",
-    "weaknesses": "During the “Paused” phase, players may offer a Memory Token from a known past regret to delay the duel.\n\nThe Bistre Lantern, when lit at the edge of the arena, reveals its original name — speaking this name aloud (in dialogue) weakens its form.\n\nDefeated only by a perfect parry during its “Judged” strike or by ending the duel through confession.",
+    "behavior": "Begins neutral; approaches only if a dialogue deception or broken vow is detected nearby.\n\nUpon engagement, all other threats vanish from the arena — this becomes a Trial Zone.\n\nSpeaks only in verdicts: "Guilty," "Paused," "Judged." Each phase tightens its aggression.",
+    "weaknesses": "During the "Paused" phase, players may offer a Memory Token from a known past regret to delay the duel.\n\nThe Bistre Lantern, when lit at the edge of the arena, reveals its original name — speaking this name aloud (in dialogue) weakens its form.\n\nDefeated only by a perfect parry during its "Judged" strike or by ending the duel through confession.",
     "notes": "Players who lie or misremember their past actions during combat will have movement briefly impaired. It is not the Judge’s blade that slays — but your own dishonesty echoing back."
   },
   "lore": {
     "title": "The Tribunal of Dust",
-    "quote": "“Silence is guilt. Speak, and be tested.”",
+    "quote": ""Silence is guilt. Speak, and be tested."",
     "flavor_description": [
       "Once a duelist of the Mikado Warlord’s court, now reduced to a corroded phantom enshrined in ceremonial armor.",
       "It drifts through forgotten trial chambers in the Dimming Hollow, demanding judgment where justice has long rotted."
     ],
     "field_notes": [
-      "“He presided over the Ash Trials — where guilt was presumed, and memory was the only plea. His blade struck truth from hesitation.”",
+      ""He presided over the Ash Trials — where guilt was presumed, and memory was the only plea. His blade struck truth from hesitation."",
       "",
-      "“When the Catacombs crumbled, the Judge did not fall. He simply waited, verdict unspoken, blade still angled toward indecision.”",
+      ""When the Catacombs crumbled, the Judge did not fall. He simply waited, verdict unspoken, blade still angled toward indecision."",
       "",
-      "“We say: do not argue with the rust. It has waited longer than you have drawn breath.”"
+      ""We say: do not argue with the rust. It has waited longer than you have drawn breath.""
     ],
-    "source": "Fragment from “The Tribunal of Dust” — Sootleaf Scroll, Mortuum Hold"
+    "source": "Fragment from "The Tribunal of Dust" — Sootleaf Scroll, Mortuum Hold"
   },
   "drops": []
 }{
@@ -1797,17 +1797,17 @@
   },
   "lore": {
     "title": "The Vessel of Boiling Faith",
-    "quote": "“Their veins boil. Their gods demand it.”",
+    "quote": ""Their veins boil. Their gods demand it."",
     "flavor_description": [
       "Frenzied humanoids wreathed in ritual flame.",
       "Ignite their own blood mid-fight to empower attacks."
     ],
     "field_notes": [
-      "“We gave them fire and they gave us back belief.”",
+      ""We gave them fire and they gave us back belief."",
       "",
-      "“The Searbloods are not born. They are chosen — or broken. Fanatics of the Flame Choir...”",
+      ""The Searbloods are not born. They are chosen — or broken. Fanatics of the Flame Choir..."",
       "",
-      "“One ignites to strike. Two ignite to sanctify. A dozen? That’s a sermon, and you'd best run.”"
+      ""One ignites to strike. Two ignite to sanctify. A dozen? That’s a sermon, and you'd best run.""
     ],
     "source": "Burned parchment recovered from the Ember Reliquary"
   },
@@ -1822,8 +1822,8 @@
     "description": "A hidden, endgame-only encounter — The Seventh Hue is not a creature but a contradiction. It exists outside the spectrum and beyond remembrance. If you find it, you've already chosen wrong — or maybe right.",
     "hue_interaction": "Nullifies all active hues on contact.\n\nForces the player into a reversed state: strengths become weaknesses; chosen affinities invert.",
     "behavior": "Appears only if you solve five or more Nullshade prism riddles without error.\n\nOpens combat by stripping your HUD and fading the world to monochrome.\n\nUses Unname attacks — which erase traits, stat modifiers, or emotional cues.\n\nSpeaks only in reflection — its voice is yours, distorted.",
-    "weaknesses": "Only defeated by confronting a final player-typed truth prompt during combat’s midpoint.\n\nCertain dialogue choices from The Blooming Veil or Auralith echo as resistance.\n\nUse of “Silent Hue” alignment temporarily reveals its true form.",
-    "notes": "If defeated, unlocks Optional Dialogue Before Final Boss:\n\"What if the Prism was wrong?\"\n\nIf spared, leaves behind a black shard that pulses between names never chosen.\n\nAdds entry to Hue Archive: “The Forbidden Color.”"
+    "weaknesses": "Only defeated by confronting a final player-typed truth prompt during combat’s midpoint.\n\nCertain dialogue choices from The Blooming Veil or Auralith echo as resistance.\n\nUse of "Silent Hue" alignment temporarily reveals its true form.",
+    "notes": "If defeated, unlocks Optional Dialogue Before Final Boss:\n\"What if the Prism was wrong?\"\n\nIf spared, leaves behind a black shard that pulses between names never chosen.\n\nAdds entry to Hue Archive: "The Forbidden Color.""
   },
   "lore": {
     "title": "Revealed through successful decoding of 5+ Nullshade Prism Riddles",
@@ -1851,21 +1851,21 @@
     "hue_interaction": "- Each choir member sings a corrupted hue-tone (Red, Orange, Yellow, Green, Blue, Violet).\n- Attacking them in the wrong hue strengthens their song.\n- Silence is a mechanic: standing still or sheathing all hue-gear for 5 seconds interrupts the chant.",
     "behavior": "- Circle slowly outward around key lore items or boss arena gates.\n- Sing in synchronized pulses — each pulse drains color and weakens nearby artifacts.\n- If left unchecked, the game UI fades entirely for a full minute.",
     "weaknesses": "- Must be defeated in order of spectrum reversal: Violet → Blue → Green → Yellow → Orange → Red.\n- If attacked out of order, they regenerate and double in volume.\n- Purple/Violet Glamour Pulse resets the song progression if player becomes overwhelmed.\n- Nullroot exposure nearby can silence one choir member temporarily.",
-    "notes": "Occasionally sing snatches of your choices, warping phrases like:\n“You chose… silence,” or “Color was never yours to hold.”\n\nKilling them all restores color to the region for a short time — enough to access sealed memory pools."
+    "notes": "Occasionally sing snatches of your choices, warping phrases like:\n"You chose… silence," or "Color was never yours to hold."\n\nKilling them all restores color to the region for a short time — enough to access sealed memory pools."
   },
   "lore": {
-    "title": "Torn page from “Echoes of a Prism Lost” by the Bistre Archivist",
-    "quote": "“They weren’t always like this. Once, they were singers of balance — prism children born to echo each hue as it rose.”",
+    "title": "Torn page from "Echoes of a Prism Lost" by the Bistre Archivist",
+    "quote": ""They weren’t always like this. Once, they were singers of balance — prism children born to echo each hue as it rose."",
     "flavor_description": [
       "They sing. The color leaves your screen."
     ],
     "field_notes": [
-      "“They weren’t always like this. Once, they were singers of balance — prism children born to echo each hue as it rose.”",
-      "“But when the Core fractured, their voices were scattered. Now they harmonize nothing — only absence.”",
-      "“The closer you get, the harder it is to hear yourself think. They hum in broken ROYGBV — and if you answer out of order, they don’t stop singing. They erase.”",
-      "“Only by silencing them in reverse — from red to violet, into gray — can their song be unsung.”"
+      ""They weren’t always like this. Once, they were singers of balance — prism children born to echo each hue as it rose."",
+      ""But when the Core fractured, their voices were scattered. Now they harmonize nothing — only absence."",
+      ""The closer you get, the harder it is to hear yourself think. They hum in broken ROYGBV — and if you answer out of order, they don’t stop singing. They erase."",
+      ""Only by silencing them in reverse — from red to violet, into gray — can their song be unsung.""
     ],
-    "source": "Torn page from “Echoes of a Prism Lost” by the Bistre Archivist"
+    "source": "Torn page from "Echoes of a Prism Lost" by the Bistre Archivist"
   },
   "drops": []
 }{
@@ -1883,15 +1883,15 @@
   },
   "lore": {
     "title": "Found etched behind a hidden prism in the Monolith Library of Nullshade",
-    "quote": "“I once bowed before it. It did nothing. I ran. Still nothing. But when I stood still… it saw me.”",
+    "quote": ""I once bowed before it. It did nothing. I ran. Still nothing. But when I stood still… it saw me."",
     "flavor_description": [
       "It watches. It judges. It never blinks."
     ],
     "field_notes": [
-      "“I once bowed before it. It did nothing. I ran. Still nothing. But when I stood still… it saw me.”",
-      "“No weapon can harm it. No hue impresses it. It doesn’t punish — it measures.”",
-      "“The old ones called it 'Judgment Uninvited'. A test you don’t know you’re failing.”",
-      "“Only by breaking its sight can you move freely. But know this — when it blinks, it remembers your shape.”"
+      ""I once bowed before it. It did nothing. I ran. Still nothing. But when I stood still… it saw me."",
+      ""No weapon can harm it. No hue impresses it. It doesn’t punish — it measures."",
+      ""The old ones called it 'Judgment Uninvited'. A test you don’t know you’re failing."",
+      ""Only by breaking its sight can you move freely. But know this — when it blinks, it remembers your shape.""
     ],
     "source": "Found etched behind a hidden prism in the Monolith Library of Nullshade"
   },
@@ -1905,23 +1905,23 @@
     "first_emerged": "After the Collapse of the Singing Gate (Shattering Era)",
     "description": "Cloaked in torn azure robes that never touch the ground.\n\nEmits shrieking gusts that cancel gliding and distort sound-based abilities.\n\nEach wraith floats with erratic grace — as if moved by voices only it can hear.",
     "hue_interaction": "- Dampens all Cobalt-based traversal effects nearby (e.g., Static Dash glide extensions).\n- Cries override sound-triggered puzzle inputs.\n- Vulnerable to grounded or Earth-based counterweights, which temporarily still their flight.",
-    "behavior": "- Patrol wind tunnels, cliff ledges, or broken sky bridges.\n- When provoked, emits a Disruption Cry that cancels flight/glide, disorients sound-based UI cues, and at high stacks triggers a “Vertigo Pulse.”\n- Will flee into fog if surrounded by silence (e.g., Cerulean Cloak active).",
-    "weaknesses": "- Weak to Earthen grounding spells, sound-null zones, or double-jump rhythm breaks.\n- Silence interrupts their shriek cycle.\n- Mind Echo can “overwrite” their cry with a stored sound (especially a player’s own voice).",
+    "behavior": "- Patrol wind tunnels, cliff ledges, or broken sky bridges.\n- When provoked, emits a Disruption Cry that cancels flight/glide, disorients sound-based UI cues, and at high stacks triggers a "Vertigo Pulse."\n- Will flee into fog if surrounded by silence (e.g., Cerulean Cloak active).",
+    "weaknesses": "- Weak to Earthen grounding spells, sound-null zones, or double-jump rhythm breaks.\n- Silence interrupts their shriek cycle.\n- Mind Echo can "overwrite" their cry with a stored sound (especially a player’s own voice).",
     "notes": "Some wraiths seem drawn to names — especially those carved or whispered.\nRumors tell of a Skycall Wraith that hums a lullaby from before the Shattering… but always off-key."
   },
   "lore": {
     "title": "Recovered from a shattered listening bell atop the Skyglass Spires",
-    "quote": "“When the storm broke the tower, we thought the cries were just wind in the bells.”",
+    "quote": ""When the storm broke the tower, we thought the cries were just wind in the bells."",
     "flavor_description": [
       "Pale spirits drifting on broken currents"
     ],
     "field_notes": [
-      "“When the storm broke the tower, we thought the cries were just wind in the bells.”",
-      "“But it was the wind forgetting its name. Forgetting how to be silent.”",
-      "“The Wraiths came after. Not ghosts — echoes of voices torn from those who leapt or were lost among the gusts.”",
-      "“One called my name. Not how I say it… how I meant it, once.”",
-      "“I froze. I fell.”",
-      "“We ring the bells now not for warning… but to remind the sky of silence.”"
+      ""When the storm broke the tower, we thought the cries were just wind in the bells."",
+      ""But it was the wind forgetting its name. Forgetting how to be silent."",
+      ""The Wraiths came after. Not ghosts — echoes of voices torn from those who leapt or were lost among the gusts."",
+      ""One called my name. Not how I say it… how I meant it, once."",
+      ""I froze. I fell."",
+      ""We ring the bells now not for warning… but to remind the sky of silence.""
     ],
     "source": "Recovered from a shattered listening bell atop the Skyglass Spires"
   },
@@ -1937,19 +1937,19 @@
     "hue_interaction": "- Immune to fire and Crimson-based aggression.\n- Amplifies lingering dialogue ghosts from Violet-aligned encounters.\n- Neutralized temporarily by the Bistre Lantern’s glow.",
     "behavior": "- Casts a black fog that replays memory fragments (cutscenes or flashbacks).\n- May paralyze the player mid-battle by echoing key past dialogue.\n- Hovers near burnt notes or ash-covered artifacts, trying to \"read\" them.",
     "weaknesses": "- Vulnerable to silence spells, especially from Verdant or Violet sources.\n- Disperses briefly when caught in the light of the Bistre Lantern or reflective glyphs.\n- Becomes unstable when the player speaks truth during a forced memory sequence.",
-    "notes": "Sootshades leave behind “Ash-Bound Pages” — rare consumable scrolls that reveal one hidden event or decision the player has forgotten. Using one rewrites the memory log... at a cost."
+    "notes": "Sootshades leave behind "Ash-Bound Pages" — rare consumable scrolls that reveal one hidden event or decision the player has forgotten. Using one rewrites the memory log... at a cost."
   },
   "lore": {
     "title": "Notes from the Bistre Archivist, smudged but intact",
-    "quote": "“Not all things burned are lost. Some simply migrate.”",
+    "quote": ""Not all things burned are lost. Some simply migrate."",
     "flavor_description": [
       "It gathers what the fire couldn't erase"
     ],
     "field_notes": [
-      "“Not all things burned are lost. Some simply migrate.”",
-      "“The Sootshade comes not to kill, but to recall. To trap you in a page you never turned — and make you read it aloud.”",
-      "“One stepped into my archive once. It didn’t walk. It lingered. When it passed, an entire section of blackened scrolls whispered back into ink — confessions no one meant to leave behind.”",
-      "“They do not judge. But they never forget. And memory, when weaponized, burns colder than any fire.”"
+      ""Not all things burned are lost. Some simply migrate."",
+      ""The Sootshade comes not to kill, but to recall. To trap you in a page you never turned — and make you read it aloud."",
+      ""One stepped into my archive once. It didn’t walk. It lingered. When it passed, an entire section of blackened scrolls whispered back into ink — confessions no one meant to leave behind."",
+      ""They do not judge. But they never forget. And memory, when weaponized, burns colder than any fire.""
     ],
     "source": "Notes from the Bistre Archivist, smudged but intact"
   },
@@ -1969,17 +1969,17 @@
   },
   "lore": {
     "title": "Voiceprint transcription, left unfinished by a monk of the Windward Chorus",
-    "quote": "“It cries your name before you hear it.”",
+    "quote": ""It cries your name before you hear it."",
     "flavor_description": [
       "Ghost-bird with eyes too human, too knowing"
     ],
     "field_notes": [
-      "“They say the wind in Iriseld carries more than rain. It carries loss — wrapped in wings.”",
-      "“I saw it at the cliff’s edge. It looked back. Not like a bird. Like a widow remembering.”",
-      "“It called my name… but my voice answered first. I felt myself move before deciding to.”",
-      "“It didn’t want to kill me. It wanted me to jump. To fly.”",
-      "“I clutched my cloak, not from wind — from ache.”",
-      "“Its cry is your grief, wearing feathers.”"
+      ""They say the wind in Iriseld carries more than rain. It carries loss — wrapped in wings."",
+      ""I saw it at the cliff’s edge. It looked back. Not like a bird. Like a widow remembering."",
+      ""It called my name… but my voice answered first. I felt myself move before deciding to."",
+      ""It didn’t want to kill me. It wanted me to jump. To fly."",
+      ""I clutched my cloak, not from wind — from ache."",
+      ""Its cry is your grief, wearing feathers.""
     ],
     "source": "Voiceprint transcription, left unfinished by a monk of the Windward Chorus"
   },
@@ -1994,21 +1994,21 @@
     "description": "A towering figure shrouded in torn veil-light, the Spectral Harvester appears not to punish—but to erase. It emerges from moments of neglect: puzzles failed, memories ignored, truths left unspoken. Its blade is not for flesh, but for the past.",
     "hue_interaction": "- Immune to hue magic unless it's cast with memory-infused relics (e.g., Bistre Lantern, Caput Mortuum Phylactery).\n- Weakened by Hue Reforge relics, which momentarily restore lost history or cancel its abilities.\n- Using a correct name from earlier lore allows the player to banish it early (one-use dialogue trigger).",
     "behavior": "- Appears if the player fails a Memory Echo segment, Nullshade prism riddle, or refuses to resolve a major lore prompt.\n- Spawns directly into the area — warping the environment subtly: sky darkens, color flickers, geometry buckles slightly.\n- Mechanics:\n  • Memory Cleave: player loses part of map progress or recorded lore entries.\n  • Harvest Swing: deletes a portion of HUD, restored only after re-solving the trigger.\n  • Echo Banish: calls forth spectral NPCs whispering blame or confusion.",
-    "weaknesses": "- Avoidable by completing Echo segments correctly or resolving Nullshade riddles.\n- Vulnerable during “Frozen Memory” state — when it pauses to recall a version of you it cannot confirm.\n- Can be dispelled by presenting a “True Memory” — an artifact you kept unchanged since Act I.",
+    "weaknesses": "- Avoidable by completing Echo segments correctly or resolving Nullshade riddles.\n- Vulnerable during "Frozen Memory" state — when it pauses to recall a version of you it cannot confirm.\n- Can be dispelled by presenting a "True Memory" — an artifact you kept unchanged since Act I.",
     "notes": "Spectral Harvesters do not drop loot. They drop pages — torn from quests or codex entries you once held.\nIf allowed to land three full swings: the player forgets a key past choice (locked until a lore artifact is used to remember)."
   },
   "lore": {
     "title": "Recovered Voice-Echo – Nullshade, Monolith Theta-9",
-    "quote": "“I missed the glyph. Just one. Didn’t say the right name. Didn’t speak the truth. Then… the hum started. Like glass grinding through silk.”",
+    "quote": ""I missed the glyph. Just one. Didn’t say the right name. Didn’t speak the truth. Then… the hum started. Like glass grinding through silk."",
     "flavor_description": [
       "One swing, and your history falls away."
     ],
     "field_notes": [
-      "“I missed the glyph. Just one.”",
-      "“Didn’t say the right name. Didn’t speak the truth.”",
-      "“Then… the hum started. Like glass grinding through silk.”",
-      "“I saw them — not me, but the ones I could’ve been. And it swung.”",
-      "“My journal is gone. My name in the Archive turned blank. That… thing didn’t kill me. It unremembered me.”"
+      ""I missed the glyph. Just one."",
+      ""Didn’t say the right name. Didn’t speak the truth."",
+      ""Then… the hum started. Like glass grinding through silk."",
+      ""I saw them — not me, but the ones I could’ve been. And it swung."",
+      ""My journal is gone. My name in the Archive turned blank. That… thing didn’t kill me. It unremembered me.""
     ],
     "source": "Recovered Voice-Echo – Nullshade, Monolith Theta-9"
   },
@@ -2028,15 +2028,15 @@
   },
   "lore": {
     "title": "Excerpt from \"Journal of the Mycofen,\" Author Unknown",
-    "quote": "“Born of breath, fed by decay.”",
+    "quote": ""Born of breath, fed by decay."",
     "flavor_description": [
       "Small figures crowned with fungal blooms"
     ],
     "field_notes": [
-      "“In the depths of Huevale, I stumbled upon circles of dancing lights. They were not lanterns, nor spirits—but children, small and moss-faced, their heads crowned in delicate mushrooms. Their laughter drifted like spores in moonlight.”",
-      "“As I approached, the air thickened with drifting motes, colors bursting into my vision that I'd never dreamed possible. Reality became pliable, bending gently as the Sporekin giggled. Soon, I forgot why I had come, my mind tangled in visions of forests walking and skies that sang.”",
-      "“Hours—or perhaps days—later, I awoke covered in fungal blooms, rooted in place. The Sporekin watched me silently, their glowing eyes curious yet indifferent. I realized then their laughter was not joy, but mockery. They were gardeners, and I was simply the soil.”",
-      "“Beware the Sporekin. They nurture decay and harvest dreams, feeding the forest's endless cycle of forgetting.”"
+      ""In the depths of Huevale, I stumbled upon circles of dancing lights. They were not lanterns, nor spirits—but children, small and moss-faced, their heads crowned in delicate mushrooms. Their laughter drifted like spores in moonlight."",
+      ""As I approached, the air thickened with drifting motes, colors bursting into my vision that I'd never dreamed possible. Reality became pliable, bending gently as the Sporekin giggled. Soon, I forgot why I had come, my mind tangled in visions of forests walking and skies that sang."",
+      ""Hours—or perhaps days—later, I awoke covered in fungal blooms, rooted in place. The Sporekin watched me silently, their glowing eyes curious yet indifferent. I realized then their laughter was not joy, but mockery. They were gardeners, and I was simply the soil."",
+      ""Beware the Sporekin. They nurture decay and harvest dreams, feeding the forest's endless cycle of forgetting.""
     ],
     "source": "Excerpt from \"Journal of the Mycofen,\" Author Unknown"
   },
@@ -2052,19 +2052,19 @@
     "hue_interaction": "- Disrupts spell channeling, especially Cobalt-based spells tied to storm or rhythm.\n- At high static charge, briefly disables Color Binding UI.\n- Can be slowed if surrounded by harmonic resonance (instruments, echo chimes, etc.).",
     "behavior": "- Paces cliff edges until it senses fast movement or charged spell buildup.\n- Uses Flash-Fang Lunge: teleports, hits, and leaves a static copy for 2s.\n- Occasionally howls — this stuns rhythm-based abilities and lowers visibility (storm flash).",
     "weaknesses": "- Susceptible to Wind-grounding relics and Cerulean Cloak effects.\n- Harmonic instruments distort its targeting.\n- Momentarily pacified if its own lightning arc is reflected (e.g., with a Payne’s Prism Pane).",
-    "notes": "Some monks claim the Stormwrit Hounds carry messages between lightning gods — or are the messages.\nOne relic hunter’s log simply said: “Don’t blink during thunder.”"
+    "notes": "Some monks claim the Stormwrit Hounds carry messages between lightning gods — or are the messages.\nOne relic hunter’s log simply said: "Don’t blink during thunder.""
   },
   "lore": {
     "title": "Fragment from a tethered sky-journal, page scorched and torn",
-    "quote": "“We heard it before we saw it — not a bark, but a pressure drop.”",
+    "quote": ""We heard it before we saw it — not a bark, but a pressure drop."",
     "flavor_description": [
       "Howling phantom stitched from wire and cloud"
     ],
     "field_notes": [
-      "“We heard it before we saw it — not a bark, but a pressure drop. The air folded in half. Then it struck.”",
-      "“My guide called it a “stormwrit,” a hound scribed by lightning itself. It doesn’t follow you. It finishes thoughts you haven’t had yet.”",
-      "“One moment it was chasing the birds above us — the next, it was inside my arcshield. And when it howled, something behind my eyes shattered.”",
-      "“I left the cliffs that day. My journal didn’t.”"
+      ""We heard it before we saw it — not a bark, but a pressure drop. The air folded in half. Then it struck."",
+      ""My guide called it a "stormwrit," a hound scribed by lightning itself. It doesn’t follow you. It finishes thoughts you haven’t had yet."",
+      ""One moment it was chasing the birds above us — the next, it was inside my arcshield. And when it howled, something behind my eyes shattered."",
+      ""I left the cliffs that day. My journal didn’t.""
     ],
     "source": "Fragment from a tethered sky-journal, page scorched and torn"
   },
@@ -2083,18 +2083,18 @@
     "notes": "Desert guides often carry heat-absorbent stones or cold-blood salves to mask their presence.\nIt's said that if a Sunburnt Jackal is howling at an empty flame, it’s mourning a prey that never burned."
   },
   "lore": {
-    "title": "Fragment from “Scorch and Silence,” a journal recovered near the Gamboge Vault",
-    "quote": "“I watched it circle the mirage fire for hours, never knowing it wasn’t real. It yipped and snapped at flickering sand. Not blind — not quite — but worse: its mind burns with too much sun and too little shadow.”",
+    "title": "Fragment from "Scorch and Silence," a journal recovered near the Gamboge Vault",
+    "quote": ""I watched it circle the mirage fire for hours, never knowing it wasn’t real. It yipped and snapped at flickering sand. Not blind — not quite — but worse: its mind burns with too much sun and too little shadow."",
     "flavor_description": [
       "A skeletal predator of burning dunes"
     ],
     "field_notes": [
-      "“I watched it circle the mirage fire for hours, never knowing it wasn’t real. It yipped and snapped at flickering sand. Not blind — not quite — but worse: its mind burns with too much sun and too little shadow.”",
-      "“They don’t see. They feel heat like scent — like music. My torch nearly killed me. I had to drop it and run silent into the dunes.”",
-      "“They say these beasts were once clever pack hunters, adapted to the shifting deserts. But now… now they worship warmth like it’s a god that betrayed them.”",
-      "“At night, I found one curled into a broken clay brazier, whimpering at the cold stars.”"
+      ""I watched it circle the mirage fire for hours, never knowing it wasn’t real. It yipped and snapped at flickering sand. Not blind — not quite — but worse: its mind burns with too much sun and too little shadow."",
+      ""They don’t see. They feel heat like scent — like music. My torch nearly killed me. I had to drop it and run silent into the dunes."",
+      ""They say these beasts were once clever pack hunters, adapted to the shifting deserts. But now… now they worship warmth like it’s a god that betrayed them."",
+      ""At night, I found one curled into a broken clay brazier, whimpering at the cold stars.""
     ],
-    "source": "Fragment from “Scorch and Silence,” a journal recovered near the Gamboge Vault"
+    "source": "Fragment from "Scorch and Silence," a journal recovered near the Gamboge Vault"
   },
   "drops": []
 }{
@@ -2105,24 +2105,24 @@
     "threat_level": "⚠️ High – Time-reactive combatant",
     "first_emerged": "Built pre-Shattering as timekeepers and guardians of sacred solar rituals; corrupted by the Huefall",
     "description": "A relentless desert sentinel carved of ancient sandstone and sunsteel, its face a functional sundial that casts a judgmental shadow. Time fuels its purpose — and you only live while it allows the sun to say so.",
-    "hue_interaction": "- Ignores illusionary magic completely — always acts on “true” player movement\n- Highly reactive to Aurelian light mechanics: speeds up when in bright light, slows in shadow\n- Temporally disrupted by Cobalt echo abilities or time-fracture artifacts",
+    "hue_interaction": "- Ignores illusionary magic completely — always acts on "true" player movement\n- Highly reactive to Aurelian light mechanics: speeds up when in bright light, slows in shadow\n- Temporally disrupted by Cobalt echo abilities or time-fracture artifacts",
     "behavior": "- \"Hourstep\" mechanic: only moves when the player does — mimicking your last path with a 2-second delay\n- \"Noonstrike\" ability: at high sun, attacks deal double damage if player is mid-action\n- \"Shadowbind\" counter: when its own shadow aligns with the player’s, it stuns and delivers a critical slash\n- Emits rhythmic drumming as it nears; players who ignore its shadow’s movement are often ambushed",
     "weaknesses": "- Pausing or stutter-stepping confuses its delayed tracking\n- Vulnerable when casting its own sundial glyphs (slow wind-up)\n- Blocking light or using sun-disruption tools disables its Noonstrike temporarily",
-    "notes": "Many travelers mistakenly believe Scarwalkers are blind — they’re not. Their “vision” is your rhythm, your weight, your urgency. Walk without purpose… and you live. For a little longer."
+    "notes": "Many travelers mistakenly believe Scarwalkers are blind — they’re not. Their "vision" is your rhythm, your weight, your urgency. Walk without purpose… and you live. For a little longer."
   },
   "lore": {
-    "title": "From “The Clocks That Bled,” Eburnean desert chronicle etched into goldleaf bark",
-    "quote": "“Before there were calendars, there were these things — time given feet and fury.”",
+    "title": "From "The Clocks That Bled," Eburnean desert chronicle etched into goldleaf bark",
+    "quote": ""Before there were calendars, there were these things — time given feet and fury."",
     "flavor_description": [
       "The shadow that counts every step"
     ],
     "field_notes": [
-      "“Before there were calendars, there were these things — time given feet and fury.”",
-      "“The Scarwalkers don’t speak. They don’t dream. They mark. Each movement carves a moment. Each kill, a tick lost.”",
-      "“You only notice its approach by your heartbeat syncing to the drag of its shadow.”",
-      "“The sun loves its children orderly. The Scarwalker ensures it.”"
+      ""Before there were calendars, there were these things — time given feet and fury."",
+      ""The Scarwalkers don’t speak. They don’t dream. They mark. Each movement carves a moment. Each kill, a tick lost."",
+      ""You only notice its approach by your heartbeat syncing to the drag of its shadow."",
+      ""The sun loves its children orderly. The Scarwalker ensures it.""
     ],
-    "source": "From “The Clocks That Bled,” Eburnean desert chronicle etched into goldleaf bark"
+    "source": "From "The Clocks That Bled," Eburnean desert chronicle etched into goldleaf bark"
   },
   "drops": []
 }{
@@ -2134,26 +2134,26 @@
     "first_emerged": "Believed to have been a ceremonial guardian of the Aureolin Courts, animated by forgotten rites of sun devotion",
     "description": "A radiant puppet of golden‑glass and sun‑thread sinew, forever caught mid‑dance upon beams of blinding light. It performs rituals of heat and precision — and punishes any who step out of rhythm.",
     "hue_interaction": "Aurelian spells energize it; damaging it with Yellow hues causes it to emit healing waves for itself\n\nDisrupted by Violet illusions and smoke/sand‑based concealment (breaks beam threads)\n\nWeakens in heavy cloud or artificial shade",
-    "behavior": "“Sunline Steps” mark healing zones under solar focus; it dances between them\n\nUses ribbon‑lash attacks to slice light‑bound enemies\n\nWill enter “Solar Bloom” state at 50% health: emits flares that detonate if not dodged in rhythm with her gestures\n\nCan teleport via reflected surfaces during battle",
+    "behavior": ""Sunline Steps" mark healing zones under solar focus; it dances between them\n\nUses ribbon‑lash attacks to slice light‑bound enemies\n\nWill enter "Solar Bloom" state at 50% health: emits flares that detonate if not dodged in rhythm with her gestures\n\nCan teleport via reflected surfaces during battle",
     "weaknesses": "Use shadow‑creating terrain or artifacts to sever solar tethers\n\nCobalt’s Mind Echo or illusions can stagger it mid‑spin\n\nHighly vulnerable when caught without light for more than 10 seconds",
-    "notes": "Ancient performance scrolls suggest the Marionette was once a celebrant — not a killer. Some dancers in Eburnea still perform her final dance at dusk, praying to blind the sun just long enough to forget their debts.\n\n> “If you step into the spotlight… be sure you’re ready to bow.”"
+    "notes": "Ancient performance scrolls suggest the Marionette was once a celebrant — not a killer. Some dancers in Eburnea still perform her final dance at dusk, praying to blind the sun just long enough to forget their debts.\n\n> "If you step into the spotlight… be sure you’re ready to bow.""
   },
   "lore": {
     "title": "Songs of the Marion Shrine",
-    "quote": "“They said the dancer was too beautiful to cast a shadow. So the sun made one — and gave it strings.”",
+    "quote": ""They said the dancer was too beautiful to cast a shadow. So the sun made one — and gave it strings."",
     "flavor_description": [
       "Dances on beams. Cracks like porcelain."
     ],
     "field_notes": [
-      "“They said the dancer was too beautiful to cast a shadow. So the sun made one — and gave it strings.”",
+      ""They said the dancer was too beautiful to cast a shadow. So the sun made one — and gave it strings."",
       "",
-      "“She was made of warmth and wire. A court doll forged for devotion. Her dance was a prayer. Her silence, a punishment.”",
+      ""She was made of warmth and wire. A court doll forged for devotion. Her dance was a prayer. Her silence, a punishment."",
       "",
-      "“One high noon, she stopped spinning. And the temple shadows lengthened for the first time in a hundred years.”",
+      ""One high noon, she stopped spinning. And the temple shadows lengthened for the first time in a hundred years."",
       "",
-      "“Now she dances alone, untethered and unwatched. But the beams remember — and burn those who turn away.”"
+      ""Now she dances alone, untethered and unwatched. But the beams remember — and burn those who turn away.""
     ],
-    "source": "From “Songs of the Marion Shrine,” a forbidden playbill burned at the Aureolin Temple"
+    "source": "From "Songs of the Marion Shrine," a forbidden playbill burned at the Aureolin Temple"
   },
   "drops": []
 }{
@@ -2164,27 +2164,27 @@
     "threat_level": "⚠️⚠️ High – Paralyzes via Past Decisions",
     "first_emerged": "Post‑Shattering, during the First Silent Weave",
     "description": "A tall, hooded figure nailed to a suspended loom of tattered, glowing thread. It doesn't move — but the threads do. Each glows with a line of dialogue the player once chose, or failed to choose. Its face is shrouded… but every decision is visible behind it.",
-    "hue_interaction": "Purple‑bound illusions cause the loom to replay “alternate timelines.”\n\nBrown‑bound memory echoes let players “restitch” a prior moment for defense or offense.\n\nYellow or truth‑based spells break through its paralyzing thread‑webs.",
-    "behavior": "Hurls threads of past dialogue as attacks — successful hits “paralyze” the player in a false memory.\n\nIf the player chose contradictory dialogue paths in the past, the Watcher becomes more aggressive.\n\nUses illusion‑laced threads to bait the player into reliving their worst choice.",
+    "hue_interaction": "Purple‑bound illusions cause the loom to replay "alternate timelines."\n\nBrown‑bound memory echoes let players "restitch" a prior moment for defense or offense.\n\nYellow or truth‑based spells break through its paralyzing thread‑webs.",
+    "behavior": "Hurls threads of past dialogue as attacks — successful hits "paralyze" the player in a false memory.\n\nIf the player chose contradictory dialogue paths in the past, the Watcher becomes more aggressive.\n\nUses illusion‑laced threads to bait the player into reliving their worst choice.",
     "weaknesses": "Confession‑based interactions nullify its binding attacks (truth cuts thread).\n\nArtifacts like the Isabelline Tapestry allow thread prediction and reflection.\n\nBlindsided if approached without any unfulfilled dialogue threads (rare).",
     "notes": "Defeating the Watcher does not destroy the tapestry — only moves your place within it. Some travelers report seeing their own name stitched in fresh thread before the fight even begins."
   },
   "lore": {
     "title": "Margin scrap from the Isabelline Widow’s threadbook",
-    "quote": "“There’s a chamber where decisions breathe. And the Watcher keeps them warm.”",
+    "quote": ""There’s a chamber where decisions breathe. And the Watcher keeps them warm."",
     "flavor_description": [
       "It stares at the wall where you betrayed yourself."
     ],
     "field_notes": [
-      "“There’s a chamber where decisions breathe. And the Watcher keeps them warm.”",
+      ""There’s a chamber where decisions breathe. And the Watcher keeps them warm."",
       "",
-      "“It weaves from forgotten ‘no’s, unspoken truths, and the moments we smiled when we shouldn’t have.”",
+      ""It weaves from forgotten ‘no’s, unspoken truths, and the moments we smiled when we shouldn’t have."",
       "",
-      "“One pilgrim entered with pride. Came out without their name. The loom didn’t approve.”",
+      ""One pilgrim entered with pride. Came out without their name. The loom didn’t approve."",
       "",
-      "“The tapestry isn’t wrong. It’s just honest enough to hurt.”",
+      ""The tapestry isn’t wrong. It’s just honest enough to hurt."",
       "",
-      "“If you face it, bring only one thing: certainty. It cannot stitch what is whole.”"
+      ""If you face it, bring only one thing: certainty. It cannot stitch what is whole.""
     ],
     "source": "Margin scrap from the Isabelline Widow’s threadbook, written in bone ink"
   },
@@ -2198,24 +2198,24 @@
     "first_emerged": "Phase echo bleed near Core Wound's south ridge",
     "description": "A flickering silhouette of the original Auralith entity — now broken and refracted across Nullshade’s memory folds. Each one reflects paths the player never took, decisions avoided, truths left unsaid. It weaves with hands that aren't yours.",
     "hue_interaction": "Immune to color‑aligned spells — reacts only to anti‑aligned or unselected hues.\n\nGlows when within range of unfulfilled side quests or unused dialogue trees.",
-    "behavior": "Appears in mirrored paths or failed puzzles.\n\nParalyzes the player momentarily with threads of “missing memory” — visuals from dialogue branches never taken.\n\nWill teleport behind the player if they ignore a manifested regret.",
+    "behavior": "Appears in mirrored paths or failed puzzles.\n\nParalyzes the player momentarily with threads of "missing memory" — visuals from dialogue branches never taken.\n\nWill teleport behind the player if they ignore a manifested regret.",
     "weaknesses": "Can be defeated only by rewriting: through new decisions at reflection altars.\n\nIf engaged while carrying a Prism Archive Key, allows for one skipped regret to be resolved retroactively.\n\nSilence spells pause its animation; Bistre Lantern shows its original Auralith form for a moment.",
-    "notes": "If defeated in all its variants, unlocks the full tapestry mural in Nullshade’s archive vault — a visual display of the player’s total unchosen truths.\n\nFinal Watcher, if spared, leaves behind a whisper: “The next you may still choose better.”"
+    "notes": "If defeated in all its variants, unlocks the full tapestry mural in Nullshade’s archive vault — a visual display of the player’s total unchosen truths.\n\nFinal Watcher, if spared, leaves behind a whisper: "The next you may still choose better.""
   },
   "lore": {
     "title": "Unstable echo found near a Nullshade monolith gate",
-    "quote": "“I saw her again, the one who never answered me. She wore the regrets I never voiced.”",
+    "quote": ""I saw her again, the one who never answered me. She wore the regrets I never voiced."",
     "flavor_description": [
       "Threads twitch. You never pulled them. But they bleed anyway."
     ],
     "field_notes": [
-      "“I saw her again, the one who never answered me. She wore the regrets I never voiced.”",
+      ""I saw her again, the one who never answered me. She wore the regrets I never voiced."",
       "",
-      "“These Watchers don’t judge. They haunt. They remind.”",
+      ""These Watchers don’t judge. They haunt. They remind."",
       "",
-      "“Each one is a reflection — not of who you were, but of who you could’ve been.”",
+      ""Each one is a reflection — not of who you were, but of who you could’ve been."",
       "",
-      "“They unravel the story you didn’t tell.”"
+      ""They unravel the story you didn’t tell.""
     ],
     "source": "Lore Fragment: Unstable echo found near a Nullshade monolith gate"
   },
@@ -2260,10 +2260,10 @@
     "hue_interaction": "Immune to all hue-based attacks.\n\nCan be weakened by memory-based artifacts like the Bistre Lantern or the Isabelline Tapestry.\n\nCalmed or bypassed by engaging with memory puzzles or reciting known truths.",
     "behavior": "Linger motionless in groups — creating tense, uncanny spaces.\n\nOnly one in a group typically animates at a time.\n\nMay mimic player movement seconds after it occurs — mimicking decision-making rather than motion.",
     "weaknesses": "Temporarily deactivated through full dialogue confession (truth mechanics).\n\nOnly vulnerable while reciting remembered dialogue options — during these moments, a shimmer reveals a hollow core.\n\nAvoids areas where the player carries false names or unclaimed memories.",
-    "notes": "In proximity to The Bound, audio muffles and time subtly distorts — causing a surreal pause effect.\n\nWhen defeated, The Bound collapse into dust, leaving behind one whisper:\n\n> “You remembered too loudly.”"
+    "notes": "In proximity to The Bound, audio muffles and time subtly distorts — causing a surreal pause effect.\n\nWhen defeated, The Bound collapse into dust, leaving behind one whisper:\n\n> "You remembered too loudly.""
   },
   "lore": {
-    "title": "Fragment from “Etchings of the Silent Monolith”",
+    "title": "Fragment from "Etchings of the Silent Monolith"",
     "quote": "\"We called them guardians, once. Remnants of the Prismara who refused hue. But I think now... they were simply those who saw too much.\"",
     "flavor_description": [
       "They stood still long enough… and became silence."
@@ -2274,7 +2274,7 @@
       "\"One bowed as I passed. The other raised a hand. Neither moved again. That night I dreamed of a battlefield I had never seen. I woke with my hands bruised — fingers curled like stone.\"",
       "\"If silence had a form, it would kneel beside them.\""
     ],
-    "source": "Archivist Reiss, “Final Echoes of the Core”"
+    "source": "Archivist Reiss, "Final Echoes of the Core""
   },
   "drops": []
 }{
@@ -2313,8 +2313,8 @@
     "first_emerged": "After the collapse of the Mirror Courts of Myrrala",
     "description": "Gleaming knight forged from Thulian crystal, with a mirror-like visor that reflects only yourself.\n\nAppears noble, almost regal, but speaks only in repeated fragments of your past dialogue.\n\nIts blade shines with words unkept.",
     "hue_interaction": "Empowered if the player has broken multiple dialogue-based choices or rejected questlines.\n\nPacified (briefly) by honest recollection via Violet’s Illusion Clone or Cobalt’s Mind Echo.\n\nImmune to illusion-based misdirection — its blade slices through falsehood.",
-    "behavior": "Begins combat by reciting a promise or dialogue the player once made — “You said you’d protect them.”\n\nUses Truth Slash, which reflects prior movement patterns in a delayed echo.\n\nCounters healing spells with Oathburn: turns healing into minor damage if the player fled a vow-bound fight.",
-    "weaknesses": "Vulnerable only during its “judgment pause” — when it hesitates after speaking a truth.\n\nCan be confused by paradoxes: use opposing truth/lie dialogue back-to-back.\n\nSeverely weakened if shown a Thulian Mirror containing its own origin reflection.",
+    "behavior": "Begins combat by reciting a promise or dialogue the player once made — "You said you’d protect them."\n\nUses Truth Slash, which reflects prior movement patterns in a delayed echo.\n\nCounters healing spells with Oathburn: turns healing into minor damage if the player fled a vow-bound fight.",
+    "weaknesses": "Vulnerable only during its "judgment pause" — when it hesitates after speaking a truth.\n\nCan be confused by paradoxes: use opposing truth/lie dialogue back-to-back.\n\nSeverely weakened if shown a Thulian Mirror containing its own origin reflection.",
     "notes": "Some players report that defeating a Vowkeeper triggers an echo elsewhere — as if another has been freed from a guilt they didn’t know they carried."
   },
   "lore": {
@@ -2326,10 +2326,10 @@
     "field_notes": [
       "\"The Vowkeepers were once truth-bound protectors of the Mirror Courts — warriors who could not lie, and who punished those who did.\"",
       "\"They appear where lies fester or where promises die — even small ones. Especially small ones.\"",
-      "\"If you told someone you'd return and didn’t… if you said “I’ll protect you,” and failed… it remembers.\"",
+      "\"If you told someone you'd return and didn’t… if you said "I’ll protect you," and failed… it remembers.\"",
       "\"And it will finish the sentence with a blade.\""
     ],
-    "source": "Thulian Emissary, “On the Nature of Promised Things”"
+    "source": "Thulian Emissary, "On the Nature of Promised Things""
   },
   "drops": []
 }{
@@ -2343,7 +2343,7 @@
     "hue_interaction": "Her ink-runes scatter targeting reticules and miscast bound spells.\n\nCobalt’s Mind Echo can re-stabilize spell structure when cast near her active runes.\n\nWeak to fire and light — especially when wielded through Hue-enhanced relics like the Cerulean Cloak.",
     "behavior": "Encounters begin with her inking the field — casting storm sigils that corrupt area-of-effect behavior.\n\nInkbind Glyph – roots players in storm-writing zones unless dodged.\n\nTidal Silence – disables player spellcasting briefly.\n\nScroll Bloom – summons a swarm of glowing script pages to obscure vision.",
     "weaknesses": "Fire magic burns her runes, briefly exposing her true position.\n\nInterrupted if her floating pages are shattered before her chant completes.\n\nParticularly vulnerable when caught between contradictory Hue pulses (e.g., Crimson + Cobalt echoes).",
-    "notes": "Legends say she once held the “Codex of the Last Drown,” a book that only writes in storms.\n\nZaffran sailors believe if you dream of her, you’ve already forgotten something you swore never to."
+    "notes": "Legends say she once held the "Codex of the Last Drown," a book that only writes in storms.\n\nZaffran sailors believe if you dream of her, you’ve already forgotten something you swore never to."
   },
   "lore": {
     "title": "Final inktrace from the Zaffran Subvaults",
@@ -2357,7 +2357,7 @@
       "\"The tide hadn’t taken her body. It had rewritten it.\"",
       "\"If she offers you a page… don’t read it. It writes you back.\""
     ],
-    "source": "Archive Note, marked “Untranslatable, but afraid.”"
+    "source": "Archive Note, marked "Untranslatable, but afraid.""
   },
   "drops": []
 }{
@@ -2370,11 +2370,11 @@
     "description": "A shimmering humanoid outline, locked in flickering animation loops.\n\nIts movements are beautiful, fluid — and utterly unbreakable.  \nIt fights like a dancer remembering the steps, even as the music has long stopped.",
     "hue_interaction": "Tied directly to Crimson (willpower, wrath) and Violet (dream, memory).\n\nMimics player attacks if emotionally resonant (e.g., dialogue trees about vengeance or failure).\n\nVulnerable to Brown (truth/memory anchors) and Yellow (disruption/light).",
     "behavior": "Appears near color-war memorials, ruined battlegrounds, or memory glyphs.\n\nEngages without provocation if the player has committed a key regret.\n\nOccasionally pauses mid-battle, repeating old dialogue from other characters.",
-    "weaknesses": "Loses form briefly when exposed to Echo Pulse or Truth Sigils.\n\nDisrupted by reframing dialogue (“I forgive them,” “That wasn’t me,” etc.).\n\nFinal phase collapses if player stands still during her final loop.",
+    "weaknesses": "Loses form briefly when exposed to Echo Pulse or Truth Sigils.\n\nDisrupted by reframing dialogue ("I forgive them," "That wasn’t me," etc.).\n\nFinal phase collapses if player stands still during her final loop.",
     "notes": "Tyrian Echo may appear multiple times, each instance slightly different — replaying a different failure or memory based on the player’s world-state.\n\nSome Archivists theorize she was once real. Others argue she is simply what war feels like… after it ends."
   },
   "lore": {
-    "title": "“Echoes Along the Violet Scar” by the Prismwalker Serael",
+    "title": ""Echoes Along the Violet Scar" by the Prismwalker Serael",
     "quote": "\"It bled twice: once in dream, once in regret.\"",
     "flavor_description": [
       "Not a person. A memory repeating itself into violence."
@@ -2385,7 +2385,7 @@
       "\"When I struck her, she shattered into fragments of me.\"",
       "\"We left that ruin. She stayed behind. Fighting the memory we brought with us.\""
     ],
-    "source": "Recovered field note – “Echoes Along the Violet Scar”"
+    "source": "Recovered field note – "Echoes Along the Violet Scar""
   },
   "drops": []
 }{
@@ -2396,10 +2396,10 @@
     "threat_level": "⚠️⚠️⚠️ Critical – Appears in endgame or high Echo instability zones",
     "first_emerged": "After the Dirge of Prismfall, during Nullshade Emergence",
     "description": "A swirling constellation of childlike figures, their mouths unmoving yet filled with endless song. Their melody does not comfort — it unravels. Born in the wake of the Prism’s fracture, they echo its loss not with rage, but with perfect, merciless harmony.",
-    "hue_interaction": "Vulnerable to sonic-based spells, or relics tied to truthful sound (e.g., Verdant Tuning Fork, Yellow Radiant Chime).\n\nSilenced only by using Color Sigils tied to the Order the player has chosen the fewest times.\n\nEach fragment represents a lost hue — targeting them in their “resonant color moment” makes them vulnerable briefly.",
+    "hue_interaction": "Vulnerable to sonic-based spells, or relics tied to truthful sound (e.g., Verdant Tuning Fork, Yellow Radiant Chime).\n\nSilenced only by using Color Sigils tied to the Order the player has chosen the fewest times.\n\nEach fragment represents a lost hue — targeting them in their "resonant color moment" makes them vulnerable briefly.",
     "behavior": "Often found in Echo Collapse zones or guarding Nullshade altars.\n\nMay emerge from failed Hue Alignment puzzles or during emotional memory sequences.\n\nMechanics:\n• Dirge Pulse — Pulsing soundwave that disrupts the player’s UI.\n• Harmony Lock — Freezes player if three or more fragments harmonize.\n• Dissonant Reflection — Copies last three spell inputs back as harmful echoes.",
     "weaknesses": "If all members of the Choir are silenced in hue-order reverse (V → R), they disperse permanently.\n\nA Mirrorshard Lens can reveal which Choir member is closest to resonance.\n\nUsing the player’s own recorded sound cue can trigger a cancel loop.",
-    "notes": "Choir fragments whisper faintly even after defeat — their echoes may be heard near important player decisions.\n\nSome NPCs reference hearing “child-song” in high Nullshade zones.\n\nIf all Choir fragments are defeated without taking damage, an ancient Prismara hymn is restored — granting temporary Uncolor immunity."
+    "notes": "Choir fragments whisper faintly even after defeat — their echoes may be heard near important player decisions.\n\nSome NPCs reference hearing "child-song" in high Nullshade zones.\n\nIf all Choir fragments are defeated without taking damage, an ancient Prismara hymn is restored — granting temporary Uncolor immunity."
   },
   "lore": {
     "title": "Recovered Note – Nullshade, Shatterglass Pool",
@@ -2424,8 +2424,8 @@
     "threat_level": "⚠️⚠️⚠️ Major – Terrain & Memory Manipulation",
     "first_emerged": "Following the Withering of the Dreamroot Grove",
     "description": "Towering figure cloaked in violet petals and lacewoven mist.\n\nHer face flickers between motherly warmth and blank mask.\n\nThe ground shifts behind her like a curtain drawn on memory.",
-    "hue_interaction": "Weak to Cobalt’s Mind Echo during moments of doubt — reveals the “true map” for a short time.\n\nViolet-bound players can attempt to mimic her shifts to counter terrain changes.\n\nAurelian light distorts her illusions briefly, but enrages her.",
-    "behavior": "Teleports during dodges, shifting arena tiles with her.\n\nCan swap positions of the player and their illusion.\n\nMid-fight phase change: she calls out a false name — if the player responds incorrectly, the arena “blooms,” scattering into 6 mirrored fragments.",
+    "hue_interaction": "Weak to Cobalt’s Mind Echo during moments of doubt — reveals the "true map" for a short time.\n\nViolet-bound players can attempt to mimic her shifts to counter terrain changes.\n\nAurelian light distorts her illusions briefly, but enrages her.",
+    "behavior": "Teleports during dodges, shifting arena tiles with her.\n\nCan swap positions of the player and their illusion.\n\nMid-fight phase change: she calls out a false name — if the player responds incorrectly, the arena "blooms," scattering into 6 mirrored fragments.",
     "weaknesses": "When she hesitates (after whispering a name), her mask cracks — that’s the moment to strike.\n\nUsing Thulian Mirror reveals the real terrain for 6 seconds.\n\nCan be stalled by walking backward — illusion paths often assume forward progress.",
     "notes": "Defeating the Matron unlocks a path deeper into Myrrala — the Bloomfold Archive, a shifting dream-library of forgotten identities.\n\nPlayers who beat her while illusion-bound may gain the title \"Pathless Pilgrim.\""
   },
@@ -2441,7 +2441,7 @@
       "\"She now tends the bloompaths alone, warping the land to protect pilgrims from truths too sharp.\"",
       "\"Or perhaps she simply wants you to get lost with her.\""
     ],
-    "source": "Liseran Caretaker, “Elegy for the Wayward”"
+    "source": "Liseran Caretaker, "Elegy for the Wayward""
   },
   "drops": []
 }{
@@ -2482,7 +2482,7 @@
     "description": "The Whisperglass Wyrm is an aerial burrower formed from skyfract glass and dream-echo. It shifts through the floating cliffs as if they were mist, rarely seen until it’s already inside your perception.\n\nIt doesn’t bite. It convinces you it already did — and that you bled.",
     "hue_interaction": "Refracts Hue-based attacks unless revealed.\n\nTemporarily visible under Cobalt’s Mind Echo when used near reflective terrain.\n\nImmobilized briefly by Verdant’s Skygrowth Seed cast on fractured skyglass veins.",
     "behavior": "Remains dormant beneath floating landmasses until a player lingers too long near mirrored surfaces.\n\nBehavior cycle:\nPrey Reflection: mimics distant silhouettes of the player to bait movement.\nMirror Dive: disappears into nearby glass, re-emerging unpredictably.\nFracture Howl: emits a static-chime sound that scrambles traversal inputs unless countered.",
-    "weaknesses": "Exposed by Payne’s Brush illusion-reveal strokes.\n\nLoses invisibility if caught in stormlight flashes or lightning surges.\n\nVulnerable when attempting to “sync” with the player’s reflection — brief window for high-damage strikes.",
+    "weaknesses": "Exposed by Payne’s Brush illusion-reveal strokes.\n\nLoses invisibility if caught in stormlight flashes or lightning surges.\n\nVulnerable when attempting to "sync" with the player’s reflection — brief window for high-damage strikes.",
     "notes": "Whisperglass Wyrms are believed to be remnants of sky-serpents that were reflected into extinction.\n\nWhat you see is never just where it is — only where it thinks you’ll look."
   },
   "lore": {
@@ -2496,7 +2496,7 @@
       "\"But then my brush hand forgot what it held. My name smeared across the canvas.\"",
       "\"It didn’t eat thoughts. It ate the part of me that thought I had them.\"",
       "\"If you're reading this, don’t look in mirrored cliffs. Don’t listen too hard when the breeze starts whispering. And if you feel a shiver in your spine — it’s already coiled around it.\"",
-      "— Signed only: “P.”"
+      "— Signed only: "P.""
     ],
     "source": "Broken Payne’s Prism confession"
   },
@@ -2509,13 +2509,13 @@
     "threat_level": "⚠️ Moderate (Passive until provoked or followed)",
     "first_emerged": "Post-Shattering — Collapse of the Phylactery Vault",
     "description": "The Wickbone Lantern resembles a slow-moving humanoid skeleton with a cracked skull and hollow eye sockets. Inside its ribcage flickers a soulflame — pale orange tinged with grey, casting elongated, erratic shadows.\n\nIt wanders aimlessly through forgotten halls and sunken crypts, illuminating glyphs and murals that react only to its light.",
-    "hue_interaction": "Flame reacts strongly to Violet-bound illusions, warping nearby terrain into false memories.\n\nYellow-bound players can “follow” its path safely for longer without triggering traps.\n\nEarthen spells may dim or brighten its flame — useful for revealing hidden lore.",
+    "hue_interaction": "Flame reacts strongly to Violet-bound illusions, warping nearby terrain into false memories.\n\nYellow-bound players can "follow" its path safely for longer without triggering traps.\n\nEarthen spells may dim or brighten its flame — useful for revealing hidden lore.",
     "behavior": "Non-aggressive unless directly attacked or followed into a soultrap zone.\n\nWhen followed, it may lead to sealed memory puzzles, past-decision rooms, or ghost ambushes.\n\nIf its flame is extinguished without care, it screams — summoning 1–3 Memory Husks.",
-    "weaknesses": "The Bistre Lantern’s light can stabilize its flame, revealing its “last burial site” — allowing peaceful dispelling.\n\nAlchemical cold or illusions of stillness (e.g. Glamour Pulse) may cause it to halt long enough to pass.\n\nCan be bound temporarily using a Caput Mortuum Phylactery for puzzle or environmental traversal.",
-    "notes": "Players who ignore the Lantern’s path often miss hidden vaults and Memory Echo entries. However, following too closely without the correct hue-balance may cause “reflection bleed” — a debuff where the player’s reflection attacks them in later scenes."
+    "weaknesses": "The Bistre Lantern’s light can stabilize its flame, revealing its "last burial site" — allowing peaceful dispelling.\n\nAlchemical cold or illusions of stillness (e.g. Glamour Pulse) may cause it to halt long enough to pass.\n\nCan be bound temporarily using a Caput Mortuum Phylactery for puzzle or environmental traversal.",
+    "notes": "Players who ignore the Lantern’s path often miss hidden vaults and Memory Echo entries. However, following too closely without the correct hue-balance may cause "reflection bleed" — a debuff where the player’s reflection attacks them in later scenes."
   },
   "lore": {
-    "title": "From “Catacombs of Auralith,” Scribed by Bistre Archivist",
+    "title": "From "Catacombs of Auralith," Scribed by Bistre Archivist",
     "quote": "\"The dead do not always lie still in Auralith. Some walk — not out of spite, but because their name hasn’t been laid to rest.\"",
     "flavor_description": [
       "A cage of ribs, a candle of memory."
@@ -2538,10 +2538,10 @@
     "hue_interaction": "Aligned with Verdant (Green) and Earthen (Brown), but triggered by Crimson (Red) proximity.\n\nIgnore most damage unless purpose is disrupted (e.g. disturbing relics, lying to NPCs near them).\n\nStrong resistance to illusion and glamour effects.",
     "behavior": "Remain inert until:\n• A nearby relic is touched.\n• A lie is spoken during dialogue nearby.\n• A shrine is activated without proper hue alignment.\n\nOnce triggered:\n• Slow pursuit begins (deliberate, methodical, and inescapable in straight lines).\n• Enters a berserk state if cornered — flailing vine whips and lash roots.\n\nWill reassemble over time if not destroyed by fire or crystalline impact.",
     "weaknesses": "Burnable — vulnerable to Crimson fire, especially to joints and binding roots.\n\nShattering via Earthen shock collapses their inner structure.\n\n\"Stillbark Oils\" can slow their motion if applied to relics in advance.",
-    "notes": "Some Whisperers claim that Wickerborn remember names spoken in their presence — even centuries later.\n\nThe Caput Mortuum Ascetic once called them “our final promise — to watch what mattered when we no longer could.”"
+    "notes": "Some Whisperers claim that Wickerborn remember names spoken in their presence — even centuries later.\n\nThe Caput Mortuum Ascetic once called them "our final promise — to watch what mattered when we no longer could.""
   },
   "lore": {
-    "title": "Excerpt from “The Silent Watch” – Archive of the Bistre Lantern",
+    "title": "Excerpt from "The Silent Watch" – Archive of the Bistre Lantern",
     "quote": "\"They were built, not born — shaped by Verdant hands, bound by Crimson oaths, and given Earthen patience.\"",
     "flavor_description": [
       "An ever-watchful husks woven to guard relics long forgotten."
@@ -2564,9 +2564,9 @@
     "first_emerged": "At the Prism Shattering",
     "description": "A humanoid construct of light-fissured crystal, limping unnaturally, its joints misaligned. It emits ghost-white flashes as it moves, temporarily distorting the environment — UI stutters, visual frames glitch, terrain deconstructs briefly.\n\nIts core pulses with a delayed heartbeat — if it syncs with yours, a fragment of your HUD is lost until reset.",
     "hue_interaction": "Damaging it with any hue magic causes it to resonate in that color briefly — after which it mirrors that hue’s weakness.\n\nMost susceptible to Brown and Purple — memory and paradox destabilize its frame.",
-    "behavior": "Slowly patrols the Prism Wound region.\n\nAttacks by stepping into proximity — causing echo pulses that stagger and blind.\n\nPeriodically emits a “light bleed” — briefly fades the screen to white and removes HUD elements.",
-    "weaknesses": "Memory artifacts like the Bistre Lantern anchor its location, preventing phasing.\n\nViolet’s Illusion Clone causes it to mimic a false version of you and momentarily collapse.\n\nCrimson damage (if timed correctly) during its “pulse sync” can fracture its memory spine.",
-    "notes": "Sometimes whispers past player dialogue lines during whiteout pulses — lines you may have said earlier in the game.\n\nAfter defeat, leaves behind a “Cracked Memory Core” — required to access the deepest level of the Prism Wound."
+    "behavior": "Slowly patrols the Prism Wound region.\n\nAttacks by stepping into proximity — causing echo pulses that stagger and blind.\n\nPeriodically emits a "light bleed" — briefly fades the screen to white and removes HUD elements.",
+    "weaknesses": "Memory artifacts like the Bistre Lantern anchor its location, preventing phasing.\n\nViolet’s Illusion Clone causes it to mimic a false version of you and momentarily collapse.\n\nCrimson damage (if timed correctly) during its "pulse sync" can fracture its memory spine.",
+    "notes": "Sometimes whispers past player dialogue lines during whiteout pulses — lines you may have said earlier in the game.\n\nAfter defeat, leaves behind a "Cracked Memory Core" — required to access the deepest level of the Prism Wound."
   },
   "lore": {
     "title": "Charred field notes from Prismara Chronologer Tyelus Vane",

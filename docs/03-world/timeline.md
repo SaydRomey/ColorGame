@@ -24,7 +24,7 @@ Vireya’s Crimson Court reigns — a militant alliance of flame-wielders, dance
 
 ## 🕯️ Age of Light – The Unified Hue
 
-> “In the beginning, all color was one.”
+> "In the beginning, all color was one."
 
 
 The world was once balanced by a single divine entity: **the Prismatic Core**, 
@@ -40,7 +40,7 @@ For generations, peace held. Color lived in communion.
 
 ##  Age of Echoes – Rise of the Color Orders
 
-> “A seed cannot help but become a forest.”
+> "A seed cannot help but become a forest."
 
 
 Over centuries, color-users began to specialize.  
@@ -63,7 +63,7 @@ Minor color skirmishes flared, but the Prismara kept the balance.
 
 ## ⚔️ Age of Bloom and Rust – The Color War
 
-> “Too much red, and even roses become swords.”
+> "Too much red, and even roses become swords."
 
 
 The Tyrian Dynasty, a royal faction blending Crimson and Violet, 
@@ -108,7 +108,7 @@ shattered the Core in a final act of rebellion.
 
 ## 💥 The Shattering – Birth of the Realms
 
-> “It didn’t break evenly. It bled.”
+> "It didn’t break evenly. It bled."
 
 
 The Core’s rupture triggered the **Huefall** — a burst of raw chromatic energy that sundered continents and souls.  
@@ -135,7 +135,7 @@ The Tyrian Dynasty vanished — presumed destroyed… or sealed in Nullshade.
 
 ## 🩸 The Post-Shattering Era  – The Wounded World (w.i.p.)
 
-> “The colors survived. But they no longer trusted each other.”
+> "The colors survived. But they no longer trusted each other."
 
 
 The Verdant Order fragments into secretive archives, 
@@ -185,7 +185,7 @@ Vireya devolves into Crimson Crusades
 
 ## 🌑 Current Era – The Dimming Cycle
 
-> “You are born without color, and must earn your hue.”
+> "You are born without color, and must earn your hue."
 
 The world is now color-fragmented, held together by:
 - Huebound champions who tether themselves to relics and spirits.
@@ -220,7 +220,7 @@ The world waits, fractured and humming.
 
 The question remains:
 
-> “Will you reforge the Prism? Or let color die screaming?”
+> "Will you reforge the Prism? Or let color die screaming?"
 <!--
 The goal is whispered in every tongue: 
 Reforge the Prism, or let the hues burn themselves out forever.

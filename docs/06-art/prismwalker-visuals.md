@@ -35,7 +35,7 @@
 This could be the tutorial phase before Huebinding unlocks. 
 
 The Prismwalker hasn’t bound any colors yet 
-— they are truly “born without color.”
+— they are truly "born without color."
 
 ---
 

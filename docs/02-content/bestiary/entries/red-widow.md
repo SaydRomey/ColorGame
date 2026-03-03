@@ -19,7 +19,7 @@ Lore Entry
 
 <details><summary>See Red Widow Lore Entry</summary>Lore Entry: Found in a perfume-stained letter burned at the corners
 
-> “I saw her only once. She stepped out of the smoke like a poem.”
+> "I saw her only once. She stepped out of the smoke like a poem."
 
 
 
@@ -39,7 +39,7 @@ Lore Entry
 
 
 
-> — From a letter never sent, tucked into the pages of “The Burning Waltz”
+> — From a letter never sent, tucked into the pages of "The Burning Waltz"
 
 
 
@@ -79,7 +79,7 @@ Charms one nearby ally/NPC during midfight — forced to attack for her unless b
 
 Known Weaknesses:
 
-Interrupting her “final pose” animation leaves her stunned.
+Interrupting her "final pose" animation leaves her stunned.
 
 Weak to sound-disruption spells — her rhythm falters under noise or distortion.
 

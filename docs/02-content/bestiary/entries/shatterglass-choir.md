@@ -26,7 +26,7 @@ Each sings in a frequency tuned to a hue that no longer belongs to them.
 
 <details><summary>See Shatterglass Choir Lore Entry</summary>
 
-### Lore Entry: Torn page from “Echoes of a Prism Lost” by the Bistre Archivist
+### Lore Entry: Torn page from "Echoes of a Prism Lost" by the Bistre Archivist
 
 > "They weren’t always like this. 
 > Once, they were singers of balance — prism children born to echo each hue as it rose."
@@ -121,7 +121,7 @@ They drift in small flocks and hum a nonverbal chord that literally pulls color 
 
 ### Notes:  
 Occasionally sing snatches of your choices, warping phrases like: 
-“You chose… silence,” or “Color was never yours to hold.”
+"You chose… silence," or "Color was never yours to hold."
 
 Killing them all restores color to the region for a short time 
 — enough to access sealed memory pools.

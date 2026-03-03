@@ -26,7 +26,7 @@ Lore Entry
 <details><summary>See Red Widow Lore Entry</summary>Lore Entry: Found in
 a perfume-stained letter burned at the corners
 
-> “I saw her only once. She stepped out of the smoke like a poem.”
+> "I saw her only once. She stepped out of the smoke like a poem."
 
 > "They say she was once the last dancer of the Crimson Court — trained
 in motion, not murder. But when the war came, she didn’t stop. She
@@ -42,8 +42,8 @@ flame given body. I say she’s grief that never learned to cool."
 > "If she looks your way, bow. If she reaches for you… well, at least
 the dance ends with grace."
 
-> — From a letter never sent, tucked into the pages of “The Burning
-Waltz”
+> — From a letter never sent, tucked into the pages of "The Burning
+Waltz"
 
 </details>
 
@@ -89,7 +89,7 @@ unless broken.
 
 Known Weaknesses:
 
-Interrupting her “final pose” animation leaves her stunned.
+Interrupting her "final pose" animation leaves her stunned.
 
 Weak to sound-disruption spells — her rhythm falters under noise or
 distortion.

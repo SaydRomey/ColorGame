@@ -24,7 +24,7 @@ The air folded in half. Then it struck.
 
 
 
-> My guide called it a “stormwrit,” a hound scribed by lightning itself.
+> My guide called it a "stormwrit," a hound scribed by lightning itself.
 It doesn’t follow you. It finishes thoughts you haven’t had yet.
 
 
@@ -38,7 +38,7 @@ And when it howled, something behind my eyes shattered.
 
 
 
-> — Signed only: “Archivist Iol”
+> — Signed only: "Archivist Iol"
 
 
 
@@ -97,7 +97,7 @@ Notes:
 
 Some monks claim the Stormwrit Hounds carry messages between lightning gods — or are the messages.
 
-One relic hunter’s log simply said: “Don’t blink during thunder.”
+One relic hunter’s log simply said: "Don’t blink during thunder."
 
 
 

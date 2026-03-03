@@ -21,7 +21,7 @@ Each region has:
 
 ---
 
-## MAP STRUCTURE CONCEPT: “The Realm”
+## MAP STRUCTURE CONCEPT: "The Realm"
 
 ### Design Philosophy
 
@@ -106,7 +106,7 @@ Vegetation regrows dynamically. Paths open/close as forests shift; vines and roo
 - **Artifact Examples:** Alizarin Quilt, Cinnabar Seal  
 
 **Environmental Twist:**  
-Heat and light affect your stamina; blood spilled in battle may “wake” old gods or curses.
+Heat and light affect your stamina; blood spilled in battle may "wake" old gods or curses.
 
 [**See Vireya in more details**](./regions/vireya.md)
 
@@ -186,7 +186,7 @@ Mirages appear on the map; only true vision (via artifacts) shows real paths or 
 - **Artifact Examples:** Bistre Lantern, Burnt Sienna Golem Core  
 
 **Environmental Twist:**  
-You leave behind “ghosts” of past deaths/actions that either help or haunt you later.
+You leave behind "ghosts" of past deaths/actions that either help or haunt you later.
 
 [**See Auralith in more details**](./regions/auralith.md)
 
@@ -222,6 +222,6 @@ Each region unlocks traversal abilities tied to their color:
 
 ### 🌀 Regional Gateways
 
-Between each region and **Nullshade** is a **Prism Gate**, sealed until its local artifact is retrieved and “tuned” through a **colorbinding ritual**.
+Between each region and **Nullshade** is a **Prism Gate**, sealed until its local artifact is retrieved and "tuned" through a **colorbinding ritual**.
 
 ---

@@ -13,15 +13,15 @@ Tapestry Watcher – The Loombound Witness
 Lore Entry
 
 <details><summary>See Tapestry Watcher Lore Entry</summary>
-Lore Entry: Margin scrap from the Isabelline Widow’s threadbook, written in bone ink> “There’s a chamber where decisions breathe. And the Watcher keeps them warm.”
+Lore Entry: Margin scrap from the Isabelline Widow’s threadbook, written in bone ink> "There’s a chamber where decisions breathe. And the Watcher keeps them warm."
 
-> “It weaves from forgotten ‘no’s, unspoken truths, and the moments we smiled when we shouldn’t have.”
+> "It weaves from forgotten ‘no’s, unspoken truths, and the moments we smiled when we shouldn’t have."
 
-> “One pilgrim entered with pride. Came out without their name. The loom didn’t approve.”
+> "One pilgrim entered with pride. Came out without their name. The loom didn’t approve."
 
-> “The tapestry isn’t wrong. It’s just honest enough to hurt.”
+> "The tapestry isn’t wrong. It’s just honest enough to hurt."
 
-> “If you face it, bring only one thing: certainty. It cannot stitch what is whole.”
+> "If you face it, bring only one thing: certainty. It cannot stitch what is whole."
 
 </details>
 
@@ -39,16 +39,16 @@ A tall, hooded figure nailed to a suspended loom of tattered, glowing thread. It
 
 Hue Interaction:
 
-Purple-bound illusions cause the loom to replay “alternate timelines.”
+Purple-bound illusions cause the loom to replay "alternate timelines."
 
-Brown-bound memory echoes let players “restitch” a prior moment for defense or offense.
+Brown-bound memory echoes let players "restitch" a prior moment for defense or offense.
 
 Yellow or truth-based spells break through its paralyzing thread-webs.
 
 
 Behavior:
 
-Hurls threads of past dialogue as attacks — successful hits “paralyze” the player in a false memory.
+Hurls threads of past dialogue as attacks — successful hits "paralyze" the player in a false memory.
 
 If the player chose contradictory dialogue paths in the past, the Watcher becomes more aggressive.
 

@@ -12,15 +12,15 @@
 
 🧠 Lore Entry
 
-<details><summary>See Memory Grafter Lore Entry</summary>Transcript Fragment – “Stolen Histories,” banned from the Bistre Archive
+<details><summary>See Memory Grafter Lore Entry</summary>Transcript Fragment – "Stolen Histories," banned from the Bistre Archive
 
-> “It didn’t kill her. It rewrote her. When I found what was left, she still moved like my sister. Still used her name. But when she spoke, I knew…”
+> "It didn’t kill her. It rewrote her. When I found what was left, she still moved like my sister. Still used her name. But when she spoke, I knew…"
 
-“She had new stories. Ones she hadn’t lived.”
+"She had new stories. Ones she hadn’t lived."
 
-“He holds a scroll. Always writing. Always replacing. You see yourself on it, eventually.”
+"He holds a scroll. Always writing. Always replacing. You see yourself on it, eventually."
 
-“If you forget the color of your thoughts — you’ve already been grafted.”
+"If you forget the color of your thoughts — you’ve already been grafted."
 
 
 
@@ -64,7 +64,7 @@ Doesn’t initiate combat in the usual sense — instead, lingers near puzzle ar
 
 Begins by mimicking small parts of the player’s history: gear loadout, early dialogue, voice lines.
 
-If not interrupted, escalates by replacing one of your passive traits or even UI labels (e.g., renaming a button from “Attack” to “Regret”).
+If not interrupted, escalates by replacing one of your passive traits or even UI labels (e.g., renaming a button from "Attack" to "Regret").
 
 
 
@@ -72,7 +72,7 @@ If not interrupted, escalates by replacing one of your passive traits or even UI
 
 Known Weaknesses:
 
-Binding it within a Prism Sigil Circle can “pin” its scroll — revealing and undoing some of its grafts.
+Binding it within a Prism Sigil Circle can "pin" its scroll — revealing and undoing some of its grafts.
 
 Interrupted if a true memory is spoken aloud via a scripted prompt (player must recall something from early game).
 
@@ -84,7 +84,7 @@ Weakens when confronted by another player-character’s memory shard (e.g., an N
 
 Notes:
 
-Memory Grafters are said to be the reason some Prismwalkers “go silent” — not because they die, but because they forget they existed.
+Memory Grafters are said to be the reason some Prismwalkers "go silent" — not because they die, but because they forget they existed.
 
 One theory suggests they are fragments of Prismara’s subconscious — the Core trying to rewrite its own shame.
 

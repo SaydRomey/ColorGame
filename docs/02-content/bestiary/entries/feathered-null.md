@@ -106,7 +106,7 @@ Only vulnerable during emotive wind surges triggered by memory sequences.
 
 Notes:
 
-The Glaucous Wing claims this creature is “a hymn never sung.”
+The Glaucous Wing claims this creature is "a hymn never sung."
 
 Cannot be bound, named, or remembered by normal means — journals written near it lose ink.
 

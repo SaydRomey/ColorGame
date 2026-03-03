@@ -5,7 +5,7 @@
 
 </div>
 
-# 🎮 IN-GAME SCENE: “The Skyglass Hymn”
+# 🎮 IN-GAME SCENE: "The Skyglass Hymn"
 
 Location: Skyglass Pillars, Iriseld High Cliffs
 Visual Style:
@@ -22,7 +22,7 @@ Player Status: Bound to Cobalt (Blue), Crimson (Red), and Verdant (Green) hues.
 
 ---
 
-Scene	“The Skyglass Hymn”
+Scene	"The Skyglass Hymn"
 
 Location:	Skyglass Pillars, Iriseld High Cliffs
 Visual Style:	Floating glass islands over mist-wrapped cliffs. Bioluminescent reefs visible far below. Storm light glistens in prism refraction.
@@ -54,8 +54,8 @@ Gusts of wind form bridges between floating platforms. One flickers out.
 
 🎙️ Narration (Internal Monologue)
 
-> “The wind here has a voice.
-But it sings only to those who remember falling.”
+> "The wind here has a voice.
+But it sings only to those who remember falling."
 
 
 
@@ -71,19 +71,19 @@ On a high-floating shard of blueglass, a figure dances slowly in the wind — we
   </br><i>Cerulean Skydancer – Spirit of the Storm Hymn</i></br>
 </div>Skydancer:
 
-> “Your feet cling to stone. That is why you fall.”
+> "Your feet cling to stone. That is why you fall."
 
-“Let go. And rise. Or stay. And drown in the silence.”
+"Let go. And rise. Or stay. And drown in the silence."
 
 
 
 Dialogue Options (Color-Gated):
 
-🟦 [Cobalt-Bound] “I’ve heard the wind whisper. Let it speak clearly.”
+🟦 [Cobalt-Bound] "I’ve heard the wind whisper. Let it speak clearly."
 
-🟥 [Crimson-Bound] “Fall or fly — either way, I leap.”
+🟥 [Crimson-Bound] "Fall or fly — either way, I leap."
 
-🟩 [Verdant-Bound] “Growth needs roots. Even here.”
+🟩 [Verdant-Bound] "Growth needs roots. Even here."
 
 
 
@@ -130,11 +130,11 @@ Optional: Trigger Verdant’s Skygrowth Seed to anchor glass vines as cover.
 At the final spire’s peak, a glass orb waits. Touching it with Cobalt Bound active reveals:
 
 > The Zaffre Glasswright, crying silently as she seals a memory inside a vial.
-“Let him forget me. If it will let him live.”
+"Let him forget me. If it will let him live."
 
 
 
-Unlocks: Hue Archive Entry: “The Storm and the Shard”
+Unlocks: Hue Archive Entry: "The Storm and the Shard"
 
 
 ---
@@ -145,7 +145,7 @@ A floating harp-shaped arch activates only when the player glides through it in 
 
 If timing is off:
 
-> “The sky remembers grace. Try again — but lighter.”
+> "The sky remembers grace. Try again — but lighter."
 
 
 

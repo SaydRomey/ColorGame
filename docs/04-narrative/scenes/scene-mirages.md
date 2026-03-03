@@ -5,7 +5,7 @@
 
 </div>
 
-# IN-GAME SCENE: “Mirages of the Aureolin Sands”
+# IN-GAME SCENE: "Mirages of the Aureolin Sands"
 
 **Location**: *Outskirts of Eburnea, near the Citrine Orchard Ruins*
 **Visual Style**:
@@ -16,7 +16,7 @@
 **Player Status**: Bound to **Aurelian (Yellow)**, **Verdant (Green)**, and **Cobalt (Blue)** hues.
 
 
-| Scene             | “Mirages of the Aureolin Sands”                                                                    |
+| Scene             | "Mirages of the Aureolin Sands"                                                                    |
 | ----------------- | -------------------------------------------------------------------------------------------------- |
 | **Location**      | *Edge of the Citrine Oracle Ruins beneath the Eburnean sky*                                        |
 | **Visual Style**  | Blinding gold and soft orange sun‑beams; drifting sands; mirages ripple with heat‑wave distortion. |
@@ -39,8 +39,8 @@ Citrine trees bear glowing fruit, their branches cast long shadows in warm light
 ---
 
 ## 🎙️ Narration (Internal Monologue / Voice‑over)
-> “The desert breathes in heat, but sees in light.  
-> Each step may crumble truth — or reveal it.”
+> "The desert breathes in heat, but sees in light.  
+> Each step may crumble truth — or reveal it."
 
 ---
 
@@ -50,13 +50,13 @@ a luminous monk with lacquered staff and sun‑baked robes,
 the **Gamboge Monk** emerges.*
 
 ### Gamboge Monk:
-> “A step in silence carries more weight than thunder.  
-> Dare you walk between sun and shadow, Prismwalker?”
+> "A step in silence carries more weight than thunder.  
+> Dare you walk between sun and shadow, Prismwalker?"
 
 ### Dialogue Options (Color‑Gated):
-- 🟨 **[Aurelian‑Bound]**: “Light reveals wounds. Let me heal them.”
-- 🟩 **[Verdant‑Bound]**: “Even citrus trees bloom on cracked earth.”
-- 🟦 **[Cobalt‑Bound]**: “Echo your silence—teach me to listen.”
+- 🟨 **[Aurelian‑Bound]**: "Light reveals wounds. Let me heal them."
+- 🟩 **[Verdant‑Bound]**: "Even citrus trees bloom on cracked earth."
+- 🟦 **[Cobalt‑Bound]**: "Echo your silence—teach me to listen."
 
 ---
 
@@ -65,7 +65,7 @@ the **Gamboge Monk** emerges.*
 The monk gestures to an open courtyard of broken sunstones and faded glyphs.
 
 ### Puzzle Prompt:
-> “Speak the truth of the sun, earth, and shade.”
+> "Speak the truth of the sun, earth, and shade."
 
 - 🟨 Use **Aurelian’s Radiant Flare** to ignite the sunstone wall (light).
 - 🟩 Use **Verdant’s Saproot Shield** to grow vines over cracked tiles (growth).
@@ -96,10 +96,10 @@ An Aurelian relic, the **Aureolin Quill**, glimmers faintly among scattered hymn
 
 Activating it triggers a vision:  
 > *A priestess inscribes vows under the full desert sun…*  
-> “The light will judge us equal.”  
+> "The light will judge us equal."  
 > The quill glows, and the vision flickers as it fades.
 
-Unlocks: **Hue Archive Entry “Oath of the Sun‑Born”**
+Unlocks: **Hue Archive Entry "Oath of the Sun‑Born"**
 
 ---
 
@@ -110,6 +110,6 @@ Opens only when the player channel at least two completed glyph fountains
 and has passed the reflection puzzle.
 
 If not (dialogue hint):
-> *“Your light flickers. The sun demands more than warmth… it demands clarity.”*
+> *"Your light flickers. The sun demands more than warmth… it demands clarity."*
 
 ---
