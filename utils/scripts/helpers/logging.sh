@@ -92,3 +92,48 @@ ts_pop() {
 
 # # back to no timestamps
 # log_info "info (back to no ts)"
+
+# ----------------------------------------------------------------------------
+test_logging_utils()
+{
+    # no timestamps (default)
+    log_info     "info (no ts)"
+    log_warn     "warn (no ts)"
+    log_success  "success (no ts)"
+    log_error    "error (no ts)"
+
+    # one-liner with timestamp
+    with_ts log_info "info (ts one-liner)"
+
+    # block with timestamp
+    ts_push
+    log_info    "info (ts block)"
+    log_warn    "warn (ts block)"
+    log_success "success (ts block)"
+    log_error   "error (ts block)"
+    ts_pop
+
+    # back to no timestamps
+    log_info "info (back to no ts)"
+
+    # with timestamps (alt method)
+    (
+        LOG_TS=true
+        log_info "Timestamped info"
+        log_warn "Timestamped warning"
+        log_success "Timestamped success"
+        log_error "Timestamped error"
+    )
+    log_info "checking that LOG_TS is false outside scope...\n"
+
+	# ============================================
+    # (uncomment to test exit on failure behavior)
+    # ============================================
+    # log_fatal "PROBLEM"
+	# log_info  "should not print"
+
+    log_success "Test logging utils done!"
+}
+
+# test_logging_utils
+# ----------------------------------------------------------------------------

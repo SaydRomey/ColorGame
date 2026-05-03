@@ -27,41 +27,117 @@ PROJECT_ROOT="$(find_project_root)" || exit 1
 source "$PROJECT_ROOT/utils/scripts/helpers/common.sh"
 # ----------------------------------------------------------------------------
 
-# -------- Script logic starts here ------------------------------------------
-echo -e "\nTesting all shared utility functions\n"
+boxed_title "Testing all shared utility functions" 40 double
+
+# -------- logging-formatting.sh ---------------------------------------------
+title "Testing logging formatting and boxes"
+
+# -------- Uncomment for man-like info
+# logging_help
+# -------- 
+
+run_logging_formatting_tests()
+{
+	_function_tester nl
+	_function_tester repeat_char "~" 10
+	_function_tester separator 80 "*"
+	_function_tester title "Example Title" 60
+	_function_tester subtitle "Example subtitle"
+	_function_tester boxed_title "Small Box" 20 single
+	_function_tester boxed_title "Round Box" 40 rounded
+	_function_tester boxed_title "Big Box" 60 double
+	_function_tester ascii_box_line 20
+	_function_tester ascii_box_title "ASCII is cool!!!" 40
+}
+
+run_logging_formatting_tests
 
 # -------- logging.sh --------------------------------------------------------
+title "Testing logging utils"
 
-# no timestamps (default)
-log_info     "This is an info message"
-log_warn     "This is a warning"
-log_error    "This is an error (goes to stderr)"
-log_success  "This is a success message"
-# ==============================
-(
-	LOG_TS=true
-	log_info "Timestamped info"
-	log_warn "Timestamped warning"
-	log_success "Timestamped success"
-	log_error "Timestamped error"
-)
-# ==============================
-# # one-liner with timestamp
-with_ts log_info "info (ts one-liner)"
+test_logging_utils()
+{
+	subtitle "no timestamps (default)"
+	log_info     "This is an info message"
+	log_warn     "This is a warning"
+	log_error    "This is an error (goes to stderr)"
+	log_success  "This is a success message"
+	# ==============================
+	# log_info     "info (no ts)"
+	# log_warn     "warn (no ts)"
+	# log_success  "success (no ts)"
+	# log_error    "error (no ts)"
+	# ==============================
 
-# block with timestamp
-ts_push
-log_info    "info (ts block)"
-log_warn    "warn (ts block)"
-log_success "success (ts block)"
-log_error   "error (ts block)"
-ts_pop
+	# ==============================
+	subtitle "one-liner with timestamp"
+	with_ts log_info "info (ts one-liner)"
 
-# back to no timestamps
-log_info "info (back to no ts)"
+	# ==============================
+	subtitle "block with timestamp"
+	ts_push
+	log_info    "info (ts block)"
+	log_warn    "warn (ts block)"
+	log_success "success (ts block)"
+	log_error   "error (ts block)"
+	ts_pop
+
+	# ==============================
+	subtitle "back to no timestamps"
+	log_info "info (back to no ts)"
+
+	# ==============================
+	subtitle "Testing with timestamps (setting LOG_TS=true inside block)"
+	(
+		LOG_TS=true
+		log_info "Timestamped info"
+		log_warn "Timestamped warning"
+		log_success "Timestamped success"
+		log_error "Timestamped error"
+	)
+	log_info "checking that LOG_TS is false outside scope...\n"
+
+	# log_fatal "PROBLEM"
+	# log_info  "should not print"
+}
+
+test_logging_utils
+log_success "Test logging utils done!"
 # ----------------------------------------------------------------------------
+# # no timestamps (default)
+# log_info     "This is an info message"
+# log_warn     "This is a warning"
+# log_error    "This is an error (goes to stderr)"
+# log_success  "This is a success message"
+
+# # ==============================
+# subtitle "Testing with timestamps"
+# (
+# 	LOG_TS=true
+# 	log_info "Timestamped info"
+# 	log_warn "Timestamped warning"
+# 	log_success "Timestamped success"
+# 	log_error "Timestamped error"
+# )
+# # ==============================
+# # # one-liner with timestamp
+# with_ts log_info "info (ts one-liner)"
+
+# # block with timestamp
+# ts_push
+# log_info    "info (ts block)"
+# log_warn    "warn (ts block)"
+# log_success "success (ts block)"
+# log_error   "error (ts block)"
+# ts_pop
+
+# # back to no timestamps
+# log_info "info (back to no ts)"
+
 
 # -------- spinner.sh --------------------------------------------------------
+title "Testing spinners"
+
 start_spinner "Simulating success..."
 sleep 2
 true
@@ -72,6 +148,7 @@ start_spinner "Simulating failure..."
 sleep 2
 false || true     # keep script running
 stop_spinner $?   # expect ✗
+log_warn "TODO: have the ${RED}[✖]${NC} in this failure test..."
 # ----------------------------------------------------------------------------
 
 # -------- fs.sh: ensure_dir, exists, ensure_executable ----------------------
