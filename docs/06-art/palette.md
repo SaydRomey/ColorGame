@@ -1,5 +1,13 @@
 > The original project/game concept began while reading [Color Psychology — Unique Color Names](https://www.colorpsychology.org/blog/unique-color-names/).
 
+<!-- 
+TOADD (for alternative enemy names?):
+- Reseda Green is an established greyish green; 
+- Byzantium is a dark reddish purple; 
+- Palatinate Purple and Palatinate Blue 
+- Cordovan is a dark red/burgundy color
+-->
+
 # 🎨 Color Codex
 
 A reference for color-based NPC naming, hue families, 

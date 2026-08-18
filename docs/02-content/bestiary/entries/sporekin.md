@@ -1,5 +1,5 @@
 
-Sporekin – Children of Decay
+# Sporekin – Children of Decay
 
 <div align="center">
   <h3>Sporekin</h3>
@@ -13,69 +13,80 @@ Constantly surrounded by a cloud of gently drifting spores, glowing faintly.
 Spore clouds induce vivid hallucinations and disorienting visual distortions.
 
 
-Lore Entry
+## Lore Entry
 
-<details><summary>See Sporekin Lore Entry</summary>Lore Entry: Excerpt from "Journal of the Mycofen," Author Unknown
+<details><summary>See Sporekin Lore Entry</summary>
 
-> "In the depths of Huevale, I stumbled upon circles of dancing lights. They were not lanterns, nor spirits—but children, small and moss-faced, their heads crowned in delicate mushrooms. Their laughter drifted like spores in moonlight."
+Lore Entry: Excerpt from "Journal of the Mycofen," Author Unknown
 
+> "In the depths of Huevale, I stumbled upon circles of dancing lights. 
+> They were not lanterns, nor spirits—but children, 
+> small and moss-faced, their heads crowned in delicate mushrooms. 
+> Their laughter drifted like spores in moonlight."
 
+> "As I approached, the air thickened with drifting motes, 
+> colors bursting into my vision that I'd never dreamed possible. 
+> Reality became pliable, bending gently as the Sporekin giggled. 
+> Soon, I forgot why I had come, 
+> my mind tangled in visions of forests walking and skies that sang."
 
-> "As I approached, the air thickened with drifting motes, colors bursting into my vision that I'd never dreamed possible. Reality became pliable, bending gently as the Sporekin giggled. Soon, I forgot why I had come, my mind tangled in visions of forests walking and skies that sang."
+> "Hours—or perhaps days—later, I awoke covered in fungal blooms, rooted in place. 
+> The Sporekin watched me silently, their glowing eyes curious yet indifferent. 
+> I realized then their laughter was not joy, but mockery. 
+> They were gardeners, and I was simply the soil."
 
+> "Beware the Sporekin. They nurture decay and harvest dreams, 
+> feeding the forest's endless cycle of forgetting."
 
+</details>
 
-> "Hours—or perhaps days—later, I awoke covered in fungal blooms, rooted in place. The Sporekin watched me silently, their glowing eyes curious yet indifferent. I realized then their laughter was not joy, but mockery. They were gardeners, and I was simply the soil."
+## Bestiary Entry
 
-
-
-> "Beware the Sporekin. They nurture decay and harvest dreams, feeding the forest's endless cycle of forgetting."
-
-
-
-</details>Bestiary Entry
-
-Name:	Sporekin
-
-Type:	Fungal Creature / Illusionary Hazard
-Threat Level:	⚠️ Moderate – Highly disruptive, dangerous in numbers
+Name:	Sporekin  
+Type:	Fungal Creature / Illusionary Hazard  
+Threat Level:	⚠️ Moderate – Highly disruptive, dangerous in numbers  
 First Emerged:	Post-Shattering Era
 
+### Description:
 
-Description:
+Sporekin appear as small, moss-covered humanoids with glowing fungal crowns.   Innocent at first glance, they emit continuous clouds of spores 
+that warp perception, induce hallucinations, and sow confusion—often causing prey to become lost or disoriented.
 
-Sporekin appear as small, moss-covered humanoids with glowing fungal crowns. Innocent at first glance, they emit continuous clouds of spores that warp perception, induce hallucinations, and sow confusion—often causing prey to become lost or disoriented.
+### Hue Interaction:
 
-Hue Interaction:
+- Completely immune to poison and Verdant toxins.
 
-Completely immune to poison and Verdant toxins.
+- Spore clouds temporarily scramble visual perception, reversing controls or creating vivid illusions.
 
-Spore clouds temporarily scramble visual perception, reversing controls or creating vivid illusions.
+- Resistant to direct plant or fungal manipulation; susceptible to purifying or sonic effects.
 
-Resistant to direct plant or fungal manipulation; susceptible to purifying or sonic effects.
+### Behavior:
 
+- Typically found in playful groups, dancing and laughing softly.
 
-Behavior:
+- Aggressively territorial; will attempt to overwhelm intruders by saturating the area with spores.
 
-Typically found in playful groups, dancing and laughing softly.
+- Rarely attacks directly, relying instead on their spores’ potent effects.
 
-Aggressively territorial; will attempt to overwhelm intruders by saturating the area with spores.
+### Known Weaknesses:
 
-Rarely attacks directly, relying instead on their spores’ potent effects.
+- Highly vulnerable to sonic-based attacks, which disperse spore clouds and temporarily stun them.
 
+- Purifying spells (especially from Yellow or Violet hues) rapidly dissolve their fungal structure.
 
-Known Weaknesses:
-
-Highly vulnerable to sonic-based attacks, which disperse spore clouds and temporarily stun them.
-
-Purifying spells (especially from Yellow or Violet hues) rapidly dissolve their fungal structure.
-
-Direct flame (Crimson) quickly eradicates them but risks triggering explosive spore bursts.
+- Direct flame (Crimson) quickly eradicates them but risks triggering explosive spore bursts.
 
 
-Notes:
+### Notes:
 
 Survivors describe encounters with Sporekin as both dreamlike and terrifying. Some have returned carrying permanent fungal markings, memories that do not fade, and an unsettling sense of having been changed forever by the encounter.
 
+---
+
+<!--
+Subject: small child-sized fungal humanoids in Huevale, moss-covered faces, glowing eyes, crowned with delicate mushrooms and fungal blooms, surrounded by luminous drifting spores. Mood: eerie playful forest hazard, beautiful but toxic. Page style: same schematic bestiary format as the successful pages, with central creature illustration, anatomy callouts, right-side panels, lore scrap, behavior/state flow, hue interaction, weaknesses, notes. Important content: hallucination spores, reversed controls and visual distortion, playful groups dancing and laughing, territorial spore saturation, poison/Verdant toxin immunity, sonic vulnerability, Yellow/Violet purification, Crimson flame eradicates but may trigger explosive spore burst.
+
+
+-->
 
 

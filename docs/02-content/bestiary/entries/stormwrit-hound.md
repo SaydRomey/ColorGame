@@ -100,7 +100,16 @@ Some monks claim the Stormwrit Hounds carry messages between lightning gods — 
 One relic hunter’s log simply said: "Don’t blink during thunder."
 
 
-
 ---
+
+<!--
+
+Subject: a quadruped elemental predator made of stormwire, glass claws, shifting static, cloud, lightning, and plasma limbs. It should look like a sentient arc of electrical fury drawn in sky-ink, with wires twitching and limbs jittering between now and next. It leaves afterimages and leaps between lightning nodes, skyglass spikes, and copper relays. Iriseld / Tidespire Reach setting: storm cliffs, floating sky architecture, skyglass towers, copper relays, broken cliff edges, rain and lightning.
+
+Bestiary page layout: large central creature illustration, clean anatomy callouts, right-side panels for classification, habitat/manifestation, behavior/state flow, abilities/status effects, hue interaction, known weaknesses, and notes. Include a small burned/torn sky-journal lore scrap from Archivist Iol. Use headings and short labels matching the file: Type Lightning Beast / Elemental Predator; Threat High — Fast, Unpredictable, Anti-Casting; First Emerged during the Tempest Surge following the Shattering.
+
+Callouts: stormwire body, glass claws, static afterimages, pressure-drop howl, plasma limbs, sky-ink outline, lightning-node leap. Behavior: paces cliff edges, senses fast movement or charged spell buildup, leaps between lightning nodes, Flash-Fang Lunge teleports/hits/leaves static copy, howl stuns rhythm abilities and lowers visibility. Hue interaction: disrupts Cobalt storm/rhythm channeling, high static disables Color Binding UI, harmonic resonance slows it. Weaknesses: wind-grounding relics, Cerulean Cloak, skybell chimes/glass flutes, reflected lightning arc with Payne’s Prism Pane or storm mirror.
+
+-->
 
 
