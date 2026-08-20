@@ -3,9 +3,28 @@
 <div align="center">
   <h3>The Seventh Hue</h3>
   <i>It was never named. So it never died.</i><br>
-  <img src="../../assets/monsters/the-seventh-hue.png" alt="The Seventh Hue" width="300"><br>
-  <i>"It is not between colors. It is beneath them."</i><br><br>
-</div>A hidden, endgame-only encounter — The Seventh Hue is not a creature but a contradiction. It exists outside the spectrum and beyond remembrance. If you find it, you've already chosen wrong — or maybe right.
+  <img src="../../assets/monsters/the-seventh-hue.png" alt="The Seventh Hue" width="300"><br>  
+  <i>"It is not between colors. It is beneath them."</i><br><br>  
+</div>
+
+<!-- 
+12. The Seventh Hue
+
+> "It was never named. So it never died."
+
+A mythic enemy hidden behind the optional puzzle path ("The hue that never had a name").
+
+Appears only if the player solves five or more Nullshade prism riddles without error.
+
+It mirrors nothing — instead, it attempts to invert the player’s core attributes.
+
+If defeated, unlocks an optional dialogue path before the final boss:
+"What if the Prism was wrong?"
+-->
+
+A hidden, endgame-only encounter — The Seventh Hue is not a creature but a contradiction.  
+It exists outside the spectrum and beyond remembrance.  
+If you find it, you've already chosen wrong — or maybe right.
 
 ---
 
@@ -36,7 +55,9 @@ First Emerged: Behind sealed prism gates unlocked by full riddle solutions
 
 Description:
 
-An anomaly wrapped in shadowlight. Its form cannot be described — its edges blur the longer you look. It counters your essence: inverts your stats, defies your build, and names what you've tried not to become. A hue that does not belong.
+An anomaly wrapped in shadowlight.  
+Its form cannot be described — its edges blur the longer you look.  
+It counters your essence: inverts your stats, defies your build, and names what you've tried not to become. A hue that does not belong.
 
 ---
 
