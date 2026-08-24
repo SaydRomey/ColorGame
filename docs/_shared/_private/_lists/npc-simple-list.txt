@@ -22,7 +22,7 @@
 - Alizarin, the Crimson Weaver
 - Cinnabar Mask
 - Coquelicot Banner
-Additions maybe:
+- Additions maybe:
   - Sanguine Quartermaster (Oxblood / Vinaceous / Cramoisy)
   - Rustbanner Child (Rufous / Rust / Rubicund / Madder)
   - Cauterist Nun (Carmine / Incarnadine / Rose / Cerise)
@@ -35,7 +35,7 @@ Additions maybe:
 - Cerulean Skydancer
 - Eigengrau the Unseeing
 - Payne’s Shade
-Additions maybe:
+- Additions maybe:
   - Harbor Resonant (Smalt / Mazarine Blue / Sapphire)
   - Undertide Ferryman (Ultramarine / Prussian / Indigo / Mazarine)
   - Saltglass Embalmer (Livid / Celeste / Sapphire / Smalt)
@@ -61,7 +61,7 @@ Additions maybe:
 - Aureolin Flame
 - Orangepeel Courier
 - Fulvous Hunter
-Additions maybe:
+- Additions maybe:
   - Ivory Assessor (Nankeen / Melichrous / Flaxen)
   - Sandbroker Widow (Xanthous / Nankeen / Flaxen / Naples)
   - Shade Architect (Saffron / Orpiment / Jonquil / Xanthous)
@@ -74,7 +74,7 @@ Additions maybe:
 - Bistre Archivist
 - Mikado Warlord
 - Caput Mortuum Ascetic
-Additions maybe:
+- Additions maybe:
   - Grave Dust Miller (Filemot / Mummy / Russet / Umber)
   - Last Testament Clerk (Wenge / Sepia / Van Dyke / Taupe)
   - Censer Hermit (Umber / Sable / Sepia / Wenge)
