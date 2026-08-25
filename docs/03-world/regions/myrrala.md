@@ -26,7 +26,8 @@ Twilight meadows, bioluminescent groves, fae-glades, glowing meadows, and crysta
 - **Artifact Examples:** Heliotrope Band, Thulian Mirror
 
 **Environmental Twist:**  
-The region shifts based on your currently equipped color; landscapes rearrange or hide secrets.
+The region shifts based on your currently equipped color; 
+landscapes rearrange or hide secrets.
 
 ---
 
@@ -38,3 +39,18 @@ The region shifts based on your currently equipped color; landscapes rearrange o
 Artifacts: subtle, evocative, layered with duality
 Scene structure: excellent mix of traversal, identity puzzles, and combat hallucination
 -->
+
+Myrrala is not just “purple fairy land”; 
+it is the Blooming Veil, built around illusion, identity, soft tragedy, 
+mirrored beauty, dream logic, and time anomalies. 
+
+Its gameplay identity includes illusion puzzles, color-gated truth, 
+mirrored pathing, and landscapes that shift based on the player’s equipped hue.
+
+Myrrala’s landscape, voice, and encounter structure 
+shift according to perception and self-conception. 
+
+Its hazards include dream pollen, recursive mirrors, glamour fields, 
+and time-softened rooms where sequence becomes unreliable.
+
+
