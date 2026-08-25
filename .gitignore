@@ -1,6 +1,10 @@
 
 # **************************************************************************** #
 
+# ==============================
+# Private and local-only folders
+_PRIVATE
+
 # Assets and Concept Art (w.i.p.)
 assets/
 
