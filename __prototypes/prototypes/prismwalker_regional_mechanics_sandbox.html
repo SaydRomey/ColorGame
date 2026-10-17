@@ -1,0 +1,509 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Prismwalker | Regional Mechanics Lab</title>
+  <style>
+    :root {
+      --bg: #090d17;
+      --panel: #121a29;
+      --edge: #324057;
+      --text: #edf0f7;
+      --muted: #9ba8be;
+      --glow: #65c6a2
+    }
+
+    * {
+      box-sizing: border-box
+    }
+
+    body {
+      margin: 0;
+      background: radial-gradient(ellipse at 40% 0, #182239, var(--bg) 62%);
+      color: var(--text);
+      font: 15px/1.55 system-ui, Segoe UI, sans-serif
+    }
+
+    button,
+    select {
+      font: inherit
+    }
+
+    button {
+      cursor: pointer
+    }
+
+    button:disabled {
+      opacity: .45;
+      cursor: not-allowed
+    }
+
+    .shell {
+      max-width: 1340px;
+      margin: auto;
+      padding: 28px 20px 60px
+    }
+
+    h1 {
+      font-size: clamp(26px, 4vw, 39px);
+      margin: 4px 0
+    }
+
+    h2 {
+      font-size: 19px;
+      margin: 0 0 12px
+    }
+
+    p {
+      margin: 7px 0;
+      color: var(--muted)
+    }
+
+    .eyebrow {
+      font-size: 12px;
+      letter-spacing: .18em;
+      color: #a7afc6;
+      text-transform: uppercase
+    }
+
+    .tabs {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin: 24px 0
+    }
+
+    .tab,
+    .action,
+    .minor {
+      background: #1a2537;
+      border: 1px solid #33445e;
+      color: var(--text);
+      border-radius: 11px;
+      padding: 11px 15px
+    }
+
+    .tab[aria-selected=true] {
+      background: color-mix(in srgb, var(--accent) 22%, #1a2537);
+      border-color: var(--accent);
+      box-shadow: 0 0 0 1px var(--accent)
+    }
+
+    .columns {
+      display: grid;
+      grid-template-columns: minmax(0, 1.2fr) minmax(330px, .8fr);
+      gap: 17px
+    }
+
+    .card {
+      border: 1px solid var(--edge);
+      border-radius: 18px;
+      background: linear-gradient(160deg, #182235, #101725);
+      padding: 20px;
+      min-width: 0
+    }
+
+    .stamp {
+      display: inline-flex;
+      padding: 3px 9px;
+      border: 1px solid #63758e;
+      border-radius: 99px;
+      font-size: 11px;
+      color: #c6d3e6;
+      margin-right: 7px
+    }
+
+    .stamp.proposed {
+      border-color: #ca985e;
+      color: #f3cd9c
+    }
+
+    .scene {
+      height: 330px;
+      position: relative;
+      overflow: hidden;
+      border: 1px solid #34445e;
+      border-radius: 15px;
+      background: radial-gradient(ellipse at center, #243951, #0d1420)
+    }
+
+    .scene:before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(transparent 93%, #ffffff11 94%), linear-gradient(90deg, transparent 93%, #ffffff0b 94%);
+      background-size: 30px 30px;
+      opacity: .6
+    }
+
+    .scene:after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+      background: radial-gradient(ellipse at center, transparent 32%, #071019aa)
+    }
+
+    .floor {
+      position: absolute;
+      inset: auto 0 0;
+      height: 75px;
+      background: linear-gradient(180deg, transparent, #131b27)
+    }
+
+    .scene-label {
+      position: absolute;
+      top: 14px;
+      left: 15px;
+      font-size: 11px;
+      letter-spacing: .12em;
+      color: #c2cddd;
+      z-index: 3
+    }
+
+    .player {
+      position: absolute;
+      bottom: 64px;
+      left: 18%;
+      width: 42px;
+      height: 70px;
+      z-index: 2
+    }
+
+    .player:before {
+      content: '';
+      position: absolute;
+      width: 22px;
+      height: 24px;
+      left: 10px;
+      top: 0;
+      border-radius: 40% 40% 25% 25%;
+      background: #9da4b0
+    }
+
+    .player:after {
+      content: '';
+      position: absolute;
+      top: 22px;
+      left: 2px;
+      width: 38px;
+      height: 46px;
+      clip-path: polygon(50% 0, 86% 15%, 100% 100%, 0 100%, 14% 15%);
+      background: linear-gradient(#65738a, #293143)
+    }
+
+    .core {
+      position: absolute;
+      top: 34px;
+      left: 18px;
+      width: 8px;
+      height: 12px;
+      transform: rotate(45deg);
+      background: var(--accent);
+      box-shadow: 0 0 17px var(--accent);
+      z-index: 2
+    }
+
+    .feature {
+      position: absolute;
+      bottom: 66px;
+      left: 44%;
+      width: 24%;
+      height: 165px;
+      border: 3px solid color-mix(in srgb, var(--accent) 65%, #777);
+      border-radius: 60px 60px 3px 3px;
+      background: linear-gradient(160deg, #ffffff08, #0000005c);
+      box-shadow: 0 0 23px #ffffff10
+    }
+
+    .feature:before {
+      content: '◆';
+      position: absolute;
+      top: 27px;
+      left: calc(50% - 14px);
+      font-size: 27px;
+      color: var(--accent);
+      text-shadow: 0 0 15px var(--accent)
+    }
+
+    .crossing {
+      position: absolute;
+      bottom: 72px;
+      left: 30%;
+      width: 50%;
+      height: 7px;
+      background: var(--accent);
+      box-shadow: 0 0 18px var(--accent);
+      opacity: .08;
+      transform: skewY(-10deg)
+    }
+
+    .scene[data-status=bridge] .crossing,
+    .scene[data-status=alternate] .crossing {
+      opacity: .95
+    }
+
+    .scene[data-status=bridge] .feature,
+    .scene[data-status=alternate] .feature {
+      box-shadow: 0 0 40px var(--accent);
+      background: linear-gradient(160deg, #ffffff25, #00000025)
+    }
+
+    .scene[data-status=clue] .feature:before {
+      animation: pulse 1s infinite
+    }
+
+    .scene[data-status=danger] {
+      filter: contrast(1.3) saturate(.65)
+    }
+
+    .scene[data-status=danger] .feature {
+      border-color: #e45c70;
+      box-shadow: 0 0 35px #ee496966
+    }
+
+    .scene[data-region=Nullshade] {
+      filter: saturate(.35)
+    }
+
+    .scene[data-region=Nullshade][data-status=bridge] {
+      filter: saturate(.75)
+    }
+
+    @keyframes pulse {
+      50% {
+        opacity: .18
+      }
+    }
+
+    .result {
+      padding: 12px 14px;
+      border-left: 3px solid var(--accent);
+      background: #111b29;
+      border-radius: 8px;
+      margin-top: 13px;
+      min-height: 88px
+    }
+
+    .actions {
+      display: grid;
+      gap: 10px
+    }
+
+    .action {
+      text-align: left;
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+      align-items: center
+    }
+
+    .action:hover,
+    .minor:hover {
+      border-color: var(--accent)
+    }
+
+    .action small {
+      display: block;
+      color: #9facc2;
+      font-size: 12px
+    }
+
+    .action b {
+      font-size: 13px
+    }
+
+    .actions .category {
+      font-size: 10px;
+      white-space: nowrap;
+      padding: 3px 6px;
+      border-radius: 5px;
+      border: 1px solid #6d7e97;
+      color: #d4def0
+    }
+
+    .actions .category.proposed {
+      border-color: #d5a260;
+      color: #ffdcab
+    }
+
+    .line {
+      height: 1px;
+      background: var(--edge);
+      margin: 16px 0
+    }
+
+    .log {
+      max-height: 180px;
+      overflow: auto;
+      margin: 0;
+      padding-left: 20px;
+      color: #aebdd2;
+      font-size: 12px
+    }
+
+    .log li {
+      margin: 6px 0
+    }
+
+    .row {
+      display: flex;
+      gap: 8px;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap
+    }
+
+    .minor {
+      padding: 7px 11px;
+      font-size: 12px
+    }
+
+    .legend {
+      margin-top: 20px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px
+    }
+
+    .note {
+      font-size: 12px;
+      color: #b0bbcb
+    }
+
+    .control {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-top: 12px
+    }
+
+    .control input {
+      width: 100%;
+      accent-color: var(--accent)
+    }
+
+    .readout {
+      font-size: 13px;
+      font-weight: 700;
+      min-width: 36px;
+      text-align: right
+    }
+
+    .subtle {
+      color: #a5b2c7;
+      font-size: 12px
+    }
+
+    a {
+      color: #b1d3ff
+    }
+
+    @media(max-width:850px) {
+
+      .columns,
+      .legend {
+        grid-template-columns: 1fr
+      }
+
+      .shell {
+        padding: 18px 12px
+      }
+
+      .card {
+        padding: 15px
+      }
+
+      .scene {
+        height: 260px
+      }
+
+      .feature {
+        height: 135px
+      }
+    }
+
+    @media(prefers-reduced-motion:reduce) {
+      * {
+        animation: none !important;
+        transition: none !important
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <main class="shell">
+    <div class="eyebrow">COLORGAME / DESIGN PROTOTYPE / v1</div>
+    <h1>Regional Mechanics Lab</h1>
+    <p>Seven playable design sketches exploring the metaphysical laws of the shattered realms. Select a region, perform
+      an interaction, and inspect the world-state change.</p>
+    <nav class="tabs" id="tabs" aria-label="Select region"></nav>
+    <div class="columns">
+      <section class="card">
+        <div class="row">
+          <div>
+            <div class="eyebrow" id="regionLabel"></div>
+            <h2 id="roomTitle"></h2>
+          </div><button class="minor" id="reset">↻ Reset room</button>
+        </div>
+        <p id="startText"></p>
+        <div id="scene" class="scene">
+          <div class="scene-label" id="sceneLabel">ROOM SIMULATION</div>
+          <div class="feature"></div>
+          <div class="crossing"></div>
+          <div class="player"><i class="core"></i></div>
+          <div class="floor"></div>
+        </div>
+        <div class="result" aria-live="polite"><strong id="resultTitle">Room ready</strong>
+          <div class="subtle" id="resultText"></div>
+        </div>
+        <div class="row" style="margin-top:12px"><span class="subtle" id="stateValue">World-state:
+            unresolved</span><span class="subtle" id="stepValue">Actions: 0</span></div>
+      </section>
+      <section class="card">
+        <div class="eyebrow">Interactive encounters</div>
+        <h2>Choose an interaction</h2>
+        <div id="actions" class="actions"></div>
+        <div class="line"></div>
+        <h2>Region's world rule</h2>
+        <p id="rule"></p>
+        <div><span class="stamp">SOURCE-BASED</span><span class="note">Canon-level behavior from lore bible and
+            overhaul.</span></div>
+        <p id="canon"></p>
+        <div class="line"></div>
+        <h2>Test parameters</h2>
+        <div class="subtle">Hypothetical prototype-only values. These do not imply canonical coherence or ability costs.
+        </div>
+        <div class="control"><label for="coherence">Hue Coherence (example)</label><input type="range" id="coherence"
+            min="0" max="100" value="65"><output class="readout" id="coherenceOut">65</output></div>
+        <div id="coherenceHelp" class="subtle"></div>
+        <div class="line"></div>
+        <div class="row">
+          <h2 style="margin:0">Event history</h2><button id="export" class="minor">Export session JSON</button>
+        </div>
+        <ol class="log" id="log"></ol>
+      </section>
+    </div>
+    <section class="legend">
+      <div class="card"><span class="stamp">SOURCE-BASED</span>
+        <p class="note">An interaction documented by the regional lore bible. The room, sequence, activation effects and
+          presentation remain a simplified illustration—not a finished production design.</p>
+      </div>
+      <div class="card"><span class="stamp proposed">PROPOSED</span>
+        <p class="note">A sample interaction or specific resolution invented for this lab to test a documented regional
+          rule. Do not add these to canon without design approval.</p>
+      </div>
+    </section>
+    <p class="note" style="margin-top:17px">Sources: <code>regional-lore-bible.pdf</code> (Traversal and Environmental
+      Twist sections) and <code>overhaul.pdf</code> (regional metaphysical rules and Hue Coherence). No canonical
+      numeric thresholds, challenge difficulties, durations, or damage calculations are inferred.</p>
+  </main>
+  <script>
+    const REGIONS = [{ "id": "Huevale", "hue": "Verdant", "color": "#59ba83", "rule": "Vegetation regrows and reacts to magic and behavior.", "canon": "Verdant can awaken vine bridges and root lifts; aggressive magic can thicken hostile tangles. Cobalt may reveal submerged glyphs; Earthen may restore buried paths.", "room": "The Remembering Grove", "start": "A bramble wall blocks an archive door. A dormant root bridge spans the marsh.", "actions": [["Reverent Verdant growth", "Calm vines and raise the root bridge", "The root bridge grows, and the grove permits passage.", "bridge", true], ["Aggressive spellcasting", "Provoke reactive overgrowth", "The brambles tighten around the archive door.", "danger", true], ["Cobalt resonance", "Reveal submerged glyphs", "A submerged record glimmers below the water.", "clue", true], ["Earthen memory-work", "Recover a buried path", "A forgotten stone walkway appears through the marsh.", "alternate", true]] }, { "id": "Vireya", "hue": "Crimson", "color": "#e16a62", "rule": "Heat, blood and battle awaken dormant forces.", "canon": "Crimson can ignite dormant mechanisms; spilled blood may awaken powers, revenants or curse-sites. Earthen can reveal war paths beneath ash.", "room": "The Ashen Oath Gate", "start": "An unlit war-engine locks a basalt door. Old battlefield sigils lie beneath the ash.", "actions": [["Crimson ignition", "Awaken the mechanism", "The war-engine burns to life and unlatches the gate.", "bridge", true], ["Spill blood in combat", "Risk stirring dormant war-memory", "Battle echoes rise from the ash; the way becomes perilous.", "danger", true], ["Earthen recollection", "Reveal buried war paths", "An old supply route emerges beneath the cinders.", "alternate", true], ["Read the oath seal", "Inspect regional history", "You discover the gate commemorates an unfulfilled oath.", "clue", false]] }, { "id": "Iriseld", "hue": "Cobalt", "color": "#69abed", "rule": "Weather and sound change which routes exist.", "canon": "Cobalt can stabilize wind currents, trigger sonic pathways, or reveal routes in storm distortion; bridges may exist only while a hymn continues.", "room": "The Wind-Chime Crossing", "start": "A suspended crossing vanishes each time the storm overtakes its resonant chimes.", "actions": [["Cobalt resonance", "Stabilize a sonic pathway", "The bridge crystallizes while the chimes resonate.", "bridge", true], ["Keep the hymn sounding", "Sustain a timed traversal route", "The resonance holds a temporary route across the gap.", "alternate", true], ["Verdant anchoring", "Resist weather-shear", "Rootlike anchors steady the Prismwalker against crosswinds.", "clue", true], ["Cross without a rhythm", "Test a proposed failure case", "The route drops away as the wind changes.", "danger", false]] }, { "id": "Myrrala", "hue": "Violet", "color": "#bd8af0", "rule": "Bound hues, perception and self-presentation can reshape paths.", "canon": "Areas may change layout with currently bound hues. Violet can find dream seams and destabilize glamour; Cobalt may detect contradiction.", "room": "The Hall of Two Selves", "start": "Two gates offer incompatible reflections. The room interprets how the Prismwalker presents themself.", "actions": [["Bind Violet at the threshold", "Alter presentation to the room", "A concealed dream seam opens behind the reflected gate.", "bridge", false], ["Violet glamour break", "Expose false imagery", "The ornate reflection fades, exposing the real doorway.", "alternate", true], ["Cobalt contradiction test", "Detect a false premise", "A mirrored inscription contradicts its duplicate.", "clue", true], ["Trust the prettier reflection", "Follow an attractive false path", "A looping gallery replaces the exit.", "danger", false]] }, { "id": "Luxeran", "hue": "Aurelian", "color": "#e8bf60", "rule": "Mirages falsify the map and routes.", "canon": "Aurelian can reveal routes and align solar mechanisms; Cobalt may expose false paths. True perception or ritual timing can make the world settle.", "room": "The Solar Caravan Road", "start": "Three roads appear on the map, though only one reaches the sun gate.", "actions": [["Aurelian illumination", "Reveal a concealed route", "A true road lights up beneath the shifting sand.", "bridge", true], ["Cobalt scrutiny", "Expose a false road", "The northern road flickers out: it was a mirage.", "clue", true], ["Align the solar mechanism", "Use light timing to open access", "The solar aperture aligns and the gate opens.", "alternate", true], ["Follow the gleaming shortcut", "Test misleading navigation", "The marked shortcut folds into a dead-end dune.", "danger", false]] }, { "id": "Auralith", "hue": "Earthen", "color": "#bf9474", "rule": "Past actions leave ghosts and readable residue.", "canon": "Earthen reveals old paths and inscriptions and can stabilize certain ghost forms; traces of prior player actions can persist as echoes or husks.", "room": "The Residue Tribunal", "start": "A silent witness stands beside an unmarked grave. A path has been lost to ash.", "actions": [["Earthen residue-reading", "Reveal a previous event", "The memory of a former visitor appears at the grave.", "clue", true], ["Earthen path recovery", "Restore an old route", "Old footprints cohere into a navigable passage.", "bridge", true], ["Disturb the judgment statue", "Test a risk of careless action", "The silent monument stirs in response to the disturbance.", "danger", false], ["Follow your prior trace", "Replay a recent action as a ghost", "An afterimage repeats the last step, hinting at the correct route.", "alternate", false]] }, { "id": "Nullshade", "hue": "Colorless", "color": "#a5acc9", "rule": "Truth, navigation and survival depend on Hue Coherence.", "canon": "Anti-hue pedestals, recursive geometry, silence fields and contradiction-gated memory locks challenge the player. Coherence is a traversal gate.", "room": "The Contradiction Lock", "start": "A door is simultaneously open and sealed. Repeating halls erase recognizable color cues.", "actions": [["Reconcile opposing memories", "Address a contradiction lock", "The contradictory records converge and the memory lock yields.", "bridge", false], ["Relinquish the active hue", "Test an anti-hue pedestal", "The pedestal responds to the absence of a bound color.", "alternate", false], ["Enter the silence field", "Experience suppressed systems", "Spellcasting and sensory cues temporarily cease.", "danger", true], ["Stabilize Hue Coherence", "Test a traversal prerequisite", "The architecture becomes legible enough to trace a route.", "clue", false]] }]; let current = 0, status = 'idle', steps = 0, history = []; const $ = id => document.getElementById(id); const stateNames = { idle: 'Unresolved', bridge: 'Route opened', alternate: 'Alternative path found', danger: 'Hazard triggered', clue: 'Evidence revealed' }; function render() { let r = REGIONS[current]; document.documentElement.style.setProperty('--accent', r.color); $('tabs').innerHTML = ''; REGIONS.forEach((x, i) => { let b = document.createElement('button'); b.className = 'tab'; b.textContent = x.id; b.setAttribute('aria-selected', String(i === current)); b.onclick = () => { current = i; reset() }; $('tabs').appendChild(b) }); $('regionLabel').textContent = r.id + ' / ' + r.hue; $('roomTitle').textContent = r.room; $('startText').textContent = r.start; $('rule').textContent = r.rule; $('canon').textContent = r.canon; $('scene').dataset.region = r.id; $('scene').dataset.status = status; $('actions').innerHTML = ''; r.actions.forEach((a, i) => { const b = document.createElement('button'); b.className = 'action'; const left = document.createElement('span'); const title = document.createElement('b'); title.textContent = a[0]; const note = document.createElement('small'); note.textContent = a[1]; left.append(title, note); const tag = document.createElement('span'); tag.className = 'category' + (a[4] ? '' : ' proposed'); tag.textContent = a[4] ? 'SOURCE-BASED' : 'PROPOSED'; b.append(left, tag); b.onclick = () => act(i); $('actions').appendChild(b) }); $('stateValue').textContent = 'World-state: ' + stateNames[status]; $('stepValue').textContent = 'Actions: ' + steps; renderLog(); updateCoherence() } function reset() { status = 'idle'; steps = 0; history = []; $('resultTitle').textContent = 'Room ready'; $('resultText').textContent = 'Choose an action to see the room respond.'; render() } function act(i) { let r = REGIONS[current], a = r.actions[i]; steps++; status = a[3]; let label = a[4] ? 'SOURCE-BASED' : 'PROPOSED'; $('resultTitle').textContent = a[0] + ' · ' + label; $('resultText').textContent = a[2]; history.push({ region: r.id, action: a[0], classification: label, result: a[2], worldState: stateNames[status], coherenceExample: Number($('coherence').value) }); render() } function renderLog() { $('log').innerHTML = ''; history.forEach(h => { const li = document.createElement('li'); li.textContent = h.action + ' → ' + h.worldState; $('log').appendChild(li) }); if (!history.length) { const li = document.createElement('li'); li.textContent = 'No actions yet'; $('log').appendChild(li) } } function updateCoherence() { let value = Number($('coherence').value); $('coherenceOut').textContent = value; $('coherenceHelp').textContent = REGIONS[current].id === 'Nullshade' ? 'Hypothetical readability experiment: ' + (value < 40 ? 'the room appears unstable' : value < 75 ? 'the room is partially interpretable' : 'the room is legible') + '. No canonical threshold is specified.' : 'This slider is informational outside Nullshade. The canon describes Hue Coherence primarily as a Nullshade traversal requirement.'; $('scene').style.opacity = REGIONS[current].id === 'Nullshade' ? String(0.56 + value / 240) : '1' } $('coherence').addEventListener('input', updateCoherence); $('reset').onclick = reset; $('export').onclick = () => { const data = { prototype: 'Prismwalker Regional Mechanics Lab', region: REGIONS[current].id, steps, events: history, assumptions: ['Room designs are illustrations', 'Hue Coherence slider and threshold bands are hypothetical'] }; const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' }), a = document.createElement('a'); a.href = URL.createObjectURL(blob); a.download = 'prismwalker_regional_session.json'; a.click(); setTimeout(() => URL.revokeObjectURL(a.href), 200) }; reset();
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,225 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Prismwalker — Hue Affinity Balancing Lab</title>
+<style>
+  * {
+    box-sizing: border-box
+  }
+
+  body {
+    margin: 0;
+    background: #0d1220;
+    color: #edf1fc;
+    font: 15px system-ui, Arial, sans-serif
+  }
+
+  header {
+    padding: 24px 5%;
+    border-bottom: 1px solid #303950;
+    background: #141c2b
+  }
+
+  main {
+    max-width: 1200px;
+    margin: auto;
+    padding: 25px 4%;
+    display: grid;
+    grid-template-columns: 330px minmax(0, 1fr);
+    gap: 20px
+  }
+
+  .card {
+    background: #192337;
+    border: 1px solid #37435b;
+    border-radius: 13px;
+    padding: 18px;
+    margin-bottom: 17px
+  }
+
+  h1 {
+    margin: 0 0 6px
+  }
+
+  h2 {
+    margin-top: 0;
+    font-size: 18px
+  }
+
+  label {
+    display: block;
+    margin: 12px 0 5px;
+    color: #bdcbe2
+  }
+
+  input[type=range] {
+    width: 100%
+  }
+
+  input,
+  select,
+  button {
+    accent-color: #92c2ff
+  }
+
+  button,
+  select,
+  input[type=number] {
+    border: 1px solid #57657b;
+    background: #24324c;
+    color: white;
+    border-radius: 8px;
+    padding: 9px;
+    cursor: pointer
+  }
+
+  button:hover {
+    background: #354566
+  }
+
+  button:disabled {
+    opacity: .42;
+    cursor: not-allowed
+  }
+
+  .row {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    flex-wrap: wrap
+  }
+
+  .muted {
+    font-size: 12px;
+    color: #b2c1d9
+  }
+
+  .pill {
+    padding: 4px 8px;
+    background: #33415c;
+    border-radius: 30px;
+    font-size: 12px
+  }
+
+  .meter {
+    height: 13px;
+    background: #0b111c;
+    border-radius: 5px;
+    overflow: hidden
+  }
+
+  .fill {
+    height: 100%;
+    transition: width .15s
+  }
+
+  .tiles {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px
+  }
+
+  .tile {
+    border: 1px solid #40506c;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    text-align: center
+  }
+
+  .tile.active {
+    outline: 2px solid #e4eaf9
+  }
+
+  .log {
+    max-height: 250px;
+    overflow: auto;
+    background: #11192a;
+    padding: 12px;
+    border-radius: 9px;
+    font-size: 13px
+  }
+
+  svg {
+    max-width: 100%;
+    height: auto
+  }
+
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 9px;
+    font-size: 12px
+  }
+
+  .legend span:before {
+    content: ' ';
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    background: var(--c);
+    margin-right: 4px
+  }
+
+  a {
+    color: #a9d1ff
+  }
+
+  @media(max-width:740px) {
+    main {
+      grid-template-columns: 1fr
+    }
+  }
+</style>
+<header>
+  <h1>Prismwalker — Hue Affinity Balancing Lab</h1>
+  <div class="muted">Design-source XP categories and tier names · adjustable hypothetical XP thresholds and rates</div>
+</header>
+<main>
+  <section>
+    <div class="card">
+      <h2>Campaign</h2><label>Playtime <b id="durationRead"></b></label><input id="duration" type="range" min="5"
+        max="100" step="5" value="40"><label>Example playstyle</label><select id="profile">
+        <option value="balanced">Balanced</option>
+        <option value="verdant">Verdant explorer</option>
+        <option value="crimson">Crimson fighter</option>
+        <option value="mystic">Cobalt / Violet / Earthen investigator</option>
+      </select>
+      <p class="muted">Combined example XP earning rate: <b id="xpRate"></b></p>
+    </div>
+    <div class="card">
+      <h2>Thresholds · WIP examples</h2>
+      <div id="thresholds"></div>
+      <p class="muted">Canonical X₁, X₂ and X₃ have no finalized numeric values.</p>
+    </div>
+    <div class="card">
+      <h2>XP sources · assumed rates</h2>
+      <div id="rates"></div>
+    </div>
+  </section>
+  <section>
+    <div class="card">
+      <h2>Six affinity progression curves</h2><svg id="curves" viewBox="0 0 770 350" role="img"
+        aria-label="Six hue affinity XP trends over campaign hours"></svg>
+      <div class="legend"><span style="--c:#d35b5b">Crimson</span><span style="--c:#5798de">Cobalt</span><span
+          style="--c:#57ae72">Verdant</span><span style="--c:#d6b457">Aurelian</span><span
+          style="--c:#a681e4">Violet</span><span style="--c:#ae8362">Earthen</span></div>
+    </div>
+    <div class="card">
+      <h2>Milestone pacing</h2>
+      <table id="milestones" style="width:100%;text-align:left;line-height:2"></table>
+      <p class="muted">— means the modeled threshold is not reached by campaign end.</p>
+    </div>
+    <div class="card">
+      <h2>Character inspection</h2><label>Hue</label><select id="hue"></select><label>Hours elapsed <b
+          id="hourRead">20h</b></label><input id="hour" type="range" min="0" max="40" value="20">
+      <div id="inspection"></div><button id="export">Export simulation JSON</button>
+    </div>
+    <p class="muted">Tier unlock descriptions are source-based categories. Accrual curves and profile distributions are
+      illustrative; the model assumes linear XP accumulation and does not simulate discrete gameplay events.</p>
+  </section>
+</main>
+<script>const HUES = [["Crimson", "#d35b5b"], ["Cobalt", "#5798de"], ["Verdant", "#57ae72"], ["Aurelian", "#d6b457"], ["Violet", "#a681e4"], ["Earthen", "#ae8362"]]; let duration = 40, thresholds = [100, 300, 650], rates = [10, 4, 3, 5, 3], profile = 'balanced', hour = 20, selected = 'Verdant'; const sources = ['Ability usage', 'Time bound', 'Region exposure', 'Lore discovery', 'Item interaction']; const profiles = { balanced: [1, 1, 1, 1, 1, 1], verdant: [.45, .7, 2.1, .7, .65, .5], crimson: [2.2, .75, .65, .6, .45, .45], mystic: [.45, 1.5, .75, .65, 1.8, 1.25] }; const $ = id => document.getElementById(id); function xp(id, t) { return t * rates.reduce((a, b) => a + b, 0) / 6 * profiles[profile][HUES.findIndex(h => h[0] === id)] } function tier(n) { return n >= thresholds[2] ? 'EXPERT' : n >= thresholds[1] ? 'Expert' : n >= thresholds[0] ? 'Adept' : 'Initiate' } function range(parent, name, min, max, value, fn, step = 1) { let box = document.createElement('div'); let label = document.createElement('label'); let txt = document.createElement('b'); label.textContent = name + ' '; txt.textContent = value; label.append(txt); let input = document.createElement('input'); input.type = 'range'; input.min = min; input.max = max; input.step = step; input.value = value; input.oninput = () => { txt.textContent = input.value; fn(+input.value) }; box.append(label, input); parent.append(box) } function draw() { let svg = $('curves'), w = 770, h = 350, p = 42, max = Math.max(thresholds[2] * 1.1, ...HUES.map(v => xp(v[0], duration)) * 1.08, 10); let s = `<rect width="${w}" height="${h}" fill="#11192a" rx="9"/>`; for (let i = 0; i <= 4; i++) { let yy = p + (h - 2 * p) * i / 4; s += `<line x1="${p}" y1="${yy}" x2="${w - p}" y2="${yy}" stroke="#3a465b"/><text fill="#b2c1d9" x="5" y="${yy + 4}" font-size="11">${Math.round(max * (1 - i / 4))}</text>` } for (let k = 0; k < 3; k++) { let y = h - p - thresholds[k] / max * (h - 2 * p); s += `<line x1="${p}" y1="${y}" x2="${w - p}" y2="${y}" stroke="#adb4c4" stroke-dasharray="5 5" opacity=".65"/>` } HUES.forEach(hue => { let pts = Array.from({ length: 41 }, (_, i) => { let t = duration * i / 40; return `${p + (w - 2 * p) * t / duration},${h - p - xp(hue[0], t) / max * (h - 2 * p)}` }).join(' '); s += `<polyline points="${pts}" fill="none" stroke="${hue[1]}" stroke-width="3"/>` }); s += `<text x="${w / 2}" y="${h - 7}" fill="#c5d5ea" text-anchor="middle" font-size="12">Hours played (0–${duration})</text>`; svg.innerHTML = s; const milestones = $('milestones'); milestones.innerHTML = '<tr><th>Hue</th><th>Adept</th><th>Expert</th><th>EXPERT</th></tr>' + HUES.map(h => `<tr><td style="color:${h[1]}">${h[0]}</td>${thresholds.map(v => { let t = v / xp(h[0], 1); return `<td>${isFinite(t) && t <= duration ? t.toFixed(1) + 'h' : '—'}</td>` }).join('')}</tr>`).join(''); let val = xp(selected, hour); $('inspection').innerHTML = `<h3>${selected} · ${tier(val)}</h3><strong>${Math.round(val)} XP</strong><p>${['Basic abilities, entry dialogue, reduced relic potency', 'Mid-tier powers, new dialogue, full relic base power', 'Advanced combos, secret lore, relic bonuses', 'Ultimate powers, exclusive narrative branches, overcharged relics'][['Initiate', 'Adept', 'Expert', 'EXPERT'].indexOf(tier(val))]}</p>`; $('hourRead').textContent = hour + 'h'; $('hour').max = duration; $('hour').value = hour; $('durationRead').textContent = duration + 'h'; $('xpRate').textContent = rates.reduce((a, b) => a + b, 0) + ' XP/h'; } function setup() { range($('thresholds'), 'X₁ / Adept', 25, 175, thresholds[0], n => { thresholds[0] = Math.min(n, thresholds[1] - 25); draw() }, 25); range($('thresholds'), 'X₂ / Expert', 200, 800, thresholds[1], n => { thresholds[1] = Math.max(thresholds[0] + 25, Math.min(n, thresholds[2] - 25)); draw() }, 25); range($('thresholds'), 'X₃ / EXPERT', 300, 1800, thresholds[2], n => { thresholds[2] = Math.max(n, thresholds[1] + 25); draw() }, 25); sources.forEach((s, i) => range($('rates'), s + ' XP/hour', 0, 30, rates[i], n => { rates[i] = n; draw() })); $('duration').oninput = e => { duration = +e.target.value; hour = Math.min(hour, duration); draw() }; $('profile').onchange = e => { profile = e.target.value; draw() }; $('hue').innerHTML = HUES.map(h => `<option>${h[0]}</option>`).join(''); $('hue').value = selected; $('hue').onchange = e => { selected = e.target.value; draw() }; $('hour').oninput = e => { hour = +e.target.value; draw() }; $('export').onclick = () => { let payload = { assumptions: 'All numerical values are hypothetical', duration, thresholds, XPPerHour: Object.fromEntries(sources.map((s, i) => [s, rates[i]])), profile, curves: HUES.map(h => ({ hue: h[0], points: Array.from({ length: duration + 1 }, (_, t) => [t, +xp(h[0], t).toFixed(2)]) })) }; let a = document.createElement('a'), blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' }); a.href = URL.createObjectURL(blob); a.download = 'prismwalker_affinity_simulation.json'; a.click(); URL.revokeObjectURL(a.href) }; draw() } setup();</script>
+
+</html>

@@ -1,0 +1,235 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Prismwalker — Hue Binding & Combat Sandbox</title>
+<style>
+  * {
+    box-sizing: border-box
+  }
+
+  body {
+    margin: 0;
+    background: #0d1220;
+    color: #edf1fc;
+    font: 15px system-ui, Arial, sans-serif
+  }
+
+  header {
+    padding: 24px 5%;
+    border-bottom: 1px solid #303950;
+    background: #141c2b
+  }
+
+  main {
+    max-width: 1200px;
+    margin: auto;
+    padding: 25px 4%;
+    display: grid;
+    grid-template-columns: 330px minmax(0, 1fr);
+    gap: 20px
+  }
+
+  .card {
+    background: #192337;
+    border: 1px solid #37435b;
+    border-radius: 13px;
+    padding: 18px;
+    margin-bottom: 17px
+  }
+
+  h1 {
+    margin: 0 0 6px
+  }
+
+  h2 {
+    margin-top: 0;
+    font-size: 18px
+  }
+
+  label {
+    display: block;
+    margin: 12px 0 5px;
+    color: #bdcbe2
+  }
+
+  input[type=range] {
+    width: 100%
+  }
+
+  input,
+  select,
+  button {
+    accent-color: #92c2ff
+  }
+
+  button,
+  select,
+  input[type=number] {
+    border: 1px solid #57657b;
+    background: #24324c;
+    color: white;
+    border-radius: 8px;
+    padding: 9px;
+    cursor: pointer
+  }
+
+  button:hover {
+    background: #354566
+  }
+
+  button:disabled {
+    opacity: .42;
+    cursor: not-allowed
+  }
+
+  .row {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    flex-wrap: wrap
+  }
+
+  .muted {
+    font-size: 12px;
+    color: #b2c1d9
+  }
+
+  .pill {
+    padding: 4px 8px;
+    background: #33415c;
+    border-radius: 30px;
+    font-size: 12px
+  }
+
+  .meter {
+    height: 13px;
+    background: #0b111c;
+    border-radius: 5px;
+    overflow: hidden
+  }
+
+  .fill {
+    height: 100%;
+    transition: width .15s
+  }
+
+  .tiles {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 8px
+  }
+
+  .tile {
+    border: 1px solid #40506c;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    text-align: center
+  }
+
+  .tile.active {
+    outline: 2px solid #e4eaf9
+  }
+
+  .log {
+    max-height: 250px;
+    overflow: auto;
+    background: #11192a;
+    padding: 12px;
+    border-radius: 9px;
+    font-size: 13px
+  }
+
+  svg {
+    max-width: 100%;
+    height: auto
+  }
+
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 9px;
+    font-size: 12px
+  }
+
+  .legend span:before {
+    content: ' ';
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    background: var(--c);
+    margin-right: 4px
+  }
+
+  a {
+    color: #a9d1ff
+  }
+
+  @media(max-width:740px) {
+    main {
+      grid-template-columns: 1fr
+    }
+  }
+</style>
+<header>
+  <h1>Prismwalker — Hue Binding & Combat Sandbox</h1>
+  <div class="muted">Canonical hue identities and selected documented enemy interactions · explicitly hypothetical
+    balancing values</div>
+</header>
+<main>
+  <section>
+    <div class="card">
+      <h2>Prismwalker <span class="pill" id="phase"></span></h2>
+      <div class="row"><strong>Health</strong><span id="playerHP"></span></div>
+      <div class="meter">
+        <div class="fill" id="playerfill" style="background:#65af77"></div>
+      </div>
+      <p>Shared charges <b id="chargecount"></b></p>
+      <div class="row" id="charges" style="gap:3px"></div>
+      <p class="muted">WIP: 12-charge pool and 1 / 2 / 3 casting costs. The documents do not finalize all values.</p>
+    </div>
+    <div class="card">
+      <h2>3 bound hue slots</h2>
+      <div id="slots" class="row"></div>
+      <h3>Binding Shrine</h3>
+      <div id="binding" class="row"></div>
+      <p class="muted" id="bindingHelp"></p>
+    </div>
+    <div class="card">
+      <h2>Active hue spells</h2>
+      <div id="spells" style="display:grid;gap:8px"></div>
+      <p class="muted">Some names are documented examples; other spell names, damage and effects are explicitly proposed
+        for this prototype.</p>
+    </div>
+  </section>
+  <section>
+    <div class="card">
+      <h2>Encounter <span class="pill">Example encounter stats</span></h2><select id="enemy"
+        style="max-width:100%;width:100%"></select>
+      <p>Enemy HP <b id="enemyHP"></b></p>
+      <div class="meter">
+        <div class="fill" id="enemyfill" style="background:#cc596c"></div>
+      </div>
+      <p>Status <b id="status"></b> · Turn <b id="turn"></b></p>
+      <div class="row"><button id="start">Begin encounter</button><button id="enemyAct">Simulate enemy
+          turn</button><button id="reset">Return to shrine / Reset</button></div>
+    </div>
+    <div class="card">
+      <h2>Hue-versus-enemy reactions</h2>
+      <div id="reaction"></div>
+      <p class="muted">Source-based interaction descriptions are limited to the documented hue / enemy relationships
+        represented here. Other hue interactions remain unspecified.</p>
+    </div>
+    <div class="card">
+      <h2>Combat log</h2>
+      <pre class="log" id="log" style="white-space:pre-wrap"></pre><button id="export">Export session JSON</button>
+    </div>
+    <p class="muted">Combat turn order, enemy HP, player HP, spell damage (9 / 18 / 30), +5 combo bonus, and status
+      resolution are proposed model behavior—not canon. Basic inter-hue combo and shrine rebinding rules are grounded in
+      the design drafts.</p>
+  </section>
+</main>
+<script>const hues = [["Crimson", "#d35b5b"], ["Cobalt", "#5798de"], ["Verdant", "#57ae72"], ["Aurelian", "#d6b457"], ["Violet", "#a681e4"], ["Earthen", "#ae8362"]]; const defs = { Crimson: ['Ember Strike', 'Fireburst', 'Conflagration Orb'], Cobalt: ['Echo Pulse', 'Mind Echo', 'Static Dash'], Verdant: ['Root Seed', 'Vine Snare', 'Skygrowth Seed'], Aurelian: ['Light Pulse', 'Radiant Echo', 'Blinding Flare'], Violet: ['Glamour Spark', 'Glamour Pulse', 'Illusion Clone'], Earthen: ['Residue Pulse', 'Earthen Echo', 'Decay Grasp'] }; const enemies = [{ name: 'Sapborn Stalker', region: 'Huevale', hp: 90, reactions: { Verdant: ['counter', 'Verdant may pacify this enemy.'] } }, { name: 'Searblood Cultist', region: 'Vireya', hp: 110, reactions: { Crimson: ['feeds', 'Crimson empowers this foe.'] } }, { name: 'Stormwrit Hound', region: 'Iriseld', hp: 100, reactions: { Cobalt: ['counter', 'Cobalt drains/disrupts its charge.'] } }, { name: 'Doppelshade', region: 'Myrrala', hp: 105, reactions: { Violet: ['counter', 'Violet counters its glamour.'] } }, { name: 'Sunflare Marionette', region: 'Luxeran', hp: 120, reactions: { Aurelian: ['feeds', 'Aurelian powers this enemy.'] } }, { name: 'Memory Leech', region: 'Nullshade', hp: 85, reactions: { Earthen: ['counter', 'Earthen memory magic stuns it; memories/Echo logic also counters HUD interference.'] } }, { name: 'Bloomrot Titan', region: 'Huevale', hp: 165, reactions: { Verdant: ['feeds', 'Verdant feeds this creature.'] } }]; let bound = ['Crimson', 'Cobalt', 'Verdant'], active = 'Crimson', enemy = enemies[0], hp = 100, ehp = enemy.hp, charges = 12, turn = 0, mode = 'shrine', prev = '', status = '', logs = ['Binding Shrine ready.']; const $ = id => document.getElementById(id); function log(s) { logs.unshift(s); $('log').textContent = logs.join('\n'); } function render() { $('phase').textContent = mode.toUpperCase(); $('playerHP').textContent = hp + '/100'; $('enemyHP').textContent = ehp + '/' + enemy.hp; $('playerfill').style.width = hp + '%'; $('enemyfill').style.width = (100 * ehp / enemy.hp) + '%'; $('charges').innerHTML = Array.from({ length: 12 }, (_, i) => `<div style="flex:1;height:19px;border-radius:3px;background:${i < charges ? hues.find(h => h[0] === active)[1] : '#343c4b'}"></div>`).join(''); $('chargecount').textContent = charges + '/12'; $('slots').innerHTML = bound.map((h, i) => `<button class="${active === h ? 'active' : ''}" onclick="switchHue('${h}')" style="border:2px solid ${hues.find(x => x[0] === h)[1]}">${i + 1}. ${h}${active === h ? ' ●' : ''}</button>`).join(''); $('binding').innerHTML = hues.map(h => `<button ${mode !== 'shrine' || (bound.length === 3 && !bound.includes(h[0])) ? 'disabled' : ''} onclick="toggle('${h[0]}')">${bound.includes(h[0]) ? '✓ ' : ''}${h[0]}</button>`).join(''); $('bindingHelp').textContent = mode === 'shrine' ? 'Rebinding is available only at the shrine.' : 'Return to the shrine to change bound slots.'; $('spells').innerHTML = defs[active].map((name, i) => `<button ${mode !== 'combat' || charges < i + 1 ? 'disabled' : ''} onclick="cast(${i + 1})">${name} · ${i + 1} charge${i ? 's' : ''}</button>`).join(''); $('reaction').innerHTML = hues.map(h => { let r = enemy.reactions[h[0]]; return `<p><span style="color:${h[1]}">${h[0]}</span>: <b>${r ? r[0] === 'feeds' ? 'Feeds enemy' : 'Documented counterplay' : 'Unspecified'}</b> — ${r ? r[1] : 'No explicit interaction in selected notes.'}</p>` }).join(''); $('start').disabled = mode !== 'shrine'; $('enemyAct').disabled = mode !== 'combat'; $('status').textContent = status || 'None'; $('turn').textContent = turn; } window.switchHue = function (h) { active = h; log('Switch to ' + h); render() }; window.toggle = function (h) { if (mode !== 'shrine') return; if (bound.includes(h)) { if (bound.length === 1) return; bound = bound.filter(x => x !== h); if (!bound.includes(active)) active = bound[0] } else if (bound.length < 3) bound.push(h); render() }; window.cast = function (cost) { if (mode !== 'combat' || charges < cost) return; let reaction = enemy.reactions[active], multiplier = reaction?.[0] === 'feeds' ? .5 : reaction?.[0] === 'counter' ? 1.5 : 1, bonus = prev && prev !== active ? 5 : 0, damage = Math.round([0, 9, 18, 30][cost] * multiplier + bonus); charges -= cost; ehp = Math.max(0, ehp - damage); turn++; status = reaction?.[0] === 'feeds' ? 'Empowered' : reaction?.[0] === 'counter' ? 'Countered' : ''; if (prev === 'Crimson' && active === 'Cobalt') status = 'Stunned (example combo)'; if (enemy.name === 'Sapborn Stalker' && active === 'Verdant') status = 'Pacification available'; log(`Turn ${turn}: ${active} ${defs[active][cost - 1]} −${cost} charges, ${damage} hypothetical damage${bonus ? ' (includes +5 combo)' : ''}. ${reaction ? reaction[1] : 'No documented specific reaction.'}`); prev = active; if (ehp === 0) { mode = 'victory'; log('Encounter won.') } render() }; window.enemyTurn = function () { if (mode !== 'combat') return; let dmg = status.includes('Stunned') ? 0 : status === 'Empowered' ? 17 : 10; hp = Math.max(0, hp - dmg); turn++; prev = ''; log('Enemy turn: ' + dmg + ' hypothetical damage.'); if (hp === 0) { mode = 'defeat'; log('Prismwalker defeated.') } render() }; function reset() { hp = 100; ehp = enemy.hp; charges = 12; turn = 0; mode = 'shrine'; prev = ''; status = ''; log('Returned to shrine.'); render() } $('reset').onclick = reset; $('start').onclick = () => { mode = 'combat'; log('Encounter started: ' + enemy.name); render() }; $('enemyAct').onclick = window.enemyTurn; $('enemy').innerHTML = enemies.map((e, i) => `<option value="${i}">${e.name} · ${e.region}</option>`).join(''); $('enemy').onchange = e => { enemy = enemies[+e.target.value]; reset() }; $('export').onclick = () => { let a = document.createElement('a'); a.href = URL.createObjectURL(new Blob([JSON.stringify({ bound, active, enemy: enemy.name, hp, ehp, charges, turn, mode, status, logs, disclaimer: 'All damage, HP, and combo bonuses are illustrative.' }, null, 2)], { type: 'application/json' })); a.download = 'prismwalker_combat_session.json'; a.click(); URL.revokeObjectURL(a.href) }; render();</script>
+
+</html>

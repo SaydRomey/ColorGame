@@ -17,9 +17,11 @@
 
 ### How to run it
 
-Download the HTML file and open it in Chrome, Firefox, or Edge. No installation, server, dependencies, or game engine required.
+Download the HTML file and open it in Chrome, Firefox, or Edge.  
+No installation, server, dependencies, or game engine required.
 
-This is a functional browser-based design prototype, not yet a Unity or Godot implementation. The mechanics use placeholder values where your design documents haven't finalized them.
+This is a functional browser-based design prototype, not yet a Unity or Godot implementation.  
+The mechanics use placeholder values where your design documents haven't finalized them.
 
 ---
 
@@ -40,7 +42,10 @@ This is a functional browser-based design prototype, not yet a Unity or Godot im
 
 Download the HTML file and open it in Chrome, Firefox, or Edge. No installation, server, dependencies, or game engine required.
 
-This is a standalone browser-based design prototype, not a game-engine implementation. **All NPC encounters and newly written dialogue are examples, not confirmed canon.** Affinity thresholds are also provisional: the design documents specify `X₁`, `X₂`, and `X₃` without final numeric values. The simulator uses example values of 25, 50, and 75 on a 0–100 scale and an experimental rule for blended personalities.
+This is a standalone browser-based design prototype, not a game-engine implementation.  
+**All NPC encounters and newly written dialogue are examples, not confirmed canon.**  
+Affinity thresholds are also provisional: the design documents specify `X₁`, `X₂`, and `X₃` without final numeric values.  
+The simulator uses example values of 25, 50, and 75 on a 0–100 scale and an experimental rule for blended personalities.
 
 ---
 
@@ -62,15 +67,89 @@ This is a standalone browser-based design prototype, not a game-engine implement
 
 Download the HTML file and open it in Chrome, Firefox, or Edge. No installation, server, dependencies, or game engine required.
 
-The explorer is a browser-based **encounter-design reference and test tool**, not an in-engine combat simulation. Its enemy descriptions and tags are derived from the uploaded bestiary draft. **Undocumented hue interactions remain unspecified** rather than being assigned invented resistances or weaknesses. Numeric combat assumptions are hypothetical.
+The explorer is a browser-based **encounter-design reference and test tool**, not an in-engine combat simulation.  
+Its enemy descriptions and tags are derived from the uploaded bestiary draft.  
+**Undocumented hue interactions remain unspecified** rather than being assigned invented resistances or weaknesses.  
+Numeric combat assumptions are hypothetical.
+
+---
+
+---
+
+## [Prismwalker — Regional Mechanics Lab][regional-lab-html]
+
+- [Launch Prismwalker — Regional Mechanics Lab][regional-lab-launch]
+
+### What's included
+
+- **Seven regional room experiments:** Huevale, Vireya, Iriseld, Myrrala, Luxeran, Auralith, and Nullshade.
+- **World-law demonstrations:** Simulate each region's environmental or metaphysical rule using clickable actions and changing room states.
+- **Source versus proposal labels:** Distinguish established regional principles from example puzzle interactions.
+- **Session tools:** Room resets, interaction history, and JSON export.
+
+### How to run it
+
+Open `prismwalker_regional_mechanics_sandbox.html` in a modern browser. 
+
+This is a simplified room-state mechanics lab, not an in-engine level. 
+
+Interactive outcomes labeled proposed are non-canonical.
+
+---
+
+## [Prismwalker — Hue Affinity Balancing Lab][affinity-lab-html]
+
+- [Launch Prismwalker — Hue Affinity Balancing Lab][affinity-lab-launch]
+
+### What's included
+
+- **Six XP curves:** Crimson, Cobalt, Verdant, Aurelian, Violet, and Earthen.
+- **Editable tier thresholds:** Initiate, Adept, Expert, and EXPERT progression through configurable `X₁`, `X₂`, and `X₃`.
+- **Five XP sources:** Ability usage, time bound, region exposure, lore discovery, and item interactions.
+- **Pacing tools:** Adjustable campaign playtime, example playstyle distributions, milestone table, and point-in-time tier inspection.
+- **Export:** Save modeled progression assumptions and curves as JSON.
+
+### How to run it
+
+Open `prismwalker_hue_affinity_balancing_lab.html` in a modern browser. 
+
+**All numeric XP thresholds, XP rates, playstyle distributions, and linear accumulation curves are hypothetical.** 
+
+The source specifies XP categories and unlock classes, not final numerical balance.
+
+---
+
+## [Prismwalker — Hue Binding & Combat Sandbox][combat-lab-html]
+
+- [Launch Prismwalker — Hue Binding & Combat Sandbox][combat-lab-launch]
+
+### What's included
+
+- **Three bound slots and six hues:** Change equipped hues at the shrine and switch the active hue in combat.
+- **Shared 12-charge bar (WIP):** Three spell cost levels (1, 2, 3), proposed spell effects, and charging limitations.
+- **Documented enemy reactions:** Selected bestiary and hue-binding interactions, with unspecified pairs clearly identified.
+- **Combo experiment:** Test consecutive casts of different hues and a proposed numeric combo bonus.
+- **Encounter loop and logs:** Example HP and damage, simulated enemy turns, reset, and JSON session export.
+
+### How to run it
+
+Open `prismwalker_hue_binding_combat_sandbox.html` in a modern browser. 
+
+**Enemy HP, damage, combat turn loop, and combo bonus values are hypothetical;** 
+this prototype is a mechanics test, not the finalized combat specification.
 
 ---
 
 <!-- Links -->
-
 [hud-prototype-html]: ./prototypes/prismwalker_hud_prototype.html
 [hud-prototype-launch]: https://saydromey.github.io/ColorGame/__prototypes/prototypes/prismwalker_hud_prototype.html
 [personality-prototype-html]: ./prototypes/prismwalker_personality_simulator.html
 [personality-prototype-launch]: https://saydromey.github.io/ColorGame/__prototypes/prototypes/prismwalker_personality_simulator.html
 [bestiary-prototype-html]: ./prototypes/prismwalker_bestiary_explorer.html
 [bestiary-prototype-launch]: https://saydromey.github.io/ColorGame/__prototypes/prototypes/prismwalker_bestiary_explorer.html
+[regional-lab-html]: ./prototypes/prismwalker_regional_mechanics_sandbox.html
+[regional-lab-launch]: https://saydromey.github.io/ColorGame/__prototypes/prototypes/prismwalker_regional_mechanics_sandbox.html
+[affinity-lab-html]: ./prototypes/prismwalker_hue_affinity_balancing_lab.html
+[affinity-lab-launch]: https://saydromey.github.io/ColorGame/__prototypes/prototypes/prismwalker_hue_affinity_balancing_lab.html
+[combat-lab-html]: ./prototypes/prismwalker_hue_binding_combat_sandbox.html
+[combat-lab-launch]: https://saydromey.github.io/ColorGame/__prototypes/prototypes/prismwalker_hue_binding_combat_sandbox.html
