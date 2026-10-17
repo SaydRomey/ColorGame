@@ -1,0 +1,1461 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>The Shattered Realm — Interactive Map Prototype</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root {
+    --paper: #f7f4ec;
+    --ink: #111;
+    --muted: #555;
+    --panel: rgba(247,244,236,.96);
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: Georgia, "Times New Roman", serif;
+    background: #ddd8cc;
+    color: var(--ink);
+    overflow: hidden;
+  }
+  #app {
+    display: grid;
+    grid-template-columns: 310px 1fr 330px;
+    grid-template-rows: 100vh;
+    height: 100vh;
+  }
+  aside {
+    background: var(--panel);
+    border-right: 1px solid #999;
+    padding: 16px 16px 18px;
+    overflow: auto;
+  }
+  #info {
+    border-left: 1px solid #999;
+    border-right: none;
+  }
+  h1 {
+    font-size: 24px;
+    line-height: 1.05;
+    margin: 0 0 6px;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+  }
+  h2 {
+    font-size: 17px;
+    margin: 20px 0 8px;
+    letter-spacing: .04em;
+    text-transform: uppercase;
+  }
+  h3 {
+    margin: 0 0 5px;
+    font-size: 20px;
+  }
+  p, label, li {
+    font-size: 14px;
+    line-height: 1.35;
+  }
+  .small {
+    font-size: 12px;
+    color: var(--muted);
+  }
+  .control-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 6px;
+    margin: 12px 0;
+  }
+  button {
+    border: 1px solid #111;
+    background: transparent;
+    padding: 7px 8px;
+    font-family: inherit;
+    cursor: pointer;
+  }
+  button:hover { background: #ece6d8; }
+  .layer-list label {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    padding: 4px 0;
+    cursor: pointer;
+  }
+  .region-list button {
+    display: block;
+    width: 100%;
+    margin: 5px 0;
+    text-align: left;
+  }
+  #map-wrap {
+    position: relative;
+    overflow: hidden;
+    background:
+      radial-gradient(circle at 50% 50%, rgba(255,255,255,.55), rgba(0,0,0,.04)),
+      var(--paper);
+    cursor: grab;
+  }
+  #map-wrap.dragging { cursor: grabbing; }
+  #coords {
+    position: absolute;
+    left: 12px;
+    bottom: 12px;
+    background: rgba(247,244,236,.9);
+    border: 1px solid #999;
+    padding: 5px 8px;
+    font-size: 12px;
+    pointer-events: none;
+  }
+  svg {
+    width: 100%;
+    height: 100%;
+    display: block;
+    user-select: none;
+  }
+  .region-shape {
+    fill: rgba(255,255,255,.08);
+    stroke: #111;
+    stroke-width: 2;
+    vector-effect: non-scaling-stroke;
+    cursor: pointer;
+  }
+  .region-shape:hover { fill: rgba(0,0,0,.05); }
+  .region-label {
+    font-size: 34px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: .06em;
+    pointer-events: none;
+  }
+  .region-subtitle {
+    font-size: 15px;
+    font-style: italic;
+    pointer-events: none;
+  }
+  .place-label {
+    font-size: 14px;
+    pointer-events: none;
+  }
+  .main-label {
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    pointer-events: none;
+  }
+  .marker {
+    stroke: #111;
+    fill: var(--paper);
+    stroke-width: 1.5;
+    vector-effect: non-scaling-stroke;
+    cursor: pointer;
+  }
+  .marker:hover { fill: #111; }
+  .terrain-icon {
+    stroke: #111;
+    fill: none;
+    stroke-width: 1.2;
+    vector-effect: non-scaling-stroke;
+    opacity: .85;
+    cursor: pointer;
+  }
+  .causeway {
+    fill: none;
+    stroke: #111;
+    stroke-width: 3;
+    stroke-dasharray: 8 5;
+    vector-effect: non-scaling-stroke;
+    cursor: pointer;
+  }
+  .gate {
+    fill: var(--paper);
+    stroke: #111;
+    stroke-width: 1.7;
+    vector-effect: non-scaling-stroke;
+    cursor: pointer;
+  }
+  .gridline {
+    stroke: #bbb;
+    stroke-width: 1;
+    vector-effect: non-scaling-stroke;
+  }
+  .hatch {
+    stroke: #111;
+    stroke-width: .65;
+    opacity: .5;
+    fill: none;
+    pointer-events: none;
+  }
+  .compass, .scale-bar, .title-cartouche {
+    stroke: #111;
+    fill: none;
+    stroke-width: 1.5;
+    vector-effect: non-scaling-stroke;
+  }
+  .legend-entry {
+    display: grid;
+    grid-template-columns: 18px 1fr;
+    gap: 6px;
+    align-items: center;
+    margin: 4px 0;
+    font-size: 13px;
+  }
+  .symbol {
+    width: 14px;
+    height: 14px;
+    border: 1px solid #111;
+    display: inline-block;
+  }
+  .main-symbol { border-radius: 50%; background: #111; }
+  .landmark-symbol { transform: rotate(45deg); }
+  .biome-symbol { background: repeating-linear-gradient(45deg, transparent, transparent 2px, #111 2px, #111 3px); }
+  .gate-symbol { border-style: dashed; }
+  .hidden-layer { display: none !important; }
+  .detail-table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 10px 0;
+  }
+  .detail-table td {
+    border-top: 1px solid #bbb;
+    padding: 6px 4px;
+    vertical-align: top;
+    font-size: 13px;
+  }
+  .detail-table td:first-child {
+    width: 85px;
+    color: var(--muted);
+  }
+  .note {
+    border: 1px solid #aaa;
+    padding: 10px;
+    margin: 12px 0;
+    background: rgba(255,255,255,.4);
+  }
+</style>
+</head>
+<body>
+<div id="app">
+  <aside id="controls">
+    <h1>The Shattered Realm</h1>
+    <p class="small">Interactive top-down map prototype. This is vector data, not AI art: regions, labels, markers, and layers can be edited independently.</p>
+    <div class="control-row">
+      <button id="zoom-in">Zoom +</button>
+      <button id="zoom-out">Zoom −</button>
+      <button id="reset">Reset</button>
+    </div>
+    <h2>Layers</h2>
+    <div class="layer-list">
+      <label><input type="checkbox" data-layer="regions" checked> Region shapes</label>
+      <label><input type="checkbox" data-layer="labels" checked> Region labels</label>
+      <label><input type="checkbox" data-layer="main-cities" checked> Main cities / strongholds</label>
+      <label><input type="checkbox" data-layer="landmarks" checked> Landmarks</label>
+      <label><input type="checkbox" data-layer="biomes" checked> Biome texture icons</label>
+      <label><input type="checkbox" data-layer="causeways" checked> Gates / causeways</label>
+      <label><input type="checkbox" data-layer="grid"> Coordinate grid</label>
+    </div>
+    <h2>Jump to region</h2>
+    <div class="region-list" id="region-buttons"></div>
+    <h2>Legend</h2>
+    <div class="legend-entry"><span class="symbol main-symbol"></span><span>Main city / stronghold</span></div>
+    <div class="legend-entry"><span class="symbol landmark-symbol"></span><span>Landmark / ruin / shrine</span></div>
+    <div class="legend-entry"><span class="symbol biome-symbol"></span><span>Biome texture marker</span></div>
+    <div class="legend-entry"><span class="symbol gate-symbol"></span><span>Gate / causeway route</span></div>
+    <div class="note small">Use mouse wheel or buttons to zoom. Drag the map to pan. Click regions, cities, landmarks, or gates to inspect details.</div>
+  </aside>
+
+  <main id="map-wrap">
+    <svg id="map" viewBox="0 0 1200 1000" xmlns="http://www.w3.org/2000/svg" aria-label="Interactive map of The Shattered Realm">
+      <defs>
+        <pattern id="paperNoise" width="18" height="18" patternUnits="userSpaceOnUse">
+          <circle cx="3" cy="4" r=".6" fill="#111" opacity=".08"/>
+          <circle cx="11" cy="9" r=".45" fill="#111" opacity=".06"/>
+          <circle cx="16" cy="14" r=".5" fill="#111" opacity=".05"/>
+        </pattern>
+        <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto-start-reverse">
+          <path d="M0,0 L10,5 L0,10 z" fill="#111" />
+        </marker>
+      </defs>
+      <rect x="-200" y="-200" width="1600" height="1400" fill="url(#paperNoise)"/>
+      <g id="viewport">
+        <g id="grid" class="hidden-layer"></g>
+        <g id="regions"></g>
+        <g id="biomes"></g>
+        <g id="causeways"></g>
+        <g id="main-cities"></g>
+        <g id="landmarks"></g>
+        <g id="labels"></g>
+        <g id="ornaments">
+          <path class="title-cartouche" d="M390 950 C430 925, 760 925, 810 950 C760 980, 435 982, 390 950 Z"/>
+          <text x="600" y="960" text-anchor="middle" font-size="28" letter-spacing="3">THE SHATTERED REALM</text>
+          <g class="compass" transform="translate(1070 845)">
+            <circle r="48"/>
+            <circle r="10"/>
+            <path d="M0,-70 L12,-12 L0,-20 L-12,-12 Z"/>
+            <path d="M70,0 L12,12 L20,0 L12,-12 Z"/>
+            <path d="M0,70 L-12,12 L0,20 L12,12 Z"/>
+            <path d="M-70,0 L-12,-12 L-20,0 L-12,12 Z"/>
+            <text x="0" y="-82" text-anchor="middle" font-size="16">N</text>
+            <text x="84" y="5" text-anchor="middle" font-size="16">E</text>
+            <text x="0" y="95" text-anchor="middle" font-size="16">S</text>
+            <text x="-84" y="5" text-anchor="middle" font-size="16">W</text>
+          </g>
+          <g class="scale-bar" transform="translate(960 925)">
+            <text x="75" y="-12" text-anchor="middle" font-size="12">SCALE IN LEAGUES</text>
+            <path d="M0 0 H150"/>
+            <path d="M0 -6 V6 M37.5 -6 V6 M75 -6 V6 M112.5 -6 V6 M150 -6 V6"/>
+            <text x="0" y="22" text-anchor="middle" font-size="10">0</text>
+            <text x="37.5" y="22" text-anchor="middle" font-size="10">50</text>
+            <text x="75" y="22" text-anchor="middle" font-size="10">100</text>
+            <text x="112.5" y="22" text-anchor="middle" font-size="10">150</text>
+            <text x="150" y="22" text-anchor="middle" font-size="10">200</text>
+          </g>
+        </g>
+      </g>
+    </svg>
+    <div id="coords">x: –, y: – | zoom: 1.00×</div>
+  </main>
+
+  <aside id="info">
+    <h2>Selection</h2>
+    <div id="selection">
+      <h3>No object selected</h3>
+      <p>Click a region, city, landmark, or causeway to view map data.</p>
+    </div>
+    <h2>Prototype notes</h2>
+    <p>This file is intentionally black-and-white and top-down. The current shapes are approximate vector traces of the original layout, ready to be refined into cleaner polygons and then exported to GeoJSON, SVG, or a Leaflet tile workflow.</p>
+  </aside>
+</div>
+
+<script>
+const DATA = {
+  "regions": {
+    "Myrrala": {
+      "subtitle": "The Blooming Veil",
+      "position": "Northwest",
+      "biome": "Dreamlike enchanted groves, meadows, mirrored pools, shrine paths, flower fields, and soft ruins.",
+      "polygon": [
+        [
+          170,
+          110
+        ],
+        [
+          285,
+          55
+        ],
+        [
+          430,
+          65
+        ],
+        [
+          520,
+          120
+        ],
+        [
+          500,
+          210
+        ],
+        [
+          400,
+          265
+        ],
+        [
+          255,
+          250
+        ],
+        [
+          150,
+          205
+        ]
+      ],
+      "main": {
+        "name": "Liseran Shrine",
+        "x": 335,
+        "y": 170,
+        "type": "main-city",
+        "desc": "Ceremonial shrine-city of gardens, prayer halls, mirrored chambers, sleep sanctuaries, hidden courts, and purple lilies."
+      },
+      "landmarks": [
+        {
+          "name": "Thulian Court",
+          "x": 230,
+          "y": 115,
+          "type": "landmark",
+          "desc": "Courtly shrine/ruin complex within Myrrala’s dreamlike upper groves."
+        },
+        {
+          "name": "Veilgrove",
+          "x": 438,
+          "y": 122,
+          "type": "landmark",
+          "desc": "A grove of glamour, drifting petals, and unstable perception."
+        },
+        {
+          "name": "Dreamroot Loom",
+          "x": 460,
+          "y": 205,
+          "type": "landmark",
+          "desc": "A dream-rooted weaving site associated with memory and illusion."
+        },
+        {
+          "name": "Blooming Mirror",
+          "x": 205,
+          "y": 190,
+          "type": "landmark",
+          "desc": "Mirrored pool or shrine reflecting altered versions of the viewer."
+        },
+        {
+          "name": "The Petal Labyrinth",
+          "x": 335,
+          "y": 235,
+          "type": "landmark",
+          "desc": "A recursive garden maze of petals, glamour, and mirrored paths."
+        }
+      ],
+      "terrain": [
+        {
+          "kind": "groves",
+          "x": 220,
+          "y": 150,
+          "desc": "enchanted groves"
+        },
+        {
+          "kind": "flowers",
+          "x": 375,
+          "y": 135,
+          "desc": "flower fields"
+        },
+        {
+          "kind": "pools",
+          "x": 395,
+          "y": 215,
+          "desc": "mirrored pools"
+        }
+      ]
+    },
+    "Luxeran": {
+      "subtitle": "The Gilded Expanse",
+      "position": "Northeast",
+      "biome": "Deserts, dunes, salt plains, oasis shrines, caravan routes, sun temples, wind-shaped pillars, and buried ruins.",
+      "polygon": [
+        [
+          650,
+          115
+        ],
+        [
+          760,
+          70
+        ],
+        [
+          925,
+          75
+        ],
+        [
+          1035,
+          150
+        ],
+        [
+          1020,
+          245
+        ],
+        [
+          900,
+          300
+        ],
+        [
+          735,
+          285
+        ],
+        [
+          625,
+          215
+        ]
+      ],
+      "main": {
+        "name": "Eburnea",
+        "x": 835,
+        "y": 210,
+        "type": "main-city",
+        "desc": "Radiant city of bone-white domes, blazing towers, contracts, shrines, trade halls, debt archives, and gold-white terraces."
+      },
+      "landmarks": [
+        {
+          "name": "Gamboge Vault",
+          "x": 725,
+          "y": 150,
+          "type": "landmark",
+          "desc": "Buried vault landmark in the dune fields."
+        },
+        {
+          "name": "Aureolin Temple",
+          "x": 945,
+          "y": 145,
+          "type": "landmark",
+          "desc": "Sun-temple complex near Luxeran’s bright eastern ridges."
+        },
+        {
+          "name": "Sundial Temple",
+          "x": 960,
+          "y": 225,
+          "type": "landmark",
+          "desc": "Time-and-light keyed temple complex."
+        },
+        {
+          "name": "Citrine Corridor",
+          "x": 735,
+          "y": 235,
+          "type": "landmark",
+          "desc": "A corridor route through reflective desert terrain."
+        },
+        {
+          "name": "Gilded Hollow",
+          "x": 890,
+          "y": 265,
+          "type": "landmark",
+          "desc": "Low basin of bright sand, ruins, and mirage effects."
+        },
+        {
+          "name": "Dawnspire",
+          "x": 850,
+          "y": 105,
+          "type": "landmark",
+          "desc": "Tall spire and visual anchor on Luxeran’s northern horizon."
+        }
+      ],
+      "terrain": [
+        {
+          "kind": "dunes",
+          "x": 720,
+          "y": 200,
+          "desc": "dune sea"
+        },
+        {
+          "kind": "oasis",
+          "x": 920,
+          "y": 250,
+          "desc": "oasis shrine"
+        },
+        {
+          "kind": "ruins",
+          "x": 795,
+          "y": 160,
+          "desc": "buried ruins"
+        }
+      ]
+    },
+    "Huevale": {
+      "subtitle": "The Verdant Frontier",
+      "position": "West",
+      "biome": "Dense forests, flooded marshes, root-bound ruins, fungal groves, hanging gardens, shrine sites, and living canopies.",
+      "polygon": [
+        [
+          80,
+          305
+        ],
+        [
+          210,
+          250
+        ],
+        [
+          350,
+          275
+        ],
+        [
+          415,
+          365
+        ],
+        [
+          370,
+          490
+        ],
+        [
+          215,
+          530
+        ],
+        [
+          85,
+          460
+        ],
+        [
+          50,
+          365
+        ]
+      ],
+      "main": {
+        "name": "Tinctara",
+        "x": 235,
+        "y": 395,
+        "type": "main-city",
+        "desc": "Moss-covered archive-city built into colossal living trees."
+      },
+      "landmarks": [
+        {
+          "name": "Tinctara Archives",
+          "x": 125,
+          "y": 405,
+          "type": "landmark",
+          "desc": "Vine-choked archive complex where growth stores memory."
+        },
+        {
+          "name": "Malachite Grove",
+          "x": 140,
+          "y": 315,
+          "type": "landmark",
+          "desc": "Dense sacred grove within Huevale."
+        },
+        {
+          "name": "Saproot Shrine",
+          "x": 325,
+          "y": 345,
+          "type": "landmark",
+          "desc": "Root-bound shrine site."
+        },
+        {
+          "name": "Sporeveil Hollow",
+          "x": 330,
+          "y": 425,
+          "type": "landmark",
+          "desc": "Fungal hollow and spore field."
+        },
+        {
+          "name": "Verdant Spiral",
+          "x": 125,
+          "y": 485,
+          "type": "landmark",
+          "desc": "Spiral grove or path network within the living forest."
+        },
+        {
+          "name": "Harmonic Roots",
+          "x": 305,
+          "y": 490,
+          "type": "landmark",
+          "desc": "Root network tied to resonance and shifting access."
+        }
+      ],
+      "terrain": [
+        {
+          "kind": "forest",
+          "x": 175,
+          "y": 350,
+          "desc": "living canopy"
+        },
+        {
+          "kind": "marsh",
+          "x": 275,
+          "y": 450,
+          "desc": "flooded marsh"
+        },
+        {
+          "kind": "fungal",
+          "x": 330,
+          "y": 410,
+          "desc": "fungal groves"
+        }
+      ]
+    },
+    "Nullshade": {
+      "subtitle": "The Colorless Core",
+      "position": "Center",
+      "biome": "Central crater, void ravines, crystal monoliths, floating debris, broken geometry, and anti-hue terrain.",
+      "polygon": [
+        [
+          430,
+          300
+        ],
+        [
+          555,
+          245
+        ],
+        [
+          690,
+          285
+        ],
+        [
+          755,
+          395
+        ],
+        [
+          705,
+          530
+        ],
+        [
+          555,
+          585
+        ],
+        [
+          410,
+          520
+        ],
+        [
+          360,
+          390
+        ]
+      ],
+      "main": {
+        "name": "Prism Wound",
+        "x": 560,
+        "y": 420,
+        "type": "main-city",
+        "desc": "The central wound of the shattered realm: crater, rupture, origin-point, and late-game sealed core."
+      },
+      "landmarks": [
+        {
+          "name": "Shatterglass Pools",
+          "x": 635,
+          "y": 335,
+          "type": "landmark",
+          "desc": "Reflective broken pools within Nullshade."
+        },
+        {
+          "name": "Memory Gate Circles",
+          "x": 470,
+          "y": 360,
+          "type": "landmark",
+          "desc": "Gate circles tied to memory, sealing, and coherence."
+        },
+        {
+          "name": "The Bound Grove",
+          "x": 665,
+          "y": 455,
+          "type": "landmark",
+          "desc": "A grove-like scar of bound figures and failed hue coherence."
+        },
+        {
+          "name": "The Shardbed",
+          "x": 620,
+          "y": 515,
+          "type": "landmark",
+          "desc": "Field of broken prism shards and unstable ground."
+        },
+        {
+          "name": "Noctalon",
+          "x": 515,
+          "y": 530,
+          "type": "landmark",
+          "desc": "Candidate subregion / dark lower sector of Nullshade."
+        }
+      ],
+      "terrain": [
+        {
+          "kind": "crater",
+          "x": 560,
+          "y": 420,
+          "desc": "Prism Wound crater"
+        },
+        {
+          "kind": "monoliths",
+          "x": 505,
+          "y": 315,
+          "desc": "crystal monoliths"
+        },
+        {
+          "kind": "shards",
+          "x": 625,
+          "y": 460,
+          "desc": "floating debris"
+        }
+      ]
+    },
+    "Iriseld": {
+      "subtitle": "The Tidespire Reach",
+      "position": "Southwest",
+      "biome": "Stormy coastlines, high cliffs, cloud harbors, floating islands, suspended docks, skyglass towers, and reefs.",
+      "polygon": [
+        [
+          115,
+          590
+        ],
+        [
+          285,
+          545
+        ],
+        [
+          425,
+          605
+        ],
+        [
+          415,
+          735
+        ],
+        [
+          260,
+          785
+        ],
+        [
+          100,
+          735
+        ],
+        [
+          55,
+          650
+        ]
+      ],
+      "main": {
+        "name": "Zaffran Port",
+        "x": 265,
+        "y": 670,
+        "type": "main-city",
+        "desc": "Vertical harbor-city of cobalt glass towers, suspended docks, flying sails, glider lines, storm moorings, and high bridges."
+      },
+      "landmarks": [
+        {
+          "name": "Whispering Bay",
+          "x": 115,
+          "y": 675,
+          "type": "landmark",
+          "desc": "Stormy bay and coastal gateway."
+        },
+        {
+          "name": "Skyglass Pillars",
+          "x": 160,
+          "y": 600,
+          "type": "landmark",
+          "desc": "Tall glass-like towers and pillars rising from cliffs and water."
+        },
+        {
+          "name": "The Mirrorwake",
+          "x": 340,
+          "y": 735,
+          "type": "landmark",
+          "desc": "Reflective tidal phenomenon or route."
+        },
+        {
+          "name": "Cloud Harbors",
+          "x": 365,
+          "y": 610,
+          "type": "landmark",
+          "desc": "Harbors suspended among clouds and cliffs."
+        }
+      ],
+      "terrain": [
+        {
+          "kind": "coast",
+          "x": 170,
+          "y": 700,
+          "desc": "coastal cliffs"
+        },
+        {
+          "kind": "floating-isles",
+          "x": 310,
+          "y": 600,
+          "desc": "floating isles"
+        },
+        {
+          "kind": "reefs",
+          "x": 330,
+          "y": 730,
+          "desc": "bioluminescent reefs"
+        }
+      ]
+    },
+    "Vireya": {
+      "subtitle": "The Ember Expanse",
+      "position": "Southeast",
+      "biome": "Volcanic terrain, magma channels, obsidian canyons, scorched cliffs, broken fortifications, battlefields, and lava bridges.",
+      "polygon": [
+        [
+          740,
+          405
+        ],
+        [
+          895,
+          335
+        ],
+        [
+          1065,
+          395
+        ],
+        [
+          1115,
+          530
+        ],
+        [
+          1025,
+          665
+        ],
+        [
+          850,
+          670
+        ],
+        [
+          725,
+          570
+        ]
+      ],
+      "main": {
+        "name": "Crimson Bastion",
+        "x": 910,
+        "y": 505,
+        "type": "main-city",
+        "desc": "Fortress-city built into lava-carved stone and ancient lava flows."
+      },
+      "landmarks": [
+        {
+          "name": "Duelist’s Pit",
+          "x": 1030,
+          "y": 425,
+          "type": "landmark",
+          "desc": "Combat arena and ritual battlefield."
+        },
+        {
+          "name": "Fox Mirage",
+          "x": 805,
+          "y": 430,
+          "type": "landmark",
+          "desc": "Mirage zone associated with deceptive heat and fox imagery."
+        },
+        {
+          "name": "Crucible Spires",
+          "x": 1035,
+          "y": 500,
+          "type": "landmark",
+          "desc": "Jagged volcanic spires near the eastern edge."
+        },
+        {
+          "name": "Emberglass Forge",
+          "x": 1015,
+          "y": 590,
+          "type": "landmark",
+          "desc": "Forge complex among lava and glassed rock."
+        },
+        {
+          "name": "Cinnaridge",
+          "x": 805,
+          "y": 610,
+          "type": "landmark",
+          "desc": "Ridge line through scorched cliffs and ash."
+        },
+        {
+          "name": "Scoria’s Throne",
+          "x": 995,
+          "y": 640,
+          "type": "landmark",
+          "desc": "Volcanic throne-site or fortress ruin."
+        }
+      ],
+      "terrain": [
+        {
+          "kind": "volcano",
+          "x": 890,
+          "y": 430,
+          "desc": "volcanic peaks"
+        },
+        {
+          "kind": "lava",
+          "x": 940,
+          "y": 560,
+          "desc": "lava channels"
+        },
+        {
+          "kind": "battlefield",
+          "x": 830,
+          "y": 545,
+          "desc": "shattered battlefield"
+        }
+      ]
+    },
+    "Auralith": {
+      "subtitle": "The Dimming Hollow",
+      "position": "South",
+      "biome": "Catacombs, ash plains, burial roads, crumbling alchemical ruins, reliquary vaults, petrified terraces, and mausoleum structures.",
+      "polygon": [
+        [
+          420,
+          690
+        ],
+        [
+          570,
+          620
+        ],
+        [
+          735,
+          675
+        ],
+        [
+          825,
+          780
+        ],
+        [
+          730,
+          890
+        ],
+        [
+          550,
+          930
+        ],
+        [
+          380,
+          855
+        ],
+        [
+          335,
+          755
+        ]
+      ],
+      "main": {
+        "name": "Mortuum Hold",
+        "x": 560,
+        "y": 790,
+        "type": "main-city",
+        "desc": "Fortress-monastery and archive of remains built among catacombs, petrified terraces, abandoned alchemical works, memory-stained stone, rusted stone, and bone."
+      },
+      "landmarks": [
+        {
+          "name": "Isabelline Catacombs",
+          "x": 455,
+          "y": 705,
+          "type": "landmark",
+          "desc": "Catacomb network and burial archive."
+        },
+        {
+          "name": "Phylactery Vault",
+          "x": 710,
+          "y": 715,
+          "type": "landmark",
+          "desc": "Vault of soul-preservation artifacts and dangerous memory residue."
+        },
+        {
+          "name": "Rustclad Archive",
+          "x": 420,
+          "y": 820,
+          "type": "landmark",
+          "desc": "Rusted archive ruin among ash plains."
+        },
+        {
+          "name": "Dustmere",
+          "x": 690,
+          "y": 835,
+          "type": "landmark",
+          "desc": "Dead lake / ash basin."
+        },
+        {
+          "name": "Phylactery Rise",
+          "x": 535,
+          "y": 890,
+          "type": "landmark",
+          "desc": "Mountain or terrace vault zone."
+        }
+      ],
+      "terrain": [
+        {
+          "kind": "catacombs",
+          "x": 470,
+          "y": 760,
+          "desc": "catacomb hills"
+        },
+        {
+          "kind": "ash",
+          "x": 615,
+          "y": 835,
+          "desc": "ash plains"
+        },
+        {
+          "kind": "ruins",
+          "x": 700,
+          "y": 775,
+          "desc": "alchemical ruins"
+        }
+      ]
+    }
+  },
+  "causeways": [
+    {
+      "name": "Northwest Prism Causeway",
+      "path": [
+        [
+          465,
+          330
+        ],
+        [
+          420,
+          270
+        ],
+        [
+          370,
+          235
+        ]
+      ],
+      "to": "Myrrala"
+    },
+    {
+      "name": "Western Root Gate",
+      "path": [
+        [
+          410,
+          410
+        ],
+        [
+          360,
+          395
+        ],
+        [
+          335,
+          390
+        ]
+      ],
+      "to": "Huevale"
+    },
+    {
+      "name": "Southwest Tidespire Gate",
+      "path": [
+        [
+          430,
+          500
+        ],
+        [
+          380,
+          565
+        ],
+        [
+          330,
+          625
+        ]
+      ],
+      "to": "Iriseld"
+    },
+    {
+      "name": "Southern Dimming Gate",
+      "path": [
+        [
+          560,
+          565
+        ],
+        [
+          565,
+          625
+        ],
+        [
+          560,
+          700
+        ]
+      ],
+      "to": "Auralith"
+    },
+    {
+      "name": "Southeast Ember Gate",
+      "path": [
+        [
+          700,
+          475
+        ],
+        [
+          760,
+          495
+        ],
+        [
+          820,
+          510
+        ]
+      ],
+      "to": "Vireya"
+    },
+    {
+      "name": "Northeast Gilded Gate",
+      "path": [
+        [
+          670,
+          325
+        ],
+        [
+          720,
+          270
+        ],
+        [
+          790,
+          230
+        ]
+      ],
+      "to": "Luxeran"
+    }
+  ]
+};
+
+const viewport = document.getElementById('viewport');
+const map = document.getElementById('map');
+const wrap = document.getElementById('map-wrap');
+const coords = document.getElementById('coords');
+const selection = document.getElementById('selection');
+
+let state = { x: 0, y: 0, k: 1 };
+let dragging = false;
+let last = { x: 0, y: 0 };
+
+function svgEl(tag, attrs = {}, parent = null) {
+  const el = document.createElementNS('http://www.w3.org/2000/svg', tag);
+  Object.entries(attrs).forEach(([k,v]) => {
+    if (v !== null && v !== undefined) el.setAttribute(k, v);
+  });
+  if (parent) parent.appendChild(el);
+  return el;
+}
+
+function polygonCenter(points) {
+  let x = 0, y = 0;
+  points.forEach(p => { x += p[0]; y += p[1]; });
+  return [x / points.length, y / points.length];
+}
+
+function pointsAttr(points) {
+  return points.map(p => p.join(',')).join(' ');
+}
+
+function pathAttr(points) {
+  return 'M ' + points.map(p => p.join(' ')).join(' L ');
+}
+
+function renderGrid() {
+  const g = document.getElementById('grid');
+  for (let x=0; x<=1200; x+=100) {
+    svgEl('line', {x1:x,y1:0,x2:x,y2:1000,class:'gridline'}, g);
+    svgEl('text', {x:x+3,y:14,'font-size':10,fill:'#777'}, g).textContent = x;
+  }
+  for (let y=0; y<=1000; y+=100) {
+    svgEl('line', {x1:0,y1:y,x2:1200,y2:y,class:'gridline'}, g);
+    svgEl('text', {x:4,y:y-4,'font-size':10,fill:'#777'}, g).textContent = y;
+  }
+}
+
+function renderRegion(name, r) {
+  const group = document.getElementById('regions');
+  const defs = map.querySelector('defs');
+  const cp = svgEl('clipPath', {id:`clip-${name}`}, defs);
+  svgEl('polygon', {points: pointsAttr(r.polygon)}, cp);
+
+  const poly = svgEl('polygon', {
+    points: pointsAttr(r.polygon),
+    class: 'region-shape',
+    'data-kind': 'region',
+    'data-name': name
+  }, group);
+  poly.addEventListener('click', (e) => {
+    e.stopPropagation();
+    selectRegion(name, r);
+  });
+
+  const hatchGroup = svgEl('g', {class:'hatch'}, group);
+  const [cx, cy] = polygonCenter(r.polygon);
+  for (let i=-3; i<=3; i++) {
+    const line = svgEl('path', {
+      d: `M ${cx-130+i*18} ${cy-20+i*12} C ${cx-60} ${cy-45+i*8}, ${cx+60} ${cy+45-i*8}, ${cx+130-i*15} ${cy+15-i*10}`,
+      fill: 'none',
+      'clip-path': `url(#clip-${name})`
+    }, hatchGroup);
+  }
+}
+
+function renderLabels(name, r) {
+  const [cx, cy] = polygonCenter(r.polygon);
+  const g = document.getElementById('labels');
+  let offsetY = 0;
+  if (name === 'Nullshade') offsetY = -3;
+  if (name === 'Iriseld') offsetY = 25;
+  if (name === 'Auralith') offsetY = 5;
+  svgEl('text', {x:cx,y:cy+offsetY,'text-anchor':'middle',class:'region-label'}, g).textContent = name.toUpperCase();
+  svgEl('text', {x:cx,y:cy+22+offsetY,'text-anchor':'middle',class:'region-subtitle'}, g).textContent = r.subtitle;
+}
+
+function renderMarker(item, parentId) {
+  const g = document.getElementById(parentId);
+  if (item.type === 'main-city') {
+    const c = svgEl('circle', {cx:item.x, cy:item.y, r:8, class:'marker', 'data-name': item.name}, g);
+    c.addEventListener('click', e => { e.stopPropagation(); selectPlace(item); });
+    const roof = svgEl('path', {d:`M ${item.x-9} ${item.y+10} L ${item.x} ${item.y-8} L ${item.x+9} ${item.y+10} Z`, class:'marker'}, g);
+    roof.addEventListener('click', e => { e.stopPropagation(); selectPlace(item); });
+    svgEl('text', {x:item.x, y:item.y+30, 'text-anchor':'middle', class:'main-label'}, g).textContent = item.name;
+  } else {
+    const diamond = svgEl('path', {
+      d:`M ${item.x} ${item.y-7} L ${item.x+7} ${item.y} L ${item.x} ${item.y+7} L ${item.x-7} ${item.y} Z`,
+      class:'marker',
+      'data-name': item.name
+    }, g);
+    diamond.addEventListener('click', e => { e.stopPropagation(); selectPlace(item); });
+    const label = svgEl('text', {x:item.x+10, y:item.y-10, class:'place-label'}, g);
+    label.textContent = item.name;
+  }
+}
+
+function terrainIcon(t, regionName) {
+  const g = document.getElementById('biomes');
+  const x = t.x, y = t.y;
+  const group = svgEl('g', {class:'terrain-icon', 'data-name': `${regionName} ${t.desc}`}, g);
+  group.addEventListener('click', e => {
+    e.stopPropagation();
+    selection.innerHTML = `<h3>${escapeHtml(regionName)} biome marker</h3>
+      <table class="detail-table">
+        <tr><td>Terrain</td><td>${escapeHtml(t.desc)}</td></tr>
+        <tr><td>Kind</td><td>${escapeHtml(t.kind)}</td></tr>
+      </table>`;
+  });
+  if (['forest','groves'].includes(t.kind)) {
+    svgEl('path', {d:`M ${x} ${y-18} L ${x-14} ${y+10} H ${x+14} Z M ${x} ${y-8} L ${x-10} ${y+14} H ${x+10} Z`, class:'terrain-icon'}, group);
+  } else if (['dunes','ash'].includes(t.kind)) {
+    svgEl('path', {d:`M ${x-26} ${y} C ${x-10} ${y-15}, ${x+8} ${y-15}, ${x+26} ${y} M ${x-22} ${y+12} C ${x-6} ${y}, ${x+9} ${y}, ${x+24} ${y+12}`, class:'terrain-icon'}, group);
+  } else if (['volcano'].includes(t.kind)) {
+    svgEl('path', {d:`M ${x-22} ${y+18} L ${x-5} ${y-20} L ${x+4} ${y-3} L ${x+12} ${y-25} L ${x+28} ${y+18} Z`, class:'terrain-icon'}, group);
+  } else if (['lava'].includes(t.kind)) {
+    svgEl('path', {d:`M ${x-25} ${y} C ${x-10} ${y-15}, ${x} ${y+15}, ${x+20} ${y} C ${x+30} ${y-7}, ${x+36} ${y+8}, ${x+45} ${y}`, class:'terrain-icon'}, group);
+  } else if (['crater'].includes(t.kind)) {
+    svgEl('ellipse', {cx:x,cy:y,rx:28,ry:17,class:'terrain-icon'}, group);
+    svgEl('ellipse', {cx:x,cy:y,rx:13,ry:8,class:'terrain-icon'}, group);
+  } else if (['floating-isles','shards'].includes(t.kind)) {
+    svgEl('path', {d:`M ${x-18} ${y} L ${x} ${y-12} L ${x+20} ${y-3} L ${x+6} ${y+13} Z M ${x-5} ${y+18} l -6 12 M ${x+12} ${y+16} l 7 14`, class:'terrain-icon'}, group);
+  } else if (['marsh','pools','oasis','coast','reefs'].includes(t.kind)) {
+    svgEl('path', {d:`M ${x-24} ${y} C ${x-12} ${y-8}, ${x-2} ${y+8}, ${x+10} ${y} S ${x+28} ${y+3}, ${x+36} ${y-4} M ${x-20} ${y+12} C ${x-8} ${y+4}, ${x+5} ${y+18}, ${x+20} ${y+10}`, class:'terrain-icon'}, group);
+  } else {
+    svgEl('path', {d:`M ${x-15} ${y+14} L ${x-5} ${y-12} L ${x+4} ${y+5} L ${x+13} ${y-18} L ${x+25} ${y+14} Z`, class:'terrain-icon'}, group);
+  }
+}
+
+function renderCauseways() {
+  const g = document.getElementById('causeways');
+  DATA.causeways.forEach(c => {
+    const path = svgEl('path', {d:pathAttr(c.path), class:'causeway'}, g);
+    path.addEventListener('click', e => {
+      e.stopPropagation();
+      selection.innerHTML = `<h3>${escapeHtml(c.name)}</h3>
+      <table class="detail-table">
+        <tr><td>Type</td><td>Gate / causeway route</td></tr>
+        <tr><td>Connects</td><td>Nullshade ⇄ ${escapeHtml(c.to)}</td></tr>
+      </table>
+      <p>Prototype route. Can be refined into exact road geometry or multiple segmented trails.</p>`;
+    });
+    c.path.forEach((p,i) => {
+      if (i === 0 || i === c.path.length - 1) {
+        const gate = svgEl('rect', {x:p[0]-7,y:p[1]-7,width:14,height:14,rx:2,class:'gate'}, g);
+        gate.addEventListener('click', e => { e.stopPropagation(); path.dispatchEvent(new Event('click')); });
+      }
+    });
+  });
+}
+
+function render() {
+  renderGrid();
+  for (const [name, r] of Object.entries(DATA.regions)) {
+    renderRegion(name, r);
+    r.terrain.forEach(t => terrainIcon(t, name));
+  }
+  renderCauseways();
+  for (const [name, r] of Object.entries(DATA.regions)) {
+    renderMarker({...r.main, region:name}, 'main-cities');
+    r.landmarks.forEach(l => renderMarker({...l, region:name}, 'landmarks'));
+  }
+  for (const [name, r] of Object.entries(DATA.regions)) {
+    renderLabels(name, r);
+  }
+  buildRegionButtons();
+  updateTransform();
+}
+
+function buildRegionButtons() {
+  const box = document.getElementById('region-buttons');
+  for (const [name, r] of Object.entries(DATA.regions)) {
+    const b = document.createElement('button');
+    b.textContent = `${name} — ${r.subtitle}`;
+    b.onclick = () => {
+      selectRegion(name, r);
+      const [cx, cy] = polygonCenter(r.polygon);
+      focus(cx, cy, 1.7);
+    };
+    box.appendChild(b);
+  }
+}
+
+function updateTransform() {
+  viewport.setAttribute('transform', `translate(${state.x} ${state.y}) scale(${state.k})`);
+  coords.textContent = coords.textContent.replace(/zoom: .*/, `zoom: ${state.k.toFixed(2)}×`);
+}
+
+function zoomAt(screenX, screenY, factor) {
+  const oldK = state.k;
+  const newK = Math.max(.55, Math.min(4.5, oldK * factor));
+  const ratio = newK / oldK;
+  state.x = screenX - (screenX - state.x) * ratio;
+  state.y = screenY - (screenY - state.y) * ratio;
+  state.k = newK;
+  updateTransform();
+}
+
+function focus(x, y, k=1.8) {
+  const rect = map.getBoundingClientRect();
+  const targetX = rect.width / 2 - x * k;
+  const targetY = rect.height / 2 - y * k;
+  state = {x:targetX, y:targetY, k};
+  updateTransform();
+}
+
+function screenToSvg(clientX, clientY) {
+  const rect = map.getBoundingClientRect();
+  return {
+    x: (clientX - rect.left - state.x) / state.k,
+    y: (clientY - rect.top - state.y) / state.k
+  };
+}
+
+map.addEventListener('wheel', e => {
+  e.preventDefault();
+  const factor = e.deltaY < 0 ? 1.12 : 0.89;
+  zoomAt(e.clientX - map.getBoundingClientRect().left, e.clientY - map.getBoundingClientRect().top, factor);
+}, {passive:false});
+
+wrap.addEventListener('mousedown', e => {
+  dragging = true;
+  last = {x:e.clientX, y:e.clientY};
+  wrap.classList.add('dragging');
+});
+window.addEventListener('mousemove', e => {
+  const pt = screenToSvg(e.clientX, e.clientY);
+  coords.textContent = `x: ${pt.x.toFixed(0)}, y: ${pt.y.toFixed(0)} | zoom: ${state.k.toFixed(2)}×`;
+  if (!dragging) return;
+  state.x += e.clientX - last.x;
+  state.y += e.clientY - last.y;
+  last = {x:e.clientX, y:e.clientY};
+  updateTransform();
+});
+window.addEventListener('mouseup', () => {
+  dragging = false;
+  wrap.classList.remove('dragging');
+});
+
+document.getElementById('zoom-in').onclick = () => zoomAt(map.clientWidth/2, map.clientHeight/2, 1.2);
+document.getElementById('zoom-out').onclick = () => zoomAt(map.clientWidth/2, map.clientHeight/2, 1/1.2);
+document.getElementById('reset').onclick = () => { state = {x:0,y:0,k:1}; updateTransform(); };
+
+document.querySelectorAll('[data-layer]').forEach(chk => {
+  chk.addEventListener('change', e => {
+    document.getElementById(e.target.dataset.layer).classList.toggle('hidden-layer', !e.target.checked);
+  });
+});
+
+function selectRegion(name, r) {
+  selection.innerHTML = `<h3>${escapeHtml(name)}</h3>
+    <table class="detail-table">
+      <tr><td>Subtitle</td><td>${escapeHtml(r.subtitle)}</td></tr>
+      <tr><td>Position</td><td>${escapeHtml(r.position)}</td></tr>
+      <tr><td>Main site</td><td>${escapeHtml(r.main.name)}</td></tr>
+      <tr><td>Biome</td><td>${escapeHtml(r.biome)}</td></tr>
+    </table>
+    <p><strong>Landmarks:</strong> ${r.landmarks.map(l => escapeHtml(l.name)).join(', ')}</p>`;
+}
+
+function selectPlace(item) {
+  selection.innerHTML = `<h3>${escapeHtml(item.name)}</h3>
+    <table class="detail-table">
+      <tr><td>Region</td><td>${escapeHtml(item.region)}</td></tr>
+      <tr><td>Type</td><td>${item.type === 'main-city' ? 'Main city / stronghold' : 'Landmark / point of interest'}</td></tr>
+      <tr><td>Coords</td><td>${item.x}, ${item.y}</td></tr>
+    </table>
+    <p>${escapeHtml(item.desc || '')}</p>`;
+  focus(item.x, item.y, Math.max(state.k, 2.1));
+}
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[c]));
+}
+
+map.addEventListener('click', () => {
+  selection.innerHTML = `<h3>No object selected</h3><p>Click a region, city, landmark, or causeway to view map data.</p>`;
+});
+
+render();
+</script>
+</body>
+</html>

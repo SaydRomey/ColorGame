@@ -1,0 +1,153 @@
+CAPUT MARIONETTE
+
+THE ALCHEMIST’S SHAME
+
+“They were never truly alive — just waiting to be dismissed.”
+
+THREAT LEVEL
+
+MODERATE
+
+Area-dependent hazard
+
+TYPE
+
+Alchemical Undead / Ritual Construct
+
+FIRST EMERGED
+
+During the Phylactery Rebellion, Year of the Dull Moon.
+
+STITCHED REMNANT
+
+Patchwork of ritual cloth, stitched organs, and rust-streaked bone.
+Animated by incomplete soulbinding.
+
+OBEY LONG-DEAD COMMANDS
+
+They follow the last instruction given in life.
+Most now know only one command: wait.
+
+WAIT WITHOUT MALICE
+
+They do not attack immediately.
+They observe. They wait. And they remember.
+
+FAILED VESSELS
+
+Crude bodies built for souls too broken to scream.
+Rejected. Reused. Forgotten.
+
+HUE INTERACTION
+
+RESISTANT TO BROWN (EARTHEN)
+
+Decay and rot have no hold—they are already ruined.
+
+WEAK TO VIOLET
+
+Illusions and mind trickery confuse and unravel their control.
+
+VULNERABLE TO CRIMSON
+
+Direct damage bypasses their stitched protections and weak bindings.
+
+STABILIZED BY PHYLACTERY
+
+In the presence of Caput Mortuum Phylactery relics, they slow and become inert briefly.
+
+LORE ENTRY
+
+Found in the marginalia of an alchemy ledger, author unknown.
+
+“Caput Mortuum.
+The name means death’s leftover.
+
+What the crucible couldn’t use.”
+
+“We made them to test transmutation rituals.
+Vessels for souls too broken to scream.
+
+They walked, moved, answered.
+But never lived.”
+
+“I buried mine beneath the Phylactery Vault, but it clawed free.
+It didn’t attack — it waited at my old desk.”
+
+“If they look at you, it’s not hate.
+It’s recognition.
+
+And that’s worse.”
+
+DESCRIPTION
+
+Caput Marionettes are abandoned constructs—partially animated corpses intended for soul transfer tests.
+
+Left unfinished, they wander memory halls and ruined labs, seeking the rituals they were meant to complete.
+
+Wrapped in tattered ritual cloth and bound by rusted alchemical wire, their hollow eyes burn with residual purpose.
+They do not speak—only obey.
+
+BEHAVIOR
+
+REMAINS INERT
+
+Will not move unless a player disturbs specific relics, memory statues, or spirit glyphs.
+
+JERKY, UNNATURAL MOVEMENT
+
+Moves with jerking precision, as if pulled by invisible strings of forgotten orders.
+
+DEATH DECAY
+
+Upon death, releases a cloud of alchemical rot that drains memory-bound artifacts unless dispelled.
+
+KNOWN WEAKNESSES
+
+SOULWARD SIGIL / TRUTH-NAME
+
+Marking or speaking their intended name before they activate can prevent them from moving.
+
+CONFUSED BY ILLUSIONS
+
+Illusions and false commands cause them to hesitate, turn, or attack one another.
+
+VOICE OF THE SUMMONER
+
+Hearing the voice that created them, paired via audio glyphs, will freeze them in place momentarily.
+
+NOTES
+
+If purified rather than killed, a Caput Marionette may kneel before the player and whisper a forgotten alchemical recipe.
+
+Some whisper in your voice.
+
+They are most commonly found in abandoned labs, phylactery vaults, and memory trial chambers.
+
+Be wary of areas filled with ritual glyphs or half-written summoning circles—they may be waiting for the command to finish.
+
+POSSIBLE DROPS
+
+RUSTED PUPPET CORE
+
+Used in alchemical crafting or ritual stabilization.
+
+FORGOTTEN RECIPE FRAGMENT
+
+Rare chance to contain a forgotten recipe or formula.
+
+ALCHEMICAL WIRE
+
+Used in crafting bindings and construct gear.
+
+DECAYED MEMORY VIAL
+
+Contains lingering memories or echoes of their summoner.
+
+THEY WERE MADE TO SERVE.
+NOW THEY SERVE ONLY WHAT REMAINS.
+
+Remember:
+Not all that moves is alive.
+
+Not all that waits is harmless.

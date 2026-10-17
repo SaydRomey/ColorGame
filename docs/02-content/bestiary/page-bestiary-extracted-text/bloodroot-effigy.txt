@@ -1,0 +1,216 @@
+BLOODROOT EFFIGY
+
+SHRINE OF THE MARTYR’S BLOOM
+
+BUILT OF SACRIFICE. FED BY FLAME.
+STILL KNEELING, STILL DANGEROUS.
+
+“Built of martyr bones.
+Fueled by prayer.”
+
+THREAT LEVEL
+
+VERY HIGH
+
+Reflective Damage & Environmental Risk
+
+TYPE
+
+Ritual Golem / Floral Martyr Construct
+
+FIRST EMERGED
+
+Ember Shrines, shortly after the Verdant Suppression War.
+
+MARTYR’S CROWN
+
+The crown of interwoven spines and relics channels eternal devotion.
+Destroying it disrupts the Effigy’s prayer state.
+
+BLOODROOT VINES
+
+Living roots pulse with sacrificial memory.
+They bind armor, bone, and soul alike.
+
+SACRIFICIAL HEART
+
+A core of woven relics and flame.
+It powers the Effigy’s aura and pain mirror.
+
+REFLECTIVE FIST
+
+Strikes return pain to those who harm it—unless they are aligned with Verdant.
+
+HUE INTERACTION
+
+REFLECTS CRIMSON
+
+Reflects all direct Crimson or Earthen damage back at the attacker.
+
+ALIGNED WITH VERDANT
+
+Verdant-bound players bypass the pain mirror.
+The roots recognize kin.
+
+PACIFIED BY COBALT
+
+Cobalt Mind Echo can calm the Effigy, revealing memories of the martyrs it contains.
+
+UNAFFECTED BY VIOLET
+
+Illusions and resonance have little effect on its sacred purpose.
+
+DESCRIPTION
+
+The Bloodroot Effigy is a grotesque sacred construct—a hybrid of bone, bloom, and flame.
+
+Originally created as a shrine to fallen warriors, it grew restless under constant veneration.
+Now it walks, its joints creaking with hymns and its veins coursing with sacrificial heat.
+
+Any who strike it are struck in return—unless their cause aligns with the green.
+
+BEHAVIOR
+
+Moves slowly until attacked.
+Then enters a rage phase, swinging with vine-wrapped fists.
+
+Emits a damage-sharing aura.
+All within the aura are harmed when it takes damage.
+
+Occasionally drops to its knees and prays—healing over time unless interrupted.
+
+Spreads bloodroot blooms on the ground.
+These erupt in thorns if stepped on.
+
+LORE ENTRY
+
+Found etched into a stone altar in the Shrine of Ashpetal.
+
+“This is what we do with heroes:
+we bury them, then build something out of the bones.”
+
+“The Effigy was never meant to fight.
+It was meant to kneel.
+
+A shrine made from those who died ‘gloriously’—their armor melted into bark, their prayers twisted into flame.”
+
+“But memory is a seed.
+And too much blood feeds the wrong roots.”
+
+“Now it rises.
+Now it hurts what hurts it.
+
+Every time we ask it to stand for us, it forgets it was meant to rest.”
+
+— Graffiti scrawled by an unknown priest, later found burned into his own robes.
+
+ANATOMY & WEAK POINTS
+
+CROWN RELIC
+
+Destroying the crown silences its prayer and prevents healing.
+
+CORE OF FAITH
+
+Exposed only when it kneels.
+Contains the heart shrine—its true source.
+
+SHRINE BANNER
+
+The tattered banner holds the names of the fallen.
+Removing it weakens the aura’s range.
+
+BLOODROOT VEINS
+
+Cutting these slows its healing and reduces aura intensity.
+
+ROOTED FEET
+
+Bound to the earth by altar roots.
+Environmental triggers can uproot or stagger it.
+
+PAIN MIRROR AURA
+
+A field of shared suffering.
+Radius increases as its health decreases.
+
+KNOWN WEAKNESSES
+
+VULNERABLE TO STEALTH
+
+Backstabs or unseen attacks bypass the pain mirror.
+
+PURE LIGHT / MIRRORED FLAME
+
+Strong light or mirrored flame exposure destabilizes the sacrificial core.
+
+ENVIRONMENTAL TRIGGERS
+
+Falling pillars, acid blooms, or altar collapses can crush and unbalance the Effigy.
+
+VERDANT LULLABY RELIC
+
+During its prayer stance, using this relic can calm it permanently and end its suffering.
+
+SONIC DISSONANCE
+
+Disrupts its hymns and prevents it from entering the prayer state.
+
+PRAYER STATE (HEALING)
+
+The Effigy kneels and begins to pray.
+Interrupt to stop its healing and aura.
+
+1. KNEELS
+
+Begins sacred hymn.
+
+2. CHANNELS
+
+Roots bloom and health regenerates.
+
+3. FULL BLOOM
+
+Aura strengthens and pain mirror grows.
+
+RAGE PHASE
+
+When provoked, the Effigy rises in fury.
+
+1. RISES
+
+Fire surges through its veins.
+
+2. STRIKES
+
+Sweeping vine-fists and flame bursts.
+
+3. DEVASTATES
+
+Summons eruptions from bloodroot blooms.
+
+ECHO MEMORIES
+
+Use Cobalt Mind Echo to view fragments of those it was built from.
+
+Their pain is not gone.
+It only kneels.
+
+POSSIBLE DROPS
+
+BLOODROOT RELIC
+
+Vine-wrapped core used in advanced ritual crafting.
+
+MARTYR’S PETAL
+
+Rare crafting material that retains residual sacred flame.
+
+EFFIGY HEART CORE
+
+Use in shrine restoration or legendary upgrades.
+
+WE WILL NOT KILL YOU.
+WE WILL REMEMBER YOU.
+
+AND REMEMBERING... HURTS.

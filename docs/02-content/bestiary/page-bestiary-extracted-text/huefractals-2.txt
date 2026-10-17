@@ -1,0 +1,152 @@
+BESTIARY // NULLSHADE ARCHIVES
+
+HUEFRACTALS
+
+LIVING HUE RELICS
+
+Shards of a spectrum that no longer remembers its name.
+
+“They don’t attack.
+They collide with the possibility of you.”
+
+TYPE
+
+Prismatic Fragment / Living Hue Relic
+
+THREAT LEVEL
+
+VARIABLE
+
+Safe when still, catastrophic when agitated.
+
+FIRST EMERGED
+
+Post-Core Collapse — Nullshade Genesis
+
+DESCRIPTION
+
+Small, floating crystal shards, each glowing with unstable prismatic flickers.
+
+They rotate in recursive motion patterns and emit soft harmonic tones, sometimes syncing with the player’s hue state.
+
+In groups, they create harmonic interference that destabilizes the environment—breaking light physics and bending geometry.
+
+HUE INTERACTION
+
+React violently to concentrated hue magic—especially if multiple hues are active.
+
+Each fragment carries an unstable “echo” of a specific hue.
+When struck, it may cast random low-tier spell effects of that hue.
+
+RED
+
+Fire Burst.
+
+YELLOW
+
+Flash Pulse.
+
+CYAN
+
+Chill Spike.
+
+VIOLET
+
+Gravity Pull.
+
+GREEN
+
+Acid Mist.
+
+When three or more collide, they may cause a HUE CASCADE—a zone-wide chromatic distortion field that temporarily disables all hue-bound abilities.
+
+LORE ENTRY
+
+Fragment from “The Spectrum that Broke” — Scrawlings in Nullshade Dust.
+
+“They were once part of something sacred.
+The Core sang with their chorus.”
+
+“But when the Prism cracked, the notes scattered and forgot the tune.”
+
+“Some tried to collect them.
+None returned whole.”
+
+“Not dead—just... chromatically incorrect.”
+
+“One danced near me once.
+It laughed in teal.”
+
+“Then wept in a color I didn’t have a word for.”
+
+“They want to return.
+But they don’t remember where they began.”
+
+“So they collide with anything that might have been their origin.”
+
+BEHAVIOR
+
+Not aggressive unless provoked by hue alignment, spells, or AoE proximity.
+
+In some cases, may follow the player briefly, attempting to “resonate”—which can overload equipment or inflict hue blur.
+
+In rare Nullshade time loops, Huefractals may briefly align and “sing” a lost color, triggering a puzzle glyph sequence.
+
+KNOWN WEAKNESSES
+
+Stabilized by complete silence—no music, no abilities, no movement.
+
+Can be grounded by Prism Glyph Anchors or Nullpulse fields, created via Nullshade puzzle completion.
+
+Destroyed Huefractals sometimes drop Fractal Residue—used to craft unstable hue grenades or Prism Shard keys.
+
+ANATOMY BREAKDOWN
+
+PRISMATIC SHELL
+
+Diffracts light into unstable spectra.
+
+HARMONIC CORE
+
+Source of tone and recursive movement.
+
+ECHO VEINS
+
+Carry the memory of a single lost hue.
+
+DRIFT NODE
+
+Allows collisionless movement and rotation in nonlinear space.
+
+GROUP BEHAVIOR
+
+3+ Huefractals in proximity.
+
+HUE CASCADE
+
+Creates a chromatic distortion field that warps light, disables hue-bound abilities, and bends geometry.
+
+POTENTIAL DROPS
+
+FRACTAL RESIDUE
+
+Crafting material.
+
+UNSTABLE HUE GRENADE
+
+Craft.
+
+PRISM SHARD KEY
+
+Uncertain.
+
+NOTES FROM THE ARCHIVISTS
+
+Some Archivists claim Huefractals are what remains of the Seventh Hue.
+
+If one resonates with the player long enough without combat, a hidden memory scene may trigger—showing the moment the Prism broke, from a non-human perspective.
+
+“THEY ARE NOT EVIL.
+THEY ARE INCOMPLETE.
+
+REMEMBRANCE IS THEIR ONLY HARM.”

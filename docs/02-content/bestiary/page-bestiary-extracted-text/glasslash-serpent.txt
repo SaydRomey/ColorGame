@@ -1,0 +1,189 @@
+GLASSLASH SERPENT
+
+SHARD OF THE BETRAYER FLAME
+
+“Every scale a blade.
+Every movement a fracture waiting to happen.”
+
+THREAT LEVEL
+
+HIGH
+
+Environmental hazard with devastating shard mechanics.
+
+TYPE
+
+Elemental Beast / Fragmented Flame Construct
+
+FIRST EMERGED
+
+Molten Shardfall, Year of Fracture.
+
+HUE INTERACTION
+
+NEGATIVE WITH CRIMSON
+
+Absorbs Crimson heat, increasing its speed and shard output.
+
+EXPOSED BY COBALT
+
+Cobalt sound bursts reveal its true form and stagger it briefly.
+
+VIOLET PRISM FRACTURES
+
+Violet light fractures its scales, opening paths for damage.
+
+IMMUNE TO DECAY
+
+Immune to bleed, poison, and rot.
+It has no flesh to corrupt.
+
+DESCRIPTION
+
+The Glasslash Serpent slinks through molten flows and battlefield ruins, leaving razor tracks of volcanic shrapnel.
+
+Its body is formed of obsidian plates and ember-embedded bone.
+When threatened, it shatters outward — never dying, only shedding fragments to maim and endure.
+
+ANATOMY
+
+GLASS-LOCK CROWN
+
+Jagged obsidian spines reflect light and heat, confusing prey.
+
+EMBER EYES
+
+See through heat, vibration, and even reflections.
+
+FRACTURE FANGS
+
+Hollow glass fangs inject molten grit that cuts from within.
+
+MOLTEN CORE
+
+Its heart is liquid fire, kept contained by crystalline ribs.
+
+RAZOR SCALES
+
+Scales are serrated glass plates that slice on contact.
+
+SHARD VENTS
+
+Heat pressure forces shards through pores along its length.
+
+LAVA SINK TRACE
+
+Leaves trails of molten glass and micro-shards behind.
+
+TAPERED TAIL
+
+Ends in a barbed crystal tip that can skewer and explode.
+
+LORE ENTRY
+
+Fragment inscribed on a broken obsidian blade, source unknown.
+
+“She loved him.
+He left her in fire.”
+
+“The story of the Glasslash begins, like many Vireyan things, with heartbreak.
+
+A betrayal at the mouth of a caldera.
+A fall. A scream.
+
+A woman too burned to die — and something waiting below.”
+
+“What crawled out of that glass-blown crevice was not her.
+But it remembers her scream.”
+
+“The serpent wears pain like armor.
+Each flick of its body cuts the world that made it.
+
+And when you strike it?
+It only remembers how to shatter better.”
+
+“Some Embermaidens whisper that it is the weapon left behind by the first betrayal.
+That it still waits for an apology.”
+
+— Engraved on a blade never drawn.
+
+BEHAVIOR
+
+AMBUSH PREDATOR
+
+Hides in lava pools, ash drifts, or shattered rock beds.
+Then strikes without warning.
+
+WHIP AND RETREAT
+
+Uses whip-like lunges to strike, then slithers away across molten ground.
+
+SHARD COUNTER
+
+Every third strike taken triggers “Glass Bloom.”
+The serpent explodes in shards, creating a damaging glass field.
+
+LAVA WAVE
+
+Surges forward beneath the surface, causing eruptions of molten shards in its path.
+
+KNOWN WEAKNESSES
+
+VIBRATION DISRUPTION
+
+Seismic spells, drums, and ground pulses disrupt its balance and expose its molten core.
+
+COOLED LAVA ZONE
+
+Shattered within cooled lava or ash, its fragments become inert and allow safe passage.
+
+POST-BLOOM STUN
+
+After a full “Glass Bloom” shatter defense, it is stunned for a short time before reforming.
+
+COMBAT TIPS
+
+Use sound-based or seismic spells to stagger and expose its core.
+
+Avoid standing on its shattered tracks.
+Shards can erupt seconds later.
+
+Strike after a Glass Bloom for maximum damage.
+
+Use terrain to your advantage.
+Cooled pools, stone pillars, and elevation can help.
+
+ENCOUNTER NOTES
+
+Fights often take place in narrow lava channels or crumbling ruins.
+
+May target ranged players first by tunneling through lava.
+
+If it vanishes, listen for tremors or heat distortion.
+
+Destroying the head delays regeneration, but does not kill it.
+
+POSSIBLE DROPS
+
+GLASSLASH SCALE (RARE)
+
+Hardened scale that reflects projectiles.
+Used in advanced armor.
+
+SERPENT’S REGRET CORE (VERY RARE)
+
+A molten heart-shard.
+Alters heat-based spells and weapons.
+
+BETRAYER FANG (RARE)
+
+A hollow fang still warm to the touch.
+Increases critical shard damage.
+
+ASHEN SERPENT CREST (LEGENDARY)
+
+Sigil formed from the serpent’s essence.
+Unlocks powerful serpent abilities.
+
+“IT DOESN’T SEEK REVENGE.
+IT IS REVENGE — REMEMBERED, REBORN, AND RAZOR SHARP.”

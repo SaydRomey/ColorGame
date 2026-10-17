@@ -1,0 +1,587 @@
+{
+  "type": "FeatureCollection",
+  "name": "regions",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "region_nullshade",
+      "properties": {
+        "id": "region_nullshade",
+        "name": "Nullshade",
+        "layer": "regions",
+        "feature_type": "region",
+        "subtitle": "Colorless Core / Prism Wound",
+        "hue": "NULLSHADE",
+        "region_color": "#111827",
+        "regional_law": "truth is spatially and mnemonically sealed",
+        "theme": "absence, contradiction, memory collapse",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.0,
+              0.0
+            ],
+            [
+              30.63,
+              14.75
+            ],
+            [
+              21.2,
+              26.58
+            ],
+            [
+              7.57,
+              33.15
+            ],
+            [
+              -7.57,
+              33.15
+            ],
+            [
+              -21.2,
+              26.58
+            ],
+            [
+              -30.63,
+              14.75
+            ],
+            [
+              -34.0,
+              0.0
+            ],
+            [
+              -30.63,
+              -14.75
+            ],
+            [
+              -21.2,
+              -26.58
+            ],
+            [
+              -7.57,
+              -33.15
+            ],
+            [
+              7.57,
+              -33.15
+            ],
+            [
+              21.2,
+              -26.58
+            ],
+            [
+              30.63,
+              -14.75
+            ],
+            [
+              34.0,
+              0.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "region_myrrala",
+      "properties": {
+        "id": "region_myrrala",
+        "name": "Myrrala",
+        "layer": "regions",
+        "feature_type": "region",
+        "subtitle": "The Blooming Veil",
+        "hue": "VIOLET",
+        "region_color": "#8b5cf6",
+        "regional_law": "loadout changes the landscape",
+        "theme": "identity distortion, glamour, dream logic",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76.0,
+              135.0
+            ],
+            [
+              68.47,
+              155.83
+            ],
+            [
+              47.39,
+              172.53
+            ],
+            [
+              16.91,
+              181.8
+            ],
+            [
+              -16.91,
+              181.8
+            ],
+            [
+              -47.39,
+              172.53
+            ],
+            [
+              -68.47,
+              155.83
+            ],
+            [
+              -76.0,
+              135.0
+            ],
+            [
+              -68.47,
+              114.17
+            ],
+            [
+              -47.39,
+              97.47
+            ],
+            [
+              -16.91,
+              88.2
+            ],
+            [
+              16.91,
+              88.2
+            ],
+            [
+              47.39,
+              97.47
+            ],
+            [
+              68.47,
+              114.17
+            ],
+            [
+              76.0,
+              135.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "region_huevale",
+      "properties": {
+        "id": "region_huevale",
+        "name": "Huevale",
+        "layer": "regions",
+        "feature_type": "region",
+        "subtitle": "The Verdant Frontier",
+        "hue": "VERDANT",
+        "region_color": "#22c55e",
+        "regional_law": "vegetation regrows and reacts",
+        "theme": "living memory, adaptive growth, forest archives",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.0,
+              75.0
+            ],
+            [
+              -54.72,
+              97.56
+            ],
+            [
+              -76.37,
+              115.66
+            ],
+            [
+              -107.64,
+              125.7
+            ],
+            [
+              -142.36,
+              125.7
+            ],
+            [
+              -173.63,
+              115.66
+            ],
+            [
+              -195.28,
+              97.56
+            ],
+            [
+              -203.0,
+              75.0
+            ],
+            [
+              -195.28,
+              52.44
+            ],
+            [
+              -173.63,
+              34.34
+            ],
+            [
+              -142.36,
+              24.3
+            ],
+            [
+              -107.64,
+              24.3
+            ],
+            [
+              -76.37,
+              34.34
+            ],
+            [
+              -54.72,
+              52.44
+            ],
+            [
+              -47.0,
+              75.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "region_luxeran",
+      "properties": {
+        "id": "region_luxeran",
+        "name": "Luxeran",
+        "layer": "regions",
+        "feature_type": "region",
+        "subtitle": "The Gilded Expanse",
+        "hue": "AURELIAN",
+        "region_color": "#f59e0b",
+        "regional_law": "mirages falsify the map",
+        "theme": "radiance, mirage, legitimacy, judgment",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              203.0,
+              75.0
+            ],
+            [
+              195.28,
+              97.56
+            ],
+            [
+              173.63,
+              115.66
+            ],
+            [
+              142.36,
+              125.7
+            ],
+            [
+              107.64,
+              125.7
+            ],
+            [
+              76.37,
+              115.66
+            ],
+            [
+              54.72,
+              97.56
+            ],
+            [
+              47.0,
+              75.0
+            ],
+            [
+              54.72,
+              52.44
+            ],
+            [
+              76.37,
+              34.34
+            ],
+            [
+              107.64,
+              24.3
+            ],
+            [
+              142.36,
+              24.3
+            ],
+            [
+              173.63,
+              34.34
+            ],
+            [
+              195.28,
+              52.44
+            ],
+            [
+              203.0,
+              75.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "region_iriseld",
+      "properties": {
+        "id": "region_iriseld",
+        "name": "Iriseld",
+        "layer": "regions",
+        "feature_type": "region",
+        "subtitle": "The Tidespire Reach",
+        "hue": "COBALT",
+        "region_color": "#38bdf8",
+        "regional_law": "wind and gravity alter access; memory rides weather",
+        "theme": "storm-memory, sound, reflection, grief",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.0,
+              -75.0
+            ],
+            [
+              -54.72,
+              -52.44
+            ],
+            [
+              -76.37,
+              -34.34
+            ],
+            [
+              -107.64,
+              -24.3
+            ],
+            [
+              -142.36,
+              -24.3
+            ],
+            [
+              -173.63,
+              -34.34
+            ],
+            [
+              -195.28,
+              -52.44
+            ],
+            [
+              -203.0,
+              -75.0
+            ],
+            [
+              -195.28,
+              -97.56
+            ],
+            [
+              -173.63,
+              -115.66
+            ],
+            [
+              -142.36,
+              -125.7
+            ],
+            [
+              -107.64,
+              -125.7
+            ],
+            [
+              -76.37,
+              -115.66
+            ],
+            [
+              -54.72,
+              -97.56
+            ],
+            [
+              -47.0,
+              -75.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "region_vireya",
+      "properties": {
+        "id": "region_vireya",
+        "name": "Vireya",
+        "layer": "regions",
+        "feature_type": "region",
+        "subtitle": "The Ember Expanse",
+        "hue": "CRIMSON",
+        "region_color": "#ef4444",
+        "regional_law": "heat, blood, and battle awaken dormant forces",
+        "theme": "war-memory, heat, blood, oath",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              203.0,
+              -75.0
+            ],
+            [
+              195.28,
+              -52.44
+            ],
+            [
+              173.63,
+              -34.34
+            ],
+            [
+              142.36,
+              -24.3
+            ],
+            [
+              107.64,
+              -24.3
+            ],
+            [
+              76.37,
+              -34.34
+            ],
+            [
+              54.72,
+              -52.44
+            ],
+            [
+              47.0,
+              -75.0
+            ],
+            [
+              54.72,
+              -97.56
+            ],
+            [
+              76.37,
+              -115.66
+            ],
+            [
+              107.64,
+              -125.7
+            ],
+            [
+              142.36,
+              -125.7
+            ],
+            [
+              173.63,
+              -115.66
+            ],
+            [
+              195.28,
+              -97.56
+            ],
+            [
+              203.0,
+              -75.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "region_auralith",
+      "properties": {
+        "id": "region_auralith",
+        "name": "Auralith",
+        "layer": "regions",
+        "feature_type": "region",
+        "subtitle": "The Dimming Hollow",
+        "hue": "EARTHEN",
+        "region_color": "#92400e",
+        "regional_law": "player action leaves ghosts behind",
+        "theme": "residue, ruin, soul-binding, fossil memory",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              82.0,
+              -145.0
+            ],
+            [
+              73.88,
+              -123.31
+            ],
+            [
+              51.13,
+              -105.91
+            ],
+            [
+              18.25,
+              -96.25
+            ],
+            [
+              -18.25,
+              -96.25
+            ],
+            [
+              -51.13,
+              -105.91
+            ],
+            [
+              -73.88,
+              -123.31
+            ],
+            [
+              -82.0,
+              -145.0
+            ],
+            [
+              -73.88,
+              -166.69
+            ],
+            [
+              -51.13,
+              -184.09
+            ],
+            [
+              -18.25,
+              -193.75
+            ],
+            [
+              18.25,
+              -193.75
+            ],
+            [
+              51.13,
+              -184.09
+            ],
+            [
+              73.88,
+              -166.69
+            ],
+            [
+              82.0,
+              -145.0
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

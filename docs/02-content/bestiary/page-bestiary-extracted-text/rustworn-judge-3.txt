@@ -1,0 +1,145 @@
+RUSTWORN JUDGE
+
+THE VERDIGRIS VERDICT
+
+ISABELLINE TRIBUNAL DOSSIER — 47
+
+“Silence is guilt.
+Speak, and be tested.”
+
+Its verdict was written in corrosion.
+
+TYPE
+
+Spectral Adjudicator / Trialbound Duelist
+
+THREAT LEVEL
+
+High
+
+Triggers zone-wide “duel” state.
+
+FIRST EMERGED
+
+Post-Shattering
+
+Bound to the Isabelline Tribunal Ruins.
+
+DESCRIPTION
+
+Tall, silent, and clad in lacquered remnants of gold and crimson armor, the Rustworn Judge emerges in areas where too many lies or falsehoods have been spoken.
+
+Its sword drags across the ground like a gavel across cracked marble.
+
+When it engages, the HUD disappears.
+
+Only heartbeats, footfalls, and spoken choices remain.
+
+ANATOMY / APPEARANCE
+
+Corroded ceremonial armor.
+
+Gold and crimson lacquer remnants.
+
+Verdigris-bloomed joints.
+
+Phantom form bound to judgment.
+
+LORE FRAGMENT
+
+Fragment from “The Tribunal of Dust”
+Sootleaf Scroll, Mortuum Hold
+
+“He presided over the Ash Trials —
+where guilt was presumed, and memory was the only plea.
+
+His blade struck truth from hesitation.”
+
+“When the Catacombs crumbled, the Judge did not fall.
+
+He simply waited,
+verdict unspoken, blade still angled toward indecision.”
+
+“We say:
+do not argue with the rust.
+
+It has waited longer than you have drawn breath.”
+
+HUE INTERACTION
+
+Cannot perceive illusions —
+Violet-bound players may delay confrontation.
+
+Attuned to Earthen truths;
+lying in dialogue triggers its full aggression.
+
+Will challenge Crimson-bound characters more harshly, invoking blood-duel rites.
+
+BEHAVIOR SEQUENCE — THE VERDICT PHASES
+
+1. Begins neutral;
+approaches only if a dialogue deception or broken vow is detected nearby.
+
+2. Upon engagement, all other threats vanish from the arena —
+this becomes a Trial Zone.
+
+3. Speaks only in verdicts:
+“Guilty,” “Paused,” “Judged.”
+
+Each phase tightens its aggression.
+
+GUILTY.
+
+PAUSED.
+
+JUDGED.
+
+TRIAL ZONE — ISABELLINE CHAMBER
+
+Judge Spawn:
+Throne Dais.
+
+Cracked Marble Path:
+Gavel Drag Trajectory.
+
+Bistre Lantern Placement:
+Edge Runes.
+
+Broken Pillars:
+Cover / Line Breaks.
+
+Trial Boundary:
+Non-Exit Threshold.
+
+DUEL STATE VISUALIZATION — HUD SUPPRESSED
+
+NEUTRAL
+
+Silence before judgment.
+
+PAUSED
+
+Time listens.
+
+JUDGED
+
+Verdict is final.
+
+KNOWN WEAKNESSES
+
+During the “Paused” phase, players may offer a Memory Token from a known past regret to delay the duel.
+
+The Bistre Lantern, when lit at the edge of the arena, reveals its original name.
+Speaking this name aloud weakens its form.
+
+Defeated only by a perfect parry during its “Judged” strike or by ending the duel through confession.
+
+FINAL NOTES
+
+Players who lie or misremember their past actions during combat will have movement briefly impaired.
+
+It is not the Judge’s blade that slays —
+but your own dishonesty echoing back.
+
+“In the Dimming Hollow, all truths rust.
+Only the Judge remembers.”

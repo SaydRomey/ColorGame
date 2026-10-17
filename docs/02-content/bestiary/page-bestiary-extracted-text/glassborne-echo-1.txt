@@ -1,0 +1,123 @@
+BESTIARY ENTRY • 042
+
+GLASSBORNE ECHO
+
+MEMORY WITHOUT MERCY
+
+“It doesn’t shatter.
+It reflects you... wrong.”
+
+OVERVIEW
+
+Forged from fractured memory-glass, the Glassborne Echo is not alive.
+It is a moment of remembrance, sharpened and untethered.
+
+It reflects the player imperfectly, mimicking recent actions with delayed, haunting precision.
+
+TYPE
+
+Phantasmal Construct / Mirrorbound Wraith
+
+THREAT LEVEL
+
+High
+
+FIRST EMERGED
+
+During the Stormglass Fracture, Post-Shattering.
+
+HUE AFFINITY
+
+Cobalt / Mind
+
+ANATOMY
+
+Form never fully stable.
+Built from fractured reflections.
+
+No true face.
+Only angles and memory.
+
+Limbs bend wrong.
+Always a fraction off.
+
+BEHAVIOR: DELAYED MIMICRY
+
+You Move → It Watches → It Mimics → It Punishes.
+
+Mimics your last action with a brief delay.
+Repeated patterns become deadly.
+
+ATTACKS & TRAITS
+
+MIRROR SHARDS
+
+Sweeps arcs of crystalline slivers.
+Inflicts “Reflection Wound” — repeated actions take increased damage.
+
+ECHO STEP
+
+Flickers and reappears a fraction later, often behind the player.
+Footsteps echo a second too late.
+
+REVERSE SHRIEK
+
+Emits a shriek of “reverse sound,” disorienting and reversing audio cues briefly.
+
+WEAKNESSES
+
+MULTI-ANGLE LIGHT — SKYGLASS PRISMS
+
+Disrupts its reflective coherence.
+
+SONIC RESONANCE — WIND CHIMES / HARPSTRINGS / CERULEAN CLOAK
+
+Stuns briefly when rhythm is synchronized.
+
+MEMORY BEYOND RECOGNITION
+
+Using Payne’s Brush or displaying unknown memories may cause it to flee.
+
+Will vanish if reflected in more than one surface at once.
+
+LORE: ETCHING FROM THE ZAFFRE GLASSWRIGHT
+
+“Some reflections lie.
+Others linger.”
+
+“I thought to trap a memory in cobalt, a kindness in solid light.
+
+But the wind here remembers grief too well, and the glass began to ache.”
+
+“The Echo was not what I captured.
+It was what I tried to forget — how I moved, how I reached, how I failed.
+
+It mimics the moment I last looked in the glass.
+That pain became recursive. It moved without me.”
+
+“Now it wanders the skyglass shelves, looping itself — a broken dance.
+I hear my own voice call out when it strikes.”
+
+“If you see it, don’t fight what you know.
+Fight what you pretend not to.”
+
+— Zaffre Glasswright
+
+SIZE COMPARISON
+
+Scale shown from 0 m to 3.0 m.
+
+ESSENCE: COBALT & MEMORY
+
+Cobalt Core.
+
+Shattered Glass.
+
+Skyglass Mist.
+
+Void Edges.
+
+Faint Silver.
+
+“Some say each Echo was born from a different regret —
+others claim they all share one memory: falling.”

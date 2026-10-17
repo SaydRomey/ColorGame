@@ -1,0 +1,174 @@
+NULLBORN HUSK
+
+Twitching creatures with void-filled eyes
+
+“They are not undead.
+They are unmade...”
+
+THREAT LEVEL
+
+MODERATE
+
+Highly disruptive to Hue-bound players.
+
+TYPE
+
+Aberration / Colorless Horror
+
+FIRST EMERGED
+
+Post-Shattering Era
+
+HUE INTERACTION
+
+IMMUNE TO COLOR
+
+Unaffected by color-based manipulation or attacks.
+
+HUE DISTORTION
+
+Proximity distorts Hue UI and disables passive color regeneration.
+
+HUE DRAIN
+
+Contact may strip active hue-binding, causing temporary colorblindness or ability inversion.
+
+STATIC WHISPER
+
+Emits faint color static—a whisper like someone calling a forgotten name.
+
+KNOWN WEAKNESSES
+
+CRIMSON FLAME
+
+Burns the husk and disrupts its void-structure.
+
+EARTHEN DECAY
+
+Corrodes its outer form and prevents regeneration.
+
+MEMORY ECHO
+
+Cobalt or Earthen echoes can momentarily stun and expose its core.
+
+BESTIARY ENTRY
+
+DESCRIPTION
+
+When the Prismatic Core shattered, it did not just scatter hues—it tore color from beings too close to the explosion.
+
+The Nullborn Husks are the result: creatures not dead, but unmade.
+
+Their eyes are black wells of absence, their skin like dried ash, their voices a rasp of forgotten names.
+
+They crawl rather than walk, twitching with phantom memories of what they once were.
+
+BEHAVIOR
+
+Drawn to strong hues and relics.
+
+Often found near shattered color sites, old ritual grounds, or corrupted relics.
+
+Avoid light but are not harmed by it.
+
+KNOWN WEAKNESS
+
+Vulnerable to Crimson flame and Earthen decay.
+
+Momentarily stunned by Memory Echo effects from Cobalt or Earthen.
+
+NOTES
+
+Whispers suggest these husks still “remember” color.
+
+Some report hearing their own voices echoed back moments before an attack.
+
+LORE ENTRY
+
+From the Scroll of [placeholder],
+Last Verdant Archivist
+
+“I write this in root-ink, though I know not if ink can hold what I must say.
+
+They came after the Core broke—crawling things, pale and featureless, like clay left out too long.
+
+But they were not blank.
+No... they were hollowed.
+
+I watched a beast shudder and fall, not from wound, but from forgetting itself entirely.
+
+One touched my companion, and in an instant her eyes dimmed.
+
+She forgot her name.
+Forgot mine.
+
+When I wept for her, the husk smiled.
+It had taken something—not her blood, not her life, but her hue.
+
+I believe they were once like us.
+Carriers of color.
+
+When the Prism ruptured, they were caught in the lightless tide that followed—and in that moment, they were rewritten by absence.
+
+We call them Nullborn, but that name is a mercy.
+They are not born.
+
+They are what’s left when all birth, all memory, all color has bled out.
+
+If you see one, do not speak.
+They remember sounds.
+
+If you feel yourself forgetting, run.
+And if you hear your name from their mouths—it is already too late.”
+
+— [placeholder], on the eve of the Tyrian Eclipse
+
+ABILITIES & ATTACKS
+
+NULL SCRATCH
+
+Rakes at the target with void-tipped claws.
+May inflict Hue Drain on hit.
+
+STATIC BURST
+
+Releases a pulse of color static, distorting vision and inverting certain abilities.
+
+NAME WHISPER
+
+Whispers a forgotten name, causing short-term confusion and stagger.
+
+REALITY TWITCH
+
+Glitches the surrounding space, warping terrain and pulling the player slightly out of position.
+
+POSSIBLE DROPS
+
+NULLSPUN VINE (UNCOMMON)
+
+A brittle vine that hums with absence.
+Used in crafting void-resistant gear.
+
+HOLLOW EYE (UNCOMMON)
+
+A void-black eye that never blinks.
+Used to unlock hidden glyphs.
+
+WHISPER ASH (COMMON)
+
+Ash that whispers when disturbed.
+Used in alchemical blends.
+
+FRAGMENT OF UNCOLOR (RARE)
+
+A shard of nothingness.
+Can be used to upgrade or reroll Hue abilities.
+
+ECOLOGICAL NOTES
+
+Nullborn Husks are believed to be the earliest known corruption of hue-bearers.
+
+Some scholars theorize they are not creatures at all, but walking absences—the world’s failed attempt to rewrite what should have lived.
+
+“Color remembers.
+The Null does not forget—it just replaces.”

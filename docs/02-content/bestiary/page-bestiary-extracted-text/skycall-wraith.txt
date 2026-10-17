@@ -1,0 +1,160 @@
+SKYCALL WRAITH
+
+VOICE OF THE FORGOTTEN WIND
+
+Pale spirits drifting on broken currents.
+
+“The wind lost its name.
+So it screams.”
+
+TYPE
+
+Aerial Apparition / Wind-echo Specter
+
+THREAT LEVEL
+
+Moderate —
+Highly Disruptive to Traversal
+
+FIRST EMERGED
+
+After the Collapse of the Singing Gate
+(Shattering Era)
+
+REGION
+
+Iriseld —
+Tidespire Reach
+
+ANATOMY BREAKDOWN
+
+1. TORN AZURE ROBES
+
+Cloth drifts without weight, never touching stone.
+
+2. WINDSPLIT VISAGE
+
+Mouth opens into a shriek that fractures sound and direction.
+
+3. ECHO-HOLLOW CHEST
+
+A spirit cavity where grief and wind repeat.
+
+4. CURRENT-BOUND LIMBS
+
+Long spectral arms pulled by invisible airstreams.
+
+5. SCREAMING VEILS
+
+Trailing ribbons carry dissonant gusts that distort sound cues.
+
+6. LEVITATION DRIFT
+
+It hovers on broken currents rather than flying normally.
+
+7. FOG RETREAT
+
+Dissolves into mist when surrounded by silence.
+
+HABITAT / MANIFESTATION
+
+Patrol wind tunnels, cliff ledges, and broken sky bridges.
+
+Often forms around spiral currents and storm-bent architecture.
+
+Found near listening bells, skyglass spires, and high traversal routes.
+
+Its presence turns open air into hostile space.
+
+BEHAVIOR / STATE FLOW
+
+PATROL → DISRUPTION CRY → VERTIGO PULSE → FOG RETREAT
+
+When provoked, it emits a disruption cry that cancels flight and glide, disorients sound-based cues, and at high stacks triggers a Vertigo Pulse that pulls the player down or sideways mid-air.
+
+If surrounded by silence, it flees into fog.
+
+ABILITIES / STATUS EFFECTS
+
+DISRUPTION CRY
+
+Cancels flight / glide and destabilizes storm platforms.
+
+SOUND DISTORTION
+
+Overrides sound-triggered puzzle inputs and audio cues.
+
+VERTIGO PULSE
+
+Pulls the player downward or sideways in mid-air.
+
+TRAVERSAL DAMPENING
+
+Weakens nearby Cobalt-based traversal effects.
+
+HUE INTERACTION
+
+Dampens all Cobalt-based traversal effects nearby, such as glide extensions or static dash support.
+
+Cries override sound-triggered puzzle inputs.
+
+Vulnerable to grounded or Earthen counterweights, which temporarily still its flight.
+
+Mind Echo can overwrite its cry with a stored sound, especially the player’s own voice.
+
+KNOWN WEAKNESSES
+
+Weak to Earthen grounding spells.
+
+Silence interrupts the shriek cycle.
+
+Double-jump rhythm breaks can disrupt its pressure timing.
+
+Sound-null zones and anti-air timing reduce its threat.
+
+It can be forced away by sustained silence or stillness fields.
+
+DESCRIPTION
+
+The Skycall Wraith is a spirit-shaped echo —
+the wind given form by grief and repetition.
+
+Found along high ledges and spiral currents, it disrupts movement with piercing shrieks that unbind gliding and destabilize storm-anchored platforms.
+
+It is not hostile in the traditional sense.
+But it calls out — and what it calls hurts.
+
+LORE FRAGMENT
+
+Shattered Listening Bell
+
+“When the storm broke the tower,
+we thought the cries were just wind in the bells.
+
+But it was the wind forgetting its name.
+
+One called my name.
+Not how I say it... how I meant it, once.
+
+We ring the bells now not for warning...
+but to remind the sky of silence.”
+
+— Wind-Monk Rellian
+
+IRISELD — TIDESPIRE REACH
+
+Storm-broken cliffs, skyglass spires, and listening bells mark the high routes where the Wraith drifts.
+
+TACTICAL NOTE
+
+Aerial traversal punisher.
+
+Best countered with grounding, silence, and rhythm breaks.
+
+NOTES FROM THE FIELD
+
+Some wraiths seem drawn to names —
+especially those carved or whispered.
+
+Rumors speak of one that hums a lullaby from before the Shattering,
+always off-key.

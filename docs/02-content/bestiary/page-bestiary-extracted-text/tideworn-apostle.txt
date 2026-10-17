@@ -1,0 +1,160 @@
+TIDEWORN APOSTLE
+
+INKWALKER OF THE DROWNED PAGES
+
+She walks between drowned thoughts and black storms.
+
+“She drowned for knowledge.
+Now she walks for silence.”
+
+SOURCE IMAGE — tideworn-apostle_page.png
+
+CLASSIFICATION
+
+Type:
+Undead Scribe / Cursed Seer.
+
+Threat Level:
+MODERATE–HIGH — Magic Disruption & Field Control.
+
+First Emerged:
+After the Drowning of Whispering Bay.
+
+Region:
+Iriseld — Zaffran Subvaults / Whispering Bay.
+
+ANATOMY BREAKDOWN
+
+1. SALT-STAINED ROBES
+
+Tide-worn layered garments soaked with brine and old ink.
+
+2. ORBITING INK PAGES
+
+Journal leaves circle her like moths, each carrying storm-written script.
+
+3. REVERSED CHANT MOUTH
+
+Her voice is a low tide of backward prayer and drowned syllables.
+
+4. INKBIND GLYPHS
+
+Active runes spread across the floor and root intruders in script-zones.
+
+5. SCRIPT-TRAIL FOOTSTEPS
+
+Each step leaves puddles of unreadable writing.
+
+6. DROWNED SEER HANDS
+
+Scholar’s hands now write curses into the air.
+
+7. STORM-WRITTEN CODEX
+
+A journal that will not close, source of drowned knowledge.
+
+DESCRIPTION
+
+Once a scholar of Zaffran’s tidal scriptures, the Tideworn Apostle attempted to decipher a storm-written grimoire beneath the reef’s trench.
+
+She returned wordless — but writing.
+
+Now a vessel for drowned knowledge, she seeks only to silence voices… starting with yours.
+
+HABITAT / MANIFESTATION
+
+Found near black coral stacks, drowned archive vaults, reef trenches, flooded script chambers, and the storm-bitten edges of Whispering Bay.
+
+Appears where forgotten knowledge pools beneath tide and ruin.
+
+BEHAVIOR / STATE FLOW
+
+Ink the Field → Inkbind Glyph → Tidal Silence → Scroll Bloom → Reposition.
+
+Begins encounters by inscribing storm sigils across the arena.
+
+Roots players in scripted zones unless movement is timed carefully.
+
+Disables spellcasting briefly with Tidal Silence.
+
+Summons obscuring script-page swarms during Scroll Bloom.
+
+ABILITIES / STATUS EFFECTS
+
+INKBIND GLYPH
+
+Roots players in storm-writing zones.
+
+TIDAL SILENCE
+
+Briefly disables player spellcasting.
+
+SCROLL BLOOM
+
+Glowing pages obscure sight and pressure space.
+
+STORM SIGILS
+
+Corrupt area-of-effect behavior and distort spell placement.
+
+HUE INTERACTION
+
+Ink-runes scatter targeting reticules and miscast bound spells.
+
+Cobalt’s Mind Echo can re-stabilize spell structure near active runes.
+
+Especially weak to fire and light when empowered through relics such as the Cerulean Cloak.
+
+Contradictory Hue pulses, Crimson + Cobalt, destabilize her focus.
+
+KNOWN WEAKNESSES
+
+Fire magic burns her runes and exposes her true position.
+
+Interrupt her chant by shattering the floating pages before completion.
+
+Vulnerable when caught between contradictory Hue pulses.
+
+LORE ENTRY — FINAL INKTRACE FROM THE ZAFFRAN SUBVAULTS
+
+I found her near the black coral stacks — bent over a journal that wouldn’t close.
+
+She wasn’t reading.
+
+She was remembering.
+
+But not her memories.
+
+If she offers you a page…
+don’t read it.
+
+It writes you back.
+
+Marked:
+“Untranslatable, but afraid.”
+
+IRISELD CONTEXT
+
+The Zaffran Subvaults lie beneath reef-cloaked coves and drowned libraries, where stormwater scripture is carved into coral and stone.
+
+Here, memory-tide magic preserves the voices of the drowned — and the mistakes of those who listened.
+
+COUNTERPLAY RELIC
+
+CERULEAN CLOAK
+
+Reinforced with light-forged thread and arcane stabilizers.
+
+Empowers fire and light magic against drowned entities.
+
+Stabilizes spell structure in the presence of ink-runes.
+
+Grants brief clarity during Tidal Silence.
+
+HUNTER’S NOTE
+
+Burn the runes first.
+
+Watch the pages, not the voice.
+
+Never read what reaches for you.

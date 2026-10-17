@@ -1,0 +1,100 @@
+BESTIARY ENTRY
+
+GLASSBORNE ECHO
+
+PHANTOM FORMED FROM FRACTURED MEMORY-GLASS
+
+“It doesn’t shatter.
+It reflects you... wrong.”
+
+TYPE
+
+Phantasmal Construct / Mirrorbound Wraith
+
+THREAT LEVEL
+
+HIGH — Reactive and disorienting
+
+FIRST EMERGED
+
+During the Stormglass Fracture, Post-Shattering.
+
+OBSERVED TRAITS
+
+Faintly humanoid, but distorted.
+Limbs bend wrong, and eyes reflect the player’s recent state.
+
+Trails mirror-shards through the air.
+Footsteps echo a second too late.
+
+Flickers unpredictably when struck.
+Emits a shriek of reverse sound.
+
+BEHAVIOR
+
+Loops player actions back at them with a time delay.
+
+Trails mirror shards that apply “Reflection Wound.”
+Any repeated action takes more damage.
+
+Will vanish if reflected in more than one surface at once.
+Dual mirrors or a glass pool can trigger this.
+
+LORE ENTRY
+
+Etching from a sealed mirror-window, signed by the Zaffre Glasswright.
+
+“Some reflections lie.
+Others linger.”
+
+“I thought to trap a memory in cobalt, a kindness in solid light.
+
+But the wind here remembers grief too well, and the glass began to ache.”
+
+“The Echo was not what I captured.
+It was what I tried to forget — how I moved, how I reached, how I failed.
+
+It mimics the moment I last looked in the glass.
+That pain became recursive. It moved without me.”
+
+“Now it wanders the skyglass shelves, looping itself — a broken dance.
+I hear my own voice call out when it strikes.”
+
+“If you see it, don’t fight what you know.
+Fight what you pretend not to.”
+
+— Zaffre Glasswright
+
+HUE INTERACTION
+
+Resonates violently with Cobalt echoes and Mind-based magic.
+
+Briefly stunned when surrounded by synchronized audio rhythms.
+Wind chimes, harpstrings, and Cerulean Cloak pulses can trigger this.
+
+Immune to illusion — it is one.
+
+KNOWN WEAKNESSES
+
+Vulnerable to sonic resonance and multi-angle light, such as Skyglass Prisms.
+
+Avoid prolonged mimicry.
+Stagger movement patterns to confuse it.
+
+May flee if the player uses Payne’s Brush or displays a memory the Echo cannot interpret.
+
+FIELD OBSERVATION
+
+Human reference: approximately 1.8 m.
+
+Echo reference: approximately 2.5 m.
+
+Eyes reflect the player’s recent state.
+
+NOTES FROM THE ARCHIVES
+
+Some say each Echo was born from a different regret.
+Others claim they all share one memory: falling.
+
+A rare few Echoes have been seen pausing...
+as if remembering something they wish they hadn’t.

@@ -1,0 +1,184 @@
+GLASSBORNE ECHO
+
+MEMORY WITHOUT MERCY
+
+“It doesn’t shatter.
+It reflects you... wrong.”
+
+THREAT LEVEL
+
+HIGH
+
+Reactive and disorienting.
+
+TYPE
+
+Phantasmal Construct / Mirrorbound Wraith
+
+FIRST EMERGED
+
+During the Stormglass Fracture, Post-Shattering.
+
+HUE INTERACTION
+
+RESONATES WITH COBALT
+
+Resonates violently with Cobalt echoes and Mind-based magic.
+
+SOUND DISRUPTION
+
+Briefly stunned when surrounded by synchronized audio rhythms.
+Wind chimes, harpstrings, and Cerulean Cloak pulses are effective.
+
+IMMUNE TO ILLUSION
+
+Immune to illusion — it is one.
+
+DESCRIPTION
+
+Forged accidentally by attempts to preserve memory in enchanted glass, the Glassborne Echo is not a ghost.
+It is the moment of remembrance, sharpened and untethered.
+
+Its form reflects the player imperfectly, mirroring their recent movements in delayed mimicry.
+
+Striking one fractures its body, sending slivers of mirrored force in wide arcs.
+
+ANATOMY
+
+REFLECTIVE CORE
+
+A shardbound heart of memory-glass.
+Holds the Echo’s looped recall.
+
+MIRROR VEIL
+
+Fragmented plates of illusion-glass bend light and sound, delaying perception.
+
+ECHO THREADS
+
+Whispering filaments trace the player’s last actions in time-delayed loops.
+
+DISTORTED LIMBS
+
+Form shifts just out of alignment, causing attacks to land “wrong” or delayed.
+
+SHARD TRAIL
+
+Every step leaves razor mirror-slivers that carry reflected harm.
+
+REVERSE VOICE
+
+Emits a shriek of reverse sound when struck.
+It is heard as the past calling back.
+
+LORE ENTRY
+
+Etching from a sealed mirror-window, signed by the Zaffre Glasswright.
+
+“Some reflections lie.
+Others linger.”
+
+“I thought to trap a memory in cobalt, a kindness in solid light.
+
+But the wind here remembers grief too well, and the glass began to ache.”
+
+“The Echo was not what I captured.
+It was what I tried to forget — how I moved, how I reached, how I failed.
+
+It mimics the moment I last looked in the glass.
+That pain became recursive. It moved without me.”
+
+“Now it wanders the skyglass shelves, looping itself — a broken dance.
+I hear my own voice call out when it strikes.”
+
+“If you see it, don’t fight what you know.
+Fight what you pretend not to.”
+
+— Zaffre Glasswright
+
+BEHAVIOR
+
+MIMIC DELAY LOOP
+
+Loops player actions back at them with a time delay.
+Mimics dashes, spells, and jumps.
+
+SHARD TRAIL
+
+Trails mirror shards that apply “Reflection Wound.”
+Any repeated action takes more damage.
+
+UNPREDICTABLE FLICKER
+
+Flickers unpredictably when struck.
+Reappears near reflections or in line of sight.
+
+ECHO SHRIEK
+
+On heavy damage, emits a shriek of reverse sound.
+Nearby foes are briefly disoriented.
+
+KNOWN WEAKNESSES
+
+SONIC RESONANCE
+
+Vulnerable to sonic resonance and multi-angle light, such as Skyglass Prisms.
+
+UNPREDICTABLE MOVEMENT
+
+Avoid prolonged mimicry.
+Stagger movement patterns to confuse it.
+
+PAINT OF TRUTH
+
+May flee if the player uses Payne’s Brush or displays a memory it cannot interpret.
+
+MULTI-REFLECTION
+
+Will vanish if reflected in more than one surface at once.
+Dual mirrors or a glass pool can trigger this.
+
+NOTES
+
+Some say each Echo was born from a different regret.
+Others claim they all share one memory: falling.
+
+A rare few Echoes have been seen pausing...
+as if remembering something they wish they hadn’t.
+
+The deeper the memory-glass fracturing in a region, the more aggressive and intelligent the Echoes become.
+
+ENCOUNTER TIPS
+
+Change rhythms, spacing, and spell cadence to break its loop.
+
+Use synchronized audio or light sources to overwhelm its mimicry.
+
+It feeds on recognition.
+Deny it familiarity, and it weakens.
+
+Fight in open areas with multiple reflective surfaces to exploit its reflection vulnerability.
+
+POSSIBLE DROPS
+
+ECHOGLASS SHARD (RARE)
+
+A shard of memory-glass.
+Used to craft delay-based weapons.
+
+MIRROR THREAD
+
+Threads that hum with time-delayed resonance.
+
+REVERSED TONE CORE (RARE)
+
+A core that stores reversed sound waves.
+Used in sonic weapons and traps.
+
+SHATTERED MEMORY (UNIQUE)
+
+A rare, unstable relic containing a fragment of forgotten memory.
+Its whispers change daily.
+
+“LOOK TOO LONG AT WHAT YOU WERE,
+AND YOU’LL MEET WHAT YOU REGRET.”

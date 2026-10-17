@@ -1,0 +1,6556 @@
+{
+  "type": "FeatureCollection",
+  "name": "links",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "link_1",
+      "properties": {
+        "id": "link_1",
+        "name": "Nullshade → Prism Wound",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_2",
+      "properties": {
+        "id": "link_2",
+        "name": "Nullshade → Nullshade Ruins",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            -22,
+            -6
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_3",
+      "properties": {
+        "id": "link_3",
+        "name": "Nullshade → Shatterglass Pools",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            24,
+            10
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_4",
+      "properties": {
+        "id": "link_4",
+        "name": "Nullshade → Collapsed Monoliths",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            -5,
+            26
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_5",
+      "properties": {
+        "id": "link_5",
+        "name": "Nullshade → The Bound / Bound Grove",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            10,
+            -26
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_6",
+      "properties": {
+        "id": "link_6",
+        "name": "Nullshade → Memory Gate Circles",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            42
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_7",
+      "properties": {
+        "id": "link_7",
+        "name": "Huevale → Tinctara",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -125,
+            75
+          ],
+          [
+            -125,
+            75
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_8",
+      "properties": {
+        "id": "link_8",
+        "name": "Huevale → Tinctara Archives",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -125,
+            75
+          ],
+          [
+            -135,
+            88
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_9",
+      "properties": {
+        "id": "link_9",
+        "name": "Huevale → Malachite Grove",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -125,
+            75
+          ],
+          [
+            -160,
+            62
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_10",
+      "properties": {
+        "id": "link_10",
+        "name": "Huevale → Saproot Shrine",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -125,
+            75
+          ],
+          [
+            -92,
+            58
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_11",
+      "properties": {
+        "id": "link_11",
+        "name": "Huevale → Verdant Spiral",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -125,
+            75
+          ],
+          [
+            -148,
+            108
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_12",
+      "properties": {
+        "id": "link_12",
+        "name": "Huevale → Sporeveil Hollow",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -125,
+            75
+          ],
+          [
+            -182,
+            82
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_13",
+      "properties": {
+        "id": "link_13",
+        "name": "Huevale → Mycelial Sanctum",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -125,
+            75
+          ],
+          [
+            -172,
+            43
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_14",
+      "properties": {
+        "id": "link_14",
+        "name": "Huevale → Root Sanctuaries",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -125,
+            75
+          ],
+          [
+            -112,
+            104
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_15",
+      "properties": {
+        "id": "link_15",
+        "name": "Huevale → Shrine Gardens",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -125,
+            75
+          ],
+          [
+            -96,
+            84
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_16",
+      "properties": {
+        "id": "link_16",
+        "name": "Huevale → Marsh Ruins",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -125,
+            75
+          ],
+          [
+            -135,
+            38
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_17",
+      "properties": {
+        "id": "link_17",
+        "name": "Vireya → Crimson Bastion",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125,
+            -75
+          ],
+          [
+            125,
+            -75
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_18",
+      "properties": {
+        "id": "link_18",
+        "name": "Vireya → Duelist's Pit",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125,
+            -75
+          ],
+          [
+            100,
+            -102
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_19",
+      "properties": {
+        "id": "link_19",
+        "name": "Vireya → Fox Mirage",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125,
+            -75
+          ],
+          [
+            156,
+            -98
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_20",
+      "properties": {
+        "id": "link_20",
+        "name": "Vireya → Crucible Spires",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125,
+            -75
+          ],
+          [
+            150,
+            -55
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_21",
+      "properties": {
+        "id": "link_21",
+        "name": "Vireya → Emberglass Forge",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125,
+            -75
+          ],
+          [
+            178,
+            -72
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_22",
+      "properties": {
+        "id": "link_22",
+        "name": "Vireya → Banner Roads",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125,
+            -75
+          ],
+          [
+            110,
+            -45
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_23",
+      "properties": {
+        "id": "link_23",
+        "name": "Vireya → Amaroth Vale",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125,
+            -75
+          ],
+          [
+            92,
+            -68
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_24",
+      "properties": {
+        "id": "link_24",
+        "name": "Vireya → Altar-Fields",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125,
+            -75
+          ],
+          [
+            135,
+            -118
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_25",
+      "properties": {
+        "id": "link_25",
+        "name": "Iriseld → Zaffran Port",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -125,
+            -75
+          ],
+          [
+            -125,
+            -75
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_26",
+      "properties": {
+        "id": "link_26",
+        "name": "Iriseld → Whispering Bay",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -125,
+            -75
+          ],
+          [
+            -155,
+            -94
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_27",
+      "properties": {
+        "id": "link_27",
+        "name": "Iriseld → Skyglass Pillars",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -125,
+            -75
+          ],
+          [
+            -110,
+            -38
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_28",
+      "properties": {
+        "id": "link_28",
+        "name": "Iriseld → The Mirrorwake",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -125,
+            -75
+          ],
+          [
+            -93,
+            -87
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_29",
+      "properties": {
+        "id": "link_29",
+        "name": "Iriseld → Tidemirror Reach",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -125,
+            -75
+          ],
+          [
+            -172,
+            -70
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_30",
+      "properties": {
+        "id": "link_30",
+        "name": "Iriseld → Glassmoor Caverns",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -125,
+            -75
+          ],
+          [
+            -136,
+            -110
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_31",
+      "properties": {
+        "id": "link_31",
+        "name": "Iriseld → Floating Cliffs",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -125,
+            -75
+          ],
+          [
+            -142,
+            -42
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_32",
+      "properties": {
+        "id": "link_32",
+        "name": "Iriseld → Stormirth Observatory",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -125,
+            -75
+          ],
+          [
+            -104,
+            -116
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_33",
+      "properties": {
+        "id": "link_33",
+        "name": "Myrrala → Liseran Shrine",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            135
+          ],
+          [
+            0,
+            135
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_34",
+      "properties": {
+        "id": "link_34",
+        "name": "Myrrala → Thulian Court",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            135
+          ],
+          [
+            -32,
+            148
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_35",
+      "properties": {
+        "id": "link_35",
+        "name": "Myrrala → Veilgrove",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            135
+          ],
+          [
+            33,
+            150
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_36",
+      "properties": {
+        "id": "link_36",
+        "name": "Myrrala → Dreamroot Loom",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            135
+          ],
+          [
+            -47,
+            121
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_37",
+      "properties": {
+        "id": "link_37",
+        "name": "Myrrala → Thulian Gate",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            135
+          ],
+          [
+            0,
+            178
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_38",
+      "properties": {
+        "id": "link_38",
+        "name": "Myrrala → Blooming Mirror",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            135
+          ],
+          [
+            51,
+            126
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_39",
+      "properties": {
+        "id": "link_39",
+        "name": "Myrrala → Heliobloom",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            135
+          ],
+          [
+            20,
+            107
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_40",
+      "properties": {
+        "id": "link_40",
+        "name": "Myrrala → Petal Labyrinth",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            135
+          ],
+          [
+            -18,
+            104
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_41",
+      "properties": {
+        "id": "link_41",
+        "name": "Luxeran → Eburnea",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125,
+            75
+          ],
+          [
+            125,
+            75
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_42",
+      "properties": {
+        "id": "link_42",
+        "name": "Luxeran → Gamboge Vault",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125,
+            75
+          ],
+          [
+            98,
+            62
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_43",
+      "properties": {
+        "id": "link_43",
+        "name": "Luxeran → Aureolin Temple",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125,
+            75
+          ],
+          [
+            151,
+            98
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_44",
+      "properties": {
+        "id": "link_44",
+        "name": "Luxeran → Citrine Corridor",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125,
+            75
+          ],
+          [
+            158,
+            62
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_45",
+      "properties": {
+        "id": "link_45",
+        "name": "Luxeran → Glass Mirage Vaults",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125,
+            75
+          ],
+          [
+            102,
+            100
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_46",
+      "properties": {
+        "id": "link_46",
+        "name": "Luxeran → Gilded Hollow",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125,
+            75
+          ],
+          [
+            174,
+            82
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_47",
+      "properties": {
+        "id": "link_47",
+        "name": "Luxeran → Sundial Temple",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125,
+            75
+          ],
+          [
+            130,
+            118
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_48",
+      "properties": {
+        "id": "link_48",
+        "name": "Luxeran → Dune Roads",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125,
+            75
+          ],
+          [
+            88,
+            80
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_49",
+      "properties": {
+        "id": "link_49",
+        "name": "Auralith → Mortuum Hold",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            -145
+          ],
+          [
+            0,
+            -145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_50",
+      "properties": {
+        "id": "link_50",
+        "name": "Auralith → Isabelline Catacombs",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            -145
+          ],
+          [
+            -32,
+            -158
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_51",
+      "properties": {
+        "id": "link_51",
+        "name": "Auralith → Phylactery Vault",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            -145
+          ],
+          [
+            30,
+            -158
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_52",
+      "properties": {
+        "id": "link_52",
+        "name": "Auralith → Rustclad Archive",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            -145
+          ],
+          [
+            -48,
+            -128
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_53",
+      "properties": {
+        "id": "link_53",
+        "name": "Auralith → Golm Burial Fields",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            -145
+          ],
+          [
+            46,
+            -128
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_54",
+      "properties": {
+        "id": "link_54",
+        "name": "Auralith → Dustmere",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            -145
+          ],
+          [
+            0,
+            -188
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_55",
+      "properties": {
+        "id": "link_55",
+        "name": "Auralith → Fossilized Alchemical Labs",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            -145
+          ],
+          [
+            62,
+            -170
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_56",
+      "properties": {
+        "id": "link_56",
+        "name": "Auralith → Ash Plains",
+        "layer": "links",
+        "feature_type": "contains",
+        "description": "region contains landmark",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            -145
+          ],
+          [
+            -70,
+            -152
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_57",
+      "properties": {
+        "id": "link_57",
+        "name": "Tinctara → Verdant Order",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "druids / alchemists / balance",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -125,
+            75
+          ],
+          [
+            -122.0,
+            75.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_58",
+      "properties": {
+        "id": "link_58",
+        "name": "Tinctara Archives → Archivists of Celadon",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "spell-record / ceramic memory",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -135,
+            88
+          ],
+          [
+            -132.0,
+            88.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_59",
+      "properties": {
+        "id": "link_59",
+        "name": "Root Sanctuaries → Rootbound Orders",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "sacred groves / oath-grown boundaries",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112,
+            104
+          ],
+          [
+            -109.0,
+            104.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_60",
+      "properties": {
+        "id": "link_60",
+        "name": "Shrine Gardens → Thornward Circle",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "defensive grove alliance",
+        "canonical_status": "candidate_or_secondary"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96,
+            84
+          ],
+          [
+            -93.0,
+            84.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_61",
+      "properties": {
+        "id": "link_61",
+        "name": "Saproot Shrine → Sapbound Covenant",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "swamp cult / earth-blood doctrine",
+        "canonical_status": "candidate_or_secondary"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -92,
+            58
+          ],
+          [
+            -89.0,
+            58.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_62",
+      "properties": {
+        "id": "link_62",
+        "name": "Mycelial Sanctum → Rootwake Communion",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "ancient plants / fungal minds",
+        "canonical_status": "candidate_or_secondary"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -172,
+            43
+          ],
+          [
+            -169.0,
+            43.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_63",
+      "properties": {
+        "id": "link_63",
+        "name": "Mycelial Sanctum → The Mycofen",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "spore cult",
+        "canonical_status": "candidate_or_secondary"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -172,
+            43
+          ],
+          [
+            -175.32,
+            46.04
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_64",
+      "properties": {
+        "id": "link_64",
+        "name": "Tinctara Archives → Celadon Archivist",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "archive-city memory keeper",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -135,
+            88
+          ],
+          [
+            -138.32,
+            91.04
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_65",
+      "properties": {
+        "id": "link_65",
+        "name": "Tinctara → Viridian Alchemist",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "swamp alchemy and glyphwork",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -125,
+            75
+          ],
+          [
+            -128.32,
+            78.04
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_66",
+      "properties": {
+        "id": "link_66",
+        "name": "Malachite Grove → Malachite Oracle",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "dream-poison prophecy",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -160,
+            62
+          ],
+          [
+            -157.0,
+            62.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_67",
+      "properties": {
+        "id": "link_67",
+        "name": "Root Sanctuaries → Xanadu Warden",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "guardian-guide of old gardens",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112,
+            104
+          ],
+          [
+            -115.32,
+            107.04
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_68",
+      "properties": {
+        "id": "link_68",
+        "name": "Root Sanctuaries → Limerick Druid",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "forest-song and spirit charm",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112,
+            104
+          ],
+          [
+            -111.48,
+            98.02
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_69",
+      "properties": {
+        "id": "link_69",
+        "name": "Marsh Ruins → Skobeloff Diver",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "flooded relic diver / trap revealer",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -135,
+            38
+          ],
+          [
+            -132.0,
+            38.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_70",
+      "properties": {
+        "id": "link_70",
+        "name": "Shrine Gardens → Smaragdine Knight",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "nature attunement / beast calming",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96,
+            84
+          ],
+          [
+            -99.32,
+            87.04
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_71",
+      "properties": {
+        "id": "link_71",
+        "name": "Tinctara → Chartreuse Initiate",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "tonic / stamina / euphoric side effect",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -125,
+            75
+          ],
+          [
+            -124.48,
+            69.02
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_72",
+      "properties": {
+        "id": "link_72",
+        "name": "Marsh Ruins → Feldgrau Veteran",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "stealth and ruin survival",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -135,
+            38
+          ],
+          [
+            -138.32,
+            41.04
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_73",
+      "properties": {
+        "id": "link_73",
+        "name": "Root Sanctuaries → Harlequin Trickblade",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "mimic voices / dodge fate",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112,
+            104
+          ],
+          [
+            -107.43,
+            109.95
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_74",
+      "properties": {
+        "id": "link_74",
+        "name": "Saproot Shrine → Saproot Cultist",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "decay and curse protection",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -92,
+            58
+          ],
+          [
+            -95.32,
+            61.04
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_75",
+      "properties": {
+        "id": "link_75",
+        "name": "Root Sanctuaries → Thalera the Rootborn",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "rootborn witness / Prism Gate threshold",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112,
+            104
+          ],
+          [
+            -120.86,
+            102.44
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_76",
+      "properties": {
+        "id": "link_76",
+        "name": "Root Sanctuaries → Sapborn Stalker",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "root-burrow ambusher",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112,
+            104
+          ],
+          [
+            -103.14,
+            98.36
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_77",
+      "properties": {
+        "id": "link_77",
+        "name": "Sporeveil Hollow → Boglight Mimic",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "lure-light predator",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -182,
+            82
+          ],
+          [
+            -179.0,
+            82.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_78",
+      "properties": {
+        "id": "link_78",
+        "name": "Shrine Gardens → Verdant Maw",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "stationary flower predator",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96,
+            84
+          ],
+          [
+            -95.48,
+            78.02
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_79",
+      "properties": {
+        "id": "link_79",
+        "name": "Mycelial Sanctum → Sporekin",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "spore and confusion hazard",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -172,
+            43
+          ],
+          [
+            -171.48,
+            37.02
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_80",
+      "properties": {
+        "id": "link_80",
+        "name": "Root Sanctuaries → Thornwrithe Beast",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "bramble predator",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112,
+            104
+          ],
+          [
+            -112.78,
+            106.9
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_81",
+      "properties": {
+        "id": "link_81",
+        "name": "Root Sanctuaries → Limeroot Trickster",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "plantlife misdirection",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -112,
+            104
+          ],
+          [
+            -114.08,
+            100.01
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_82",
+      "properties": {
+        "id": "link_82",
+        "name": "Tinctara → Chartreuse Husk",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "alchemical corruption",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -125,
+            75
+          ],
+          [
+            -120.43,
+            80.95
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_83",
+      "properties": {
+        "id": "link_83",
+        "name": "Tinctara Archives → Grovebound Sentinel",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "shrine / archive guardian",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -135,
+            88
+          ],
+          [
+            -134.48,
+            82.02
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_84",
+      "properties": {
+        "id": "link_84",
+        "name": "Shrine Gardens → Fangbloom Wyrm",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "hidden flower-bed constrictor",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96,
+            84
+          ],
+          [
+            -91.43,
+            89.95
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_85",
+      "properties": {
+        "id": "link_85",
+        "name": "Malachite Grove → Mossgrave Revenant",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "dream-poison knight specter",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -160,
+            62
+          ],
+          [
+            -163.32,
+            65.04
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_86",
+      "properties": {
+        "id": "link_86",
+        "name": "Verdant Spiral → Moth-Witch of the Verdant Spiral",
+        "layer": "links",
+        "feature_type": "hosts_boss",
+        "description": "mini-boss / boss encounter",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -148,
+            108
+          ],
+          [
+            -145.0,
+            108.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_87",
+      "properties": {
+        "id": "link_87",
+        "name": "Tinctara Archives → Hue Leeches",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "Color Charge / memory drain teaching enemy",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -135,
+            88
+          ],
+          [
+            -130.43,
+            93.95
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_88",
+      "properties": {
+        "id": "link_88",
+        "name": "Crimson Bastion → Crimson Order",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "action / sacrifice / courage",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125,
+            -75
+          ],
+          [
+            128.0,
+            -75.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_89",
+      "properties": {
+        "id": "link_89",
+        "name": "Banner Roads → Banner Houses",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "ancestral martial authority",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110,
+            -45
+          ],
+          [
+            113.0,
+            -45.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_90",
+      "properties": {
+        "id": "link_90",
+        "name": "Banner Roads → Rebel Circles",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "broken accords and rebellion",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110,
+            -45
+          ],
+          [
+            106.68,
+            -41.96
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_91",
+      "properties": {
+        "id": "link_91",
+        "name": "Altar-Fields → Embersaints",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "flame-priests and sacrifice",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135,
+            -118
+          ],
+          [
+            138.0,
+            -118.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_92",
+      "properties": {
+        "id": "link_92",
+        "name": "Duelist's Pit → Duel Lineages",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "combat as inheritance",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100,
+            -102
+          ],
+          [
+            103.0,
+            -102.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_93",
+      "properties": {
+        "id": "link_93",
+        "name": "Amaroth Vale → Bloodroot Cult Remnants",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "martyr-blood awakening doctrine",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92,
+            -68
+          ],
+          [
+            95.0,
+            -68.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_94",
+      "properties": {
+        "id": "link_94",
+        "name": "Duelist's Pit → Vermilion Duelist",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "duel and combat culture",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100,
+            -102
+          ],
+          [
+            96.68,
+            -98.96
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_95",
+      "properties": {
+        "id": "link_95",
+        "name": "Amaroth Vale → Amaranth the Undying",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "undying war figure",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92,
+            -68
+          ],
+          [
+            88.68,
+            -64.96
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_96",
+      "properties": {
+        "id": "link_96",
+        "name": "Crimson Bastion → Alizarin the Crimson Weaver",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "blood/thread/war-memory logic",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125,
+            -75
+          ],
+          [
+            121.68,
+            -71.96
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_97",
+      "properties": {
+        "id": "link_97",
+        "name": "Fox Mirage → Nacarat the Fox",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "trickster / volcanic illusion",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            156,
+            -98
+          ],
+          [
+            159.0,
+            -98.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_98",
+      "properties": {
+        "id": "link_98",
+        "name": "Banner Roads → Falu Homesteader",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "civilian survival / ash plains",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110,
+            -45
+          ],
+          [
+            110.52,
+            -50.98
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_99",
+      "properties": {
+        "id": "link_99",
+        "name": "Banner Roads → Coquelicot Banner",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "banner and war-standard memory",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110,
+            -45
+          ],
+          [
+            114.57,
+            -39.05
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_100",
+      "properties": {
+        "id": "link_100",
+        "name": "Altar-Fields → Cinnabar Mask",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "ritual deception / mask logic",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135,
+            -118
+          ],
+          [
+            131.68,
+            -114.96
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_101",
+      "properties": {
+        "id": "link_101",
+        "name": "Crimson Bastion → Sanguine Quartermaster",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "battlefield ledgers and burial debts",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125,
+            -75
+          ],
+          [
+            125.52,
+            -80.98
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_102",
+      "properties": {
+        "id": "link_102",
+        "name": "Banner Roads → Rustbanner Child",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "scavenger-guide among wrecked standards",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110,
+            -45
+          ],
+          [
+            101.14,
+            -46.56
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_103",
+      "properties": {
+        "id": "link_103",
+        "name": "Crucible Spires → Ashwrought Colossus",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "molten siege construct",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            150,
+            -55
+          ],
+          [
+            153.0,
+            -55.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_104",
+      "properties": {
+        "id": "link_104",
+        "name": "Duelist's Pit → Crimson Echo",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "duel-loop ghost",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            100,
+            -102
+          ],
+          [
+            100.52,
+            -107.98
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_105",
+      "properties": {
+        "id": "link_105",
+        "name": "Crucible Spires → Lava-Fused Behemot",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "lava battlefield giant",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            150,
+            -55
+          ],
+          [
+            146.68,
+            -51.96
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_106",
+      "properties": {
+        "id": "link_106",
+        "name": "Emberglass Forge → Glasslash Serpent",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "volcanic glass betrayal serpent",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            178,
+            -72
+          ],
+          [
+            181.0,
+            -72.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_107",
+      "properties": {
+        "id": "link_107",
+        "name": "Banner Roads → Bannerbound Revenant",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "standard-tethered revenant",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110,
+            -45
+          ],
+          [
+            118.86,
+            -50.64
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_108",
+      "properties": {
+        "id": "link_108",
+        "name": "Altar-Fields → Searblood Cultist",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "blood/fire cultist",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135,
+            -118
+          ],
+          [
+            135.52,
+            -123.98
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_109",
+      "properties": {
+        "id": "link_109",
+        "name": "Altar-Fields → Funeral Dancer",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "ritual death combat",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135,
+            -118
+          ],
+          [
+            139.57,
+            -112.05
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_110",
+      "properties": {
+        "id": "link_110",
+        "name": "Amaroth Vale → Bloodroot Effigy",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "martyr-bone golem",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            92,
+            -68
+          ],
+          [
+            92.52,
+            -73.98
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_111",
+      "properties": {
+        "id": "link_111",
+        "name": "Banner Roads → Red Widow",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "war-haunted predator",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110,
+            -45
+          ],
+          [
+            109.22,
+            -42.1
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_112",
+      "properties": {
+        "id": "link_112",
+        "name": "Altar-Fields → Wickerborn",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "pyre effigy",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            135,
+            -118
+          ],
+          [
+            126.14,
+            -119.56
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_113",
+      "properties": {
+        "id": "link_113",
+        "name": "Banner Roads → Tyrian Echo",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "mixed-hue war echo",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            110,
+            -45
+          ],
+          [
+            107.92,
+            -48.99
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_114",
+      "properties": {
+        "id": "link_114",
+        "name": "Crimson Bastion → Rustworn Judge",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "old verdict / execution memory",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125,
+            -75
+          ],
+          [
+            4.57,
+            -139.05
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_115",
+      "properties": {
+        "id": "link_115",
+        "name": "Zaffran Port → Cobalt Order",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "clarity / memory / storm logic",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -125,
+            -75
+          ],
+          [
+            -122.0,
+            -75.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_116",
+      "properties": {
+        "id": "link_116",
+        "name": "Skyglass Pillars → Glasswrights",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "storm glass and memory sealing",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -110,
+            -38
+          ],
+          [
+            -107.0,
+            -38.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_117",
+      "properties": {
+        "id": "link_117",
+        "name": "Skyglass Pillars → Skydancers",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "wind traversal / storm hymn",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -110,
+            -38
+          ],
+          [
+            -113.32,
+            -34.96
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_118",
+      "properties": {
+        "id": "link_118",
+        "name": "Stormirth Observatory → Storm Seers",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "weather memory",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -104,
+            -116
+          ],
+          [
+            -101.0,
+            -116.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_119",
+      "properties": {
+        "id": "link_119",
+        "name": "The Mirrorwake → Reflective Exiles",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "grief reflection",
+        "canonical_status": "candidate"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -93,
+            -87
+          ],
+          [
+            -90.0,
+            -87.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_120",
+      "properties": {
+        "id": "link_120",
+        "name": "Zaffran Port → Zaffre Glasswright",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "memory-sealing glass / whisperpanes",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -125,
+            -75
+          ],
+          [
+            -128.32,
+            -71.96
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_121",
+      "properties": {
+        "id": "link_121",
+        "name": "Skyglass Pillars → Cerulean Skydancer",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "storm hymn / wind traversal",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -110,
+            -38
+          ],
+          [
+            -109.48,
+            -43.98
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_122",
+      "properties": {
+        "id": "link_122",
+        "name": "Floating Cliffs → Glaucous Wing",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "avian shapeshifter / cliff guardian",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -142,
+            -42
+          ],
+          [
+            -139.0,
+            -42.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_123",
+      "properties": {
+        "id": "link_123",
+        "name": "The Mirrorwake → Payne's Shade",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "painter of illusions / impossible skies",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -93,
+            -87
+          ],
+          [
+            -96.32,
+            -83.96
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_124",
+      "properties": {
+        "id": "link_124",
+        "name": "Stormirth Observatory → Eigengrau the Unseeing",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "blind seer / inward truth",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -104,
+            -116
+          ],
+          [
+            -107.32,
+            -112.96
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_125",
+      "properties": {
+        "id": "link_125",
+        "name": "Skyglass Pillars → Glassborne Echo",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "mirrored movement with delay",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -110,
+            -38
+          ],
+          [
+            -105.43,
+            -32.05
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_126",
+      "properties": {
+        "id": "link_126",
+        "name": "Floating Cliffs → Skycall Wraith",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "glide denial / aerial shriek",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -142,
+            -42
+          ],
+          [
+            -145.32,
+            -38.96
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_127",
+      "properties": {
+        "id": "link_127",
+        "name": "Floating Cliffs → Stormwrit Hound",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "lightning traversal hunter",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -142,
+            -42
+          ],
+          [
+            -141.48,
+            -47.98
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_128",
+      "properties": {
+        "id": "link_128",
+        "name": "Whispering Bay → Tideworn Apostle",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "drowned knowledge / ink storm",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -155,
+            -94
+          ],
+          [
+            -152.0,
+            -94.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_129",
+      "properties": {
+        "id": "link_129",
+        "name": "The Mirrorwake → Mirrorwake Duelist",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "reflective combat logic",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -93,
+            -87
+          ],
+          [
+            -92.48,
+            -92.98
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_130",
+      "properties": {
+        "id": "link_130",
+        "name": "Floating Cliffs → Feathered Null",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "Nullshade-tainted aerial form",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -142,
+            -42
+          ],
+          [
+            -137.43,
+            -36.05
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_131",
+      "properties": {
+        "id": "link_131",
+        "name": "Whispering Bay → Abyssal Current",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "submerged force / undertow",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -155,
+            -94
+          ],
+          [
+            -158.32,
+            -90.96
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_132",
+      "properties": {
+        "id": "link_132",
+        "name": "Skyglass Pillars → Tempest Marionette",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "storm puppet / movement disruption",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -110,
+            -38
+          ],
+          [
+            -118.86,
+            -39.56
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_133",
+      "properties": {
+        "id": "link_133",
+        "name": "Floating Cliffs → Sorrowwing",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "grief / aerial predator",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -142,
+            -42
+          ],
+          [
+            -150.86,
+            -43.56
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_134",
+      "properties": {
+        "id": "link_134",
+        "name": "Thulian Court → Violet Order / Thulian Court",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "identity / glamour / dream authorship",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -32,
+            148
+          ],
+          [
+            -29.0,
+            148.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_135",
+      "properties": {
+        "id": "link_135",
+        "name": "Liseran Shrine → Liseran Caretakers",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "healing and shrine stewardship",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            135
+          ],
+          [
+            3.0,
+            135.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_136",
+      "properties": {
+        "id": "link_136",
+        "name": "Dreamroot Loom → Dreamroot Weavers",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "authored magic / woven identity",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -47,
+            121
+          ],
+          [
+            -44.0,
+            121.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_137",
+      "properties": {
+        "id": "link_137",
+        "name": "Thulian Court → Fandango / Razzmatazz Performers",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "rhythm, performance, artifact awakening",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -32,
+            148
+          ],
+          [
+            -35.32,
+            151.04
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_138",
+      "properties": {
+        "id": "link_138",
+        "name": "Liseran Shrine → Liseran Caretaker",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "shrine keeper / healing lily",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            135
+          ],
+          [
+            -3.32,
+            138.04
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_139",
+      "properties": {
+        "id": "link_139",
+        "name": "Thulian Court → Thulian Emissary",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "court truth / incomplete mirror logic",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -32,
+            148
+          ],
+          [
+            -31.48,
+            142.02
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_140",
+      "properties": {
+        "id": "link_140",
+        "name": "Thulian Court → Fandango Duelstar",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "duelist performer / singing blade",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -32,
+            148
+          ],
+          [
+            -27.43,
+            153.95
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_141",
+      "properties": {
+        "id": "link_141",
+        "name": "Dreamroot Loom → Razzmatazz Sprite",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "artifact awakening / rhythm interaction",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -47,
+            121
+          ],
+          [
+            -50.32,
+            124.04
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_142",
+      "properties": {
+        "id": "link_142",
+        "name": "Liseran Shrine → Periwinkle Siren",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "voice / charm / dream-water logic",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            135
+          ],
+          [
+            0.52,
+            129.02
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_143",
+      "properties": {
+        "id": "link_143",
+        "name": "Dreamroot Loom → Quinacridone Blade",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "battle-paint / authored magic",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -47,
+            121
+          ],
+          [
+            -46.48,
+            115.02
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_144",
+      "properties": {
+        "id": "link_144",
+        "name": "Heliobloom → Heliotrope Devotee",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "devotion / prophecy / purple light",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20,
+            107
+          ],
+          [
+            23.0,
+            107.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_145",
+      "properties": {
+        "id": "link_145",
+        "name": "Veilgrove → Wisteria Enchantress",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "enchantment / hanging garden logic",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33,
+            150
+          ],
+          [
+            36.0,
+            150.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_146",
+      "properties": {
+        "id": "link_146",
+        "name": "Dreamroot Loom → Mauveine Spark",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "unstable dream energy",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -47,
+            121
+          ],
+          [
+            -42.43,
+            126.95
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_147",
+      "properties": {
+        "id": "link_147",
+        "name": "Thulian Court → Pomp & Power Chancellor",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "court command / nobles / weak minds",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -32,
+            148
+          ],
+          [
+            -40.86,
+            146.44
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_148",
+      "properties": {
+        "id": "link_148",
+        "name": "Thulian Court → Doppelshade",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "player clone / identity mimic",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -32,
+            148
+          ],
+          [
+            -23.14,
+            142.36
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_149",
+      "properties": {
+        "id": "link_149",
+        "name": "Liseran Shrine → Lilyborn Mirage",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "lily-mist memory loop",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            135
+          ],
+          [
+            4.57,
+            140.95
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_150",
+      "properties": {
+        "id": "link_150",
+        "name": "Veilgrove → Bloomveil Widow",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "glamour predator",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33,
+            150
+          ],
+          [
+            29.68,
+            153.04
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_151",
+      "properties": {
+        "id": "link_151",
+        "name": "Dreamroot Loom → Glittering Grimoire",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "spell-history mimicry",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -47,
+            121
+          ],
+          [
+            -55.86,
+            119.44
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_152",
+      "properties": {
+        "id": "link_152",
+        "name": "Heliobloom → Chronopollen Sprite",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "time/pollen distortion",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            20,
+            107
+          ],
+          [
+            16.68,
+            110.04
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_153",
+      "properties": {
+        "id": "link_153",
+        "name": "Thulian Court → Fandancer Fragment",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "performance / rhythm enemy",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -32,
+            148
+          ],
+          [
+            -32.78,
+            150.9
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_154",
+      "properties": {
+        "id": "link_154",
+        "name": "Veilgrove → Veilshift Matron",
+        "layer": "links",
+        "feature_type": "hosts_boss",
+        "description": "identity-stability test",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            33,
+            150
+          ],
+          [
+            33.52,
+            144.02
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_155",
+      "properties": {
+        "id": "link_155",
+        "name": "Thulian Gate → Thulian Vowkeep",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "promise / vow logic",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            178
+          ],
+          [
+            3.0,
+            178.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_156",
+      "properties": {
+        "id": "link_156",
+        "name": "Dreamroot Loom → Razzflare Imp",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "unstable artifact trickster",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -47,
+            121
+          ],
+          [
+            -38.14,
+            115.36
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_157",
+      "properties": {
+        "id": "link_157",
+        "name": "Aureolin Temple → Aurelian Order",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "light / trade / judgment / public truth",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151,
+            98
+          ],
+          [
+            154.0,
+            98.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_158",
+      "properties": {
+        "id": "link_158",
+        "name": "Eburnea → Eburnean Priesthood",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "legitimacy / judgment",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125,
+            75
+          ],
+          [
+            128.0,
+            75.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_159",
+      "properties": {
+        "id": "link_159",
+        "name": "Gamboge Vault → Gamboge Monks",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "vault rites",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            98,
+            62
+          ],
+          [
+            101.0,
+            62.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_160",
+      "properties": {
+        "id": "link_160",
+        "name": "Citrine Corridor → Citrine Artisans",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "lightcraft and market legitimacy",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            158,
+            62
+          ],
+          [
+            161.0,
+            62.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_161",
+      "properties": {
+        "id": "link_161",
+        "name": "Dune Roads → Desert Couriers",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "trade route movement",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88,
+            80
+          ],
+          [
+            91.0,
+            80.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_162",
+      "properties": {
+        "id": "link_162",
+        "name": "Dune Roads → Sun Hunters",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "heat and desert tracking",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88,
+            80
+          ],
+          [
+            84.68,
+            83.04
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_163",
+      "properties": {
+        "id": "link_163",
+        "name": "Eburnea → Eburnean Priestess",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "city / temple legitimacy",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125,
+            75
+          ],
+          [
+            121.68,
+            78.04
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_164",
+      "properties": {
+        "id": "link_164",
+        "name": "Citrine Corridor → Citrine Artisan",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "craft / surface brilliance",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            158,
+            62
+          ],
+          [
+            154.68,
+            65.04
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_165",
+      "properties": {
+        "id": "link_165",
+        "name": "Gamboge Vault → Gamboge Monk",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "monastic light logic",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            98,
+            62
+          ],
+          [
+            94.68,
+            65.04
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_166",
+      "properties": {
+        "id": "link_166",
+        "name": "Dune Roads → Fulvous Hunter",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "desert hunter / heat movement",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88,
+            80
+          ],
+          [
+            88.52,
+            74.02
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_167",
+      "properties": {
+        "id": "link_167",
+        "name": "Dune Roads → Orangepeel Courier",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "trade / speed / message routes",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88,
+            80
+          ],
+          [
+            92.57,
+            85.95
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_168",
+      "properties": {
+        "id": "link_168",
+        "name": "Aureolin Temple → Aureolin Flame",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "fire/light devotion",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151,
+            98
+          ],
+          [
+            147.68,
+            101.04
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_169",
+      "properties": {
+        "id": "link_169",
+        "name": "Dune Roads → Sunburnt Jackal",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "heat/scent predator",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88,
+            80
+          ],
+          [
+            79.14,
+            78.44
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_170",
+      "properties": {
+        "id": "link_170",
+        "name": "Glass Mirage Vaults → Mirage Revenant",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "fake NPC / chest mimic",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            102,
+            100
+          ],
+          [
+            105.0,
+            100.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_171",
+      "properties": {
+        "id": "link_171",
+        "name": "Citrine Corridor → Cinnabar Scarab",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "gleaming dust predator",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            158,
+            62
+          ],
+          [
+            158.52,
+            56.02
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_172",
+      "properties": {
+        "id": "link_172",
+        "name": "Dune Roads → Ambercoil Asp",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "desert coil hazard",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            88,
+            80
+          ],
+          [
+            96.86,
+            74.36
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_173",
+      "properties": {
+        "id": "link_173",
+        "name": "Gamboge Vault → Gamboge Djinnling",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "mirage spirit",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            98,
+            62
+          ],
+          [
+            98.52,
+            56.02
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_174",
+      "properties": {
+        "id": "link_174",
+        "name": "Aureolin Temple → Hollow Prophet",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "light-judgment caster",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            151,
+            98
+          ],
+          [
+            151.52,
+            92.02
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_175",
+      "properties": {
+        "id": "link_175",
+        "name": "Citrine Corridor → Citrine Golem",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "radiant construct",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            158,
+            62
+          ],
+          [
+            162.57,
+            67.95
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_176",
+      "properties": {
+        "id": "link_176",
+        "name": "Sundial Temple → Sunflare Marionette",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "beam rhythm puppet",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            130,
+            118
+          ],
+          [
+            133.0,
+            118.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_177",
+      "properties": {
+        "id": "link_177",
+        "name": "Gilded Hollow → Heliotropic Lurker",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "sun-following ambusher",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            174,
+            82
+          ],
+          [
+            177.0,
+            82.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_178",
+      "properties": {
+        "id": "link_178",
+        "name": "Mortuum Hold → Earthen Order",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "transmutation / endings / residue",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            -145
+          ],
+          [
+            3.0,
+            -145.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_179",
+      "properties": {
+        "id": "link_179",
+        "name": "Phylactery Vault → Mortumic Circle",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "death refined, not prevented",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30,
+            -158
+          ],
+          [
+            33.0,
+            -158.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_180",
+      "properties": {
+        "id": "link_180",
+        "name": "Rustclad Archive → The Ochranthium",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "truth in clay / dust / amber",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48,
+            -128
+          ],
+          [
+            -45.0,
+            -128.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_181",
+      "properties": {
+        "id": "link_181",
+        "name": "Mortuum Hold → Order of the Bound Flame",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "fire as memory",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            -145
+          ],
+          [
+            -3.32,
+            -141.96
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_182",
+      "properties": {
+        "id": "link_182",
+        "name": "Rustclad Archive → Tenebric Scribes",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "chronicle erased things",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48,
+            -128
+          ],
+          [
+            -51.32,
+            -124.96
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_183",
+      "properties": {
+        "id": "link_183",
+        "name": "Phylactery Vault → Caput Mortuum Ascetic",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "death/refinement philosophy",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30,
+            -158
+          ],
+          [
+            26.68,
+            -154.96
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_184",
+      "properties": {
+        "id": "link_184",
+        "name": "Rustclad Archive → Bistre Archivist",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "prior events / residue records",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48,
+            -128
+          ],
+          [
+            -47.48,
+            -133.98
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_185",
+      "properties": {
+        "id": "link_185",
+        "name": "Isabelline Catacombs → Isabelline Widow",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "mourning / memory residue",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -32,
+            -158
+          ],
+          [
+            -29.0,
+            -158.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_186",
+      "properties": {
+        "id": "link_186",
+        "name": "Fossilized Alchemical Labs → Burnt Sienna Sculptor",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "fossil memory / golem-core logic",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62,
+            -170
+          ],
+          [
+            65.0,
+            -170.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_187",
+      "properties": {
+        "id": "link_187",
+        "name": "Mortuum Hold → Mikado Warlord",
+        "layer": "links",
+        "feature_type": "hosts_npc",
+        "description": "old authority / ruin command",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            -145
+          ],
+          [
+            0.52,
+            -150.98
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_188",
+      "properties": {
+        "id": "link_188",
+        "name": "Rustclad Archive → Memory Husk",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "past-self shell",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48,
+            -128
+          ],
+          [
+            -43.43,
+            -122.05
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_189",
+      "properties": {
+        "id": "link_189",
+        "name": "Ash Plains → Sootshade Collector",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "ash/parchment trauma entity",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -70,
+            -152
+          ],
+          [
+            -67.0,
+            -152.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_190",
+      "properties": {
+        "id": "link_190",
+        "name": "Fossilized Alchemical Labs → Alchemical Echo",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "failed alchemy residual state",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            62,
+            -170
+          ],
+          [
+            58.68,
+            -166.96
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_191",
+      "properties": {
+        "id": "link_191",
+        "name": "Golm Burial Fields → Ochre Golem",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "fossilized memory-ore guardian",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            46,
+            -128
+          ],
+          [
+            49.0,
+            -128.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_192",
+      "properties": {
+        "id": "link_192",
+        "name": "Phylactery Vault → Caput Marionette",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "death / puppet logic",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30,
+            -158
+          ],
+          [
+            30.52,
+            -163.98
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_193",
+      "properties": {
+        "id": "link_193",
+        "name": "Mortuum Hold → Rustworn Judge",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "old verdict / ruin judgment",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            -145
+          ],
+          [
+            4.57,
+            -139.05
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_194",
+      "properties": {
+        "id": "link_194",
+        "name": "Rustclad Archive → Tapestry Watcher",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "prior-truth / memory overwrite entity",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -48,
+            -128
+          ],
+          [
+            -56.86,
+            -129.56
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_195",
+      "properties": {
+        "id": "link_195",
+        "name": "The Bound / Bound Grove → The Mask",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "Order-imposed sealed story",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10,
+            -26
+          ],
+          [
+            13.0,
+            -26.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_196",
+      "properties": {
+        "id": "link_196",
+        "name": "Prism Wound → Prismara Remnants",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "primal harmony remnants",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            3.0,
+            0.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_197",
+      "properties": {
+        "id": "link_197",
+        "name": "The Bound / Bound Grove → The Bound Witnesses",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "witnesses frozen by Mask or failed coherence",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10,
+            -26
+          ],
+          [
+            6.68,
+            -22.96
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_198",
+      "properties": {
+        "id": "link_198",
+        "name": "Prism Wound → Wound Immune Responses",
+        "layer": "links",
+        "feature_type": "hosts_faction",
+        "description": "immune responses of the Wound",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            -3.32,
+            3.04
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_199",
+      "properties": {
+        "id": "link_199",
+        "name": "Prism Wound → Prism Unform",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "glitching spectral hue-shifter",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            0.52,
+            -5.98
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_200",
+      "properties": {
+        "id": "link_200",
+        "name": "The Bound / Bound Grove → The Bound",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "awakened stone figures",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            10,
+            -26
+          ],
+          [
+            10.52,
+            -31.98
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_201",
+      "properties": {
+        "id": "link_201",
+        "name": "Shatterglass Pools → Nullshade Echo",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "reflection without mercy",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24,
+            10
+          ],
+          [
+            27.0,
+            10.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_202",
+      "properties": {
+        "id": "link_202",
+        "name": "Collapsed Monoliths → Null-Root",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "failed void-growth",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5,
+            26
+          ],
+          [
+            -2.0,
+            26.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_203",
+      "properties": {
+        "id": "link_203",
+        "name": "Collapsed Monoliths → Silence Incarnate",
+        "layer": "links",
+        "feature_type": "hosts_boss",
+        "description": "unblinking judgment",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5,
+            26
+          ],
+          [
+            -8.32,
+            29.04
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_204",
+      "properties": {
+        "id": "link_204",
+        "name": "Collapsed Monoliths → Fractal Shardling",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "broken geometry shard",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5,
+            26
+          ],
+          [
+            -4.48,
+            20.02
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_205",
+      "properties": {
+        "id": "link_205",
+        "name": "Prism Wound → Wound Remnant",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "shattering residue",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            4.57,
+            5.95
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_206",
+      "properties": {
+        "id": "link_206",
+        "name": "Nullshade Ruins → Nullshade Revenant",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "colorless revenant",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -22,
+            -6
+          ],
+          [
+            -19.0,
+            -6.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_207",
+      "properties": {
+        "id": "link_207",
+        "name": "Shatterglass Pools → The Unhued Choir",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "song that removes color",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24,
+            10
+          ],
+          [
+            20.68,
+            13.04
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_208",
+      "properties": {
+        "id": "link_208",
+        "name": "Prism Wound → The Seventh Hue",
+        "layer": "links",
+        "feature_type": "hosts_boss",
+        "description": "optional mythic contradiction",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            -8.86,
+            -1.56
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_209",
+      "properties": {
+        "id": "link_209",
+        "name": "Prism Wound → The Colorless Shape",
+        "layer": "links",
+        "feature_type": "hosts_boss",
+        "description": "distorted build/loadout mirror",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            8.86,
+            -5.64
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_210",
+      "properties": {
+        "id": "link_210",
+        "name": "Memory Gate Circles → Memory Leech",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "HUD/control parasite",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            42
+          ],
+          [
+            3.0,
+            42.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_211",
+      "properties": {
+        "id": "link_211",
+        "name": "Memory Gate Circles → Tapestry Watcher — Nullshade Variant",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "prior-truth fracture",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            42
+          ],
+          [
+            -3.32,
+            45.04
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_212",
+      "properties": {
+        "id": "link_212",
+        "name": "Nullshade Ruins → Spectral Harvester",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "memory-harvest endgame entity",
+        "canonical_status": "candidate"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -22,
+            -6
+          ],
+          [
+            -25.32,
+            -2.96
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_213",
+      "properties": {
+        "id": "link_213",
+        "name": "Prism Wound → Memory Grafter",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "memory rewrite entity",
+        "canonical_status": "candidate"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            -0.78,
+            2.9
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_214",
+      "properties": {
+        "id": "link_214",
+        "name": "Memory Gate Circles → Nullborn Husks",
+        "layer": "links",
+        "feature_type": "hosts_enemy",
+        "description": "early intrusion immune responses",
+        "canonical_status": "strong_fit"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            42
+          ],
+          [
+            0.52,
+            36.02
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_215",
+      "properties": {
+        "id": "link_215",
+        "name": "Huevale → Memory Gate Circles",
+        "layer": "links",
+        "feature_type": "prism_gate_route",
+        "description": "outer region route into Nullshade",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -125,
+            75
+          ],
+          [
+            0,
+            42
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_216",
+      "properties": {
+        "id": "link_216",
+        "name": "Nullshade → Huevale",
+        "layer": "links",
+        "feature_type": "intrusion",
+        "description": "Nullshade intrusion/exposure leaks into region",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            -125,
+            75
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_217",
+      "properties": {
+        "id": "link_217",
+        "name": "Vireya → Memory Gate Circles",
+        "layer": "links",
+        "feature_type": "prism_gate_route",
+        "description": "outer region route into Nullshade",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125,
+            -75
+          ],
+          [
+            0,
+            42
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_218",
+      "properties": {
+        "id": "link_218",
+        "name": "Nullshade → Vireya",
+        "layer": "links",
+        "feature_type": "intrusion",
+        "description": "Nullshade intrusion/exposure leaks into region",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            125,
+            -75
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_219",
+      "properties": {
+        "id": "link_219",
+        "name": "Iriseld → Memory Gate Circles",
+        "layer": "links",
+        "feature_type": "prism_gate_route",
+        "description": "outer region route into Nullshade",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -125,
+            -75
+          ],
+          [
+            0,
+            42
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_220",
+      "properties": {
+        "id": "link_220",
+        "name": "Nullshade → Iriseld",
+        "layer": "links",
+        "feature_type": "intrusion",
+        "description": "Nullshade intrusion/exposure leaks into region",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            -125,
+            -75
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_221",
+      "properties": {
+        "id": "link_221",
+        "name": "Myrrala → Memory Gate Circles",
+        "layer": "links",
+        "feature_type": "prism_gate_route",
+        "description": "outer region route into Nullshade",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            135
+          ],
+          [
+            0,
+            42
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_222",
+      "properties": {
+        "id": "link_222",
+        "name": "Nullshade → Myrrala",
+        "layer": "links",
+        "feature_type": "intrusion",
+        "description": "Nullshade intrusion/exposure leaks into region",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            135
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_223",
+      "properties": {
+        "id": "link_223",
+        "name": "Luxeran → Memory Gate Circles",
+        "layer": "links",
+        "feature_type": "prism_gate_route",
+        "description": "outer region route into Nullshade",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125,
+            75
+          ],
+          [
+            0,
+            42
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_224",
+      "properties": {
+        "id": "link_224",
+        "name": "Nullshade → Luxeran",
+        "layer": "links",
+        "feature_type": "intrusion",
+        "description": "Nullshade intrusion/exposure leaks into region",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            125,
+            75
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_225",
+      "properties": {
+        "id": "link_225",
+        "name": "Auralith → Memory Gate Circles",
+        "layer": "links",
+        "feature_type": "prism_gate_route",
+        "description": "outer region route into Nullshade",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            -145
+          ],
+          [
+            0,
+            42
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_226",
+      "properties": {
+        "id": "link_226",
+        "name": "Nullshade → Auralith",
+        "layer": "links",
+        "feature_type": "intrusion",
+        "description": "Nullshade intrusion/exposure leaks into region",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            -145
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_227",
+      "properties": {
+        "id": "link_227",
+        "name": "Skobeloff Diver → Fangbloom Wyrm",
+        "layer": "links",
+        "feature_type": "counter",
+        "description": "Skobeloff Lens reveals hidden/deceptive Huevale threats",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -132.0,
+            38.0
+          ],
+          [
+            -91.43,
+            89.95
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_228",
+      "properties": {
+        "id": "link_228",
+        "name": "Skobeloff Diver → Boglight Mimic",
+        "layer": "links",
+        "feature_type": "counter",
+        "description": "trap/illusion reveal relationship",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -132.0,
+            38.0
+          ],
+          [
+            -179.0,
+            82.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_229",
+      "properties": {
+        "id": "link_229",
+        "name": "Limerick Druid → Verdant Maw",
+        "layer": "links",
+        "feature_type": "counter",
+        "description": "Limerick Flute charm/bypass logic",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -111.48,
+            98.02
+          ],
+          [
+            -95.48,
+            78.02
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_230",
+      "properties": {
+        "id": "link_230",
+        "name": "Smaragdine Knight → Thornwrithe Beast",
+        "layer": "links",
+        "feature_type": "counter",
+        "description": "beast calming / nature affinity",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -99.32,
+            87.04
+          ],
+          [
+            -112.78,
+            106.9
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_231",
+      "properties": {
+        "id": "link_231",
+        "name": "Saproot Cultist → Chartreuse Husk",
+        "layer": "links",
+        "feature_type": "counter",
+        "description": "Saproot Idol protects from decay/curses",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -95.32,
+            61.04
+          ],
+          [
+            -120.43,
+            80.95
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_232",
+      "properties": {
+        "id": "link_232",
+        "name": "Sanguine Quartermaster → Bannerbound Revenant",
+        "layer": "links",
+        "feature_type": "counter",
+        "description": "Sanguine Ledger reveals blood debts",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125.52,
+            -80.98
+          ],
+          [
+            118.86,
+            -50.64
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_233",
+      "properties": {
+        "id": "link_233",
+        "name": "Sanguine Quartermaster → Crimson Echo",
+        "layer": "links",
+        "feature_type": "counter",
+        "description": "unpaid blood / duel-loop memory",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            125.52,
+            -80.98
+          ],
+          [
+            100.52,
+            -107.98
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_234",
+      "properties": {
+        "id": "link_234",
+        "name": "Coquelicot Banner → Bannerbound Revenant",
+        "layer": "links",
+        "feature_type": "anchor",
+        "description": "banner memory anchors revenants",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            114.57,
+            -39.05
+          ],
+          [
+            118.86,
+            -50.64
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_235",
+      "properties": {
+        "id": "link_235",
+        "name": "Nacarat the Fox → Glasslash Serpent",
+        "layer": "links",
+        "feature_type": "conceptual",
+        "description": "trickster / betrayal logic around volcanic illusion",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            159.0,
+            -98.0
+          ],
+          [
+            181.0,
+            -72.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_236",
+      "properties": {
+        "id": "link_236",
+        "name": "Zaffre Glasswright → Abyssal Current",
+        "layer": "links",
+        "feature_type": "counter",
+        "description": "Zaffre Vial handles memory-water / passage reveal",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -128.32,
+            -71.96
+          ],
+          [
+            -158.32,
+            -90.96
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_237",
+      "properties": {
+        "id": "link_237",
+        "name": "Payne's Shade → Mirrorwake Duelist",
+        "layer": "links",
+        "feature_type": "counter",
+        "description": "Payne's Brush forces reflected targets into legibility",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.32,
+            -83.96
+          ],
+          [
+            -92.48,
+            -92.98
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_238",
+      "properties": {
+        "id": "link_238",
+        "name": "Payne's Shade → Glassborne Echo",
+        "layer": "links",
+        "feature_type": "counter",
+        "description": "reveal/stabilize mirror logic",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -96.32,
+            -83.96
+          ],
+          [
+            -105.43,
+            -32.05
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_239",
+      "properties": {
+        "id": "link_239",
+        "name": "Cerulean Skydancer → Skycall Wraith",
+        "layer": "links",
+        "feature_type": "counter",
+        "description": "aerial survival against glide denial",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -109.48,
+            -43.98
+          ],
+          [
+            -145.32,
+            -38.96
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_240",
+      "properties": {
+        "id": "link_240",
+        "name": "Thulian Emissary → Doppelshade",
+        "layer": "links",
+        "feature_type": "counter",
+        "description": "Thulian Mirror reveals incomplete truth",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -31.48,
+            142.02
+          ],
+          [
+            -23.14,
+            142.36
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_241",
+      "properties": {
+        "id": "link_241",
+        "name": "Thulian Emissary → Veilshift Matron",
+        "layer": "links",
+        "feature_type": "counter",
+        "description": "glamour break / boss reveal",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -31.48,
+            142.02
+          ],
+          [
+            33.52,
+            144.02
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_242",
+      "properties": {
+        "id": "link_242",
+        "name": "Razzmatazz Sprite → Glittering Grimoire",
+        "layer": "links",
+        "feature_type": "counter",
+        "description": "Razzmatazz Drum awakens/disrupts artifact states",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -50.32,
+            124.04
+          ],
+          [
+            -55.86,
+            119.44
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_243",
+      "properties": {
+        "id": "link_243",
+        "name": "Razzmatazz Sprite → Fandancer Fragment",
+        "layer": "links",
+        "feature_type": "counter",
+        "description": "rhythm interaction",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -50.32,
+            124.04
+          ],
+          [
+            -32.78,
+            150.9
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_244",
+      "properties": {
+        "id": "link_244",
+        "name": "Quinacridone Blade → Glittering Grimoire",
+        "layer": "links",
+        "feature_type": "counter",
+        "description": "authored magic / spell-history logic",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -46.48,
+            115.02
+          ],
+          [
+            -55.86,
+            119.44
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_245",
+      "properties": {
+        "id": "link_245",
+        "name": "Pomp & Power Chancellor → Thulian Vowkeep",
+        "layer": "links",
+        "feature_type": "counter",
+        "description": "command / vow logic",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -40.86,
+            146.44
+          ],
+          [
+            3.0,
+            178.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_246",
+      "properties": {
+        "id": "link_246",
+        "name": "Eburnean Priestess → Hollow Prophet",
+        "layer": "links",
+        "feature_type": "counter",
+        "description": "Eburnean Dice / legitimacy trial logic",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.68,
+            78.04
+          ],
+          [
+            151.52,
+            92.02
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_247",
+      "properties": {
+        "id": "link_247",
+        "name": "Eburnean Priestess → Mirage Revenant",
+        "layer": "links",
+        "feature_type": "counter",
+        "description": "fate-break against mirage trials",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            121.68,
+            78.04
+          ],
+          [
+            105.0,
+            100.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_248",
+      "properties": {
+        "id": "link_248",
+        "name": "Citrine Artisan → Citrine Golem",
+        "layer": "links",
+        "feature_type": "counter",
+        "description": "lightcraft stabilizes radiant constructs",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            154.68,
+            65.04
+          ],
+          [
+            162.57,
+            67.95
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_249",
+      "properties": {
+        "id": "link_249",
+        "name": "Gamboge Monk → Gamboge Djinnling",
+        "layer": "links",
+        "feature_type": "counter",
+        "description": "vault rite / spirit logic",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            94.68,
+            65.04
+          ],
+          [
+            98.52,
+            56.02
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_250",
+      "properties": {
+        "id": "link_250",
+        "name": "Bistre Archivist → Sootshade Collector",
+        "layer": "links",
+        "feature_type": "counter",
+        "description": "Bistre Lantern reveals residue entities",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -47.48,
+            -133.98
+          ],
+          [
+            -67.0,
+            -152.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_251",
+      "properties": {
+        "id": "link_251",
+        "name": "Bistre Archivist → Memory Husk",
+        "layer": "links",
+        "feature_type": "counter",
+        "description": "reveals prior events / past-self shell",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -47.48,
+            -133.98
+          ],
+          [
+            -43.43,
+            -122.05
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_252",
+      "properties": {
+        "id": "link_252",
+        "name": "Caput Mortuum Ascetic → Caput Marionette",
+        "layer": "links",
+        "feature_type": "counter",
+        "description": "phylactery stabilizes death-adjacent state",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.68,
+            -154.96
+          ],
+          [
+            30.52,
+            -163.98
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_253",
+      "properties": {
+        "id": "link_253",
+        "name": "Caput Mortuum Ascetic → Alchemical Echo",
+        "layer": "links",
+        "feature_type": "counter",
+        "description": "alchemical/death stabilization",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            26.68,
+            -154.96
+          ],
+          [
+            58.68,
+            -166.96
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_254",
+      "properties": {
+        "id": "link_254",
+        "name": "Burnt Sienna Sculptor → Ochre Golem",
+        "layer": "links",
+        "feature_type": "counter",
+        "description": "fossil memory / golem logic",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            65.0,
+            -170.0
+          ],
+          [
+            49.0,
+            -128.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_255",
+      "properties": {
+        "id": "link_255",
+        "name": "Tapestry Watcher → Tapestry Watcher — Nullshade Variant",
+        "layer": "links",
+        "feature_type": "variant",
+        "description": "Nullshade variant of Auralith memory entity",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -56.86,
+            -129.56
+          ],
+          [
+            -3.32,
+            45.04
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_256",
+      "properties": {
+        "id": "link_256",
+        "name": "Memory Husk → Memory Leech",
+        "layer": "links",
+        "feature_type": "conceptual",
+        "description": "memory-heavy enemy family",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -43.43,
+            -122.05
+          ],
+          [
+            3.0,
+            42.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_257",
+      "properties": {
+        "id": "link_257",
+        "name": "Doppelshade → The Colorless Shape",
+        "layer": "links",
+        "feature_type": "conceptual",
+        "description": "anti-self / build mirror escalation",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -23.14,
+            142.36
+          ],
+          [
+            8.86,
+            -5.64
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_258",
+      "properties": {
+        "id": "link_258",
+        "name": "Glassborne Echo → Nullshade Echo",
+        "layer": "links",
+        "feature_type": "conceptual",
+        "description": "reflection logic escalated by Nullshade",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -105.43,
+            -32.05
+          ],
+          [
+            27.0,
+            10.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_259",
+      "properties": {
+        "id": "link_259",
+        "name": "Verdant Maw → Null-Root",
+        "layer": "links",
+        "feature_type": "inversion",
+        "description": "failed void-growth inversion of plant hunger",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -95.48,
+            78.02
+          ],
+          [
+            -2.0,
+            26.0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_260",
+      "properties": {
+        "id": "link_260",
+        "name": "Tyrian Echo → Prism Wound",
+        "layer": "links",
+        "feature_type": "history",
+        "description": "Color War / mixed-hue wound thread",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            107.92,
+            -48.99
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_261",
+      "properties": {
+        "id": "link_261",
+        "name": "Thalera the Rootborn → Tyrian Echo",
+        "layer": "links",
+        "feature_type": "history",
+        "description": "betrayal echo connection",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -120.86,
+            102.44
+          ],
+          [
+            107.92,
+            -48.99
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "link_262",
+      "properties": {
+        "id": "link_262",
+        "name": "The Seventh Hue → Tapestry Watcher",
+        "layer": "links",
+        "feature_type": "secret",
+        "description": "secret contradiction / prior-truth thread",
+        "canonical_status": "derived"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.86,
+            -1.56
+          ],
+          [
+            -56.86,
+            -129.56
+          ]
+        ]
+      }
+    }
+  ]
+}

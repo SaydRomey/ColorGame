@@ -1,0 +1,166 @@
+SILENCE INCARNATE
+
+THE UNBLINKING JUDGMENT
+
+It watches.
+It judges.
+
+It never blinks.
+
+“Its gaze isn’t punishment.
+It’s potential — unrealized, then discarded.”
+
+TYPE
+
+Voidbound Observer / Static Sentinel
+
+THREAT LEVEL
+
+HIGH
+
+Psychological, Control-Based Encounter
+
+FIRST EMERGED
+
+At the edge of the Core Wound,
+within stilled air
+
+ANATOMY BREAKDOWN
+
+1. VOIDLIGHT GAZE
+
+A single shimmer where eyes should be.
+It never blinks, and never looks away while observing.
+
+2. SILENT HOOD
+
+Hides a face that does not exist.
+Its presence warps thought and stifles intention.
+
+3. JUDGMENTAL SHROUD
+
+Woven from stilled time and forgotten promises.
+Absorbs light and sound alike.
+
+4. ECHOLESS CORE
+
+At its center is a hollow that rejects action, hue, and memory.
+
+5. HOVERING STILLNESS
+
+It does not walk or float as others do.
+It simply occupies space.
+
+6. VOID DRIFT
+
+A trailing distortion that erases footsteps, spell traces, and emotional residue.
+
+7. ANCHOR GLYPH
+
+Tethers itself to hidden echo-nodes in the environment to maintain its watch.
+
+HABITAT / MANIFESTATION
+
+Appears near glyph gates, silent puzzle chambers, and echo-nodes.
+
+Often found in Nullshade ruins, monolith libraries, and void courts.
+
+Areas around it lose saturation, sound, and temporal stability.
+
+BEHAVIOR / STATE FLOW
+
+APPEARS → OBSERVES → GAZE LOCK → PRESENCE ESCALATES
+
+Appears in key lore or puzzle moments.
+
+Rotates slowly to follow your last clear movement.
+
+If gaze lock lasts more than 3 seconds, all inputs, casting, and UI feedback are disabled.
+
+It does not chase, but it always remembers.
+
+ABILITIES / STATUS EFFECTS
+
+GAZE SUPPRESSION
+
+Disables movement, casting, items, and UI feedback.
+
+HUE DRAIN
+
+Gradually desaturates the world and weakens artifacts.
+
+TEMPORAL STILL
+
+Slows time in the surrounding area during extended observation.
+
+ECHO LOCK
+
+Prevents memory recall or resonance interactions.
+
+HUE INTERACTION
+
+Nullifies all active hue-based abilities while it maintains line of sight.
+
+Can only be misdirected using illusion spells, light-bending terrain, or architectural interference.
+
+Violet Glamour Pulse and Yellow Lightform Cloak can disrupt its gaze temporarily.
+
+Certain lore-bound artifacts can cause it to recede or glitch:
+Bistre Lantern, Isabelline Tapestry, etc.
+
+KNOWN WEAKNESSES
+
+Reflections confuse its targeting:
+Shatterglass Pools, mirrored prisms.
+
+Blocking line of sight with terrain nullifies its oppressive gaze.
+
+Violet Glamour Pulse or Yellow Lightform Cloak disrupts its focus.
+
+Silence, whisper magic, or lore artifacts can force it to recede.
+
+FIELD NOTE
+
+Monolith Library of Nullshade
+
+“I once bowed before it.
+It did nothing.
+
+I ran.
+Still nothing.
+
+But when I stood still...
+it saw me.”
+
+“No weapon can harm it.
+No hue impresses it.
+
+It doesn’t punish —
+it measures.”
+
+“Only by breaking its sight can you move freely.
+
+But know this —
+when it blinks, it remembers your shape.”
+
+NOTES
+
+Presence fades after puzzle completion or lore objective triggered.
+
+If ignored, the area distorts —
+time slows, UI shimmers, sound vanishes.
+
+ECHO QUOTES
+
+“You chose... silence.”
+
+“Color was never yours to hold.”
+
+“Do you know what you could have become?”
+
+ARCHIVE SPECULATION
+
+Some say it was once a Prismara priest who silenced herself in protest —
+and was forgotten by color itself.
+
+Others say it is the Wound’s own reflection, waiting for you to fail.

@@ -1,0 +1,210 @@
+FUNERAL DANCER
+
+LAST STEP OF THE ASH WALTZ
+
+“She dances to end things.
+And always ends with a bow.”
+
+THREAT LEVEL
+
+HIGH
+
+AoE timing, illusion, and delayed hazards.
+
+TYPE
+
+Spectral Performer / Ritual Assassin
+
+FIRST EMERGED
+
+The Last Ember Gala, pre-Crimson Collapse.
+
+HUE INTERACTION
+
+CRIMSON ILLUSIONS
+
+Cloaked in crimson illusions while mid-dance.
+Vulnerable only between steps.
+
+COBALT SOUND
+
+Cobalt sound interrupts her tempo, breaking sigil formation.
+
+EARTHEN GROUNDING
+
+Earthen grounding slows her spin, allowing safer approach.
+
+VIOLET CLARITY
+
+Reveals the true dancer for brief moments if her rhythm is disrupted.
+
+AURELIAN LIGHT
+
+Disperses lingering illusions after her final bow, reducing follow-up risk.
+
+DESCRIPTION
+
+The Funeral Dancer is a haunting presence — cloaked in ash-grey silk, wreathed in ghostly flame.
+
+She does not hunt or charge.
+She simply begins to dance.
+
+Her movements draw circles in the dust, carving patterns of mourning that turn lethal when completed.
+
+She laughs as she spins.
+The laughter fades only when she bows.
+
+ANATOMY
+
+VEIL OF ASH
+
+Her veil bears the names of the forgotten.
+They whisper in rhythm.
+
+CEREMONIAL BLADES
+
+Curved and balanced for dance, not brute force.
+Edges burn with funereal flame.
+
+SILK OF MOURNING
+
+Flowing fabric etched with fading sigils.
+Each layer tells a story of a fallen soul.
+
+GHOSTFLAME AURA
+
+Faint flames trail her movements.
+They do not harm — until the dance ends.
+
+DANCER’S HEART
+
+A hollow ember within.
+It beats to the rhythm of loss and memory.
+
+ASH-WALTZ SIGILS
+
+The circles she leaves are not spells.
+They are promises of death once the story ends.
+
+LORE ENTRY
+
+Carved into the steps of a scorched amphitheater.
+
+“We gave her grief.
+She gave us grace.”
+
+“The Funeral Dancer once performed only for the dead — her steps choreographed to farewell the honored fallen.
+
+But war came too fast, and death too often.
+She could not keep up. So she never stopped.”
+
+“Now she dances across ash-fields and battlegrounds, pirouetting through memory and flame.
+
+No audience.
+No end.
+
+Just names whispered in rhythm and the clang of blades to mark the time.”
+
+“Her sigils are not spells.
+They are stories.
+
+And when she finishes the story, something always dies.”
+
+— Authored by Fennel “Redchalk” Vireen, former archivist turned battlefield scribe.
+
+BEHAVIOR
+
+OPENS THE DANCE
+
+Begins with a slow spiral step, leaving a glowing sigil behind.
+
+SPIRAL SEQUENCE
+
+Moves in wide, rhythmic patterns, placing 4 to 6 sigils in sequence.
+
+THE BOW
+
+Stops to bow gracefully, triggering the explosion of all active sigils.
+
+EVASIVE SPIN
+
+If struck mid-combo, she spins into mist and reappears at a new position.
+
+ENDLESS PERFORMANCE
+
+If uninterrupted, the cycle repeats with faster, deadlier patterns.
+
+KNOWN WEAKNESSES
+
+RHYTHM DISRUPTION
+
+Interrupt spells, especially with rhythmic or musical timing, destabilize her choreography completely.
+
+REFLECTION WARD
+
+Sigils can be absorbed by Reflection Ward or overwritten with player sigil-magic.
+
+HEAVY MOMENTUM
+
+High-impact stagger or knockdown during her bow prevents the sigils from fully triggering.
+
+SILENCE FIELD
+
+Longer silence durations cause her to pause or abort the dance.
+
+SIGIL PATTERNS
+
+1. Step of Remembrance.
+
+2. Step of Sorrow.
+
+3. Step of Names.
+
+4. Step of Regret.
+
+5. Step of Silence.
+
+6. The Bow — The End.
+
+Each step tells a story.
+The final bow writes the ending.
+
+All sigils detonate in sequential waves when the bow is completed.
+
+Standing in multiple zones increases damage exponentially.
+
+NOTES
+
+Some say she’s not a monster, but a memory too strong to forget — one dancer still trying to mourn a thousand souls alone.
+
+If you survive her dance, she sometimes vanishes in a swirl of ash.
+You feel oddly honored, like you were briefly part of the performance.
+
+Estimates suggest she has danced for over a thousand years without rest.
+
+POSSIBLE DROPS
+
+DANCER’S VEIL (RARE)
+
+Ash-silk that reduces incoming AoE damage and grants poise.
+
+BLADE OF FAREWELL (RARE)
+
+A curved blade that leaves lingering sigils on hit.
+
+SIGIL HEART CORE (VERY RARE)
+
+A core that enhances sigil magic and reduces cooldowns.
+
+WALTZ OF THE LOST (LEGENDARY)
+
+Teaches a unique combat style that lets you dance between danger.
+
+EMBER ECHO (UNIQUE)
+
+A whispering ember that plays a faint lullaby of the fallen.
+
+“THE DANCE IS BEAUTY.
+THE BOW IS MERCY.
+
+THE END IS ALWAYS THE SAME.”

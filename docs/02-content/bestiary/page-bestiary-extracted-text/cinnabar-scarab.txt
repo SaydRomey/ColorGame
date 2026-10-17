@@ -1,0 +1,153 @@
+CINNABAR SCARAB
+
+THE GLEAM THAT LIES
+
+“It shines when afraid.
+Which is always.”
+
+THREAT LEVEL
+
+CAUTION ADVISED
+
+Confusion and swarm risk
+
+TYPE
+
+Illusory Swarm / Reflexive Mimic
+
+FIRST EMERGED
+
+Post-Shattering, beneath the Citrine Tombs.
+
+HUE INTERACTION
+
+REACTS ERRATICALLY TO AURELIAN LIGHT PULSES
+
+Bright light agitated the scarab, causing it to split more frequently.
+
+SUSCEPTIBLE TO COBALT TRACKING SPELLS
+
+Mind Echo reveals the original’s thought pattern.
+
+CONFUSED BY VERDANT GROWTH SPELLS
+
+Growth that disrupts its mirrored movement path throws the scarab off balance.
+
+DESCRIPTION
+
+Small beetles with crimson-glass carapaces that shimmer in sunlight.
+
+The scarab emits light distortions when startled, spawning illusory copies of itself.
+The real one is indistinguishable at a glance, and disappears into its fakes if not dealt with swiftly.
+
+LORE ENTRY
+
+Recovered notes from “Scarab Whispers” by Fulvous Hunter Orei.
+
+“You don’t find a scarab nest.
+You walk into one — thinking it’s treasure, or shade, or salvation.”
+
+“I cracked one with my heel once.
+It screamed. I did too.
+
+Because then there were ten.
+Then twenty.
+
+All of them fake.
+All of them not quite wrong.”
+
+“Only the real one bleeds dust.
+The rest... flicker.
+
+They don’t stop moving unless you sing.”
+
+“I don’t hunt them anymore.
+I just let them follow me.
+
+And hope the fake ones scare off worse things.”
+
+ANATOMY
+
+CINNABAR CARAPACE
+
+Crystalline shell refracts light to create illusions.
+
+ILLUSORY GLAND
+
+Projects mirages of itself to confuse predators.
+
+SENSOR ANTENNAE
+
+Detect vibrations and threats at a distance.
+
+FLEX JOINTS
+
+Allow rapid burrowing and erratic movement across sand and stone alike.
+
+DUST VENTS
+
+Exhale hot, fine dust when threatened.
+Real scarab bleeds dust when injured.
+
+BEHAVIOR
+
+Travels in loose clusters; nests near ruins, shade-stones, and citrus groves.
+
+Upon threat, splits into visual duplicates with randomized patterns.
+
+The true scarab emits a faint heat signature — or responds to music.
+
+Duplicates fade if player stands completely still for several seconds.
+
+KNOWN WEAKNESSES
+
+EASILY SCATTERED BY SOUND
+
+Sound-based effects like drums or chants force it to retreat or lose its illusions.
+
+DISRUPTED BY ILLUSION COUNTERS
+
+Violet illusions or high-tier illusion dispels unravel the fakes and expose the real one.
+
+VULNERABLE TO HEAT-SENSING
+
+Wide-range pulse attacks or relics that detect body heat can isolate the true scarab.
+
+NOTES
+
+To Luxeran jewelhunters, a single real scarab is worth a satchel of gold — if they can catch it.
+
+False scarabs flicker and shift unnaturally when noticed too closely.
+
+The real scarab moves with intention; its fakes move to confuse.
+
+Scarab nests are often guarded by traps, sandfalls, or territorial creatures.
+
+POSSIBLE DROPS
+
+CINNABAR CORE
+
+A heated gem-node from the scarab’s heart.
+Used in alchemy and relic-crafting.
+
+SCARAB SHELL SHARD
+
+Hard, light-refracting piece of shell.
+Used for mirrors and focus tools.
+
+GLEAM DUST
+
+Fine iridescent dust that confuses the eyes.
+Useful in stealth or misdirection.
+
+LUXERAN CHITIN STRIP
+
+Rare crafting material.
+Light but incredibly resilient.
+
+SCARAB SONG FRAGMENT
+
+A lingering melody only the real scarab whispers.
+Used to calm or summon.
+
+IN LUXERAN, EVEN FEAR LEARNS TO SPARKLE.

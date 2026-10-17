@@ -1,0 +1,29 @@
+{
+  "id": "BEAST_VERDANT_MAW",
+  "entry": {
+    "name": "Verdant Maw",
+    "type": "Carnivorous Plant / Ambush Predator",
+    "threat_level": "⚠️ High – Lethal if caught unaware",
+    "first_emerged": "Early Post-Shattering Era",
+    "description": "The Verdant Maw disguises itself as an enormous, vibrant flower nestled amidst lush vegetation. Hidden beneath its radiant petals lies a cavernous maw lined with thorn-like teeth and ensnaring vines, patiently waiting to snap shut upon unsuspecting prey.",
+    "hue_interaction": "Emits powerful Verdant illusions and intoxicating scents to lure prey.\n\nResistant to direct plant manipulation; vulnerable to charm-based music or flute magic.\n\nCan detect and target players strongly bound to Green (Verdant) or Brown (Earthen) hues.",
+    "behavior": "Completely stationary; relies solely on luring prey into its reach.\n\nOften found near relic-rich areas or points of emotional resonance, exploiting travelers’ curiosity or nostalgia.\n\nCan be temporarily pacified by certain musical artifacts (e.g., Limerick Druid’s flute).",
+    "weaknesses": "Highly susceptible to fire (Crimson flame attacks immediately neutralize its lures).\n\nSensitive to intense vibrations or sonic disruptions that disturb its senses.\n\nVulnerable to Earthen decay spells, causing rapid wilting and temporary paralysis.",
+    "notes": "Locals tell cautionary tales of Verdant Maws imitating voices of lost loved ones, reciting half-remembered lullabies or promises to entice prey closer—proving that even plants in Huevale know the power of longing."
+  },
+  "lore": {
+    "title": "Field notes from the Herbalist Codex of Chartreuse Initiate, Sapreach Expedition",
+    "quote": "\"Our scouts spoke excitedly of finding a flower larger and more radiant than any before—blooming in colors vibrant enough to eclipse the dawn itself. I was suspicious; beauty so pronounced always has a hidden cost.\"",
+    "flavor_description": [
+      "A flower whose petals hide teeth and hunger"
+    ],
+    "field_notes": [
+      "\"We approached carefully, yet even caution felt foolish as the bloom shimmered gently, exuding a fragrance that numbed our fears. Then came the whispers, soft promises and visions of memories we longed to relive. It was the flower speaking in illusions, luring us deeper.\"",
+      "\"My trance broke only when I saw the petals twitch, revealing rows of thorn-teeth lining the maw beneath. By then, our guide had already reached out his hand. The flower’s embrace was instant, final—a silent snap followed by dragging vines pulling his still-struggling form underground.\"",
+      "\"Never trust beauty too bright or fragrance too sweet. The Verdant Maw feeds on desires just as readily as flesh, and Huevale is full of desires.\"",
+      "— Chartreuse Initiate, final entry before abandoning Sapreach Expedition"
+    ],
+    "source": "Herbalist Codex of Chartreuse Initiate, Sapreach Expedition"
+  },
+  "drops": []
+}

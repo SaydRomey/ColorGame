@@ -1,0 +1,206 @@
+RED WIDOW
+
+FLAME IN SILK
+
+“She smiles, then you’re bleeding —
+and you almost thank her.”
+
+THREAT LEVEL
+
+HIGH
+
+Deceptive assassin.
+High mobility and mind control.
+
+Lethal in duels.
+
+TYPE
+
+Assassin / Ember Siren
+
+FIRST EMERGED
+
+Final Days of the Crimson Court,
+Circa Ashfall
+
+HUE INTERACTION
+
+CRIMSON VEIL
+
+Uses Crimson Hue defensively —
+turns heat into afterimage misdirection.
+
+COBALT TRUTHSEEING
+
+Vulnerable to Cobalt truthseeing and reveals her true form.
+
+VIOLET COUNTER-CHARM
+
+Violet counter-charm abilities weaken or break her mind control effects.
+
+CONFIDENCE MITIGATION
+
+Her charm effect increases in power if the player has recently won a duel or is high in confidence-affecting stats.
+
+KNOWN WEAKNESSES
+
+RHYTHM DISRUPTION
+
+Sound or rhythm-based effects break her tempo and reduce evasion.
+
+MIRROR EXPOSURE
+
+Reflective surfaces expose her true body and cancel invisibility.
+
+POSE INTERRUPTION
+
+Interrupting her final pose leaves her open and vulnerable.
+
+BESTIARY ENTRY
+
+DESCRIPTION
+
+The Red Widow is an assassin cloaked in beauty and flame.
+
+Her lace-wrapped body flows like smoke, vanishing in the shimmer of heat or stepping between shadows.
+
+She doesn’t stalk —
+she performs.
+
+Her presence bends minds, breaks loyalty, and unravels cohesion through elegance alone.
+
+BEHAVIOR
+
+Begins encounters with distance and dialogue —
+often offering a riddle or taunt.
+
+Attacks from odd angles using teleportation steps and delayed mirrored blades.
+
+Charms one nearby ally/NPC during midfight —
+forced to attack for her unless broken.
+
+KNOWN WEAKNESSES
+
+Interrupting her “final pose” animation leaves her stunned.
+
+Weak to sound-disruption spells —
+her rhythm falters under noise or distortion.
+
+Mirror terrain, including obsidian floors and reflective lava glass, breaks her cloaking entirely.
+
+NOTES
+
+Players who defeat the Red Widow sometimes find red silk tucked into their inventory, inexplicably.
+
+No explanation.
+No use.
+
+Just... soft, perfumed cloth.
+
+Some wear it.
+Others burn it.
+
+A few report dreams of her returning.
+
+Smiling.
+
+ATTACKS & ABILITIES
+
+SILKSTEP DASH
+
+Blinking dash that leaves a delayed afterimage to strike from behind.
+
+BLADE WALTZ
+
+A flurry of graceful slashes in a circular pattern.
+Hard to parry.
+
+LACE OF FLAME
+
+Throws burning lace that entangles and applies damage-over-time.
+
+HEART’S COMMAND
+
+Charms a target, forcing them to attack allies for a short duration.
+
+EMBER KISS
+
+A close-range strike that drains health and may apply bleeding.
+
+LORE ENTRY
+
+Found in a perfume-stained letter burned at the corners.
+
+“I saw her only once.
+She stepped out of the smoke like a poem.”
+
+“They say she was once the last dancer of the Crimson Court —
+trained in motion, not murder.
+
+But when the war came, she didn’t stop.
+She changed the music.”
+
+“The Red Widow doesn’t fight.
+She performs.
+
+Every blade is a step,
+every smile a stanza.
+
+Her victims never scream.
+Most of them are already clapping.”
+
+“Some cults claim she carries the Ember Blessing.
+
+Others say she’s flame given body.
+
+I say she’s grief that never learned to cool.”
+
+“If she looks your way, bow.
+
+If she reaches for you...
+well, at least the dance ends with grace.”
+
+— From a letter never sent, tucked into the pages of “The Burning Waltz”
+
+BEHAVIOR OVERVIEW
+
+SIREN’S ENTRANCE
+
+Begins fights with distance, taunts, or riddles.
+Rarely strikes first.
+
+DANCER’S MOVEMENT
+
+Moves with fluid, unpredictable steps.
+Teleports short distances to reposition.
+
+MIND-BOUND ALLURE
+
+Can charm one nearby ally or NPC.
+They fight for her until the charm is broken.
+
+FINISHER’S POISE
+
+At low health, enters a final dance —
+faster, deadlier, and more chaotic.
+
+POSSIBLE DROPS
+
+WIDOW’S SILK (RARE)
+
+A strip of perfumed crimson silk.
+Used in crafting light armor and illusion-enhancing gear.
+
+EMBER PERFUME (UNCOMMON)
+
+Poisoned fragrance.
+Used in alchemy for charm-breaking or deception.
+
+DANCER’S DAGGER (UNCOMMON)
+
+Curved blade that scales with dexterity and critical chance.
+
+CRIMSON MEMORY (RARE)
+
+A memory of a final dance.
+Used to unlock past duel echoes or hidden dialogues.

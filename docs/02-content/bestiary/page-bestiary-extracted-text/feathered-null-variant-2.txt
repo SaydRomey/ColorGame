@@ -1,0 +1,189 @@
+FEATHERED NULL
+
+THE STILLBORN SKY
+
+“The wind gave up.
+It became still.”
+
+THREAT LEVEL
+
+MODERATE
+
+Traversal and hue suppression.
+Not inherently hostile.
+
+TYPE
+
+Colorless Entity / Anti-Storm Apparition
+
+FIRST EMERGED
+
+During the Dimming of the Third Gale.
+
+HUE INTERACTION
+
+SUPPRESSES HUE TRAVERSAL
+
+Gliding, storm-riding, and other Hue-based movement abilities are disabled within its aura.
+
+DIMS BOUND COLORS
+
+All bound hues lose intensity.
+Crimson surge weakens. Cobalt reaction timing is delayed.
+
+DISRUPTS HUE SCANS
+
+Its null presence scrambles visual and magical scans, making it difficult to detect without specialized means.
+
+RESTORED BY SKYGROWTH
+
+Verdant Skygrowth magic can temporarily restore buoyancy and hue stability nearby.
+
+DESCRIPTION
+
+A rare Nullborne being shaped by stillness itself.
+
+The Feathered Null hovers in Iriseld’s upper strata, its presence silencing the winds and draining the storm’s will.
+More melancholic than malevolent, it exerts passive denial of momentum — anchoring what should soar.
+
+ANATOMY
+
+COLORLESS PLUMAGE
+
+Feathers are threadbare, absorbing light and scattering no hue.
+
+NULL HEART
+
+A hollow core of still wind.
+Its pulse interrupts momentum rather than life.
+
+DRIFTING TAILFEATHERS
+
+Trail like unraveling storm threads.
+Often fade moments after it passes.
+
+HOLLOW FACEPLATE
+
+No features.
+It does not watch — it measures and forgets.
+
+TORN WING BONE
+
+Wings are real, but unpowered.
+They cannot lift even its own weight.
+
+SILENCE WAKE
+
+A constant aura of pale wind that muffles sound and drains will.
+
+LORE ENTRY
+
+“It didn’t fall.
+The sky simply stopped lifting it.”
+
+“When the Prism cracked, there were angels of color — fragments given shape by grief and wind.
+This was one.”
+
+“The Feathered Null was born not in flight, but in forgetting how flight felt.”
+
+“Its wings bear no color.
+Its voice no echo. It moves where the wind used to be.”
+
+“Glaucous said it hovered outside her cliffs for three nights, silent — not a threat.
+Just watching. Measuring.”
+
+“And when it left...
+the storm forgot how to speak for a day.”
+
+“We believe it is not hostile.
+But we are not sure it remembers how to be kind.”
+
+— Archivist Lethara, Keeper of Unseen Currents
+
+BEHAVIOR
+
+DOES NOT PURSUE
+
+It drifts.
+It is pulled by absence, not by prey.
+
+ENGAGES ONLY WHEN PROVOKED
+
+Or approached during a storm ritual or while riding the wind.
+
+BEHAVIOR CYCLE
+
+NULL PULSE
+
+Disables midair movement and storm abilities for several seconds.
+
+WING VEIL
+
+Conceals its position in a dome of pale wind.
+
+ECHO STILLNESS
+
+Creates a silence field that interrupts dialogue and spellcasting.
+
+KNOWN WEAKNESSES
+
+SOUND REPELLENT
+
+Repelled by sky-sound, such as storm chimes, flutes, or high wind-toned melodies.
+
+HUE TRIANGULATION
+
+Becomes unstable if trapped in a triangulation of multiple hues, such as player + relic + echo site.
+
+EMOTIVE WIND SURGES
+
+Only vulnerable during emotive wind surges triggered by memory sequences.
+
+NOT HARMFUL DIRECTLY
+
+Physical weapons pass through it harmlessly.
+It must be destabilized by its own nature.
+
+NOTES
+
+The Glaucous Wing claims this creature is “a hymn never sung.”
+
+Cannot be bound, named, or remembered by normal means — journals written near it lose ink.
+
+Ink dries mid-sentence.
+Names fade from the tongue. Even memory blurs.
+
+Not all who encounter it survive the silence.
+Some choose to stay — and become still.
+
+When it departs, the wind resumes...
+but something remains quieter.
+
+POSSIBLE DROPS
+
+NULLFEATHER (RARE)
+
+A lightless feather.
+Used in crafting wind-resistant cloaks and silencers.
+
+HOLLOW WIND CORE
+
+Core of stillness.
+Vital for advanced anti-storm enchantments.
+
+GLAUCOUS MEMORY SHARD
+
+Fragment of a forgotten sky memory.
+Used to unlock memory wind rituals.
+
+SILENT INK VIAL
+
+Ink that writes in still air.
+Words vanish unless spoken aloud.
+
+ECHOLESS TALON (VERY RARE)
+
+A talon that passed through sound and came back unchanged.
+
+“IT IS NOT THE ABSENCE OF WIND.
+IT IS THE REMEMBRANCE OF FLIGHT.”

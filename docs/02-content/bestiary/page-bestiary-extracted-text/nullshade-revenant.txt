@@ -1,0 +1,173 @@
+NULLSHADE REVENANT
+
+THE MEMORY THAT MISRETURNED
+
+“It remembers dying.
+It forgot why it came back.”
+
+“It doesn’t walk toward you.
+It walks toward a memory where you failed.”
+
+THREAT LEVEL
+
+HIGH
+
+Reality-distorting revenant.
+Warps memory and hue alignment.
+
+TYPE
+
+Hue-Corrupted Undead / Memory Echo
+
+FIRST EMERGED
+
+Nullshade Bloom, post-Prism Collapse
+
+HUE INTERACTION
+
+UNSTABLE PRESENCE
+
+Cannot be aligned.
+Causes instability in the player’s current hue if struck or touched.
+
+REVEAL CONDITIONS
+
+Enters phase-shift state near strong hue magic.
+
+Reveal with one of the following:
+
+Cobalt (Blue) reality-lock sigils.
+
+Yellow (Hope) illusions refracted through the Thulian Mirror.
+
+Violet dream-lensing (Glamour Pulse).
+
+HUE DRAIN CORRUPTION
+
+Strikes “corrupt” the player’s hue alignment, turning abilities gray or misaligned.
+
+KNOWN WEAKNESSES
+
+HUE REVELATION
+
+Must be lit by hue before becoming vulnerable, such as Blue Sigils, Lanterns, or truth-based illusions.
+
+ECHO ANCHORS
+
+Cannot be silenced, but disrupted by lore items tied to their past self, such as Journal Fragments or Relic Sketches.
+
+SHARD ALIGNMENT
+
+Prismwalker Shard glow pulses stronger near them—a clue to real-space alignment.
+
+BESTIARY ENTRY
+
+DESCRIPTION
+
+Once-alive figures from various Orders, their original hue still faintly flickering in their cloak seams or crystal bones.
+
+Their skin is cracked porcelain, leaking vaporized memory.
+Some hum old color chants. Others sob without tears.
+
+BEHAVIOR
+
+Wanders aimlessly until triggered by:
+
+Player casting a hue spell near them.
+
+Touching a Memory Echo shrine.
+
+Saying a phrase tied to their former hue allegiance.
+
+IN COMBAT
+
+Heavy, deliberate swings—infused with color-ghosts of old abilities.
+
+Their attacks “corrupt” the player’s hue alignment temporarily, turning abilities gray or misaligned.
+
+At 50% HP, they begin to teleport erratically, repeating your previous movements with lagging mimicry.
+
+ABILITIES
+
+SHADE REPRISE
+
+Mirrors the player’s last melee attack with delayed force, ignoring guard orientation.
+
+HUE ECHO SLASH
+
+A wide arc strike infused with a past version of the player’s most recent hue ability.
+
+MEMORY HOWL
+
+Lets out a silent scream that confuses controls and inverts button prompts briefly.
+
+FRACTURED STEP
+
+Teleports to a past location the player occupied moments ago and swings from there.
+
+HOLLOW RECALL
+
+Summons spectral shards of past allies or selves to harass the player for a short time.
+
+All abilities scale with the player’s recent actions and current hue intensity.
+
+NOTES
+
+Some Prismwalkers report “remembering” events they never lived after battling one.
+
+The Bistre Archivist theorized they are “souls who fractured across hues too often—now trapped in the space between.”
+
+Defeating one sometimes unlocks a suppressed memory or dialogue branch.
+
+Their names are lost.
+Only their echoes remain.
+
+LORE ENTRY
+
+Excerpt from “Core-Walker’s Notes, Vol. VII”
+— Anonymous Prismwalker
+
+“We found her kneeling at the edge of a Shatterglass Pool.
+
+Not praying.
+Not breathing.
+
+Just... remembering.”
+
+“A crimson sash fluttered from one arm.
+A green tattoo pulsed beneath her cracked skin.
+
+Once, she was a hero of the Color War.
+Now, she barely casts a shadow.”
+
+“When she rose, her eyes didn’t see us.
+They saw some place we weren’t.
+
+She moved through our attacks like they hadn’t happened yet.”
+
+“Then she struck—and I forgot how to defend.”
+
+“The Nullshade does not raise the dead.
+It reflects what it means to never have died right.”
+
+POSSIBLE DROPS
+
+NULLSHADE REMNANT (RARE)
+
+A fragment of the revenant’s memory.
+Used to unlock Echo Paths or reforge hue-corrupted relics.
+
+FORGOTTEN CREST (UNCOMMON)
+
+The faded emblem of their lost Order.
+Usable in crafting or reputation redemption.
+
+MEMORY VEIL DUST (UNCOMMON)
+
+A fine dust that muffles the mind.
+Used in alchemy to resist memory-based status effects.
+
+ECHOED REGRET (LEGENDARY)
+
+An echo-core imbued with choice and consequence.
+Used to awaken hidden truths or unlock secret storylines.

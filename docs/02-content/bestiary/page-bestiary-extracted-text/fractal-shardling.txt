@@ -1,0 +1,191 @@
+FRACTAL SHARDLING
+
+RECURSION MADE SHARP
+
+“Hit it once,
+and it remembers forever.”
+
+THREAT LEVEL
+
+MODERATE
+
+Escalates quickly if uncontrolled.
+
+TYPE
+
+Recursive Entity / Prism Construct
+
+FIRST EMERGED
+
+Post-Shattering Splinterfall.
+
+HUE INTERACTION
+
+MIMICS HUE GRADIENTS
+
+Changes color subtly with each split, but never fully expresses any hue.
+
+IMMUNE TO DIRECT HUE MAGIC
+
+Most hue spells pass through it harmlessly.
+
+LIGHT-BASED ILLUSIONS
+
+Yellow, Aurelian, and Violet illusions delay recursion and slow replication.
+
+PRISM RESONANCE
+
+Strong prism relics may cause resonance backlash on higher generations.
+
+DESCRIPTION
+
+Fractal Shardlings are splinters of broken Core-math, animated by recursion itself.
+
+They float along looping paths that defy natural laws, bound by fractured equations.
+When struck, they do not crack apart — they divide.
+
+Each new shard is smaller, faster, and more unpredictable than the last.
+
+Their purpose is unknown.
+Some say they seek to rebuild the pattern that made them. Others say they are the pattern.
+
+ANATOMY
+
+PRISM SPIRE
+
+Primary core stores the recursive pattern and split memory.
+
+ECHO NODES
+
+Emit harmonic hums that weaken with each generation.
+Used to target the last attacker.
+
+QUANTUM EDGES
+
+Edges do not follow gravitational pull.
+Allow movement in impossible loops.
+
+RECURSIVE CORE
+
+Holds the original algorithm.
+Destroying this ends the chain.
+
+SPLINTER VENTS
+
+Open during division phase.
+Emit smaller Shardlings with accelerated speed.
+
+PATTERN TRAIL
+
+Leaves faint glyph traces that loop back on themselves.
+
+LORE ENTRY
+
+Fragmented scrawl found etched on a Nullshade monolith.
+
+“They fractured the Core, hoping each splinter might forget what the whole once knew.
+
+Instead, it remembered too well.
+Repeated. Echoed. Over and over.”
+
+“A Shardling does not die.
+It subdivides — each generation forgetting more... and hurting more.”
+
+“One split into five.
+Then twenty-five.
+
+Then still it sang.
+Until even its song forgot the words, but not the rhythm.”
+
+“Only one truth breaks recursion:
+memory without repetition.”
+
+BEHAVIOR
+
+Patrols fixed paths in recursive loops, ignoring the player until disturbed.
+
+Targets the last source of damage dealt to it.
+
+Each split increases speed, reduces size, and adds unpredictability.
+
+Hums grow fainter each generation.
+At silence, they are at their most dangerous.
+
+At recursion limit, usually five generations, collapses in a silent burst of prismatic energy.
+
+BEHAVIOR CYCLE
+
+STEP 1 — NORMAL STATE
+
+Loops patrol path.
+
+STEP 2 — DISTURBED
+
+Struck by attack.
+Begins split.
+
+STEP 3 — SUBDIVISION
+
+Splits into two faster shards.
+
+STEP 4 — ESCALATION
+
+Continues splitting.
+Speed increases.
+
+STEP 5 — RECURSION LIMIT
+
+Collapses inward.
+Alters terrain.
+
+KNOWN WEAKNESSES
+
+SOUND BURST
+
+A perfectly timed sonic wave, such as Echo Pulse, can halt all recursion instantly.
+
+GLAMOUR PULSE
+
+Violet’s Glamour Pulse confuses their pattern, forcing false splits and breaking chains.
+
+MIRROR FEEDBACK
+
+Reflecting its movement back into itself using mirrors or reflective terrain causes instant collapse.
+
+NOTES
+
+Allowing more than five generations to exist may cause terrain distortion, shifting platforms, rotated rooms, or reality fractures.
+
+Often whispers fragmented patterns:
+“One becomes two. Two becomes... error.”
+
+Scholars theorize they are echoes of logic languages older than Hue itself.
+
+POSSIBLE REWARDS
+
+RECURSION CORE FRAGMENT
+
+Used to upgrade Prism relics and unlock logic-bound abilities.
+
+SPLINTER CODE
+
+Traditionalists use for crafting adaptive echo-traps.
+
+POSSIBLE DROPS
+
+FRACTAL LENS (RARE)
+
+A lens that reveals looping movement and hidden paths.
+
+PRISMATIC DUST
+
+Residual energy used to enhance hue-infused gear.
+
+ECHO CRYSTAL SHARD
+
+Used in crafting sound-based or illusion-disrupting items.
+
+GLYPH LOOP TOKEN (VERY RARE)
+
+A token inscribed with repeating glyphs.
+Alters map behavior.

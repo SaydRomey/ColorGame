@@ -1,0 +1,171 @@
+NULL-ROOT
+
+THE CORE THAT FAILED TO BLOOM
+
+“Even the void dreamed of life.
+That’s where the rot began.”
+
+THREAT LEVEL
+
+HIGH
+
+Environmental Threat.
+Does not pursue—it spreads.
+
+TYPE
+
+Voidspawn / False Flora
+
+FIRST EMERGED
+
+Near the shattering of the Core Wound
+
+HUE INTERACTION
+
+DRAWN TO HUE
+
+Drawn to equipped Hue shards—becomes violent the more hues are active.
+
+VOIDSTEP CALM
+
+Grows passive if player unequips all hue-bound gear or uses the “Voidstep” relic.
+
+KNOWN WEAKNESSES
+
+SACRIFICIAL LATCH
+
+Cannot be killed directly—must let it strike a Prismwalker shard to trigger decay bloom.
+
+HUE CONSUMPTION
+
+Once it latches to a hue-infused item, it begins dissolving—that item is sacrificed.
+
+PHYLACTERIC SEAL
+
+Exposed to the “Caput Mortuum Phylactery,” it becomes inert for one cycle.
+
+DESCRIPTION
+
+A twisted, obsidian-like vine-creature.
+
+Its body pulses with multicolored crystal veins—a mockery of hue-life.
+It lashes out unpredictably from terrain, warping geometry into weapons.
+
+Unlike other entities, it doesn’t see the Prismwalker—it feels them.
+
+ANATOMY
+
+VOID-VEIN TENDRILS
+
+Lash out from any corrupted surface.
+Absorb light and hue to fuel growth.
+
+PRISM CORE NODULE
+
+A corrupt imitation of the Core.
+Pulsates with broken hue-crystals.
+
+OBSIDIAN ROOT MASS
+
+Anchors into terrain or geometry.
+Can reshape and corrupt its surroundings.
+
+FALSE BLOOM
+
+Petal-like shards that open when enraged.
+Releases decay spores and null-static.
+
+GEOMETRY HOOKS
+
+Rips loose pieces of ruins or floating stone to wield as weapons or armor.
+
+ATTACKS & ABILITIES
+
+ROOT LANCE
+
+Erupts tendrils in a straight line.
+Impales and drags targets.
+
+PRISM SHARD TOSS
+
+Hurls stolen geometry and hue-shards that explode on impact.
+
+DECAY BLOOM
+
+Releases spores that corrupt hue abilities and lower defenses.
+
+GEOMETRY GRASP
+
+Pulls the battlefield inward, restricting movement.
+
+NOTES
+
+Emits a low, heartbeat-like thrum when nearby.
+
+Some echoes report a brief visual of the Prismwalker being “buried in roots” after defeating it—a non-lethal memory echo tied to its origin.
+
+Its roots may lead back to something older than the Prism.
+
+LORE ENTRY
+
+Journal Fragment, written by the Caput Mortuum Ascetic—
+“Notes on the Hollow Bloom”
+
+“It germinated in absence—
+from a sliver of the Prism that refused to fade.”
+
+“A tendril of hunger disguised as growth.
+Roots made of void-veins.
+
+A longing to begin again, in a world that no longer remembers how.”
+
+“But growth without hue is not rebirth.
+It is corruption wearing hope.”
+
+“To kill the Null-Root, you must offer what it seeks—a future it cannot digest.”
+
+BEHAVIOR
+
+BURIED THREAT
+
+Burrows and strikes from any prism-corrupted terrain nearby.
+
+GEOMETRIC ASSAULT
+
+Drags chunks of floating geometry into battle—hurling or using them as shields.
+
+CORRUPTION SPREAD
+
+If ignored, will reshape the battlefield itself, corrupting puzzle zones and shrines.
+
+PRESENCE SENSE
+
+Does not rely on sight.
+Detects the player through hue-resonance and heartbeat-like vibrations.
+
+POSSIBLE DROPS
+
+VOIDSPUN CORE (RARE)
+
+A living nodule.
+Used to enhance or corrupt hue gear.
+
+NULLROOT VINE (UNCOMMON)
+
+Tendrils that siphon energy.
+Used in crafting or alchemical binding.
+
+HOLLOW BLOOM (UNCOMMON)
+
+A petrified false bloom.
+Emits faint resonance. Used for relic rituals.
+
+BROKEN REBIRTH (LEGENDARY)
+
+A memory shard containing a glimpse of a future that was never meant to be.
+Used in endings and fate-choice alterations.
+
+??
+
+The Null-Root does not want to live.
+It wants the world to start over—without you in it.

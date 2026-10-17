@@ -1,0 +1,160 @@
+MIRAGE REVENANT
+
+THE FLICKERING LIE
+
+“You blinked.
+It was never there.
+
+But now it is.”
+
+THREAT LEVEL
+MODERATE
+
+Highly deceptive illusion that punishes trust and hesitation.
+Deadly once revealed.
+
+TYPE
+Illusory Specter / Radiant Trap
+
+FIRST EMERGED
+Post-Shattering Era, especially around collapsed sunshrines.
+
+HUE INTERACTION
+
+IMMUNE TO AURELIAN LIGHT SPELLS
+Unless they are truth-aligned.
+
+VULNERABLE TO COBALT MIND ECHO
+Shatters the illusion and exposes its true form.
+
+DISPELLING GLAMOUR
+Reveal it instantly with Violet illusions or relics like the Citrine Lens.
+
+KNOWN WEAKNESSES
+
+EASILY UNMASKED
+True-sight or illusion-canceling effects reveal its deception.
+
+FEARS MEMORY ARTIFACTS
+Items like the Zaffre Vial that replay or anchor reality overwhelm it.
+
+STUMBLES AFTER REVEAL
+After its illusion breaks, it hesitates — strike fast before it fades.
+
+DESCRIPTION
+
+A Revenant cloaked in living mirage.
+It takes the form of what the viewer most expects to see — a helper, a relic, a shelter — and lures them in.
+
+When the illusion collapses, usually on approach, the Revenant erupts in a burst of searing light and lashes with radiant claws.
+
+It moves unpredictably, shimmering with heatwaves.
+
+ANATOMY
+
+MIRAGE VEIL
+Shimmering distortion field that creates convincing illusions based on the viewer’s expectations.
+
+RADIANT CORE
+Feeds on belief and hope.
+Glows with pulsing solar light when exposed.
+
+TWISTED FORM
+Spectral body warps light and heat, making targeting difficult.
+
+DISTORTED FACES
+Illusions reflect what the viewer most wishes to see.
+
+BLADED CLAWS
+Forged from fractured light.
+Ignores most armor on first strike.
+
+SHIFTING FOOTPRINTS
+Leaves no real trace — only heat ripples and distorted reflections.
+
+MIRAGE ABILITIES
+
+FALSE APPEARANCE
+Takes the form of a person, object, or place familiar to the target.
+
+RADIANT BURST
+On reveal, releases a blinding flash that blinds and deals damage.
+
+HEAT BLUR
+Becomes semi-intangible and moves rapidly through heatwaves.
+
+MIRAGE CLAW
+Lunges with radiant claws, ignoring shields and barriers.
+
+FALSE RETREAT
+Flees and leaves a fake afterimage to draw enemies into traps.
+
+NOTES
+
+Scholars debate whether these creatures were once real people — lost souls burned into radiant echoes — or desert-born constructs made from longing.
+
+Some whisper names only the dead would know.
+
+They are drawn to places where regret, or longing, linger too long.
+
+LORE ENTRY
+
+Transcript from “The Gambler’s Mirage,” an oral tale passed in Eburnea markets.
+
+“It looked like my brother.
+I hadn’t seen him since the siege.”
+
+“He waved me over — smiled with that chipped tooth he had.”
+
+“But when I stepped close, the smile stayed too still.
+The eyes didn’t blink.”
+
+“The shadow... wasn’t his.”
+
+“I drew my blade too late.
+It stabbed through my own hesitation.”
+
+“They say the desert keeps your hopes warm so they don’t rot.
+
+But sometimes, they burn instead — and something crawls out of the ashes wearing your smile.”
+
+— Told by a relic-hunter named Sarmin, who never smiled again.
+
+BEHAVIOR
+
+FAMILIAR BAIT
+Remains stationary while disguised, appearing as a friendly NPC, treasure, or safe haven.
+
+REVEAL AND STRIKE
+When approached or interacted with, the illusion breaks in a flash of light and it attacks immediately.
+
+HEAT MIRAGE
+Uses heat distortion to blur its form and teleport short distances, avoiding direct retaliation.
+
+VANISH IF IGNORED
+If not attacked within moments of revealing itself, it dissipates into light and may reset its illusion elsewhere.
+
+POSSIBLE DROPS
+
+MIRAGE SHARD (COMMON)
+A splinter of illusory light.
+Used to craft blinding decoys or heat refraction tools.
+
+REVENANT CORE (UNCOMMON)
+Contains trapped radiant essence.
+Used in advanced relic forging.
+
+FADING MEMORY (RARE)
+A stolen recollection.
+Can unlock hidden dialogue or lore fragments.
+
+LUXERAN LENS FRAGMENT (RARE)
+A cracked piece of illusion-resistant glass.
+Used to upgrade the Citrine Lens.
+
+PHANTOM PROMISE (LEGENDARY)
+A whisper of hope made manifest.
+Used to unlock radiant vaults or bind oaths in truth.
+
+“NOT EVERYTHING THAT SPARKLES WANTS TO HELP YOU —
+SOME THINGS REMEMBER WHAT YOU WANT MOST.”

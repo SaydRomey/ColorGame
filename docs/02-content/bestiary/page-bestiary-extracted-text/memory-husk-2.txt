@@ -1,0 +1,95 @@
+MEMORY HUSK
+
+THE MIRROR UNASKED
+
+TYPE
+ECHOED SHADE / IDENTITY WRAITH
+
+BESTIARY ENTRY
+
+Name: Memory Husk.
+
+Type: Echoed Shade / Identity Wraith.
+
+Threat Level: Moderate — potentially lethal if underestimated.
+
+First Emerged: Post-Shattering, near early alchemical fault-lines.
+
+“A shell of who you were...
+or might become.”
+
+A pale, translucent figure echoing your form, posture, and past choices.
+
+Its presence carries the uncanny familiarity of a half-remembered dream, or the mistake you never corrected.
+
+MIMICS YOUR PAST
+
+Mimics a skill, artifact, or combat behavior the player previously used in Auralith or earlier zones.
+
+Attacks with distorted animations of your moves — as though struggling to recall them fully.
+
+DESCRIPTION
+
+The Memory Husk appears as a ghostly copy of the player, often in older equipment or casting long-abandoned spells.
+
+It inhabits places where the player has previously died, failed, or made significant decisions.
+
+HUE INTERACTION
+
+Reacts to the hues the player has bound before.
+
+Adapts to mimic combat rhythm based on equipped color.
+
+Highly unstable when faced with conflicting past choices.
+
+BEHAVIOR
+
+Mimics player movements with slight delay or error.
+
+Changes attack pattern if player changes weapon mid-fight.
+
+Mutters distorted fragments of the player’s past dialogue.
+
+“...should have turned back...”
+
+“...you always hesitate...”
+
+LORE ENTRY
+
+Fragment from “The Hollow Reflections,” recovered from the Isabelline Catacombs.
+
+“They stand just where you stood.
+Speak in your cadence. Swing with your uncertainty.”
+
+“In Auralith, death lingers — not as punishment, but as a rehearsal.
+
+The Husk is what remains when the soul forgets which version of itself it died as.”
+
+“I watched mine draw breath.
+I do not remember breathing that way.”
+
+— Author Unknown, though the handwriting is eerily familiar.
+
+KNOWN WEAKNESSES
+
+Temporarily pacified when the player performs an action they never used before.
+
+Vulnerable to “Memory Echo” from the Earthen Bound hue.
+
+Can be defeated by correctly replaying a sequence of past dialogue lines.
+
+NOTES
+
+Some Memory Husks whisper names of the player’s lost allies or reflect choices never taken.
+
+In rare cases, they drop “Faded Self” items — non-functional echoes of gear the player once wore.
+
+POSSIBLE DROP
+
+FADED SELF
+
+Non-functional echo of a past self.
+
+“IN AURALITH, THE GREATEST OPPONENT IS NOT WHAT HUNTS YOU...
+
+BUT WHAT REMEMBERS YOU.”

@@ -1,0 +1,27 @@
+{
+  "id": "BEAST_CHRONOPOLLEN_SPRITE",
+  "entry": {
+    "name": "Chronopollen Sprite",
+    "type": "todo",
+    "threat_level": "todo",
+    "first_emerged": "todo",
+    "description": "todo",
+    "behavior": "todo",
+    "weaknesses": "todo",
+    "notes": "todo"
+  },
+  "lore": {
+    "title": "todo",
+    "quote": "Every sneeze moves the clock",
+    "flavor_description": [
+      "Tiny, glowing fey that scatter time-warping pollen.",
+      "Slows or speeds up local time randomly for both player and enemies.",
+      "Can be trapped in dreamcatcher-like artifacts or frozen in a stasis loop."
+    ],
+    "field_notes": [
+      "todo"
+    ],
+    "source": "todo"
+  },
+  "drops": []
+}

@@ -1,0 +1,157 @@
+TAPESTRY WATCHER
+
+THE LOOMBOUND WITNESS
+
+It stares at the wall where you betrayed yourself.
+
+“Regret has fingers.
+And it’s still stitching.”
+
+CLASSIFICATION
+
+Type:
+Memory-Warped Construct
+
+Threat Level:
+High — Paralyzes via Past Decisions
+
+First Emerged:
+Post-Shattering, during the First Silent Weave
+
+Role Tags:
+Truth-Gated / Memory Bind / Decision Trap
+
+ANATOMY BREAKDOWN
+
+1. LOOMBOUND FRAME
+
+Pinned eternally to a suspended loom.
+
+The body barely moves, but the weave does.
+
+2. SHROUDED FACE
+
+It does not show a face;
+only the pressure of choices behind the veil.
+
+3. DECISION THREADS
+
+Each glowing filament carries a line once chosen, refused, or left unspoken.
+
+4. NARRATIVE BIND
+
+Its attacks trap the victim in false memory rather than physical restraint.
+
+5. BONE-INK STITCHWORK
+
+Regret and confession are written into the weave like surgical seams.
+
+6. FALSE MEMORY WEB
+
+Contradictory choices tighten the loom’s aggression.
+
+7. UNRAVELING NAME
+
+Some travelers report seeing their own name stitched into fresh thread before the fight.
+
+DESCRIPTION
+
+A tall, hooded figure nailed to a suspended loom of tattered, glowing thread.
+
+It does not move —
+but the threads do.
+
+Each glows with a line of dialogue the player once chose, or failed to choose.
+
+The Tapestry Watcher sees not who you are, but who you failed to be.
+
+Its threads do not bind the body first;
+they bind the narrative.
+
+HABITAT / MANIFESTATION
+
+Appears in chambers where old decisions linger:
+thread archives, mourning houses, betrayal rooms, abandoned looms, and halls of residue memory.
+
+The tapestry reacts before the Watcher does.
+
+BEHAVIOR / STATE FLOW
+
+OBSERVE → REPLAY → BAIT → BIND
+
+Hurls threads of past dialogue as attacks.
+
+Successful hits paralyze the player inside a false memory.
+
+Becomes more aggressive if the player’s prior choices contradict one another.
+
+Uses illusion-laced thread to force reliving the worst decision.
+
+ABILITIES / STATUS EFFECTS
+
+DIALOGUE LASH
+
+Throws sharpened strands of chosen or unchosen speech.
+
+FALSE MEMORY PIN
+
+Paralyzes the target inside an altered recollection.
+
+CONTRADICTION SURGE
+
+Escalates when the victim’s narrative history is inconsistent.
+
+NARRATIVE BIND
+
+Thread-webs suppress motion, recall, and certainty.
+
+HUE INTERACTION
+
+Violet-bound illusions cause the loom to replay alternate timelines.
+
+Brown-bound memory echoes let players restitch a prior moment for defense or offense.
+
+Yellow or truth-based spells cut through paralyzing thread-webs.
+
+KNOWN WEAKNESSES
+
+Confession-based interactions nullify its binding attacks.
+
+Artifacts like the Isabelline Tapestry allow thread prediction and reflection.
+
+Blindsided if approached without any unfulfilled dialogue threads.
+
+Certainty resists the loom;
+truth cuts thread.
+
+LORE ENTRY — MARGIN SCRAP FROM THE ISABELLINE WIDOW’S THREADBOOK, WRITTEN IN BONE INK
+
+“There’s a chamber where decisions breathe.
+
+And the Watcher keeps them warm.”
+
+“It weaves from forgotten no’s, unspoken truths, and the moments we smiled when we shouldn’t have.”
+
+“One pilgrim entered with pride.
+
+Came out without their name.
+
+The loom didn’t approve.”
+
+“If you face it, bring only one thing:
+certainty.
+
+It cannot stitch what is whole.”
+
+NOTES
+
+Defeating the Watcher does not destroy the tapestry —
+only moves your place within it.
+
+HUNTER’S NOTE
+
+If your name appears in fresh thread, do not read it aloud.
+
+ISABELLINE TAPESTRY
+
+Reveals deceit and reflects thread-bound attacks.

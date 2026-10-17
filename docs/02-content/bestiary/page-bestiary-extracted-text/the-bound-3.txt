@@ -1,0 +1,184 @@
+THE BOUND
+
+WITNESSES OF STILLNESS
+
+“Stone does not forget.
+It only waits.”
+
+OVERVIEW
+
+Lifelike stone figures scattered across Nullshade.
+
+Some kneel.
+Some reach.
+
+Some accuse —
+but none speak aloud.
+
+Most are inert until a player acts violently nearby or attempts to flee too quickly.
+
+When awakened, they move with slow, unnerving grace —
+as if remembering how to move.
+
+Their strikes are delayed but catastrophic.
+
+BASIC DATA
+
+Type:
+Dormant Sentinels / Memory Constructs
+
+Threat Level:
+High — Only when triggered; reactive danger
+
+First Emerged:
+Post-Prism Collapse, Nullshade Core Rebound
+
+Alignment:
+Neutral / Watcher
+
+Size, Average:
+2.4 m – 3.1 m
+
+Habitat:
+Nullshade — Ruins, Monolith Sites, Memory Puzzles, Core Wound
+
+ANATOMY / PRESENCE
+
+HOLLOW EYES
+
+Empty sockets that seem to watch only your hesitation.
+
+ETCHED MEMORIES
+
+Runes carved into stone hold fragments of forgotten truths.
+
+DELAYED GRACE
+
+They do not rush.
+
+They anticipate your rhythm.
+
+SILENT THREAT
+
+Awakens only when provoked —
+but remembers forever.
+
+LORE ENTRY
+
+Fragment from “Etchings of the Silent Monolith” —
+recovered on a cracked memory shard in Prism Wound.
+
+“We called them guardians, once.
+
+Remnants of the Prismara who refused hue.
+
+But I think now…
+they were simply those who saw too much.”
+
+“You can hear them when you’re not looking —
+feel your memories tighten in your chest like a thread pulling taut.
+
+They don’t scream.
+
+They remember for you.”
+
+“One bowed as I passed.
+
+The other raised a hand.
+
+Neither moved again.
+
+That night I dreamed of a battlefield I had never seen.
+
+I woke with my hands bruised —
+fingers curled like stone.”
+
+“If silence had a form,
+it would kneel beside them.”
+
+— Archivist Reiss,
+“Final Echoes of the Core”
+
+HUE INTERACTION
+
+Immune to hue magic.
+
+Unaffected by all hue-based attacks.
+
+WEAKENED BY MEMORY ARTIFACTS
+
+The Bistre Lantern or Isabelline Tapestry can disrupt their stone-bound state.
+
+CALMED BY TRUTH
+
+Engage with memory puzzles or recite known truths to bypass or pacify them.
+
+BEHAVIOR OVERVIEW
+
+LINGERING STILLNESS
+
+Remain motionless in groups, creating tense and uncanny spaces.
+
+Presence causes audio to muffle and time to subtly distort.
+
+ONE AWAKENS
+
+Only one in a group typically animates at a time.
+
+MIMICS DECISIONS
+
+May mimic player movement seconds after it occurs —
+mimicking decision-making rather than motion.
+
+KNOWN WEAKNESSES
+
+TRUTH CONFESSION
+
+Temporarily deactivated through full dialogue confession using truth mechanics.
+
+VULNERABLE CORE WINDOW
+
+Only vulnerable while reciting remembered dialogue options.
+
+During these moments, a shimmer reveals a hollow core.
+
+AVOIDS LIES AND FORGOTTEN THINGS
+
+Avoids areas where the player carries false names or unclaimed memories.
+
+TRIGGER CONDITIONS
+
+Awakens when the player:
+
+Performs violent actions nearby.
+
+Attempts to flee too quickly.
+
+Casts strong hue spells in the area.
+
+DELAYED, UNAVOIDABLE STRIKES
+
+Their attacks cannot be dodged traditionally —
+only predicted through silence and stillness.
+
+NOTES & DROPS
+
+When defeated, The Bound collapse into dust, leaving behind one whisper:
+
+“You remembered too loudly.”
+
+POSSIBLE DROP
+
+STONE-WHISPER FRAGMENT
+
+A faint echo of the witness.
+
+Can be used to unlock truth-bound dialogues or memory sanctums.
+
+NULLSHADE SURVIVAL ADVISORY
+
+Walk softly.
+
+Think truly.
+
+Speak only what is real.

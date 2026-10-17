@@ -1,0 +1,146 @@
+CITRINE GOLEM
+
+THE UNBREAKING GLEAM
+
+“A gem is eternal.
+So is its temper.”
+
+THREAT LEVEL
+
+HIGH
+
+Nearly impervious under sunlight.
+
+TYPE
+
+Radiant Construct / Elemental Juggernaut
+
+FIRST EMERGED
+
+Built during the early Aurelian Temple Age to guard vaults and forbidden scroll-tombs.
+
+HUE INTERACTION
+
+ABSORBS AURELIAN ATTACKS
+
+Completely absorbs Yellow hue attacks and reflects them as blinding flares.
+
+SUSCEPTIBLE TO COBALT
+
+Cobalt (cold and storm) attacks inflict increased damage and can overload its harmonic core.
+
+VULNERABLE TO VIBRATIONS
+
+Sonic and echo-based attacks disrupt its inner resonance and can stagger it.
+
+VERDANT ROOTS CAN CRACK IT
+
+Roots that take hold in shadow can fracture its surface over time.
+
+DESCRIPTION
+
+Towering crystalline behemoth with arms like sculpted obelisks and a faceted citrine heart.
+It emits faint harmonic tones when struck, as if humming to itself.
+
+Carvings across its back depict solar rites and forgotten oaths.
+
+ANATOMY
+
+CITRINE HEART
+
+Radiant core that powers and sustains the golem.
+
+RADIANT PLATING
+
+Crystalline armor fused with ancient Aurelian sigils.
+Extremely resilient under sunlight.
+
+SOLAR RUNES
+
+Channel sunlight and store radiant energy within the body.
+
+HARMONIC CORE
+
+Hidden chambers amplify light and vibrations.
+Disrupted by echo or cold resonance.
+
+LORE ENTRY
+
+Scrawled notes from a sand-shielded expedition journal, author unknown.
+
+“We found it half-buried beyond the Gamboge Vault — just another glimmering ridge in the sand, we thought.
+Until it stood.”
+
+“It didn’t roar. Didn’t run.
+It simply... turned.
+
+The light caught in its chest gem, and something inside me trembled.
+Like I owed it something.”
+
+“Every strike we landed was swallowed — reflected in glints, as if it watched our failures and polished them.”
+
+“I think it waits not to fight — but to endure.
+It judges worth by how hard you try before quitting.”
+
+BEHAVIOR
+
+Stationary until provoked or until artifact proximity is detected.
+
+Stomps ground to fracture terrain.
+Creates radiant aftershocks that slow movement.
+
+“GLEAM PULSE”: Releases a radial lightburst upon taking damage, stunning nearby attackers.
+
+Can regenerate minor cracks if exposed to direct sunlight too long.
+
+KNOWN WEAKNESSES
+
+COBALT OVERLOAD
+
+Cobalt’s Stormglass Barrier can refract its light internally, causing harmonic overload and major damage.
+
+FIGHT IN SHADOW
+
+Best fought in shaded or eclipse-affected areas, where its light absorption is greatly reduced.
+
+ECHO RESONANCE
+
+Echo-charged percussion weapons, like Prismhammer, disrupt its inner resonance.
+
+NOTES
+
+Citrine Golems were never meant to kill — only to withstand.
+
+Their presence marks places the sun itself once vowed to protect.
+
+They are bound by ancient oaths.
+Some say they recognize those who carry a spark of Aurelian blood or devotion.
+
+Many vaults remain sealed as long as the Golem still stands.
+
+“If it still stands, perhaps your purpose does not.”
+
+POSSIBLE DROPS
+
+CITRINE HEARTFRAGMENT
+
+Core shard used in high-tier artifacts and altar upgrades.
+
+AURELIAN SIGIL STONE
+
+Engraved stone containing a fragment of ancient solar oaths.
+
+GLEAMRESIN CRYSTAL
+
+Used in crafting radiant potions and sun-aligned weapon coatings.
+
+VAULTKEEPER’S CREST
+
+Rare relic that grants resistance to light and holy-based damage.
+
+SOLAR CHANT SCROLL
+
+Teaches a powerful Aurelian hymn or radiant buff spell.
+
+“BUILT TO SHINE. FORGED TO ENDURE.
+ITS LIGHT DOES NOT FORGIVE THE WEAK.”

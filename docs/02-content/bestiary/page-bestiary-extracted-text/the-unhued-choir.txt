@@ -1,0 +1,172 @@
+THE UNHUED CHOIR
+
+THE DIRGE OF THE PRISM
+
+They sing the Prism’s dirge.
+Each note unmakes.
+
+“When they sing, the world forgets how to breathe.”
+
+SOURCE IMAGE — the-unhued-choir_page.png
+
+CLASSIFICATION
+
+Type:
+Sound-Based Null Entity / Echo Construct.
+
+Threat Level:
+CRITICAL — Appears in endgame or high Echo instability zones.
+
+First Emerged:
+After the Dirge of Prismfall, during Nullshade Emergence.
+
+ANATOMY BREAKDOWN
+
+1. CHILD-SORROW FRAGMENTS
+
+Spectral echoes shaped like children, each a vessel for a single buried hue.
+
+2. UNMOVING MOUTHS
+
+Voices without motion.
+
+Endless song confined behind sealed silence.
+
+3. ORBITING DIRGE PATTERN
+
+Fragments drift in a harmonic orbit, adjusting their song to bind reality.
+
+4. HUE-FADE ROBES
+
+Robes shimmer with traces of many hues that immediately fade to ash.
+
+5. RESONANT COLOR MOMENTS
+
+Brief instants when a fragment flares with its true hue — its only moment of weakness.
+
+6. CENTRAL ABSENCE CORE
+
+A wound of pure absence that pulses with each note, devouring light, color, and certainty.
+
+7. DISSONANT ECHO WAKE
+
+Rings of unmaking sound trail outward, erasing memory, color, and form.
+
+DESCRIPTION
+
+Clustered specters shaped like children, hovering around a central absence.
+
+Their song unmakes reality: sound becomes silence, light becomes blur, and the world becomes hard to hold onto.
+
+HABITAT / MANIFESTATION
+
+Echo Collapse zones.
+
+Nullshade altars.
+
+Failed Hue Alignment puzzles.
+
+Emotional memory sequences.
+
+MECHANICS / BEHAVIOR / STATE FLOW
+
+DIRGE PULSE
+
+A rhythmic wave that expands outward, erasing color and dimming resolution.
+
+HARMONY LOCK
+
+Three or more fragments harmonize to bind the world, freezing the player and suppressing abilities.
+
+DISSONANT REFLECTION
+
+Returns altered harmonic damage and status effects back to their source.
+
+STATE FLOW
+
+Fragments orbit → build harmony → lock → pulse → dissonant wake.
+
+Disrupt the cycle to create openings.
+
+HUE INTERACTION
+
+Vulnerable to sonic-based spells and truthful sound relics.
+
+Verdant Tuning Fork and Yellow Radiant Chime can pierce the dirge.
+
+Silenced only by Color Sigils tied to the hue order chosen the fewest times.
+
+Each fragment becomes vulnerable during its Resonant Color Moment.
+
+KNOWN WEAKNESSES
+
+If all members are silenced in reverse hue order, Violet → Red, they disperse permanently.
+
+Mirrorshard Lens reveals the fragment nearest resonance.
+
+Memory Echo Recordings can trigger a cancel loop, breaking the Harmony Lock.
+
+RECOVERED FIELD NOTE — ARCHIVIST LUMEN’S COPY
+
+They were not children.
+
+They were what sorrow chose to resemble.
+
+Their song hums away speech and turns thoughts to fog.
+
+Each voice sings in a buried hue, locked beneath silence.
+
+When the last note faded —
+so did color.
+
+NOTES
+
+Whispers linger after defeat.
+
+Some NPCs hear child-song in high Nullshade zones.
+
+Perfect no-hit defeat may restore an ancient Prismara hymn line and grant temporary Uncolor immunity.
+
+NULLSHADE CONTEXT
+
+The Unhued Choir manifests where the Prism fractures its own reflection.
+
+Their song accelerates Echo Collapse, accelerating time slippage and memory drift.
+
+Monoliths resonate, colors thin, and truth becomes difficult to grasp.
+
+COUNTERPLAY TOOLS
+
+VERDANT TUNING FORK
+
+Attunes to true tones.
+
+Disrupts harmony chains and reveals buried hues.
+
+YELLOW RADIANT CHIME
+
+Pure resonant belltone that pierces silence and interrupts the Dirge Pulse.
+
+ECHO RECORD RELICS
+
+MEMORY ECHO RECORDINGS
+
+Contain loops of erased moments.
+
+When played, they can cancel the Choir’s harmony and open brief windows of clarity.
+
+MIRRORSHARD LENS
+
+Refracts harmonic resonance to show the nearest fragment to breaking.
+
+HUNTER’S NOTE
+
+Listen for the spaces between notes.
+
+Watch the orbit.
+
+Break the ring.
+
+Then silence in reverse.
+
+“In the absence of color, truth is the loudest sound.”

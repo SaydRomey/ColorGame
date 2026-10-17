@@ -1,0 +1,141 @@
+PHYLACTERY SWARM
+
+THE NAMES THAT NEVER REST
+
+Tiny.
+Hungry.
+
+Each holds a name they never earned.
+
+“If they whisper your name, run.
+If they forget it — it’s already too late.”
+
+BESTIARY ENTRY P-47
+
+CLASSIFICATION
+
+Name: Phylactery Swarm
+
+Type: Soul-Fragmented Parasites
+
+Threat Level: Moderate-to-Severe — Memory Drain
+
+First Emerged: Post-Shattering, shortly after the collapse of the Phylactery Vault
+
+DESCRIPTION
+
+A drifting swarm of glimmering, fly-like constructs with miniature glyphs engraved on their chitin.
+
+Each holds a fragment of a soul —
+stolen, gifted, or long abandoned.
+
+They buzz softly, repeating half-spoken names and severed dreams.
+
+A cloud of brass-eyed, soulbound insects formed from failed phylacteries —
+vessels meant to preserve life, now drifting husks of stolen identities.
+
+ANATOMY / TRAITS
+
+BRASS EYES
+
+Reflective, watchful, unnervingly human.
+
+GLYPH-ETCHED CHITIN
+
+Each shell marked with miniature soul-binding script.
+
+NAME-LADEN BUZZ
+
+Their flight trails carry whispered names.
+
+MEMORY SIPHON TOUCH
+
+Contact loosens a fragment of memory.
+
+CLUSTER INSTINCT
+
+More dangerous in dense swarms.
+
+HUE INTERACTION
+
+Brown-bound memory spells repel or redirect their feeding pattern.
+
+Blue mind-based defenses lock out name resonance, reducing damage over time.
+
+Violet illusions confuse their targeting;
+they can’t find the “real” name.
+
+KNOWN WEAKNESSES
+
+Fire magic burns them outright, especially from purified sources.
+
+Sonic pulses from Violet-aligned instruments cause disarray in their flight pattern.
+
+Bistre Lantern stuns them in shadow if activated in silence.
+
+BEHAVIOR PATTERN
+
+1. Aggressive in clusters.
+
+2. Each hit reduces XP, disrupts equipped memory-bound relics, or causes temporary skill fog.
+
+3. They prioritize targets with the most stored names:
+players with saved dialogue trees, memory fragments, or death-echoes.
+
+4. If fed a forgotten name, such as an unused True Name...
+
+5. ...the swarm dissipates peacefully.
+
+MEMORY-DRAIN EFFECT ON CONTACT
+
+1. CONTACT
+
+Swarm touches the target.
+
+2. EXTRACTION
+
+Fragments of memory loosen and lift.
+
+3. ABSORPTION
+
+Swarm absorbs and carries fragments.
+
+4. AFTERMATH
+
+Target suffers skill fog, confusion, or lost recall.
+
+LORE EXTRACT
+
+“At first, I thought them ash-fleas.
+Harmless, if persistent.
+
+But the swarm began to sing —
+in names.
+
+Names I had forgotten.”
+
+“They circle.
+They whisper.
+
+And if one touches skin, a piece of memory loosens.”
+
+“A name is a soul’s handle.
+These insects collect... and misuse.”
+
+“If you’ve forgotten your own voice, they’ll help.
+But it will cost you.”
+
+— Fragmented field report from the Bistre Archivist, sealed in ash.
+
+FIELD NOTES / DROPS
+
+Destroying a swarm sometimes releases “Whispers in Dust,” a rare crafting essence used for soul-bound relic upgrades.
+
+If you kill them while carrying a forgotten name, your own may become unstable in the Codex.
+
+“Remember.
+Protect.
+
+Or be forgotten.”
+
+“Do not linger in their song.”

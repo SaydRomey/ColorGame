@@ -1,0 +1,319 @@
+TYRIAN ECHO
+
+THE WARRIOR THAT REPEATS
+
+“Not a person.
+A memory repeating itself into violence.”
+
+“It bleeds twice:
+once in dream, once in regret.”
+
+==================================================
+SOURCE IMAGE 1 — tyrian-echo-2_page.png
+==================================================
+
+CLASSIFICATION
+
+Name:
+Tyrian Echo.
+
+Type:
+Spectral Memory Construct.
+
+Threat Level:
+Moderate — Emotionally volatile, disorients combat rhythm.
+
+First Emerged:
+Post-Color War Scarring.
+
+HUE INTERACTION
+
+Tied directly to Crimson, representing willpower and wrath, and Violet, representing dream and memory.
+
+Mimics player attacks if emotionally resonant, such as dialogue trees about vengeance or failure.
+
+Vulnerable to Brown, representing truth or memory anchors, and Yellow, representing disruption or light.
+
+LOCATION TAGS
+
+Ruined Battlegrounds.
+
+Color-War Memorials.
+
+Memory Glyphs.
+
+ANATOMY / MANIFESTATION
+
+1. VIOLET-CRIMSON SILHOUETTE
+
+Female-form spectral outline with broken hue ribbons.
+
+2. FLICKER LOOPS
+
+Movement locked in repeating animation cycles.
+
+3. SPLIT COMBAT STATE
+
+Transitions between sword strike and spellcast mid-motion.
+
+4. MEMORY FRACTURES
+
+Shards that burst into alternate regrets when struck.
+
+5. UNFINISHED ATTACK PATTERN
+
+Always completes attacks she never visibly begins.
+
+RESONANCE TRIGGER
+
+Triggered by emotionally resonant states:
+
+Vengeance.
+
+Failure / Guilt.
+
+Betrayal / Regret.
+
+“The more you carry, the stronger her echo.”
+
+DUEL RHYTHM — THE LOOP
+
+Swordplay → Spellcast → Pause → Repeat.
+
+BEHAVIOR PATTERN
+
+Appears near color-war memorials, ruined battlegrounds, or memory glyphs.
+
+Engages without provocation if the player has committed a key regret, tracked via world-state flags.
+
+Pauses mid-battle, repeating old dialogue from other characters — none of whom are present.
+
+Mimics emotionally resonant attacks.
+
+The final loop intensifies into a collapsing repetition.
+
+KNOWN WEAKNESSES
+
+Loses form briefly when exposed to Echo Pulse or Truth Sigils.
+
+Disrupted by reframing dialogue such as “I forgive them,” “That wasn’t me,” and similar truth / release statements.
+
+A further release statement shown is:
+“I choose differently now.”
+
+The final phase collapses if the player stands still during her final loop.
+
+COUNTERS
+
+Brown — Truth Anchors.
+
+Yellow — Light / Disruption.
+
+Recommended tools:
+Truth Sigils, Echo Pulse, Light Shard Bolts.
+
+RECOVERED FIELD NOTE — “ECHOES ALONG THE VIOLET SCAR” BY THE PRISMWALKER SERAEL
+
+“We found her in the ruins where Violet turned back Crimson.”
+
+“She fought like a dream — graceful, haunting, wrong.”
+
+“When I struck her, she shattered into fragments of me.”
+
+“Things I’d said in anger.
+
+Places I didn’t go.
+
+People I could have saved.”
+
+“She stayed behind.
+
+Fighting the memory we brought with us.”
+
+FIELD NOTES — ARCHIVIST NOTES
+
+May appear multiple times, each instance slightly different.
+
+Replays a different failure or memory based on the player’s world-state.
+
+Some Archivists theorize she was once real.
+
+Others argue she is simply what war feels like… after it ends.
+
+REMEMBER.
+
+RELEASE.
+
+MOVE FORWARD.
+
+==================================================
+SOURCE IMAGE 2 — tyrian-echo_page.png
+==================================================
+
+CLASSIFICATION
+
+Type:
+Spectral Memory Construct.
+
+Threat Level:
+Moderate — Emotionally volatile, disorients combat rhythm.
+
+First Emerged:
+Post-Color War Scarring.
+
+Region / Context:
+Violet-Scar border ruins, where Violet turned back Crimson.
+
+ANATOMY BREAKDOWN
+
+1. FLICKERING SILHOUETTE
+
+Blurred female outline locked in unstable motion loops.
+
+2. BROKEN-HUE RIBBONS
+
+Violet and crimson strands peel from the body like wounded memory.
+
+3. DELAYED SWORD ARC
+
+Finishes attacks she never visibly begins.
+
+4. SPELLFRACTURE HAND
+
+Mid-cast gestures glitch between illusion and wrath magic.
+
+5. ECHO AFTERIMAGES
+
+Residual poses linger a moment behind each movement.
+
+6. MEMORY-SHARD CORE
+
+Striking her can scatter fragments of the player’s regrets.
+
+7. LOOPSTEP STANCE
+
+Repeats battle rhythms like a dancer remembering dead choreography.
+
+DESCRIPTION
+
+Tyrian Echo manifests as a blurred violet-crimson warrior silhouette, female in form, cloaked in flickering ribbons of broken hue.
+
+She stutters through battle patterns of a long-dead fighter, always completing attacks she never begins.
+
+Her body glitches between swordplay and spellcasting, sometimes mid-animation.
+
+HABITAT / MANIFESTATION
+
+Appears near color-war memorials, ruined battlegrounds, memory glyphs, shattered shrines, and scars where Crimson wrath collided with Violet dream-memory.
+
+BEHAVIOR / STATE FLOW
+
+Memorial Drift → Echo Trigger → Loop Assault → Dialogue Pause → Final Repeat.
+
+Engages without provocation if the player carries a key regret.
+
+Mimics emotionally resonant attacks and combat rhythms.
+
+Occasionally pauses to repeat dialogue from absent voices.
+
+Final phase may collapse if the player stands still during her last loop.
+
+ABILITIES / STATUS EFFECTS
+
+REPEAT SLASH
+
+Delayed mirrored blade strike.
+
+SPELL GLITCH
+
+Alternates between Crimson aggression and Violet illusion.
+
+REGRET FRAGMENT
+
+On hit, bursts memory shards and emotional echoes.
+
+ECHO LOOP
+
+Replays a prior movement pattern with slightly altered timing.
+
+VOICE RECALL
+
+Emits old dialogue fragments that disrupt focus.
+
+HUE INTERACTION
+
+Tied directly to Crimson will / wrath and Violet dream / memory.
+
+Can mimic player attacks if emotionally resonant.
+
+Vulnerable to Brown truth / memory anchors.
+
+Vulnerable to Yellow disruption / light.
+
+KNOWN WEAKNESSES
+
+Echo Pulse destabilizes her form.
+
+Truth Sigils briefly expose the core loop.
+
+Reframing dialogue such as forgiveness or self-separation disrupts her aggression.
+
+Standing still during the final loop can collapse the encounter’s last phase.
+
+RECOVERED FIELD NOTE — ECHOES ALONG THE VIOLET SCAR
+
+We found her in the ruins where Violet turned back Crimson.
+
+She moved before we saw her — not teleportation, just already there.
+
+When I struck her, she shattered into fragments of me.
+
+We left that ruin.
+
+She stayed behind, fighting the memory we brought with us.
+
+— Prismwalker Serael.
+
+ANATOMY OF A MEMORY LOOP
+
+CROWN OF REGRET
+
+Glitched sigils pulse with unresolved emotion.
+
+CORE GLITCH
+
+Fragmented center holds the repeating memory sequence.
+
+RIBBON TRAILS
+
+Broken hues trail movement, leaving fractured echoes.
+
+SWORD ECHO
+
+Blade path is delayed and mirrored.
+
+SPELLFRACTURE
+
+Hand alternates instants between sword and spell.
+
+FOOTFALL LOOP
+
+Each step replays prior rhythms with minor variation.
+
+BORDER CONTEXT
+
+War-scarred ruins where dream and wrath overlap.
+
+Memorials of fallen armies, shattered vows, and forgotten names feed the loops she repeats.
+
+HUNTER’S NOTE
+
+Truth, stillness, and emotional clarity are safer than aggression.
+
+Anchor your intent.
+
+Break the loop within yourself first.
+
+NOTES
+
+Each instance may replay a different failure based on the player’s world-state, regrets, and unresolved relationships.

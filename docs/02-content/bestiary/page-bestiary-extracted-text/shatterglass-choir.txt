@@ -1,0 +1,156 @@
+SHATTERGLASS CHOIR
+
+THE SONG THAT UNMAKES
+
+They sing.
+The color leaves your screen.
+
+“Their voices aren’t notes —
+they’re decisions you didn’t make.”
+
+TYPE
+
+Huephantasm / Psychic Dissonance
+
+THREAT LEVEL
+
+HIGH
+
+Cognitive Interference
+
+FIRST EMERGED
+
+Mid-Shattering Echo Phase
+
+ANATOMY BREAKDOWN
+
+1. SHARD-VOID HEAD
+
+Voices resonate from fractured cores instead of throats.
+
+2. HOLLOW EYES
+
+Reflect desaturation of the world as they sing.
+
+3. HUE-SHARD HEART
+
+Each heart sings in a corrupted hue-frequency that no longer belongs to them.
+
+4. PRISM-FRACTURED SKIN
+
+Their forms refract light incorrectly, breaking hue logic.
+
+5. SONGWAVE VEILS
+
+Their vocal harmonies appear as visible vibrations that drain color from reality.
+
+6. ECHO ANKLETS
+
+Resonate with the wrong notes when attacked out of order.
+
+7. LEVITATION DRIFT
+
+They circle in slow, skeletal harmonies, anchored to memory resonance points.
+
+HABITAT / MANIFESTATION
+
+Found near lore gates, memory nodes, and shattered prism monoliths.
+
+Circle key artifacts, archives, or boss arena thresholds.
+
+The environment desaturates as their chant intensifies.
+
+More dangerous in larger choirs or enclosed spaces.
+
+BEHAVIOR / STATE FLOW
+
+DORMANT SUPPLICANT
+
+CHANTING IGNITION
+
+DISSONANT PULSE
+
+FULL DESATURATION
+
+Circle slowly outward, singing synchronized pulses.
+
+Each pulse drains color, weakens artifacts, and silences the player’s hue interface.
+
+If unchecked, the world becomes grayscale and HUD fades.
+
+ABILITIES / STATUS EFFECTS
+
+HUE DRAIN
+
+Each pulse removes a hue from the world, UI, and player abilities.
+
+DISSONANT PULSE
+
+Audible/visible wave that fragments color, Meme gain, and artifact power.
+
+MEMORY UNMOORING
+
+Warped phrases and visions disrupt focus and decision-making.
+
+TOTAL DESATURATION (ENRAGE)
+
+If all hues are drained, the screen and world become fully grayscale.
+
+HUE INTERACTION
+
+Each Choir member is tied to a hue-tone:
+Red, Orange, Yellow, Green, Blue, Violet.
+
+Attacking out of order strengthens the song and causes them to regenerate.
+
+Silence is a mechanic:
+standing still or sheathing all hue-gear for 5 seconds interrupts the chant.
+
+Violet Glamour Pulse can reset progression if the song overwhelms you.
+
+Nullroot exposure nearby can silence one choir member temporarily.
+
+KNOWN WEAKNESSES
+
+Must be defeated in inverse spectrum order:
+Violet → Blue → Green → Yellow → Orange → Red.
+
+Attacking out of order causes full regeneration and doubles their volume.
+
+Vulnerable to Cobalt-based mist, drowning, or sound disruption.
+
+Interrupt during chant animations with sound or silence-based attacks.
+
+Separated from shrine banners, they lose coordination and become unstable.
+
+FIELD FRAGMENT — EMBER RELIQUARY
+
+They weren’t always like this.
+
+Once, they were singers of balance —
+prism children born to echo each hue as it rose.
+
+But when the Core fractured, their voices were scattered.
+
+Now they harmonize nothing but absence.
+
+The closer you get, the harder it is to hear yourself think.
+
+They hum in broken ROYGBV —
+and if you answer out of order, they don’t stop singing.
+
+They erase.
+
+— Bistre Archivist
+
+NOTES
+
+Occasionally sing snatches of your choices, warping phrases like:
+“You chose... silence,” or “Color was never yours to hold.”
+
+Killing them all restores color to the region for a short time —
+enough to access sealed memory pools.
+
+They are not evil.
+
+They are unfinished harmony punished for singing truths no longer allowed.

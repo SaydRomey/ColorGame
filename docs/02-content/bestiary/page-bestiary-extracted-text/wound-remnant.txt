@@ -1,0 +1,240 @@
+WOUND REMNANT
+
+BLEEDING MEMORY
+
+It bled light.
+
+Now it bleeds memory.
+
+“The Core cracked… and this was the scream.”
+
+==================================================
+SOURCE IMAGE 1 — wound-remnant-2_page.png
+==================================================
+
+OVERVIEW
+
+Born from the Prism Wound itself, this unstable construct limps through space as if limping through time.
+
+Pieces of it glow and vanish — as if they forget to exist.
+
+It doesn’t seek you out… it seeks coherence.
+
+CLASSIFICATION
+
+Name:
+Wound Remnant.
+
+Type:
+Coreborn Echo / Memory Entity.
+
+Threat Level:
+High — Environmental Distortion.
+
+First Emerged:
+At the Prism Shattering.
+
+ANATOMY / FEATURES
+
+MISALIGNED JOINTS
+
+Unnatural locomotion, as if its limbs remember the wrong shape.
+
+LIGHT-FISSURED RIBS
+
+Cold white light pours from the torso.
+
+DELAYED HEARTBEAT CORE
+
+If it syncs with yours, a fragment of your HUD is lost until reset.
+
+MEMORY SPINE
+
+Fracture point vulnerable during pulse sync.
+
+PHASE-FADE LIMBS
+
+Body fragments glow, vanish, and reappear.
+
+ENVIRONMENTAL DISTORTION
+
+As it moves, ghost-white flashes distort the environment.
+
+UI stutters, visual frames glitch, and terrain deconstructs briefly.
+
+OBSERVED BEHAVIOR
+
+1. SLOW PATROL
+
+Slowly patrols the Prism Wound region.
+
+2. PROXIMITY ATTACK
+
+Echo pulses stagger and blind.
+
+3. LIGHT BLEED
+
+Fades the screen to white and removes HUD elements.
+
+HUE RESONANCE
+
+Any hue damage makes it resonate in that color briefly — then it mirrors that hue’s weakness.
+
+Most susceptible:
+Brown + Purple.
+
+Memory and paradox destabilize its frame.
+
+KNOWN WEAKNESSES
+
+BISTRE LANTERN
+
+Anchors its location, preventing phasing.
+
+VIOLET’S ILLUSION CLONE
+
+Causes it to mimic a false version of you and momentarily collapse.
+
+CRIMSON DAMAGE DURING PULSE SYNC
+
+Can fracture its memory spine.
+
+LORE ENTRY — PRISMARA CHRONOLOGER TYELUS VANE
+
+“It emerged the moment the Core shattered.
+
+A figure, not whole — walking without footsteps.”
+
+“Light poured from its ribs, but it was cold.”
+
+“It is an afterimage of agony too large to stay still.”
+
+“You don’t kill it.
+
+You just outlast the part of yourself it remembers.”
+
+NOTES & DROP
+
+Whispers past player dialogue lines during whiteout pulses.
+
+After defeat:
+leaves behind a Cracked Memory Core.
+
+The Cracked Memory Core is required to access the deepest level of the Prism Wound.
+
+==================================================
+SOURCE IMAGE 2 — wound-remnant_page.png
+==================================================
+
+CLASSIFICATION
+
+Type:
+Coreborn Echo / Memory Entity.
+
+Threat Level:
+High.
+
+First Emerged:
+At the Prism Shattering.
+
+OBSERVED MANIFESTATION
+
+Born from the Prism Wound itself, this unstable construct limps through space as if limping through time.
+
+It seeks coherence rather than prey.
+
+ENVIRONMENTAL DISTORTION
+
+UI stutters.
+
+Visual frames glitch.
+
+Terrain briefly deconstructs.
+
+Screen fades to white.
+
+Past dialogue whispers return.
+
+ANATOMY / FEATURES
+
+1. LIGHT-FISSURED RIBS
+
+Cold luminescence leaks outward.
+
+2. DELAYED HEARTBEAT CORE
+
+If it syncs with yours, part of the HUD is lost until reset.
+
+3. MISALIGNED JOINTS
+
+Locomotion appears broken in time.
+
+4. MEMORY SPINE
+
+Vulnerable during the pulse-sync fracture window.
+
+5. PHASE-LOST EXTREMITIES
+
+Pieces vanish as if they forget to exist.
+
+BEHAVIOR PATTERN
+
+1. SLOW PATROLS
+
+Slow patrols through the Prism Wound.
+
+2. PROXIMITY ECHO PULSE
+
+Stagger + blind.
+
+3. LIGHT BLEED
+
+Whiteout pulse removes HUD elements.
+
+4. CORE PULSE SYNC
+
+Dangerous timing window.
+
+HUE INTERACTION
+
+Any hue magic causes temporary resonance in that color.
+
+After resonance, it mirrors that hue’s weakness.
+
+Most susceptible:
+Brown + Purple.
+
+Memory and paradox destabilize its frame.
+
+KNOWN WEAKNESSES
+
+BISTRE LANTERN
+
+Anchors its location and prevents phasing.
+
+VIOLET ILLUSION CLONE
+
+Makes it mimic a false you and collapse briefly.
+
+CRIMSON DAMAGE DURING PULSE SYNC
+
+Fractures the memory spine.
+
+CHRONOLOGER NOTES
+
+Light poured from its ribs, but it was cold.
+
+It didn’t speak.
+
+But I heard it — absence.
+
+You don’t kill it.
+
+You outlast the part of yourself it remembers.
+
+AFTER DEFEAT
+
+Drops:
+Cracked Memory Core.
+
+Required to access the deepest level of the Prism Wound.

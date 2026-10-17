@@ -1,0 +1,167 @@
+STORMWRIT HOUND
+
+BOLT BETWEEN WORLDS
+
+Howling phantom stitched from wire and cloud.
+
+“It howls in lightning —
+and leaps between bolts.”
+
+TYPE
+
+Lightning Beast / Elemental Predator
+
+THREAT LEVEL
+
+HIGH
+
+Fast, Unpredictable, Anti-Casting
+
+FIRST EMERGED
+
+During the Tempest Surge following the Shattering.
+
+REGION
+
+Iriseld —
+Tidespire Reach
+
+ANATOMY
+
+1. STORMWIRE SPINE
+
+A living lattice of charged filaments that channels and redirects strikes.
+
+2. GLASS CLAWS
+
+Shattered skyglass blades that bite through armor and ether.
+
+3. PLASMA LIMBS
+
+Limbs of condensed plasma and storm pressure;
+phase between states.
+
+4. PRESSURE-DROP MAW
+
+Jaws that open the air —
+causing a pressure drop that scrambles focus.
+
+5. STATIC AFTERIMAGE
+
+Leaves a transient copy woven from residual static and lightning memory.
+
+6. SKY-INK HIDE
+
+Hide of midnight cloud and inked wires that smudge across the ether.
+
+7. LIGHTNING-NODE LEAP
+
+Traverses arcs and relays by riding lightning nodes like stepping stones.
+
+HABITAT / MANIFESTATION
+
+Patrols cliff edges, storm routes, lightning-node paths, skyglass spikes, copper relays, and broken bridges across Iriseld.
+
+Most often appears where high wind, static buildup, and exposed traversal routes overlap.
+
+BEHAVIOR / STATE FLOW
+
+PACE → LOCK ON → NODE LEAP → FLASH-FANG LUNGE → PRESSURE HOWL
+
+Paces cliff edges until it senses fast movement or charged spell buildup.
+
+Leaps between lightning nodes marked by skyglass spikes or copper relays.
+
+Uses Flash-Fang Lunge:
+teleports, strikes, and leaves a static copy for 2 seconds.
+
+Occasionally howls, stunning rhythm-based abilities and lowering visibility in a storm flash.
+
+ABILITIES / STATUS EFFECTS
+
+FLASH-FANG LUNGE
+
+Teleport strike with static afterimage.
+
+PRESSURE-DROP HOWL
+
+Interrupts rhythm and casting focus.
+
+STATIC COPY
+
+Leaves a brief false duplicate after leaping.
+
+COLOR BIND DISRUPTION
+
+At high static charge, briefly disables Color Binding UI.
+
+ARC-TRAIL AFTERIMAGE
+
+Flickering path residue that confuses timing.
+
+HUE INTERACTION
+
+Disrupts spell channeling, especially Cobalt-based storm or rhythm spells.
+
+At high static charge, briefly disables Color Binding UI.
+
+Can be slowed if surrounded by harmonic resonance, instruments, or echo chimes.
+
+KNOWN WEAKNESSES
+
+Susceptible to wind-grounding relics and Cerulean Cloak effects.
+
+Harmonic instruments such as skybell chimes or glass flutes distort its targeting.
+
+Momentarily pacified if its own lightning arc is reflected with a Payne’s Prism Pane or storm mirror.
+
+LORE FRAGMENT — ARCHIVIST IOL
+
+Before I saw it, the air thinned —
+as if the world held its breath.
+
+The clouds folded in half.
+
+A line of lightning scribbled itself awake.
+
+At first it chased birds through the storm.
+
+Then it appeared inside my arcshield.
+
+Its howl shattered something behind the eyes —
+like a voice carving bone.
+
+I left the cliffs, but not this journal.
+
+Some truths cling like static.
+
+DESCRIPTION
+
+The Stormwrit Hound was forged in a lightning rift during the great Iriseld storms.
+
+It is less a beast than a sentient arc of electrical fury.
+
+It appears as if drawn in sky-ink:
+wires twitching, plasma limbs jittering between now and next.
+
+This predator does not stalk;
+it interrupts — appearing mid-cast, mid-jump, or mid-thought to snap a moment in half.
+
+IRISELD — REGIONAL CONTEXT
+
+Storm-battered cliffs and sky routes across the Tidespire Reach.
+
+Copper relays and skyglass spires draw and channel volatile currents.
+
+Travelers beware:
+the storm writes its own predators.
+
+TACTICAL NOTE
+
+Best countered with grounding, harmonic disruption, and reflected arcs.
+
+Break its flow, ground its nodes, then strike between its leaps.
+
+HUNTER NOTE
+
+“Don’t blink during thunder.”

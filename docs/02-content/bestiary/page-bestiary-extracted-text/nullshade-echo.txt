@@ -1,0 +1,171 @@
+NULLSHADE ARCHIVES
+Bestiary Compendium
+
+NULLSHADE ECHO
+
+REFLECTION WITHOUT MERCY
+
+It doesn’t attack.
+It remembers you doing so.
+
+“You moved first.
+It simply responded... eventually.”
+
+NULLSHADE BESTIARY
+ENTRY • 17
+
+CLASSIFICATION DOSSIER
+
+Name: Nullshade Echo
+
+Type: Mirror Construct / Memory Apparition
+
+Threat Level: Unique — Mechanically Unconventional
+
+First Emerged: Unknown — only seen in Nullshade’s Wound
+
+DESCRIPTION
+
+A ghostly silhouette of the Prismwalker—not as they are, but as they once were.
+
+Retraces steps, replays actions, and confronts the player with reflection rather than violence.
+
+Appears as a translucent silhouette of the player, or a past version of them.
+
+Moves a second after the player moves, mimicking attacks, spells, decisions, combat stances, and dialogue trees already taken.
+
+It doesn’t initiate combat; it responds and reflects.
+
+Striking it may drop your own health, replay a past NPC line, reverse a recent action, or undo progress if it recognizes guilt or contradiction.
+
+DELAYED MIMICRY
+
+Acts with a precise one-second delay.
+Every movement, stance, or spell is a remembered replay.
+
+MEMORY RESONANCE
+
+Constructed from the weight of your decisions, emotions, and unresolved moments.
+
+INVERTED HUE REFLECTION
+
+All hues are inverted and returned.
+Attacks or magic rebound with opposite alignment.
+
+PAST-SELF SILHOUETTE
+
+Appears as you—or as you were.
+Sometimes younger. Sometimes wiser. Always familiar.
+
+REFLECTIVE EDGE DISTORTION
+
+Edges refract, fracture, and shift like broken mirrors—never truly solid, never truly still.
+
+HUE INTERACTION
+
+Immune to all hue-based attacks.
+
+Any color used is reflected with inverted effect.
+
+Vulnerable only to inaction, truth, or nonviolent choices.
+
+Use of the Bistre Lantern reveals its source echo—what memory it’s drawn from.
+
+BISTRE LANTERN — SOURCE REVEAL
+
+Reveals the memory fragment from which the Echo was drawn.
+
+BEHAVIOR PATTERN
+
+1. Appears at critical memory junctions or lore-rich areas.
+
+2. Mimics player behavior with a one-second delay, including pausing, dodging, and emoting.
+
+3. Occasionally “speaks” using past lines the player said in other regions.
+
+4. Reflects choices already taken, confronting contradictions or guilt.
+
+KNOWN WEAKNESSES
+
+Standing perfectly still causes it to vanish after 12 seconds.
+
+Reciting or triggering remembered truths via collected lore calms it.
+
+Touching a Shatterglass Pool while near it causes mutual reflection—both vanish.
+
+ONE-SECOND DELAYED MIMIC SEQUENCE
+
+STEP FORWARD
+
+Player Action → 1.0s → Echo Response
+
+DODGE ROLL
+
+Player Action → 1.0s → Echo Response
+
+HEAVY ATTACK
+
+Player Action → 1.0s → Echo Response
+
+CAST SPELL
+
+Player Action → 1.0s → Echo Response
+
+The Echo is always exactly one breath behind.
+
+SHATTERGLASS POOL INTERACTION
+
+BEFORE
+
+Player and Echo stand near the pool.
+
+CONTACT
+
+Mutual reflection occurs.
+
+AFTER
+
+Both vanish.
+No remainder.
+
+NOTES / FIELD OBSERVATIONS
+
+Multiple Nullshade Echoes can appear in NG+ modes, each based on a different past choice.
+
+Some can be interacted with through dialogue.
+
+One was seen whispering a phrase the player had never spoken aloud.
+
+If defeated properly, it fades whispering:
+“It wasn’t wrong. It was just... before.”
+
+LORE ENTRY
+
+Entry recorded by the Caput Mortuum Ascetic in “Reverberations of Unselfing”
+
+“I watched one retrace my sister’s footsteps...
+It walked through every choice, every silence.”
+
+“The Echo did not bleed.
+It did not speak.
+
+It simply... reminded.”
+
+“Whatever they are, they cannot be bested.
+They can only be forgiven.”
+
+REGION
+
+Nullshade’s Wound
+
+ECHO COMPOSITION
+
+Memory • Resonance • Reflection
+
+OBSERVATION RISK
+
+High (Identity Destabilization)
+
+RECOMMENDED TOOL
+
+Bistre Lantern, Lore, Stillness

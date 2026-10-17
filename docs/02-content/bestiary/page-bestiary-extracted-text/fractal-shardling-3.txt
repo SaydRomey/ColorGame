@@ -1,0 +1,155 @@
+BESTIARY // NULLSHADE ARCHIVES
+
+FRACTAL SHARDLING
+
+RECURSION MADE SHARP
+
+“Hit it once, and it remembers forever.”
+
+OVERVIEW
+
+Floating prisms shaped like broken math.
+
+They loop movement in recursive spirals, obeying no natural gravity.
+
+Every strike splinters them — not into pieces, but smaller selves.
+
+CLASSIFICATION
+
+Type: Recursive Entity / Prism Construct
+
+Threat Level: Moderate → Escalating
+
+First Emerged: Post-Shattering Splinterfall
+
+Habitat: Nullshade Rifts, Shattered Geometry Zones, Recursive Loops
+
+Alignment: Chaotic / Pattern-Bound
+
+Size (Base Form): 0.6 m, varies by generation.
+
+LORE ENTRY
+
+Fragmented scrawl found etched on a Nullshade monolith.
+
+“They fractured the Core, hoping each splinter might forget what the whole once knew.”
+
+“Instead, it remembered too well.
+Repeated. Echoed. Over and over.”
+
+“A Shardling does not die.
+It subdivides — each generation forgetting more... and hurting more.”
+
+“One split into five.
+Then twenty-five.”
+
+“Then still it sang.
+Until even its song forgot the words, but not the rhythm.”
+
+“Only one truth breaks recursion:
+memory without repetition.”
+
+ANATOMY BREAKDOWN
+
+RECURSIVE CORE
+
+Holds the memory loop.
+Destroys itself only after final recursion.
+
+FRACTAL FACES
+
+Infinite reflective facets bend light and logic.
+No two are the same.
+
+TETHER NODES
+
+Invisible anchors loop movement along recursive paths.
+
+BEHAVIOR OVERVIEW
+
+Patrols fixed paths until disturbed.
+
+Targets the last source of impact.
+
+Each smaller version emits a fainter hum.
+Eventually it becomes silent, but more dangerous.
+
+RECURSION SEQUENCE
+
+GEN 0: Initial.
+
+GEN 1: Split.
+
+GEN 2: Faster.
+
+GEN 3: Sharper.
+
+GEN 4: Silent.
+
+GEN 5: Collapse.
+
+Recursion Limit: Five Generations.
+On collapse, Shardlings implode, warping terrain or altering level logic.
+
+KNOWN WEAKNESSES
+
+TIMED SOUND BURST
+
+A perfectly timed Echo Pulse halts recursion mid-sequence.
+
+VIOLET GLAMOUR PULSE
+
+Confuses their recursion, forcing false splits and slowing proliferation.
+
+MIRROR REFLECTION
+
+Reflecting their movement back into themselves using mirror terrain causes instant collapse.
+
+HUE INTERACTION
+
+Changes color slightly with each split.
+Mimics hue gradients but never fully displays them.
+
+Immune to direct hue magic.
+However, light-based illusions, especially Yellow and Violet, delay their recursion.
+
+Immune.
+
+Unaffected.
+
+Yellow: Delayed.
+
+Violet: Delayed.
+
+FIELD NOTES
+
+If more than five are allowed to split, level geometry around them may deform subtly.
+Floating platforms may misalign, and doors may shift location.
+
+Occasionally whisper math-like patterns before collapsing:
+“One becomes two. Two becomes... error.”
+
+ECOLOGICAL ROLE
+
+Fractal Shardlings are the byproduct of recursive energy instability.
+
+They echo the laws of broken mathematics, reinforcing loops in shattered zones and consuming residual memory-fragments.
+
+POTENTIAL DROPS
+
+FRACTAL RESIDUE
+
+Used to craft unstable hue grenades or Prism Shard keys.
+
+RECURSION CORE
+
+A pulsing core that can be used in advanced crafting.
+
+NULLGEOMETRY CHIP
+
+Alters terrain or logic gates when slotted in key items.
+
+“They are not evil.
+They are simply unfinished equations, still trying to solve who they were.”
+
+— Archivist Vael, Nullshade Scholar

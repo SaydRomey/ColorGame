@@ -1,0 +1,1222 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Myrrala",
+        "subtitle": "The Blooming Veil",
+        "kind": "region",
+        "biome": "Dreamlike enchanted groves, meadows, mirrored pools, shrine paths, flower fields, and soft ruins.",
+        "position": "Northwest"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              170,
+              110
+            ],
+            [
+              285,
+              55
+            ],
+            [
+              430,
+              65
+            ],
+            [
+              520,
+              120
+            ],
+            [
+              500,
+              210
+            ],
+            [
+              400,
+              265
+            ],
+            [
+              255,
+              250
+            ],
+            [
+              150,
+              205
+            ],
+            [
+              170,
+              110
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liseran Shrine",
+        "region": "Myrrala",
+        "kind": "main-city",
+        "description": "Ceremonial shrine-city of gardens, prayer halls, mirrored chambers, sleep sanctuaries, hidden courts, and purple lilies."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          335,
+          170
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thulian Court",
+        "region": "Myrrala",
+        "kind": "landmark",
+        "description": "Courtly shrine/ruin complex within Myrrala’s dreamlike upper groves."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          230,
+          115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Veilgrove",
+        "region": "Myrrala",
+        "kind": "landmark",
+        "description": "A grove of glamour, drifting petals, and unstable perception."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          438,
+          122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dreamroot Loom",
+        "region": "Myrrala",
+        "kind": "landmark",
+        "description": "A dream-rooted weaving site associated with memory and illusion."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          460,
+          205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blooming Mirror",
+        "region": "Myrrala",
+        "kind": "landmark",
+        "description": "Mirrored pool or shrine reflecting altered versions of the viewer."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          205,
+          190
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Petal Labyrinth",
+        "region": "Myrrala",
+        "kind": "landmark",
+        "description": "A recursive garden maze of petals, glamour, and mirrored paths."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          335,
+          235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Luxeran",
+        "subtitle": "The Gilded Expanse",
+        "kind": "region",
+        "biome": "Deserts, dunes, salt plains, oasis shrines, caravan routes, sun temples, wind-shaped pillars, and buried ruins.",
+        "position": "Northeast"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              650,
+              115
+            ],
+            [
+              760,
+              70
+            ],
+            [
+              925,
+              75
+            ],
+            [
+              1035,
+              150
+            ],
+            [
+              1020,
+              245
+            ],
+            [
+              900,
+              300
+            ],
+            [
+              735,
+              285
+            ],
+            [
+              625,
+              215
+            ],
+            [
+              650,
+              115
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eburnea",
+        "region": "Luxeran",
+        "kind": "main-city",
+        "description": "Radiant city of bone-white domes, blazing towers, contracts, shrines, trade halls, debt archives, and gold-white terraces."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          835,
+          210
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gamboge Vault",
+        "region": "Luxeran",
+        "kind": "landmark",
+        "description": "Buried vault landmark in the dune fields."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          725,
+          150
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aureolin Temple",
+        "region": "Luxeran",
+        "kind": "landmark",
+        "description": "Sun-temple complex near Luxeran’s bright eastern ridges."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          945,
+          145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sundial Temple",
+        "region": "Luxeran",
+        "kind": "landmark",
+        "description": "Time-and-light keyed temple complex."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          960,
+          225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Citrine Corridor",
+        "region": "Luxeran",
+        "kind": "landmark",
+        "description": "A corridor route through reflective desert terrain."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          735,
+          235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gilded Hollow",
+        "region": "Luxeran",
+        "kind": "landmark",
+        "description": "Low basin of bright sand, ruins, and mirage effects."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          890,
+          265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dawnspire",
+        "region": "Luxeran",
+        "kind": "landmark",
+        "description": "Tall spire and visual anchor on Luxeran’s northern horizon."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          850,
+          105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huevale",
+        "subtitle": "The Verdant Frontier",
+        "kind": "region",
+        "biome": "Dense forests, flooded marshes, root-bound ruins, fungal groves, hanging gardens, shrine sites, and living canopies.",
+        "position": "West"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80,
+              305
+            ],
+            [
+              210,
+              250
+            ],
+            [
+              350,
+              275
+            ],
+            [
+              415,
+              365
+            ],
+            [
+              370,
+              490
+            ],
+            [
+              215,
+              530
+            ],
+            [
+              85,
+              460
+            ],
+            [
+              50,
+              365
+            ],
+            [
+              80,
+              305
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tinctara",
+        "region": "Huevale",
+        "kind": "main-city",
+        "description": "Moss-covered archive-city built into colossal living trees."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          235,
+          395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tinctara Archives",
+        "region": "Huevale",
+        "kind": "landmark",
+        "description": "Vine-choked archive complex where growth stores memory."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125,
+          405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Malachite Grove",
+        "region": "Huevale",
+        "kind": "landmark",
+        "description": "Dense sacred grove within Huevale."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140,
+          315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saproot Shrine",
+        "region": "Huevale",
+        "kind": "landmark",
+        "description": "Root-bound shrine site."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          325,
+          345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sporeveil Hollow",
+        "region": "Huevale",
+        "kind": "landmark",
+        "description": "Fungal hollow and spore field."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          330,
+          425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Verdant Spiral",
+        "region": "Huevale",
+        "kind": "landmark",
+        "description": "Spiral grove or path network within the living forest."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125,
+          485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harmonic Roots",
+        "region": "Huevale",
+        "kind": "landmark",
+        "description": "Root network tied to resonance and shifting access."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          305,
+          490
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nullshade",
+        "subtitle": "The Colorless Core",
+        "kind": "region",
+        "biome": "Central crater, void ravines, crystal monoliths, floating debris, broken geometry, and anti-hue terrain.",
+        "position": "Center"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              430,
+              300
+            ],
+            [
+              555,
+              245
+            ],
+            [
+              690,
+              285
+            ],
+            [
+              755,
+              395
+            ],
+            [
+              705,
+              530
+            ],
+            [
+              555,
+              585
+            ],
+            [
+              410,
+              520
+            ],
+            [
+              360,
+              390
+            ],
+            [
+              430,
+              300
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prism Wound",
+        "region": "Nullshade",
+        "kind": "main-city",
+        "description": "The central wound of the shattered realm: crater, rupture, origin-point, and late-game sealed core."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          560,
+          420
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shatterglass Pools",
+        "region": "Nullshade",
+        "kind": "landmark",
+        "description": "Reflective broken pools within Nullshade."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          635,
+          335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Memory Gate Circles",
+        "region": "Nullshade",
+        "kind": "landmark",
+        "description": "Gate circles tied to memory, sealing, and coherence."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          470,
+          360
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Bound Grove",
+        "region": "Nullshade",
+        "kind": "landmark",
+        "description": "A grove-like scar of bound figures and failed hue coherence."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          665,
+          455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Shardbed",
+        "region": "Nullshade",
+        "kind": "landmark",
+        "description": "Field of broken prism shards and unstable ground."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          620,
+          515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Noctalon",
+        "region": "Nullshade",
+        "kind": "landmark",
+        "description": "Candidate subregion / dark lower sector of Nullshade."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          515,
+          530
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Iriseld",
+        "subtitle": "The Tidespire Reach",
+        "kind": "region",
+        "biome": "Stormy coastlines, high cliffs, cloud harbors, floating islands, suspended docks, skyglass towers, and reefs.",
+        "position": "Southwest"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              115,
+              590
+            ],
+            [
+              285,
+              545
+            ],
+            [
+              425,
+              605
+            ],
+            [
+              415,
+              735
+            ],
+            [
+              260,
+              785
+            ],
+            [
+              100,
+              735
+            ],
+            [
+              55,
+              650
+            ],
+            [
+              115,
+              590
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zaffran Port",
+        "region": "Iriseld",
+        "kind": "main-city",
+        "description": "Vertical harbor-city of cobalt glass towers, suspended docks, flying sails, glider lines, storm moorings, and high bridges."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          265,
+          670
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whispering Bay",
+        "region": "Iriseld",
+        "kind": "landmark",
+        "description": "Stormy bay and coastal gateway."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115,
+          675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skyglass Pillars",
+        "region": "Iriseld",
+        "kind": "landmark",
+        "description": "Tall glass-like towers and pillars rising from cliffs and water."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160,
+          600
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Mirrorwake",
+        "region": "Iriseld",
+        "kind": "landmark",
+        "description": "Reflective tidal phenomenon or route."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          340,
+          735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cloud Harbors",
+        "region": "Iriseld",
+        "kind": "landmark",
+        "description": "Harbors suspended among clouds and cliffs."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          365,
+          610
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vireya",
+        "subtitle": "The Ember Expanse",
+        "kind": "region",
+        "biome": "Volcanic terrain, magma channels, obsidian canyons, scorched cliffs, broken fortifications, battlefields, and lava bridges.",
+        "position": "Southeast"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              740,
+              405
+            ],
+            [
+              895,
+              335
+            ],
+            [
+              1065,
+              395
+            ],
+            [
+              1115,
+              530
+            ],
+            [
+              1025,
+              665
+            ],
+            [
+              850,
+              670
+            ],
+            [
+              725,
+              570
+            ],
+            [
+              740,
+              405
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crimson Bastion",
+        "region": "Vireya",
+        "kind": "main-city",
+        "description": "Fortress-city built into lava-carved stone and ancient lava flows."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          910,
+          505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Duelist’s Pit",
+        "region": "Vireya",
+        "kind": "landmark",
+        "description": "Combat arena and ritual battlefield."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1030,
+          425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fox Mirage",
+        "region": "Vireya",
+        "kind": "landmark",
+        "description": "Mirage zone associated with deceptive heat and fox imagery."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          805,
+          430
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crucible Spires",
+        "region": "Vireya",
+        "kind": "landmark",
+        "description": "Jagged volcanic spires near the eastern edge."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1035,
+          500
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emberglass Forge",
+        "region": "Vireya",
+        "kind": "landmark",
+        "description": "Forge complex among lava and glassed rock."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1015,
+          590
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cinnaridge",
+        "region": "Vireya",
+        "kind": "landmark",
+        "description": "Ridge line through scorched cliffs and ash."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          805,
+          610
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Scoria’s Throne",
+        "region": "Vireya",
+        "kind": "landmark",
+        "description": "Volcanic throne-site or fortress ruin."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          995,
+          640
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Auralith",
+        "subtitle": "The Dimming Hollow",
+        "kind": "region",
+        "biome": "Catacombs, ash plains, burial roads, crumbling alchemical ruins, reliquary vaults, petrified terraces, and mausoleum structures.",
+        "position": "South"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              420,
+              690
+            ],
+            [
+              570,
+              620
+            ],
+            [
+              735,
+              675
+            ],
+            [
+              825,
+              780
+            ],
+            [
+              730,
+              890
+            ],
+            [
+              550,
+              930
+            ],
+            [
+              380,
+              855
+            ],
+            [
+              335,
+              755
+            ],
+            [
+              420,
+              690
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mortuum Hold",
+        "region": "Auralith",
+        "kind": "main-city",
+        "description": "Fortress-monastery and archive of remains built among catacombs, petrified terraces, abandoned alchemical works, memory-stained stone, rusted stone, and bone."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          560,
+          790
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Isabelline Catacombs",
+        "region": "Auralith",
+        "kind": "landmark",
+        "description": "Catacomb network and burial archive."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          455,
+          705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phylactery Vault",
+        "region": "Auralith",
+        "kind": "landmark",
+        "description": "Vault of soul-preservation artifacts and dangerous memory residue."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          710,
+          715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rustclad Archive",
+        "region": "Auralith",
+        "kind": "landmark",
+        "description": "Rusted archive ruin among ash plains."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          420,
+          820
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dustmere",
+        "region": "Auralith",
+        "kind": "landmark",
+        "description": "Dead lake / ash basin."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          690,
+          835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Phylactery Rise",
+        "region": "Auralith",
+        "kind": "landmark",
+        "description": "Mountain or terrace vault zone."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          535,
+          890
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Northwest Prism Causeway",
+        "to": "Myrrala",
+        "kind": "causeway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            465,
+            330
+          ],
+          [
+            420,
+            270
+          ],
+          [
+            370,
+            235
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Western Root Gate",
+        "to": "Huevale",
+        "kind": "causeway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            410,
+            410
+          ],
+          [
+            360,
+            395
+          ],
+          [
+            335,
+            390
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southwest Tidespire Gate",
+        "to": "Iriseld",
+        "kind": "causeway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            430,
+            500
+          ],
+          [
+            380,
+            565
+          ],
+          [
+            330,
+            625
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southern Dimming Gate",
+        "to": "Auralith",
+        "kind": "causeway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            560,
+            565
+          ],
+          [
+            565,
+            625
+          ],
+          [
+            560,
+            700
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southeast Ember Gate",
+        "to": "Vireya",
+        "kind": "causeway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            700,
+            475
+          ],
+          [
+            760,
+            495
+          ],
+          [
+            820,
+            510
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Northeast Gilded Gate",
+        "to": "Luxeran",
+        "kind": "causeway"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            670,
+            325
+          ],
+          [
+            720,
+            270
+          ],
+          [
+            790,
+            230
+          ]
+        ]
+      }
+    }
+  ]
+}

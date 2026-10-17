@@ -1,0 +1,100 @@
+TAPESTRY WATCHER
+
+THE LOOMBOUND WITNESS
+
+It stares at the wall where you betrayed yourself.
+
+TYPE
+
+Memory-Warped Construct
+
+THREAT LEVEL
+
+High
+
+FIRST EMERGED
+
+Post-Shattering / First Silent Weave
+
+ANATOMY / FEATURES
+
+1. SHROUDED FACE
+
+Sees not who you are, but who you failed to be.
+
+2. DECISION THREADS
+
+Glowing strands woven from chosen and unchosen dialogue.
+
+3. SUSPENDED LOOM
+
+A frame of unraveling memory, pinned in eternal tension.
+
+4. PARALYZING THREAD-WEBS
+
+Binds the narrative, not the body.
+
+5. ILLUSION LURE
+
+Forces victims to relive their worst choice.
+
+COMBAT BEHAVIOR
+
+Hurls threads of past dialogue as attacks.
+
+Successful hits paralyze players in false memories.
+
+Aggression increases if the player followed contradictory dialogue paths.
+
+Baits the player into replaying their worst decision.
+
+KNOWN WEAKNESSES
+
+Confession or truth-based interactions nullify binding attacks.
+
+Isabelline Tapestry artifacts allow thread prediction and reflection.
+
+Approaching with no unfulfilled dialogue threads can blindside it.
+
+HUE INTERACTION
+
+PURPLE
+
+Replays alternate timelines.
+
+BROWN
+
+Memory echoes can restitch a prior moment for defense or offense.
+
+YELLOW
+
+Truth-based spells break paralyzing thread-webs.
+
+LOOM SCHEMA — FRAGMENT
+
+Tension Nodes.
+
+Anchor Pins.
+
+Weave Core — Memory Matrix.
+
+Unravel Direction.
+
+HEIGHT
+
+Estimated 3.0 m.
+
+ARCHIVIST NOTE — FRAGMENTS FROM A SILENT WEAVER
+
+“There’s a chamber where decisions breathe.”
+
+“The tapestry isn’t wrong.
+It’s just honest enough to hurt.”
+
+“Bring only one thing:
+certainty.”
+
+BESTIARY NOTE
+
+Defeating the Watcher does not destroy the tapestry —
+it only moves your place within it.

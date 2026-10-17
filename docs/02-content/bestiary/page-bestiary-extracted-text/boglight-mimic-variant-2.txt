@@ -1,0 +1,148 @@
+BOGLIGHT MIMIC
+
+THE DECEPTIVE GLOW
+
+“Some will-o’-the-wisps aren’t lost.
+They’re hunting.”
+
+THREAT LEVEL
+
+MODERATE
+
+Deceptively dangerous in groups
+
+TYPE
+
+Spectral Aberration / Illusionary Predator
+
+FIRST EMERGED
+
+Post-Shattering Era
+
+DESCRIPTION
+
+Floats silently above swamp waters, emitting hypnotic blue-green light.
+
+Mimics distant lanterns or lost spirits to draw prey closer.
+Transforms rapidly into a spectral predator upon close approach.
+
+HYPNOTIC GLOW
+
+Emits a soft, alluring light that clouds judgment and draws victims in.
+
+PERFECT MIMICRY
+
+Can imitate lanterns, lost spirits, even the shapes of allies or treasures.
+
+TRUE FORM
+
+Reveals a spectral maw and elongated tendrils when prey comes too close.
+
+MIST RETREAT
+
+Disperses into mist or submerges beneath swamp waters when threatened.
+
+HUE INTERACTION
+
+DISRUPTED BY VIOLET
+
+Violet illusions and counter-illusions expose the Mimic’s true form.
+
+WEAK TO LIGHT
+
+Bright, purifying Yellow or White light spells severely harm it.
+
+RESISTANT TO PHYSICAL
+
+Physical attacks pass through its ethereal form with little effect.
+
+ILLUSION IMMUNITY
+
+Unaffected by mind manipulation or charm effects.
+
+BEHAVIOR
+
+Typically solitary, but will coordinate in small clusters to trap prey.
+
+Uses deceptive mimicry of familiar forms—lanterns, allies, or lost treasures.
+
+Quickly retreats into mist or swamp waters when seriously threatened.
+
+Draws prey in with calm presence before striking with blinding speed.
+
+LORE ENTRY
+
+Fragment from “Lights in the Mist,” a weathered scroll by Viridian Alchemist
+
+“They dance where no one should wander—ghostly fires hanging in the mist.
+Most believe them mere wisps, tragic souls lost in the bog. But the truth is far more sinister.
+
+I once tracked one, seeking a rare moss illuminated by its glow.
+The closer I drew, the heavier my limbs became, my thoughts clouded with whispers that sounded like voices I once knew.
+
+Then it revealed its face—not a flame, but a spectral maw grinning with hunger.
+I escaped by chance alone, stumbling through fog that felt alive.
+
+These mimic-lights are neither flame nor spirit.
+They are something born of the swamp’s hunger and illusion, feeding not on flesh, but on hope.
+
+The bog remembers every lost soul, and the Mimics are its bait.
+
+If you follow the glow, be prepared:
+for what seems brightest in darkness might merely be the deepest lie.”
+
+— Viridian Alchemist, Journal of Lost Lights
+
+KNOWN WEAKNESSES
+
+LIGHT EXPOSURE
+
+Bright light reveals and disrupts its illusion, forcing it to retreat.
+
+COUNTER-ILLUSION
+
+Violet magic or illusion-breaking abilities strip away its disguises.
+
+SONIC DISRUPTION
+
+Loud sounds and vibrations shatter its spectral cohesion.
+
+SKOBELOFF LENS
+
+This artifact reveals its true form and dispels projections instantly.
+
+NOTES
+
+Travelers report hearing soft whispers or the murmurs of familiar voices near their glow.
+
+Each Mimic remembers and imitates the last voice of its victims—eternally echoing their final words.
+
+Hunting grounds: misty swamps, drowned ruins, and abandoned shrines.
+
+Their lights often mark places where many have died, or many have hoped.
+
+Trust your eyes.
+And your heart.
+
+The rest may be bait.
+
+POSSIBLE DROPS
+
+BOGLIGHT CORE (RARE)
+
+A pulsing essence used in illusion crafting and glowsilk weaving.
+
+GLOWSILK THREAD (ILLUSION-CRAFT)
+
+Illusion-woven silk.
+Light but incredibly strong.
+
+MISTWHISPER ESSENCE
+
+Captures a fragment of whispered memory.
+Used in memory or dream magic.
+
+FALSE LANTERN (UNCOMMON)
+
+A Mimic’s imitation.
+Can be used to attract or mislead other creatures.

@@ -1,0 +1,116 @@
+HUEVALE
+NATURE • GROWTH • ALCHEMY • STEALTH
+
+THALERA THE ROOTBORN
+
+VERDANT GHOST
+FORMED FROM ROOTS AND VINES
+
+Thalera is one of the Rootborn—ancient spirits bound to the deep memory of Huevale’s oldest woods.
+She was once the echo of a grove’s heart, until the world was wounded.
+
+Now she walks between bark and breath, a guardian of forgotten oaths and overgrown truths.
+Those who see her are rarely the same.
+
+SHE SPEAKS IN WHISPERS
+
+“Your feet are bare.
+Your breath uncolored.”
+
+“You do not belong, Prismwalker.”
+
+“Yet... you carry the Root’s grief in your steps.”
+
+SEEN IN THE GREENWOOD
+
+NPC Encounter Example
+
+See the Verdant Ghost in Example Scene:
+../scenes/scene-greenwood.md
+
+#npc-encounter
+
+THE ROOTBORN’S TENETS
+
+ROOTS REMEMBER
+All things are known by the earth.
+
+GROWTH IS SACRED
+Let life rise. Let it change.
+Let it become.
+
+SILENCE SPEAKS TRUE
+Listen to what hums beneath the noise.
+
+PAIN IS POLLEN
+Suffering spreads and something may bloom.
+
+WE GUARD, NOT OWN
+The grove is not ours.
+We are the grove.
+
+KEY ITEM
+
+ROOTBORN MANTLE
+
+A shroud of living moss and vine; grants the wearer communion with plants and spirits.
+
+Grants the ability to commune with plants and spirits.
+
+Protects against necrotic magic and decay.
+
+Silences the wearer’s steps in natural environments.
+
+Heals slowly when surrounded by living vegetation.
+
+“We do not walk the forest.
+The forest walks through us.”
+
+WHERE SHE DWELLS
+
+ANCIENT GROVES
+Old forests that remember what people forget.
+
+MOSSY SPRINGS
+Waters that hum with Rootborn magic.
+
+THALERA MOTHS
+Pale green moths follow her like living runes.
+
+Thalera Moth reference:
+https://en.wikipedia.org/wiki/Thalera
+
+SHE APPEARS WHEN
+
+“When the grove weeps.
+When oaths are broken.
+
+When roots are forgotten.”
+
+WHAT SHE VALUES
+
+Compassion over conquest.
+
+Balance over dominance.
+
+Patience over haste.
+
+Memory over possession.
+
+Healing over harvest.
+
+HOW TO APPROACH HER
+
+Approach barefoot.
+
+Speak softly.
+
+Offer respect, not gifts.
+
+Do not lie.
+
+Leave no scar.
+
+HONOR HER.
+HEAR HER.
+BECOME ROOTED.

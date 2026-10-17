@@ -1,0 +1,1126 @@
+{
+  "type": "FeatureCollection",
+  "name": "landmarks",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "landmark_1",
+      "properties": {
+        "id": "landmark_1",
+        "name": "Prism Wound",
+        "layer": "landmarks",
+        "feature_type": "main_site",
+        "region": "Nullshade",
+        "description": "true center / birthplace / wound",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_2",
+      "properties": {
+        "id": "landmark_2",
+        "name": "Nullshade Ruins",
+        "layer": "landmarks",
+        "feature_type": "landmark",
+        "region": "Nullshade",
+        "description": "late-game ruins",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22,
+          -6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_3",
+      "properties": {
+        "id": "landmark_3",
+        "name": "Shatterglass Pools",
+        "layer": "landmarks",
+        "feature_type": "landmark",
+        "region": "Nullshade",
+        "description": "reflection and replay pools",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24,
+          10
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_4",
+      "properties": {
+        "id": "landmark_4",
+        "name": "Collapsed Monoliths",
+        "layer": "landmarks",
+        "feature_type": "landmark",
+        "region": "Nullshade",
+        "description": "broken geometry / memory collapse",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5,
+          26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_5",
+      "properties": {
+        "id": "landmark_5",
+        "name": "The Bound / Bound Grove",
+        "layer": "landmarks",
+        "feature_type": "landmark",
+        "region": "Nullshade",
+        "description": "witnesses frozen by failed coherence",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10,
+          -26
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_6",
+      "properties": {
+        "id": "landmark_6",
+        "name": "Memory Gate Circles",
+        "layer": "landmarks",
+        "feature_type": "gate",
+        "region": "Nullshade",
+        "description": "inward route convergence",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_7",
+      "properties": {
+        "id": "landmark_7",
+        "name": "Tinctara",
+        "layer": "landmarks",
+        "feature_type": "hub",
+        "region": "Huevale",
+        "description": "moss-covered archive-city",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125,
+          75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_8",
+      "properties": {
+        "id": "landmark_8",
+        "name": "Tinctara Archives",
+        "layer": "landmarks",
+        "feature_type": "landmark",
+        "region": "Huevale",
+        "description": "living records / ceramic memory",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135,
+          88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_9",
+      "properties": {
+        "id": "landmark_9",
+        "name": "Malachite Grove",
+        "layer": "landmarks",
+        "feature_type": "landmark",
+        "region": "Huevale",
+        "description": "dream-poison / prophecy",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -160,
+          62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_10",
+      "properties": {
+        "id": "landmark_10",
+        "name": "Saproot Shrine",
+        "layer": "landmarks",
+        "feature_type": "landmark",
+        "region": "Huevale",
+        "description": "curse / decay / root cult threshold",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92,
+          58
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_11",
+      "properties": {
+        "id": "landmark_11",
+        "name": "Verdant Spiral",
+        "layer": "landmarks",
+        "feature_type": "landmark",
+        "region": "Huevale",
+        "description": "moth-witch / spiral growth",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148,
+          108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_12",
+      "properties": {
+        "id": "landmark_12",
+        "name": "Sporeveil Hollow",
+        "layer": "landmarks",
+        "feature_type": "sublocation",
+        "region": "Huevale",
+        "description": "spore and fungal disruption",
+        "canonical_status": "candidate_or_secondary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -182,
+          82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_13",
+      "properties": {
+        "id": "landmark_13",
+        "name": "Mycelial Sanctum",
+        "layer": "landmarks",
+        "feature_type": "sublocation",
+        "region": "Huevale",
+        "description": "fungal minds / spore cult",
+        "canonical_status": "candidate_or_secondary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172,
+          43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_14",
+      "properties": {
+        "id": "landmark_14",
+        "name": "Root Sanctuaries",
+        "layer": "landmarks",
+        "feature_type": "sublocation",
+        "region": "Huevale",
+        "description": "root-bound truth",
+        "canonical_status": "candidate_or_secondary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112,
+          104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_15",
+      "properties": {
+        "id": "landmark_15",
+        "name": "Shrine Gardens",
+        "layer": "landmarks",
+        "feature_type": "sublocation",
+        "region": "Huevale",
+        "description": "sacred flower beds",
+        "canonical_status": "candidate_or_secondary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96,
+          84
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_16",
+      "properties": {
+        "id": "landmark_16",
+        "name": "Marsh Ruins",
+        "layer": "landmarks",
+        "feature_type": "sublocation",
+        "region": "Huevale",
+        "description": "flooded groves / drowned monasteries",
+        "canonical_status": "candidate_or_secondary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135,
+          38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_17",
+      "properties": {
+        "id": "landmark_17",
+        "name": "Crimson Bastion",
+        "layer": "landmarks",
+        "feature_type": "hub",
+        "region": "Vireya",
+        "description": "fortress-city / martial heart",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125,
+          -75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_18",
+      "properties": {
+        "id": "landmark_18",
+        "name": "Duelist's Pit",
+        "layer": "landmarks",
+        "feature_type": "landmark",
+        "region": "Vireya",
+        "description": "duel-loop and ritual combat",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100,
+          -102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_19",
+      "properties": {
+        "id": "landmark_19",
+        "name": "Fox Mirage",
+        "layer": "landmarks",
+        "feature_type": "landmark",
+        "region": "Vireya",
+        "description": "illusion-haunted volcanic valley",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          156,
+          -98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_20",
+      "properties": {
+        "id": "landmark_20",
+        "name": "Crucible Spires",
+        "layer": "landmarks",
+        "feature_type": "landmark",
+        "region": "Vireya",
+        "description": "molten siege / forge spires",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150,
+          -55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_21",
+      "properties": {
+        "id": "landmark_21",
+        "name": "Emberglass Forge",
+        "layer": "landmarks",
+        "feature_type": "landmark",
+        "region": "Vireya",
+        "description": "volcanic glass / betrayal heat",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178,
+          -72
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_22",
+      "properties": {
+        "id": "landmark_22",
+        "name": "Banner Roads",
+        "layer": "landmarks",
+        "feature_type": "sublocation",
+        "region": "Vireya",
+        "description": "shattered standards / revenant routes",
+        "canonical_status": "candidate_or_secondary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110,
+          -45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_23",
+      "properties": {
+        "id": "landmark_23",
+        "name": "Amaroth Vale",
+        "layer": "landmarks",
+        "feature_type": "sublocation",
+        "region": "Vireya",
+        "description": "martyr-heroes buried and rising",
+        "canonical_status": "candidate_or_secondary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92,
+          -68
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_24",
+      "properties": {
+        "id": "landmark_24",
+        "name": "Altar-Fields",
+        "layer": "landmarks",
+        "feature_type": "sublocation",
+        "region": "Vireya",
+        "description": "oath shrines and blood rites",
+        "canonical_status": "candidate_or_secondary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135,
+          -118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_25",
+      "properties": {
+        "id": "landmark_25",
+        "name": "Zaffran Port",
+        "layer": "landmarks",
+        "feature_type": "hub",
+        "region": "Iriseld",
+        "description": "harbor / glasswright culture",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125,
+          -75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_26",
+      "properties": {
+        "id": "landmark_26",
+        "name": "Whispering Bay",
+        "layer": "landmarks",
+        "feature_type": "landmark",
+        "region": "Iriseld",
+        "description": "drowned pages / sea-memory",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155,
+          -94
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_27",
+      "properties": {
+        "id": "landmark_27",
+        "name": "Skyglass Pillars",
+        "layer": "landmarks",
+        "feature_type": "landmark",
+        "region": "Iriseld",
+        "description": "vertical traversal / storm glass",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110,
+          -38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_28",
+      "properties": {
+        "id": "landmark_28",
+        "name": "The Mirrorwake",
+        "layer": "landmarks",
+        "feature_type": "landmark",
+        "region": "Iriseld",
+        "description": "reflective duel / grief exposure",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93,
+          -87
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_29",
+      "properties": {
+        "id": "landmark_29",
+        "name": "Tidemirror Reach",
+        "layer": "landmarks",
+        "feature_type": "sublocation",
+        "region": "Iriseld",
+        "description": "partly sunken reach",
+        "canonical_status": "candidate_or_secondary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -172,
+          -70
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_30",
+      "properties": {
+        "id": "landmark_30",
+        "name": "Glassmoor Caverns",
+        "layer": "landmarks",
+        "feature_type": "sublocation",
+        "region": "Iriseld",
+        "description": "glass caverns / echo resonance",
+        "canonical_status": "candidate_or_secondary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -136,
+          -110
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_31",
+      "properties": {
+        "id": "landmark_31",
+        "name": "Floating Cliffs",
+        "layer": "landmarks",
+        "feature_type": "sublocation",
+        "region": "Iriseld",
+        "description": "sky islands and aerial hazards",
+        "canonical_status": "candidate_or_secondary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -142,
+          -42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_32",
+      "properties": {
+        "id": "landmark_32",
+        "name": "Stormirth Observatory",
+        "layer": "landmarks",
+        "feature_type": "sublocation",
+        "region": "Iriseld",
+        "description": "weather genesis / cliff observatory",
+        "canonical_status": "candidate_or_secondary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104,
+          -116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_33",
+      "properties": {
+        "id": "landmark_33",
+        "name": "Liseran Shrine",
+        "layer": "landmarks",
+        "feature_type": "hub",
+        "region": "Myrrala",
+        "description": "healing / dream-root threshold",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_34",
+      "properties": {
+        "id": "landmark_34",
+        "name": "Thulian Court",
+        "layer": "landmarks",
+        "feature_type": "landmark",
+        "region": "Myrrala",
+        "description": "glamour / public self / court authority",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -32,
+          148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_35",
+      "properties": {
+        "id": "landmark_35",
+        "name": "Veilgrove",
+        "layer": "landmarks",
+        "feature_type": "landmark",
+        "region": "Myrrala",
+        "description": "dream garden / glamour ecology",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33,
+          150
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_36",
+      "properties": {
+        "id": "landmark_36",
+        "name": "Dreamroot Loom",
+        "layer": "landmarks",
+        "feature_type": "sublocation",
+        "region": "Myrrala",
+        "description": "authored magic / woven identity",
+        "canonical_status": "candidate_or_secondary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47,
+          121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_37",
+      "properties": {
+        "id": "landmark_37",
+        "name": "Thulian Gate",
+        "layer": "landmarks",
+        "feature_type": "sublocation",
+        "region": "Myrrala",
+        "description": "truth gate / vow threshold",
+        "canonical_status": "candidate_or_secondary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_38",
+      "properties": {
+        "id": "landmark_38",
+        "name": "Blooming Mirror",
+        "layer": "landmarks",
+        "feature_type": "sublocation",
+        "region": "Myrrala",
+        "description": "identity reflection",
+        "canonical_status": "candidate_or_secondary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51,
+          126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_39",
+      "properties": {
+        "id": "landmark_39",
+        "name": "Heliobloom",
+        "layer": "landmarks",
+        "feature_type": "sublocation",
+        "region": "Myrrala",
+        "description": "prophetic twilight flowers",
+        "canonical_status": "candidate_or_secondary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20,
+          107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_40",
+      "properties": {
+        "id": "landmark_40",
+        "name": "Petal Labyrinth",
+        "layer": "landmarks",
+        "feature_type": "sublocation",
+        "region": "Myrrala",
+        "description": "maze grown from blooming memories",
+        "canonical_status": "candidate_or_secondary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18,
+          104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_41",
+      "properties": {
+        "id": "landmark_41",
+        "name": "Eburnea",
+        "layer": "landmarks",
+        "feature_type": "hub",
+        "region": "Luxeran",
+        "description": "gilded city / legitimacy economy",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125,
+          75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_42",
+      "properties": {
+        "id": "landmark_42",
+        "name": "Gamboge Vault",
+        "layer": "landmarks",
+        "feature_type": "landmark",
+        "region": "Luxeran",
+        "description": "vault rite / mirage spirit",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98,
+          62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_43",
+      "properties": {
+        "id": "landmark_43",
+        "name": "Aureolin Temple",
+        "layer": "landmarks",
+        "feature_type": "landmark",
+        "region": "Luxeran",
+        "description": "solar judgment temple",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151,
+          98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_44",
+      "properties": {
+        "id": "landmark_44",
+        "name": "Citrine Corridor",
+        "layer": "landmarks",
+        "feature_type": "sublocation",
+        "region": "Luxeran",
+        "description": "lightcraft / radiant constructs",
+        "canonical_status": "candidate_or_secondary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          158,
+          62
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_45",
+      "properties": {
+        "id": "landmark_45",
+        "name": "Glass Mirage Vaults",
+        "layer": "landmarks",
+        "feature_type": "sublocation",
+        "region": "Luxeran",
+        "description": "false NPCs and false doors",
+        "canonical_status": "candidate_or_secondary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102,
+          100
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_46",
+      "properties": {
+        "id": "landmark_46",
+        "name": "Gilded Hollow",
+        "layer": "landmarks",
+        "feature_type": "sublocation",
+        "region": "Luxeran",
+        "description": "permanent glare / hidden predators",
+        "canonical_status": "candidate_or_secondary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174,
+          82
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_47",
+      "properties": {
+        "id": "landmark_47",
+        "name": "Sundial Temple",
+        "layer": "landmarks",
+        "feature_type": "sublocation",
+        "region": "Luxeran",
+        "description": "beam rhythm platforms",
+        "canonical_status": "candidate_or_secondary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130,
+          118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_48",
+      "properties": {
+        "id": "landmark_48",
+        "name": "Dune Roads",
+        "layer": "landmarks",
+        "feature_type": "sublocation",
+        "region": "Luxeran",
+        "description": "false trade routes / heat tracking",
+        "canonical_status": "candidate_or_secondary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88,
+          80
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_49",
+      "properties": {
+        "id": "landmark_49",
+        "name": "Mortuum Hold",
+        "layer": "landmarks",
+        "feature_type": "hub",
+        "region": "Auralith",
+        "description": "ruin authority / disciplined endings",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          -145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_50",
+      "properties": {
+        "id": "landmark_50",
+        "name": "Isabelline Catacombs",
+        "layer": "landmarks",
+        "feature_type": "landmark",
+        "region": "Auralith",
+        "description": "mourning / burial memory",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -32,
+          -158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_51",
+      "properties": {
+        "id": "landmark_51",
+        "name": "Phylactery Vault",
+        "layer": "landmarks",
+        "feature_type": "landmark",
+        "region": "Auralith",
+        "description": "soul-binding / death state",
+        "canonical_status": "confirmed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30,
+          -158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_52",
+      "properties": {
+        "id": "landmark_52",
+        "name": "Rustclad Archive",
+        "layer": "landmarks",
+        "feature_type": "sublocation",
+        "region": "Auralith",
+        "description": "ash records / erased histories",
+        "canonical_status": "candidate_or_secondary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48,
+          -128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_53",
+      "properties": {
+        "id": "landmark_53",
+        "name": "Golm Burial Fields",
+        "layer": "landmarks",
+        "feature_type": "sublocation",
+        "region": "Auralith",
+        "description": "golems / old war memory",
+        "canonical_status": "candidate_or_secondary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46,
+          -128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_54",
+      "properties": {
+        "id": "landmark_54",
+        "name": "Dustmere",
+        "layer": "landmarks",
+        "feature_type": "sublocation",
+        "region": "Auralith",
+        "description": "dead lake / sunken memory vault",
+        "canonical_status": "candidate_or_secondary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          -188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_55",
+      "properties": {
+        "id": "landmark_55",
+        "name": "Fossilized Alchemical Labs",
+        "layer": "landmarks",
+        "feature_type": "sublocation",
+        "region": "Auralith",
+        "description": "failed preservation experiments",
+        "canonical_status": "candidate_or_secondary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          62,
+          -170
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "landmark_56",
+      "properties": {
+        "id": "landmark_56",
+        "name": "Ash Plains",
+        "layer": "landmarks",
+        "feature_type": "sublocation",
+        "region": "Auralith",
+        "description": "trauma fog / soot entities",
+        "canonical_status": "candidate_or_secondary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70,
+          -152
+        ]
+      }
+    }
+  ]
+}

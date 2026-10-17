@@ -1,0 +1,196 @@
+THE BOUND
+
+WITNESSES OF STILLNESS
+
+“Stone does not forget.
+It only waits.”
+
+BASIC DATA
+
+Type:
+Dormant Sentinels / Memory Constructs
+
+Threat Level:
+High — Only when triggered; reactive danger
+
+First Emerged:
+Post-Prism Collapse, Nullshade Core Rebound
+
+Alignment:
+Neutral / Oathbound
+
+Size:
+2.3 m – 2.8 m, varies
+
+ANNOTATIONS
+
+SILENT WITNESS
+
+Faces bear no eyes, yet remember everything you’ve done.
+
+RITUAL CARVINGS
+
+Glyphs etched into their bodies hold fragments of forgotten oaths and failed truths.
+
+WEIGHT OF TIME
+
+Their movements are measured in heartbeats, not seconds.
+
+HOLLOW CORE
+
+Only during moments of truth do they reveal the emptiness within.
+
+LORE ENTRY
+
+Fragment from “Etchings of the Silent Monolith” —
+recovered on a cracked memory shard in Prism Wound.
+
+“We called them guardians, once.
+
+Remnants of the Prismara who refused hue.
+
+But I think now…
+they were simply those who saw too much.”
+
+“You can hear them when you’re not looking —
+feel your memories tighten in your chest like a thread pulling taut.
+
+They don’t scream.
+
+They remember for you.”
+
+“One bowed as I passed.
+
+The other raised a hand.
+
+Neither moved again.
+
+That night I dreamed of a battlefield I had never seen.
+
+I woke with my hands bruised —
+fingers curled like stone.”
+
+“If silence had a form,
+it would kneel beside them.”
+
+— Archivist Reiss,
+“Final Echoes of the Core”
+
+DESCRIPTION
+
+The Bound are humanoid statues scattered throughout Nullshade.
+
+Each one is frozen in mid-movement —
+reaching, kneeling, shielding, or still.
+
+While most remain inert, some will stir if the player performs specific actions:
+attacking nearby, casting strong hue spells, or attempting to flee from memory puzzles.
+
+When awakened, The Bound do not chase —
+they anticipate.
+
+Their movement is slow, deliberate, and seemingly tied to the player’s rhythm or pause.
+
+They retaliate with delayed but devastating strikes that cannot be dodged traditionally —
+only predicted through silence and stillness.
+
+BEHAVIOR
+
+Linger motionless in groups —
+creating tense, uncanny spaces.
+
+Only one in a group typically animates at a time.
+
+May mimic player movement seconds after it occurs —
+mimicking decision-making rather than motion.
+
+HUE INTERACTION
+
+Immune to all hue-based attacks.
+
+Can be weakened by memory-based artifacts like the Bistre Lantern or the Isabelline Tapestry.
+
+Calmed or bypassed by engaging with memory puzzles or reciting known truths.
+
+KNOWN WEAKNESSES
+
+Temporarily deactivated through full dialogue confession using truth mechanics.
+
+Only vulnerable while reciting remembered dialogue options —
+during these moments, a shimmer reveals a hollow core.
+
+Avoids areas where the player carries false names or unclaimed memories.
+
+TRIGGER CONDITIONS
+
+The Bound stir if the player:
+
+Performs violent actions nearby.
+
+Casts strong hue magic.
+
+Attempts to flee too quickly from memory puzzles.
+
+Awakened Bound move with slow, unnerving grace.
+
+Their strikes are delayed —
+but catastrophic.
+
+AWAKENING SEQUENCE
+
+1. INERT
+
+Statue remains still.
+Unblinking.
+
+2. AWARENESS
+
+Faint cracks of light.
+Subtle movement.
+
+3. RISE
+
+The Bound shifts weight.
+
+Stone remembers.
+
+4. ANTICIPATE
+
+Reads your rhythm.
+
+Mirrors decisions,
+not movement.
+
+5. STRIKE
+
+Delayed blow that cannot be dodged —
+only understood.
+
+NOTES
+
+In proximity to The Bound, audio muffles and time subtly distorts —
+causing a surreal pause effect.
+
+When defeated, The Bound collapse into dust, leaving behind one whisper:
+
+“You remembered too loudly.”
+
+LORE REWARDS
+
+Memory Echoes.
+
+Whispered Oaths.
+
+Shards of Forgotten Truth.
+
+TACTICAL ADVICE
+
+Move slowly.
+Observe patterns.
+
+Engage nearby memory puzzles before awakening one.
+
+Use truth-based dialogue or memory artifacts to bypass rather than fight.
+
+“Stillness is not safety.
+It is timing.”

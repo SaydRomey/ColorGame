@@ -1,0 +1,180 @@
+HOLLOW PROPHET
+
+THE BLINDING SERMON
+
+“It speaks in blinding truths...
+and burns away lies.”
+
+THREAT LEVEL
+
+HIGH
+
+Mental disorientation.
+Forced silence.
+
+TYPE
+
+Radiant Undead / Blinding Oracle
+
+FIRST EMERGED
+
+Mid-Color War, during the Siege of Eburnea.
+
+HUE INTERACTION
+
+AURELIAN FUEL
+
+Aurelian spells fuel their flash-rune intensity unless mirrored or redirected.
+
+VULNERABLE TO COBALT
+
+Cobalt silence spells and emotional resonance interference weaken them.
+
+VERDANT ROOT
+
+Verdant abilities can root them briefly by overloading sensory bloom.
+
+KNOWN WEAKNESSES
+
+EBURNEAN DICE
+
+The Eburnean Dice can gamble a memory against their power, weakening them briefly.
+
+ILLUSION MAGIC
+
+Illusion magic scrambles their sermon logic.
+
+TRUTH-TOUCHED
+
+Will not attack characters who carry unbroken vows or truth-touched relics.
+
+DESCRIPTION
+
+Tall skeletal figures robed in faded ivory, faces veiled in cracked gold masks.
+
+They bear sunstaffs crowned with burning lenses.
+Each step leaves a branded rune in the sand.
+
+Their voice doesn’t echo—it scorches.
+
+ANATOMY
+
+SUN-ETCHED MASK
+
+Cracked gold plate filters the world into painful clarity.
+
+BONE-CLOTH ROBES
+
+Tattered ivory wrappings inscribed with judgment verses and confession runes.
+
+RADIANT CORE
+
+A burning sun-knot at the chest.
+Source of Sermon Pulse and Truthbrand magic.
+
+LENS OF JUDGMENT
+
+Staff lens focuses light into blinding glyphs and wave-searing truth.
+
+BONE-WRAPPED STAFF
+
+Channels solar fire and writes flash-runes into the ground.
+
+BRANDED RUNES
+
+Glyphs left in the sand cause pain, disorientation, or control inversion.
+
+JUDGMENT ARSENAL
+
+SERMON PULSE
+
+Blasts out radiant waves that invert controls and cause visual distortion.
+
+TRUTHBRAND
+
+Marks the target with a searing glyph.
+Lies or deceit amplify the damage.
+
+SUNSTAFF LANCE
+
+Fires a piercing bolt of sunfire.
+Leaves a lingering burn in its wake.
+
+BRANDING RITE
+
+Brands the ground beneath the target.
+Punishes movement with light explosions.
+
+“No lie goes unseen.
+No truth goes unburned.”
+
+NOTES
+
+Some believe Hollow Prophets cannot lie.
+Others think they burned their own lies away—and now hunt yours.
+
+If a player confesses a past lie through dialogue before combat, the Prophet may hesitate... or speak instead of strike.
+
+Defeating it may yield Sun-Scorched Scripture, used to inscribe confession wards or purify corrupted shrines.
+
+LORE ENTRY
+
+Scorched prayer-scroll from the Aureolin Temple Ruins.
+
+“They say the Hollow Prophets were once true seers—priests who stared too long at the midday sun and saw only truth afterward.”
+
+“Their sermons come in pulses.
+You don’t hear them—you feel them.”
+
+“They light up every fear you’ve hidden in shadow and then ask:
+‘What will you burn to make it pure?’”
+
+“One knelt by the Eburnean Gate for days, unmoving, its voice cracking through heatwaves.
+
+I offered coin.
+It offered blindness.”
+
+“There’s no god left in them—only clarity too sharp to carry.”
+
+BEHAVIOR
+
+SERMON PULSE
+
+Initiates combat with a blinding pulse that inverts movement controls and destabilizes the HUD.
+
+TRUTHBRANDS
+
+Casts radiant glyphs that bind targets who have lied in previous dialogue paths or broken oaths.
+
+RADIANT FEEDER
+
+Immune to most light-based attacks.
+Absorbs them to empower judgment spells.
+
+SHRINE PATROLLER
+
+Patrols ancient ruins and former shrines, preaching to the wind until trespass is made.
+
+POSSIBLE DROPS
+
+SUN-SCORCHED SCRIPTURE (RARE)
+
+Pages burned with radiant ink.
+Grants access to Judgment Spells or Shrine Purification.
+
+EBURNEAN DICE FRAGMENT (RARE)
+
+A shard of the sacred dice.
+Allows a memory gamble to weaken radiant enemies.
+
+LENS OF CONFESSION (VERY RARE)
+
+A cracked lens that reveals hidden truths or invisible glyphs.
+
+PROPHET’S VEIL (LEGENDARY)
+
+Worn mask.
+Grants immunity to blinding effects and reveals lies within a short range.
+
+“THEY DO NOT SEEK FOLLOWERS.
+ONLY CONFESSIONS.”

@@ -1,0 +1,134 @@
+RUSTWORN JUDGE
+
+THE VERDIGRIS VERDICT
+
+“Its verdict was written in corrosion.”
+
+“Silence is guilt.
+Speak, and be tested.”
+
+BESTIARY — SPECTRAL ENTITIES
+
+NAME
+
+Rustworn Judge
+
+TYPE
+
+Spectral Adjudicator / Trialbound Duelist
+
+THREAT LEVEL
+
+HIGH
+
+Triggers zone-wide “duel” state.
+
+FIRST EMERGED
+
+Post-Shattering —
+Bound to the Isabelline Tribunal Ruins.
+
+DESCRIPTION
+
+Tall, silent, and clad in lacquered remnants of gold and crimson armor, the Rustworn Judge emerges in areas where too many lies or falsehoods have been spoken.
+
+Its sword drags across the ground like a gavel across cracked marble.
+
+When it engages, the HUD disappears.
+
+Only heartbeats, footfalls, and spoken choices remain.
+
+ANATOMY / APPEARANCE
+
+Ceremonial helm of the Isabelline Tribunal.
+No eyes — only judgment.
+
+Armor lacquered in faded gold and crimson.
+Corrosion is its only ornament now.
+
+Sword drags like a gavel across cracked marble.
+Each strike is a verdict.
+
+LORE ENTRY
+
+Fragment from “The Tribunal of Dust” —
+Sootleaf Scroll, Mortuum Hold
+
+“He presided over the Ash Trials —
+where guilt was presumed, and memory was the only plea.
+
+His blade struck truth from hesitation.”
+
+“When the Catacombs crumbled, the Judge did not fall.
+
+He simply waited,
+verdict unspoken, blade still angled toward indecision.”
+
+“We say:
+do not argue with the rust.
+
+It has waited longer than you have drawn breath.”
+
+HUE INTERACTION
+
+VIOLET
+
+Cannot perceive illusions —
+Violet-bound players may delay confrontation.
+
+EARTHEN
+
+Attuned to Earthen truths;
+lying in dialogue triggers its full aggression.
+
+CRIMSON
+
+Will challenge Crimson-bound characters more harshly, invoking blood-duel rites.
+
+BEHAVIOR
+
+Begins neutral;
+approaches only if a dialogue deception or broken vow is detected nearby.
+
+Upon engagement, all other threats vanish from the arena —
+this becomes a Trial Zone.
+
+Speaks only in verdicts:
+“Guilty,” “Paused,” “Judged.”
+
+Each phase tightens its aggression.
+
+VERDICT PHASES
+
+1. GUILTY
+
+Opens the duel.
+Aggression begins.
+
+2. PAUSED
+
+A moment of stillness.
+A chance for truth — or a memory — to be offered.
+
+3. JUDGED
+
+Final verdict.
+No more delay.
+
+Only the truth — or the end.
+
+KNOWN WEAKNESSES
+
+During the “Paused” phase, players may offer a Memory Token from a known past regret to delay the duel.
+
+The Bistre Lantern, when lit at the edge of the arena, reveals its original name.
+Speaking this name aloud in dialogue weakens its form.
+
+Defeated only by a perfect parry during its “Judged” strike or by ending the duel through confession.
+
+NOTE
+
+Players who lie or misremember their past actions during combat will have movement briefly impaired.
+
+It is not the Judge’s blade that slays —
+but your own dishonesty echoing back.

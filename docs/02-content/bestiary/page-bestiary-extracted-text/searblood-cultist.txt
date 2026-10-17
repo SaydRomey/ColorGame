@@ -1,0 +1,166 @@
+SEARBLOOD CULTIST
+
+VESSEL OF BOILING FAITH
+
+They burn for devotion —
+and they smile through the flames.
+
+“Their veins boil.
+Their gods demand it.”
+
+CLASSIFICATION
+
+Name:
+Searblood Cultist
+
+Type:
+Human / Mutated Zealot / Ritual Flamebearer
+
+Region:
+Vireya — Ember Expanse
+
+Threat Level:
+Medium–High
+
+First Emerged:
+After the Cindersplit Mass Rites, Year of Ash 12
+
+Role Tags:
+Volatile, Suicidal Caster, Aggressive Swarm Zealot
+
+DESCRIPTION
+
+Flamebound zealots who bleed pyre-oil and chant to forgotten ember gods.
+
+Their bodies are branded with sigils and their veins simmer with volatile sacrament.
+
+In battle they ignite themselves to hurl flamebursts or rush blindly into melee, dying in glorious combustion.
+
+ANATOMY / TRAITS
+
+BRAND-SEARED FACE
+
+Ritual brands fuse flesh to faith.
+
+CHANT-LOCKED JAW
+
+Jaws wired open by chant-runes and zeal.
+
+BOILING VEINS
+
+Pyre-oil and blood simmer under the skin.
+
+FAITHFIRE AURA
+
+Constant heat halo sears the unworthy.
+
+BLOOD-SOAKED BINDINGS
+
+Bindings feed on pain and fuel the flames.
+
+COMBUSTION CORE
+
+Heart-locus stores volatile sacrament;
+detonates on death.
+
+SHRINE-BANNER TETHER
+
+Tethered to shrine banners that empower and control the zeal.
+
+BEHAVIOR
+
+Always aggressive.
+
+Aggro range increases near other cultists.
+
+Cast self-immolation buffs that raise damage but drain health.
+
+On death, explode in a radius of scorched faithfire.
+
+Lingering hazard remains after detonation.
+
+HUE INTERACTION
+
+Crimson hue grows unstable over time.
+
+Can be briefly pacified by Crimson Weaver’s Thread.
+
+Resists Verdant and Earthen control.
+
+Flame aura can be quenched by Cobalt mist or drowning effects.
+
+KNOWN WEAKNESSES
+
+Vulnerable during chant animations.
+
+Interrupt with sound or silence attacks.
+
+Quench flame aura with Cobalt-based moisture.
+
+If separated from shrine banners, they lose coordination and become unstable.
+
+FIELD NOTES / LORE FRAGMENT
+
+“We gave them fire, and they gave us back belief.”
+
+“They are not born.
+They are chosen — or broken.”
+
+“Every drop boiled is a hymn.
+Every wound is scripture.”
+
+“One ignites to strike.
+Two ignite to sanctify.
+
+A dozen?
+Run before they sing.”
+
+— Recovered from the Ember Reliquary.
+
+SHRINE BANNER
+
+Tethers cultists within its reach.
+Destroy to weaken their frenzy and coordination.
+
+FAITHFIRE DETONATION
+
+On death, each cultist erupts in a radial blast of faithfire that scorches flesh and scars the land.
+
+IGNITION PROGRESSION
+
+CHANT
+
+Builds fervor and seals veins.
+
+IGNITE
+
+Body floods with pyre-oil and heat.
+
+FRENZY
+
+Power peaks.
+Reason burns away.
+
+COMBUSTION
+
+Detonates in blinding heat and holy fire.
+
+VIREYA — EMBER EXPANSE
+
+The Ember Expanse is a scorched realm of ash and obsidian where faith is fuel and pain is proof.
+
+Shrines of boiling stone mark the prayers of the Searblood.
+
+ALCHEMICAL NOTES
+
+Pyre-oil mixtures within their veins react violently when deprived of air or when faith is interrupted.
+
+Distilled samples are unstable —
+handle with sacred caution.
+
+TROPHY / HARVEST
+
+COMBUSTION CORE (RARE DROP)
+
+Used in volatile sacrament crafting and infernal rites.
+Extremely unstable.

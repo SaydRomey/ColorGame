@@ -1,0 +1,138 @@
+SUNBURNT JACKAL
+
+THE SCORCHED HOWL
+
+“It never learned the difference between shadow and prey.”
+
+TYPE
+
+Desiccated Predator / Heat-Hound
+
+THREAT LEVEL
+
+MODERATE —
+Lethal in packs or near radiant spells
+
+FIRST EMERGED
+
+Late Color War —
+After the Dawn Siege of Luxeran
+
+ANATOMY BREAKDOWN
+
+1. SCORCHED HIDE
+
+Leather-thin skin baked copper-red.
+
+Cracked and scarred from generations under merciless sun.
+
+2. BLISTERED EYES
+
+Milky, clouded, and mostly blind.
+
+Heat-sense organs within the skull detect radiant signatures.
+
+3. HEAT-SENSE NODES
+
+Inflamed nasal passages and sinus ridges detect body heat and radiant echoes with extreme sensitivity.
+
+4. CRACKED FANGS
+
+Teeth are chipped and brittle, retaining heat residue that sears flesh with each bite.
+
+5. MANGY FUR
+
+Patchy, brittle fur offers little protection.
+
+Helps absorb and radiate ambient heat.
+
+6. DESICCATED LIMBS
+
+Lean, sinewy legs built for endurance across burning dunes.
+
+Pads hardened to sand.
+
+HABITAT / MANIFESTATION
+
+Roams the sun-baked dunes of Luxeran, particularly ruined sites and heat mirages.
+
+Drawn to radiant sources:
+spells, torches, beacons, and sun-heated relics.
+
+Most active during midday and early afternoon.
+
+Sluggish and fearful at dusk or nightfall;
+seeks warmth, cowers in cold.
+
+Howls create warped echoes that scatter and disorient prey.
+
+BEHAVIOR / STATE FLOW
+
+SCENT SEEKER → LUNGE → HOWL ECHO → COWER
+
+Hunts by triangulating body heat and radiant echoes.
+
+Will chase thrown torches or glowing relics as a distraction.
+
+Packs coordinate using howls that ricochet strangely in heat haze.
+
+Cowers from dusk or cloudy conditions;
+most active midday.
+
+HUE INTERACTION
+
+Drawn to Aurelian (Yellow) magic or any active light source.
+
+Avoids deep shadow or cold environments.
+
+Can be stunned by Cobalt (Blue) flashburst spells or illusions that mask heat.
+
+KNOWN WEAKNESSES
+
+Ice and shadow spells dampen senses.
+
+Easily misled by artificial light or false heat signatures.
+
+Loud noises, explosives, and sonic artifacts disorient pack coordination.
+
+LORE ENTRY
+
+“I watched it circle the mirage fire for hours,
+never knowing it wasn’t real.
+
+It yipped and snapped at flickering sand.
+
+Not blind — not quite —
+but worse:
+
+its mind burns with too much sun and too little shadow.”
+
+“They say these beasts were once clever pack hunters, adapted to the shifting deserts.
+
+But now…
+now they worship warmth like it’s a god that betrayed them.”
+
+“At night, I found one curled into a broken clay brazier, whimpering at the cold stars.”
+
+— Excerpt attributed to a Fulvous Hunter
+
+NOTES
+
+Desert guides often carry heat-absorbent stones or cold-blood salves to mask their presence.
+
+It’s said that if a Sunburnt Jackal is howling at an empty flame, it’s mourning a prey that never burned.
+
+POSSIBLE DROPS
+
+Jagged, heat-seared fang retaining ember-essence.
+
+Used in crafting Scent Cloaks and Mirage desert survival gear.
+
+FIELD NOTE
+
+They mistake warmth for life.
+
+Carry cold.
+Walk in shade.
+
+Let the sun feel far away.

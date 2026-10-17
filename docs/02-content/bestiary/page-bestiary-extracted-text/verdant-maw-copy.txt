@@ -1,0 +1,124 @@
+VERDANT MAW
+
+BLOSSOM OF HUNGER
+
+A flower whose petals hide teeth and hunger.
+
+“A flower with teeth is still a flower.”
+
+TYPE
+
+Carnivorous Plant / Ambush Predator
+
+THREAT LEVEL
+
+High —
+Lethal if caught unaware.
+
+FIRST EMERGED
+
+Early Post-Shattering Era
+
+DESCRIPTION
+
+The Verdant Maw disguises itself as an enormous, vibrant flower nestled amidst lush vegetation.
+
+Hidden beneath its radiant petals lies a cavernous maw lined with thorn-like teeth and ensnaring vines, patiently waiting to snap shut upon unsuspecting prey.
+
+TRAITS
+
+Stationary but deadly predator, camouflaged as a lush, inviting blossom.
+
+Emits enticing illusions or fragrances to attract prey into striking range.
+
+Snaps shut rapidly, trapping victims with powerful vines and thorn-lined petals.
+
+HUE INTERACTION
+
+Emits powerful Verdant illusions and intoxicating scents to lure prey.
+
+Resistant to direct plant manipulation;
+vulnerable to charm-based music or flute magic.
+
+Can detect and target players strongly bound to Green (Verdant) or Brown (Earthen) hues.
+
+BEHAVIOR
+
+Completely stationary;
+relies solely on luring prey into its reach.
+
+Often found near relic-rich areas or points of emotional resonance, exploiting travelers’ curiosity or nostalgia.
+
+Can be temporarily pacified by certain musical artifacts, such as Limerick Druid’s flute.
+
+AMBUSH CYCLE
+
+1. LURE PREY
+
+Radiant bloom and alluring scents attract curious prey.
+
+2. INDUCE TRANCE
+
+Illusions and fragrance cloud the mind, inducing drowsy euphoria.
+
+3. SNAP SHUT
+
+Petals clamp down in blinding speed, thorn-teeth impale and restrain.
+
+4. DRAG UNDERGROUND
+
+Vines ensnare and drag victim beneath the soil to be digested.
+
+KNOWN WEAKNESSES
+
+Highly susceptible to fire.
+Crimson Flame attacks immediately neutralize its lures.
+
+Sensitive to intense vibrations or sonic disruptions that disturb its senses.
+
+Vulnerable to Earthen decay spells, causing rapid wilting and temporary paralysis.
+
+HUE / ELEMENT INTERACTION
+
+Crimson (Fire):
+Highly Effective.
+
+Brown (Earthen):
+Effective.
+
+Indigo (Sonic):
+Effective.
+
+Azure (Water):
+Neutral.
+
+Amber (Light):
+Low Effect.
+
+Violet (Void):
+Low Effect.
+
+Green (Verdant):
+Ineffective (Detected).
+
+FIELD NOTES
+
+“Our scouts spoke excitedly of finding a flower larger and more radiant than any before.”
+
+“The bloom shimmered gently, exuding a fragrance that numbed our fears.”
+
+“Never trust beauty too bright or fragrance too sweet.”
+
+“The Verdant Maw feeds on desires just as readily as flesh, and Huevale is full of desires.”
+
+— Chartreuse Initiate,
+Herbalist Codex, Sapreach Expedition
+
+NOTES
+
+Locals tell cautionary tales of Verdant Maws imitating voices of lost loved ones, reciting half-remembered lullabies or promises to entice prey closer.
+
+This proves that even plants in Huevale know the power of longing.
+
+“Beauty is its bait.
+Hunger is its truth.”

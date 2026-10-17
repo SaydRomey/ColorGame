@@ -1,0 +1,188 @@
+FOX MIRAGE
+
+TRICK OF THE EMBER VEIL
+
+“Blink once —
+it’s gone.
+
+Blink again —
+it’s behind you.”
+
+THREAT LEVEL
+
+MEDIUM
+
+Disorienting, fast, rarely lethal alone.
+
+TYPE
+
+Illusory Predator / Ember Trickster
+
+FIRST EMERGED
+
+Post-Prism Flicker Era, near Cinnabar Spires.
+
+HUE INTERACTION
+
+REACTS TO TRUTH
+
+Reacts violently to truth-based magic, such as Violet clarity spells or mirrored terrain.
+
+REFLECTION DEPENDENT
+
+Can only be struck while passing through reflection zones or during a failed clone transition.
+
+IMMUNE TO TRACKING
+
+Immune to direct tracking, weak against area-of-effect detection spells like Prism Pulse.
+
+HEAT NATURED
+
+Drawn to intense heat sources and emotional surges.
+Unstable in cold or silence.
+
+DESCRIPTION
+
+The Fox Mirage is not a creature in the strictest sense — it is a living hallucination woven from heat shimmer and ember-magic.
+
+Shaped like a swift vulpine form with glowing red sigils and a laughter-like yip, it appears in multiples and vanishes in flames.
+No two encounters with it are the same.
+
+ANATOMY
+
+EMBER FUR
+
+Heat-distorted fur refracts light and corrupts sight.
+Changes shape constantly.
+
+ILLUSION HEART
+
+Core of focused trickery and smug defiance.
+Powers its clones.
+
+PHANTOM PAWS
+
+Pads leave no trace, but can ignite mirage traps on contact.
+
+MIRAGE TAIL
+
+Splinters into flame-ribbons that become decoy foxes.
+Each feels real.
+
+LAUGHTER SIGILS
+
+Runes that warp sight and sound.
+Produce a yip-like mocking laughter.
+
+HEAT SHIMMER
+
+Surrounds body in a dancing mirage, making it nearly impossible to pin.
+
+LORE ENTRY
+
+Spoken by Nacarat the Laughing Blade, overheard near Emberlight Cliffs.
+
+“Oh, that one?
+The Fox Mirage?
+
+She’s a clever ghost, or maybe just a lie wrapped in fur.”
+
+“She’s not real — not the way we are.
+She’s an ember thought that got too smug.
+
+You see her in the corner of your eye, or in the shimmer on a blade, or laughing just before the strike lands.
+
+She’s the memory of being hunted, kept warm too long in the coals.”
+
+“They say she was once a trickster in life — Nacarat’s sister, some claim — weaving illusions into flame.
+
+When she died, the desert didn’t let her go.
+It just learned her trick.”
+
+“If you want to fight her, don’t.
+Fight what she makes you think she is.
+
+That’s where she hides — behind your own mistake.”
+
+— Whispered with a grin by a campfire, then the wind carried the grin away.
+
+BEHAVIOR CYCLE
+
+MIRAGE DASH
+
+Appears in a flash of heat, leaves behind two false afterimages.
+
+NULL STEP
+
+Evades follow-up attacks by slipping between heat layers.
+
+HEAT TRAP
+
+Leaves a lingering mirage that burns slow and scrambles targeting systems.
+
+LAUGHING VANISH
+
+Disappears in a burst of embers and reappears elsewhere, usually behind the player.
+
+BEHAVIOR
+
+Appears in triads — one real, two fakes.
+
+Frequently retreats after ambushes, reappearing unexpectedly at player flanks.
+
+Leaves behind heat mirage traps that burn slow and confuse targeting systems.
+
+Hears emotions more than footsteps.
+Thrives on fear, frustration, and arrogance.
+
+KNOWN WEAKNESSES
+
+CINNABAR SEAL
+
+Temporarily revealed by Cinnabar Seal, a relic that forces illusions to resolve.
+
+MIRRORED TRUTH
+
+If mirrored against reflective surfaces, such as lava glass or still obsidian pools, its real form can be distinguished.
+
+ECHO-SILENCE ZONES
+
+Does not cross echo-silence zones, where illusions lose coherence.
+
+AREA BURST
+
+Wide-range hue bursts can scatter its clones and expose its true form.
+
+NOTES
+
+Wandering bards claim that if you defeat the Fox Mirage without breaking a sweat, she visits you in dreams — not in anger, but curiosity.
+
+She wants to see how your story ends.
+Or maybe she wants to rewrite it.
+
+Some believe she guides lost souls through the desert — not to safety, but to truth.
+
+POSSIBLE DROPS
+
+EMBERFOX TAIL (RARE)
+
+A tail-tip that never cools.
+Used in crafting agile accessories.
+
+HEAT MIRROR SHARD
+
+A shard of living mirage.
+Bends light and misleads pursuit.
+
+NACARAT’S GRIN (VERY RARE)
+
+A hidden trinket.
+Said to drive illusions mad with laughter.
+
+TRICKSTER’S ASHES
+
+Residual ash of illusion-fire.
+Used in advanced hue rituals.
+
+CHASE THE FOX, AND YOU WILL ALWAYS BE BEHIND.
+UNDERSTAND THE FOX, AND THE DESERT WILL LISTEN.

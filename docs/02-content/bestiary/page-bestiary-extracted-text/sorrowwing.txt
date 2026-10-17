@@ -1,0 +1,168 @@
+SORROWWING
+
+NAME IN THE WIND
+
+Ghost-bird with eyes too human, too knowing.
+
+“It cries your name before you hear it.”
+
+TYPE
+
+Spirit Avian / Emotional Manipulator
+
+THREAT LEVEL
+
+Moderate —
+Environmental Hazard, Lure-Based
+
+FIRST EMERGED
+
+After the Collapse of the Windward Sanctum
+
+REGION
+
+Iriseld —
+Tidespire Reach
+
+ANATOMY & APPARITIONS
+
+1. HUMAN GLASS EYES
+
+Damp, reflective eyes filled with memory.
+
+2. SILKEN WINGS
+
+Pale feathers trailing mist that pulse like heartbeats.
+
+3. NAME-WHISPER BEAK
+
+Its cry carries names and grief-colored suggestion.
+
+4. ECHO BREAST
+
+Voice resonances pulled from nearby minds.
+
+5. LURE DRIFT TAIL
+
+Mist streamers subtly pull victims toward danger.
+
+6. SEMI-PHANTASMAL FORM
+
+Ranged attacks may pass through its body.
+
+7. CLIFF PERCH POSTURE
+
+Passive watcher until flight or haste awakens it.
+
+DESCRIPTION
+
+A pale-winged, semi-phantasmal avian that sings with voices pulled from nearby minds.
+
+The Sorrowwing does not strike directly —
+it influences behavior through grief-colored suggestion.
+
+Players report emotional heaviness and directional compulsion after hearing its call.
+
+Its eyes are unmistakable:
+glassy, human, always damp with memory.
+
+HABITAT / MANIFESTATION
+
+Found on cliff edges, sky-bridges, mourning paths, storm ledges, and windward sanctum ruins.
+
+Often perches silently before luring prey with a name-whispering cry.
+
+Most active near open air, gliding routes, and places marked by loss.
+
+BEHAVIOR / STATE FLOW
+
+PERCH SILENT → NAME-CRY → LURE DRIFT → CIRCLE OUT OF REACH
+
+Prefers remaining passive until a player attempts flight or high-speed movement.
+
+When active, it cries out a phrase or name from the player’s past, based on collected Memory Fragments.
+
+Activates Lure Drift, gradually pulling the player toward cliff edges or sky traps.
+
+Sometimes circles just out of reach, causing ranged attacks to pass through.
+
+ABILITIES / STATUS EFFECTS
+
+NAME-WHISPER CRY
+
+Calls a remembered phrase or name.
+
+LURE DRIFT
+
+Gently redirects or pulls the player toward danger.
+
+ECHO SORROW
+
+Causes emotional heaviness and hesitation.
+
+PHANTASMAL EVASION
+
+Ranged strikes may pass through its body.
+
+GLIDE INTERFERENCE
+
+Slightly redirects flight-based traversal mid-glide.
+
+HUE INTERACTION
+
+Specifically drawn to Cobalt-bound players with high Memory Echo charge.
+
+Its call interferes with flight-based traversal, slightly pulling or redirecting mid-glide.
+
+Cobalt’s Mind Echo can block or distort its influence with correct timing.
+
+KNOWN WEAKNESSES
+
+Repelled or disoriented by Cerulean Cloak.
+
+Anchoring spells such as Verdant’s Skygrowth Seed break its lure grip temporarily.
+
+Easily grounded with memory-reinforcement artifacts like the Zaffre Vial or Celadon Shards.
+
+LORE ENTRY
+
+Voiceprint transcription, left unfinished by a monk of the Windward Chorus.
+
+“They say the wind in Iriseld carries more than rain.
+It carries loss wrapped in wings.
+
+I saw it at the cliff’s edge.
+It looked back. Not like a bird.
+
+Like a widow remembering.
+
+It called my name…
+but my voice answered first.
+
+Its cry is your grief, wearing feathers.”
+
+IRISELD / TIDESPIRE REACH
+
+A realm of wind-carved spires and grieving seas.
+
+Storms carry memory.
+Cliffs remember names.
+
+TACTICAL NOTE
+
+Best countered with grounding, memory reinforcement, and anti-lure timing.
+
+Anchor yourself.
+
+Guard your mind.
+
+Do not follow the call.
+
+NOTES
+
+The Seers of Zaffran Port once raised Sorrowwings to guide mourners across the cliffs.
+
+Now, only the wind walks beside the grieving.
+
+“It does not hunt your body.
+It hunts the part of you that still listens.”

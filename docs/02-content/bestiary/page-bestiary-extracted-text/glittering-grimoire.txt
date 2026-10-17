@@ -1,0 +1,194 @@
+GLITTERING GRIMOIRE
+
+TOME OF THE UNWRITTEN SELF
+
+“It remembers the spell
+you forgot
+you cast.”
+
+THREAT LEVEL
+
+MEDIUM
+
+Unpredictable Spellcaster
+
+TYPE
+
+Enchanted Spellbook / Echo-Wraith
+
+FIRST EMERGED
+
+After the Descent of the Violet Archive.
+
+HUE INTERACTION
+
+COPIES SPELLS
+
+Copies spells cast using Cobalt or Aurelian hues with high accuracy.
+
+DISORIENTED BY ILLUSION
+
+Disoriented by Violet’s Illusion Clone.
+Cannot distinguish mimic from caster.
+
+IMMUNE TO CHARM
+
+Immune to direct charm.
+Vulnerable to feedback loops, such as looped illusions or memory echoes.
+
+DESCRIPTION
+
+A living tome of forgotten choices and echo spells.
+
+Glows faintly with past interactions.
+Its pages reflect your spell usage history and counter accordingly.
+
+The Grimoire never speaks.
+It lets your own past magic do the talking.
+
+ANATOMY
+
+REFLECTIVE COVER
+
+Mirror-ink binding shows faint images of the caster’s past decisions.
+
+RUNIC CORE
+
+Crystalline heart stores echo-spells and memory fragments.
+
+INKBORN PAGES
+
+Pages trail behind like wings, rewriting mid-air as it moves.
+
+ARCANE CLASP
+
+Locks only when it chooses.
+Breakable during page-turning animations.
+
+ECHO INK
+
+Ink floats and writes spells on its own.
+Disperses into rune-shards when damaged.
+
+LEVITATION SIGIL
+
+Permanent hovering array.
+Disrupted by feedback and illusion loops.
+
+LORE ENTRY
+
+Recovered Margins from the Library of Echoes.
+
+“We never finished writing it.”
+So it kept writing itself.
+
+The Glittering Grimoire was once a journal — empty, waiting to be filled by a young mage.
+But as she grew uncertain, it began writing her instead.
+
+Each time she chose not to cast a spell — the book remembered.
+Each secret withheld, each fear unspoken — the book listened.
+
+When the library fell, the Grimoire vanished into Myrrala’s winds.
+Now it drifts alone, seeking unfinished stories and half-cast spells.
+
+It opens only to reflect you.
+
+If it begins to write before you speak...
+run.
+
+— Payne’s Shade, “On Living Texts”
+
+BEHAVIOR
+
+Opens battle closed, then snaps open with a gasp when you attack.
+
+Selects from the player’s previously used spells.
+This includes past encounters, even region-specific spells.
+
+Uses Ink Trail to confuse visual effects and Runic Pulse that inverts spell directions.
+
+Learns throughout the fight.
+It adapts and rewrites its own spellset.
+
+Occasionally “gasps” and rewrites a page, gaining a new or empowered spell mid-battle.
+
+KNOWN WEAKNESSES
+
+TRUTH TEAR VULNERABILITY
+
+If hit while it is “rewriting,” the book suffers a Truth Tear and becomes stunned.
+
+NON-SPELL DAMAGE
+
+Defeated more easily when attacked with non-spell damage, such as melee or environmental damage.
+
+FEEDBACK DISRUPTION
+
+Vulnerable to sonic resonance and feedback loops that disrupt its rhythm.
+
+PAST INACCURACY
+
+Weaker when the player uses new or unfamiliar abilities it has not “read” before.
+
+COMBAT CYCLE
+
+1. OBSERVE
+
+Closed book.
+Analyzes your recent actions.
+
+2. REVEAL
+
+Scans open.
+Chooses a spell from your past.
+
+3. CAST
+
+Casts chosen spell.
+Leaves Ink Trail.
+
+4. REWRITE
+
+Turns pages, rewrites spells, and adapts.
+
+5. REPEAT
+
+Cycle continues with stronger echoes.
+
+Interrupt during REWRITE step to cause a Truth Tear and stun the Grimoire.
+
+NOTES
+
+Its pages contain spells the player never cast — but considered.
+
+May “remember” secrets revealed in dialogue or journals.
+
+Some scholars believe it is the collective diary of every uncertain mage.
+
+Listening closely, you can hear it...
+thinking in ink.
+
+POSSIBLE DROPS
+
+UNWRITTEN PAGE (RARE)
+
+A blank, echo-infused page.
+Can be bound to a spell to create a “ghost echo” — an auto-cast illusion of it once per day.
+
+ECHO INK CORE (VERY RARE)
+
+Stores residual memory.
+Used to upgrade spellbooks or craft memory-based weapons.
+
+FORGOTTEN FOOTNOTE (UNIQUE)
+
+Grants a passive: “Retroactive Insight.”
+Occasionally reveals the counter to an enemy’s next move.
+
+GLIMMERING GRIMOIRE (LEGENDARY)
+
+A version of the book that now writes with you, not for you.
+Unlocks unique dialogue and spells.
+
+“THE BOOK DOESN’T LIE.
+IT JUST KNOWS THE VERSION OF YOU THAT DID.”

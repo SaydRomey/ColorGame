@@ -1,0 +1,148 @@
+THULIAN VOWKEEPER
+
+THE MIRROR OATH REMEMBERS
+
+It remembers every promise you made.
+Even lies.
+
+“When you spoke, it listened.
+Now it holds the receipt.”
+
+SOURCE IMAGE — thulian-vowkeep_page.png
+
+CLASSIFICATION
+
+Type:
+Crystalbound Knight / Sentient Oath Mirror.
+
+Threat Level:
+High — Emotionally Reactive Nemesis.
+
+First Emerged:
+After the collapse of the Mirror Courts of Myrrala.
+
+Region:
+Myrrala — Blooming Veil / Mirror Courts.
+
+ANATOMY BREAKDOWN
+
+1. MIRROR VISOR
+
+Reflects only the speaker’s own self.
+
+2. THULIAN CRYSTAL PLATE
+
+Faceted armor forged from oath-polished mirror crystal.
+
+3. DIALOGUE ECHO CORE
+
+Chest cavity that stores fragments of broken promises.
+
+4. WORDLIT BLADE
+
+Sword shines with unkept words and cuts through falsehood.
+
+5. JUDGMENT HAND
+
+Raised hand accompanying recited vows and pauses.
+
+6. REFLECTIVE GREAVES
+
+Elegant lower armor that mirrors movement patterns.
+
+7. OATHFRACTURE SEAMS
+
+Glowing cracks that intensify when lies or rejected vows are nearby.
+
+DESCRIPTION
+
+A gleaming, faceted warrior from the lost Mirror Kingdom.
+
+Carries no banner — only the weight of what others failed to uphold.
+
+Its speech is stolen from the player’s own dialogue history, and phrases twist into attacks.
+
+Noble in silhouette, merciless in judgment.
+
+HABITAT / MANIFESTATION
+
+Appears where lies fester or where promises die — in ruined mirror courts, abandoned pavilions, oath shrines, broken audience halls, and dreamlike chambers where a promise was made and left unfinished.
+
+BEHAVIOR / STATE FLOW
+
+Opening Recital → Judgment Pause → Truth Slash → Oathburn Counter → Reflective Pursuit.
+
+Begins combat by reciting a promise once spoken by the player.
+
+Uses delayed echo-strikes that mirror prior movement patterns.
+
+Counters healing with Oathburn if the player fled a vow-bound fight.
+
+Grows stronger when the player has broken dialogue promises or rejected questlines.
+
+ABILITIES / STATUS EFFECTS
+
+TRUTH SLASH
+
+Delayed mirrored strike based on prior player movement.
+
+OATHBURN
+
+Converts healing into minor damage for oath-breakers.
+
+PROMISE RECITAL
+
+Verbal attack using the player’s own dialogue history.
+
+REFLECTIVE PURSUIT
+
+Tracks evasive patterns and punishes hesitation.
+
+SHATTER OF FULFILLMENT
+
+On defeat, its blade breaks into a relic fragment.
+
+HUE INTERACTION
+
+Empowered by broken promises and rejected choices.
+
+Pacified briefly by honest recollection via Violet illusion clone or Cobalt Mind Echo.
+
+Immune to illusion-based misdirection; the blade slices through falsehood.
+
+KNOWN WEAKNESSES
+
+Vulnerable only during the Judgment Pause after speaking a truth.
+
+Can be confused by paradoxes: opposing truth/lie dialogue back-to-back.
+
+Severely weakened if shown a Thulian Mirror containing its own origin reflection.
+
+LORE ENTRY — VAULT OF THE THULIAN EMISSARY
+
+“It is not justice.
+It is memory polished until it cuts.”
+
+“The Vowkeepers were once truth-bound protectors of the Mirror Courts.”
+
+“They appear where lies fester or where promises die.”
+
+“And it will finish the sentence with a blade.”
+
+MYRRALA CONTEXT
+
+Twilight garden realm where beauty tests authorship.
+
+Mirrors, glamour, and oath memory define the region.
+
+ARTIFACT COUNTER
+
+THULIAN MIRROR
+
+Reveals the Vowkeeper’s own origin reflection and weakens it.
+
+DROP / REWARD
+
+FRAGMENT OF FULFILLMENT
+
+Shattered crystal blade fragment used to unlock hidden dialogue paths or rebind past decisions.

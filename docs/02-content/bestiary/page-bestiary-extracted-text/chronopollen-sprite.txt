@@ -1,0 +1,186 @@
+CHRONOPOLLEN SPRITE
+
+THE BLOOM BETWEEN SECONDS
+
+“It blooms a second too early.
+Or a century too late.”
+
+THREAT LEVEL
+
+MODERATE
+
+Timing disruption and sequence instability
+
+TYPE
+
+Temporal Fey / Pollen-Warp Trickster
+
+FIRST EMERGED
+
+Post-Huefall, along Veilgrove Spiral and the outer gardens of Liseran Shrine.
+
+HUE INTERACTION
+
+COBALT / MIND ECHO
+
+Reveals the Sprite’s next time-slip and marks delayed actions.
+
+VIOLET / ILLUSION CLONE
+
+Draws pollen toward the false target.
+
+AURELIAN / RADIANT FLASH
+
+Burns away loose motes, but may trigger a wider Chronosneeze.
+
+VERDANT / ROOT BIND
+
+Anchors local time inside a rooted radius.
+
+THULIAN MIRROR
+
+Reveals its true second.
+
+DESCRIPTION
+
+Tiny glowing time-fey born from flowers that bloomed before their own seeds.
+
+Chronopollen Sprites are made of petal-light, violet-blue wing shimmer, and drifting pollen motes that pulse like faulty clockticks.
+
+Their pollen loosens the stitches between intention, action, and consequence, making dodges, spells, and footsteps resolve at the wrong moment.
+
+They rarely attack with intent.
+They flutter, sneeze, panic, and laugh in the wrong order.
+
+LORE ENTRY
+
+From the Pollen-Caught Notes of the Bloomfold Archivist.
+
+“I blinked, and the flower had already wilted.
+I blinked again, and it was only a seed.”
+
+“The Sprites are not cruel.
+Cruelty requires sequence.
+
+They hatch where Myrrala forgets which moment it is wearing.”
+
+“Their pollen does not age you.
+It slips between intention and consequence.
+
+A hand reaches.
+A door opens yesterday.”
+
+“Do not inhale near them.
+Do not chase them.
+
+And if one giggles before you hear it arrive, leave immediately.”
+
+— Bloomfold Archivist
+
+BEHAVIOR
+
+Flutters erratically above bloompaths, shrine gardens, and mirrored ponds.
+
+Releases drifting pollen clouds that slow, hasten, or briefly reverse local movement.
+
+Uses CHRONOSNEEZE when startled, desynchronizing dodges, projectiles, and windups.
+
+Pauses midair and glows brighter before skipping to a nearby future position.
+
+Circles players using Violet or Cobalt, as if deciding whether they are a flower, a mirror, or a clock.
+
+ANATOMY
+
+CLOCKBLOSSOM ANTENNAE
+
+Dandelion-like blooms that shed unstable time-pollen.
+
+PRISM WINGS
+
+Translucent leaf-wings that shimmer violet-blue and carry time-slip eddies.
+
+BLOOM HEART
+
+Luminous core where sequence glitches accumulate.
+
+ROOT-TAIL
+
+Trailing tendrils that anchor brief rewinds to nearby terrain.
+
+PETAL MANTLE
+
+Soft bloom-layers that catch drifting motes.
+
+KNOWN WEAKNESSES
+
+POST-SNEEZE DAZE
+
+Vulnerable when its wingbeats stop for one true second.
+
+STASIS MESHES
+
+Freeze both the Sprite and its pollen cloud.
+
+ROOT OR ECHO MAGIC
+
+Reduces the radius and duration of its time-warp field.
+
+TRUTH-REFLECTION
+
+Exposes its synchronized position and bypasses false afterimages.
+
+RHYTHM TOOLS
+
+Force its wingbeats back into normal tempo.
+
+BEHAVIOR CYCLE
+
+1. DRIFT
+
+Watches and wanders.
+
+2. POLLINATE
+
+Spreads a timing cloud.
+
+3. TIME-SLIP
+
+Skips to a nearby future position.
+
+4. CHRONOSNEEZE
+
+Disrupts sequence in a sudden burst.
+
+5. DAZE
+
+Briefly vulnerable in one true second.
+
+NOTES
+
+Some travelers report meeting the same Sprite multiple times in different eras of the same room.
+
+High Violet affinity makes Sprites curious rather than hostile.
+
+High Cobalt affinity makes their patterns easier to read.
+
+Where time forgets to move, step backward into now.
+
+POSSIBLE DROPS
+
+CHRONOPOLLEN MOTE
+
+Alchemy and time-laced charms.
+
+BLOOMCLOCK PETAL
+
+Used in stasis or glamour recipes.
+
+SEQUENCE KNOT
+
+Stabilizes Mneme timing.
+
+STILLWING VEIL
+
+Rare cloth that resists delay fields.
+
+EVERY SNEEZE MOVES THE CLOCK.

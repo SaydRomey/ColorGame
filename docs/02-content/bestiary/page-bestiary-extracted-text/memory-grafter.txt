@@ -1,0 +1,159 @@
+MEMORY GRAFTER
+
+THE REWRITER OF YOU
+
+“You don’t remember losing your name.
+Just that he started calling you something else.”
+
+THREAT LEVEL
+HIGH
+
+Reality distortion and identity theft.
+Avoid prolonged exposure.
+
+TYPE
+Narrative Parasite / Nullshade Manipulator
+
+FIRST EMERGED
+Mid-Nullshade Collapse, during the Prism Shard Fracture.
+
+HUE INTERACTION
+
+REFLECTS HUE SPELLS
+Most hue damage is reflected as twisted abilities of altered effect.
+
+ABILITY REWRITER
+May rewrite one of your equipped abilities, replacing it with a flawed version.
+
+PARADOX WEAKNESS
+Violet paradox effects and Bistre Lantern activations can destabilize its hold.
+
+COLOR CORRUPTION
+Drains hue resonance over time, dulling your aura and weakening core traits.
+
+KNOWN WEAKNESSES
+
+PRISM SIGIL BINDING
+Binding it within a Prism Sigil Circle can “pin” its scroll, revealing and undoing some of its grafts.
+
+TRUE MEMORY SPOKEN
+Can be interrupted if the player recalls and speaks a true memory from early in their journey.
+
+MEMORY SHARD CONFLICT
+Weakens when confronted by another player or NPC memory shard from a side quest.
+
+DESCRIPTION
+
+A tall, shrouded figure that edits identity through ink and illusion.
+
+The Memory Grafter does not kill — it alters.
+It steals memories, replaces them with crafted falsehoods, and makes you live inside a story that was never yours.
+
+Its true weapon is belief.
+
+ANATOMY
+
+VELLUM MASK
+Empty face of shifting ink.
+It changes to reflect whoever looks upon it.
+
+INKED ROBES
+Patchworked with stolen names, forgotten glyphs, and dried memory stains.
+
+SCRIBER’S TOOLS
+Carries quills, vials of Nullshade ink, and a void-etched lantern.
+
+LIVING SCROLL
+Its scroll is alive—constantly writing, erasing, and replacing names and stories.
+
+SHADOW THREADS
+Black-violet threads tether to the target’s mind, rewriting thought as it connects.
+
+INK FOOTPRINTS
+Leaves ink that rewrites recent steps or actions if touched or revisited.
+
+GRAFTING ABILITIES
+
+MEMORY LEECH
+Drains a recent memory, reducing resistance and revealing false memories.
+
+IDENTITY SWAP
+Mimics the player or ally, creating a perfect illusion that fights in its place.
+
+INK REWRITE
+Replaces one ability with a corrupted version with altered cost or effect.
+
+NAMEFALL
+Speaks your name backward, causing disorientation and reversed controls briefly.
+
+NARRATIVE VEIL
+Casts a field that masks reality — UI, minimap, and objectives become unreliable.
+
+NOTES
+
+Some players never realize they’ve been grafted until NG+ or endgame reveals.
+
+Long exposure can lead to permanent dialogue changes with NPCs.
+
+Its scroll is said to be endless.
+No one knows who wrote the first name on it.
+
+LORE ENTRY
+
+Transcript Fragment — “Stolen Histories,” banned from the Bistre Archive.
+
+“It didn’t kill her.
+It rewrote her.”
+
+“When I found what was left, she still moved like my sister.
+Still used her name.”
+
+“But when she spoke, I knew...”
+
+“She had new stories.
+Ones she hadn’t lived.”
+
+“He holds a scroll.
+Always writing. Always replacing.”
+
+“You see yourself on it, eventually.”
+
+“If you forget the color of your thoughts — you’ve already been grafted.”
+
+BEHAVIOR
+
+LURKS, THEN LATCHES
+Doesn’t initiate combat directly.
+Lingers near puzzles, lore nodes, or memory triggers.
+
+MIMICS YOUR PAST
+Copies small parts of your history—gear, dialogue, voice lines, and even movement.
+
+ESCALATING REWRITE
+Gradually replaces passives, UI labels, and even perception.
+You may not notice until it is too late.
+
+RETREAT PATTERN
+Flees when its manipulations are exposed or undone.
+Leaves behind inked echoes that fade quickly.
+
+POSSIBLE DROPS
+
+REWRITTEN PAGE (COMMON)
+A fragment of inked parchment.
+Used to alter story outcomes or equipment flavor texts.
+
+NULLSHADE QUILL (RARE)
+A dripping quill used to inscribe abilities with shifting effects.
+
+STOLEN NAME TOKEN (RARE)
+A whisper-bound name tag.
+Used to unlock hidden dialogue or trade with secret NPCs.
+
+GRAFTER’S LANTERN (LEGENDARY)
+Reveals hidden memory paths and protects against identity-based attacks for a limited time.
+
+UNWRITTEN TRUTH (UNIQUE)
+A blank scroll that can overwrite any one permanent change.
+
+“THE SCARIEST LIE IS THE ONE YOU START TO BELIEVE ABOUT YOURSELF.”

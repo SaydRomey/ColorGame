@@ -1,0 +1,116 @@
+SAPBORN STALKER
+
+WHISPER OF ROOTS
+
+“Roots remember where you stepped...”
+
+BESTIARY PLATE 47A
+
+TYPE
+
+Plant Construct / Ambusher
+
+THREAT
+
+High
+
+FIRST EMERGED
+
+Early Post-Shattering Era
+
+HABITAT
+
+Huevale Forests
+
+ANATOMY / TRAITS
+
+1. BARKSKIN CAMOUFLAGE
+
+Blends seamlessly with foliage when still.
+
+2. AMBER SAP VEINS
+
+Magically infused sap pulses beneath the bark.
+
+3. HOLLOW EYES
+
+Faint amber seep.
+Patient and watchful.
+
+4. ROOT-LASHED LIMBS
+
+Erupts from undergrowth in near silence.
+
+5. SAP RESIDUE
+
+Sticky trails slow movement and can immobilize prey.
+
+BEHAVIOR PATTERN
+
+1. Silent emergence from roots.
+
+2. Targets isolated prey.
+
+3. Ambush strike.
+
+4. Retreats if attack fails.
+
+5. Returns later when prey is vulnerable.
+
+HUE INTERACTION
+
+Resistant to Verdant control.
+
+Sap attacks can immobilize.
+
+Trails slow and distort movement.
+
+WEAKNESSES
+
+Crimson Flame —
+highly effective.
+
+Heavy Slashing —
+disrupts sap-structure.
+
+Elemental Extremes —
+fire or intense cold hardens / cleanses sap.
+
+BEFORE THE STRIKE
+
+Hidden beneath the roots.
+
+Leaf litter conceals entry points.
+
+Root network senses vibrations and footfall.
+
+Stalker coiled and waiting beneath the earth.
+
+FIELD NOTE — MOSSWATCH ARCHIVE
+
+Entry 2137-7
+
+“If you hear sap drip slow,
+you’re already being hunted.”
+
+— Feldgrau Veteran,
+Warden of Mosswatch
+
+SIZE / FIELD DATA
+
+Size:
+2.2–2.8 m, variable posture.
+
+Weight:
+120–180 kg, approximately.
+
+Footfall:
+None detected until emergence.
+
+Sap Composition:
+Viscous amber resin infused with vitae and root-magic.
+
+DANGER NOTE
+
+Sap residue can persist for hours.
+Avoid known trails — burn or freeze to clear.

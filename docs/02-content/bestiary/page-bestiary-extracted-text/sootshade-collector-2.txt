@@ -1,0 +1,167 @@
+SOOTSHADE COLLECTOR
+
+THE ASH THAT WHISPERS
+
+It gathers what the fire couldn’t erase.
+
+“It gathers burnt truths. And whispers them.”
+
+TYPE
+
+Ashbound Specter / Memory Leech
+
+THREAT LEVEL
+
+Moderate to High —
+Emotionally Destabilizing
+
+FIRST EMERGED
+
+Ash Year 4, after the Ember-Library Collapse.
+
+ROLE TAGS
+
+Trauma Archivist, Drainer, Truth-Gated, Nonviolent Option.
+
+REGION
+
+Auralith —
+The Dimming Hollow
+
+ANATOMY / TRAITS
+
+1. FACELESS ARCHIVE
+
+No visible mouth or face;
+whispers leak from torn seams.
+
+2. CHARRED PARCHMENT SKIN
+
+Layered burned pages preserve half-lost memory.
+
+3. ASH-SCROLL RIBBONS
+
+Trailing scrolls store forced recollections.
+
+4. SOOTSHADE VEIL
+
+Black fog replays memory fragments and confuses perception.
+
+5. BURNT TRUTH SCRIPT
+
+Scorched glyphs re-ink themselves when hidden truths surface.
+
+6. GRASPING MEMORY THREADS
+
+Ash filaments hook onto notes, artifacts, and thoughts.
+
+7. TESTIMONY DRIFT
+
+Loose ash motes move as if guided by old confessions.
+
+DESCRIPTION
+
+Shrouded in curling soot ribbons and bearing burned fragments of memory-script, the Sootshade Collector hunts down areas of past trauma or betrayal.
+
+It seeks to preserve what should have vanished —
+forcing the player to face remnants of personal or world lore they might have left behind.
+
+HABITAT / MANIFESTATION
+
+Found in burnt archives, soot-heavy monasteries, ash plains, burial roads, dim shrine caverns, and relic vaults.
+
+Hovers near burnt notes, ash-covered artifacts, and testimony chambers.
+
+Strong presence around Mortuum Hold and sites of betrayal records.
+
+Often appears where residue is thick and history was preserved incorrectly.
+
+BEHAVIOR / STATE FLOW
+
+LINGER → READ → FOG → RECALL
+
+Casts a black fog that replays memory fragments.
+
+May paralyze the player mid-battle by echoing key past dialogue.
+
+Hovers near burnt notes or ash-covered artifacts, trying to “read” them.
+
+Functions as a pressure encounter built around memory, hesitation, and forced recall.
+
+ABILITIES / STATUS EFFECTS
+
+TRAUMA FOG
+
+Replays memory fragments / cutscene echoes.
+
+COLD RECALL
+
+Repeats key past dialogue and stalls action.
+
+ASH-SCRIPT BIND
+
+Momentarily paralyzes through mnemonic pressure.
+
+BURNT TRUTH HARVEST
+
+Extracts forgotten events and leaves ash-bound pages.
+
+HUE INTERACTION
+
+Immune to fire and Crimson-based aggression.
+
+Amplifies lingering dialogue ghosts from Violet-aligned encounters.
+
+Neutralized temporarily by the Bistre Lantern’s glow.
+
+Spoken truth during a forced memory sequence destabilizes it.
+
+KNOWN WEAKNESSES
+
+Vulnerable to silence spells, especially Verdant or Violet sources.
+
+Disperses briefly in the light of the Bistre Lantern or reflective glyphs.
+
+Becomes unstable when the player speaks truth during a forced memory sequence.
+
+Best resolved through silence, lantern use, confession-state resolution, or truthful dialogue.
+
+LORE ENTRY — NOTES FROM THE BISTRE ARCHIVIST
+
+Not all things burned are lost.
+Some simply migrate.
+
+The Sootshade comes not to kill, but to recall —
+to trap you in a page you never turned and make you read it aloud.
+
+It does not judge, but it never forgets.
+
+Memory, when weaponized, burns colder than fire.
+
+AURALITH — DIMMING HOLLOW
+
+Realm of residue and ruin.
+Archives half-buried in ash.
+
+Where forgotten histories go to linger.
+
+ASH-BOUND PAGE (ITEM)
+
+A fragment of trapped memory.
+Using it reveals one hidden event or decision.
+
+BISTRE LANTERN (COUNTERMEASURE)
+
+Its steady light anchors truth and pushes back the soot.
+
+NOTES FROM THE HUNTER
+
+Sootshades leave behind Ash-Bound Pages —
+rare consumable scrolls that reveal one hidden event or decision the player has forgotten.
+
+Using one rewrites the memory log… at a cost.
+
+Do not burn it.
+Raise the lantern.
+
+Let the truth speak first.

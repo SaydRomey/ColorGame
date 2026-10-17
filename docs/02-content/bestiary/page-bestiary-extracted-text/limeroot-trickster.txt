@@ -1,0 +1,156 @@
+LIMEROOT TRICKSTER
+
+THE RHYMING SHADE
+
+“It rhymes,
+then strikes.”
+
+THREAT LEVEL
+MODERATE
+
+Highly disorienting and confusing.
+Avoid prolonged exposure.
+
+TYPE
+Spirit / Illusionist
+
+FIRST EMERGED
+Mid Post-Shattering Era.
+
+HUE INTERACTION
+
+MIRROR ILLUSIONS
+Creates powerful mirror illusions to duplicate itself or mimic allies.
+
+VERDANT RESISTANCE
+Resistant to direct Verdant manipulation due to its spiritual nature.
+
+RHYME DISRUPTION
+Disrupted by spells or effects that interrupt vocalizations or reverse illusions.
+
+PRISM SENSITIVITY
+Strong prism-aligned light can reveal the true form behind its masks.
+
+KNOWN WEAKNESSES
+
+COUNTER-ILLUSIONS
+Strong Violet magic or the Skobeloft Lens reveals and breaks its disguises.
+
+SILENCING EFFECTS
+Sonic disruptions or silence spells break its rhythm and prevent rhyme-casting.
+
+REVERSED VERSE
+Confusion spells or reversed language incantations can expose or immobilize it.
+
+LIGHT OF CLARITY
+Brilliant, steady light, especially prismatic, disrupts its shadow forms and illusions.
+
+DESCRIPTION
+
+The Limeroot Trickster appears as a shadowy, vine-clad mimic of the Limerick Druid, perpetually cloaked in shifting illusions.
+
+It speaks only in reversed limericks, using language itself as a weapon to bewilder, confuse, and ultimately ensnare its prey within layers of false reality.
+
+ANATOMY
+
+VINE-CLAD SHROUD
+Shadowy vines ripple and flow like fabric.
+Dotted with neon-lime blooms and citrus charms.
+
+MIRROR EYES
+Eyes swirl with reversed light.
+They see reflections of memory, not reality.
+
+WHISPERING PETALS
+Petals near its face vibrate when it speaks or casts its rhymes.
+
+LIME CHARMS
+Sliced-lime talismans amplify its rhyme magic and maintain illusion stability.
+
+ILLUSION THREADS
+Threads of mist and speech weave from its limbs, forming clones and traps.
+
+ROOTED SHADOW
+Its true body is barely tethered to the forest floor by twisted roots and rhyme-etched soil.
+
+RHYME-CAST ABILITIES
+
+MIRROR QUOTE
+Quotes a past line reversed, spawning a mirror duplicate that mimics you for a time.
+
+LOOPED LIMERICK
+Traps the target in a 3–5 second memory loop, replaying recent actions.
+
+PETAL PUZZLE
+Scatters petal runes that must be solved in reverse order or suffer confusion damage.
+
+VERSE VORTEX
+Creates a zone where all speech and UI elements become reversed and distorted.
+
+NOTES
+
+Survivors often hear their own thoughts reversed for days afterward.
+
+Some say it remembers every word ever spoken in the forest and uses that against you.
+
+It enjoys riddles, jokes, and wordplay — answering correctly may delay combat or gain rare clues.
+
+Rarely drops rhyme-etched trinkets or memory petals used in illusion-weaving.
+
+LORE ENTRY
+
+An excerpt from “Echoes and Rhymes: Verses of Verdant Mischief,” anonymous manuscript found in Tinctara Archives.
+
+“Beware the voice speaking in verse,
+Whose words flow smoothly, reversed.
+
+It laughs from the shade,
+With mischief it’s made—
+In echoes your senses immersed.”
+
+It began as whispers in Huevale, perfectly mimicking the beloved Limerick Druid.
+We thought it harmless—just playful forest echoes.
+
+But soon we realized our mistake.
+Each rhyme it spoke twisted reality, illusions folding upon illusions, until we doubted which reflection was truly ours.
+
+It lures wanderers astray, conjuring mirror selves that act with intent to confuse, leading them deep into forgotten groves or shadowed hollows from which they never return.
+
+Those who escape describe endless rhyme echoing in their dreams, language tangled and reversed, pulling sanity thread by thread.
+
+In Huevale, the line between jest and threat is blurred by the Limeroot Trickster—a creature of rhyme, whose laughter is but the first warning of its cunning deception.
+
+BEHAVIOR
+
+VERSE OF DECEPTION
+Speaks only in reversed limericks.
+Uses rhyme to cast illusions, traps, and curses.
+
+MIRROR DANCE
+Creates mirror duplicates that act independently to confuse and mislead opponents.
+
+TWISTED TRAIL
+Alters the environment, reversing pathways, controls, and even memory cues for a short time.
+
+VANISHING ACT
+Retreats into shadows or illusions when its rhythm is broken or illusions are unraveled.
+
+POSSIBLE DROPS
+
+TRICKSTER’S PETAL (COMMON)
+A shimmering petal that stores a short memory.
+Used in crafting illusion gear.
+
+LIMEROOT VINE (UNCOMMON)
+A living vine threaded with words.
+Used in potion infusions and rhyme catalysts.
+
+MIRROR BLOSSOM (RARE)
+A fragile bloom that reflects the truth for a moment.
+Disrupts illusions when placed.
+
+RHYMING SHADE CORE (LEGENDARY)
+The Trickster’s core essence.
+Allows crafters to weave advanced illusion staves and memory armor.
+
+“IF THE WORDS TWIST, TRUST NOT WHAT YOU THINK YOU KNOW.”

@@ -1,0 +1,212 @@
+PRISM UNFORM
+
+THE HUE THAT FORGOT
+
+A hue that forgot what it was.
+
+“It shifts.
+It splinters.
+
+It remembers every color but its own.”
+
+CODEX ENTRY No. 47-PU
+
+NAME
+
+Prism Unform
+
+TYPE
+
+Spectral Hue Aberration
+
+THREAT LEVEL
+
+High — Dangerous in prolonged engagements
+
+FIRST EMERGED
+
+Nullshade Collapse
+
+ANATOMY / MANIFESTATION
+
+SHIFTING SILHOUETTE
+
+Form never settles.
+Shape adapts frame to frame, defying focus and lock.
+
+STUTTERING EDGES
+
+Edges glitch and tear as reality struggles to define what it once was.
+
+BROKEN HUE FRAGMENTS
+
+Fragments of countless alignments orbit and refract.
+None remain whole.
+
+UNSTABLE GLITCHED FORMS
+
+Limbs may elongate, split, or invert.
+Hitboxes flicker between states.
+
+EXPOSED CORE (DURING STASIS)
+
+Between transitions, its core is briefly visible —
+raw interference and memory.
+
+HUE INTERACTION
+
+Prism Unform does not follow order.
+It follows impulse.
+
+Cycles through hue-based attacks in glitched order.
+
+May cast a Red spell followed by a corrupted Blue one.
+
+Attacks grow stronger as the player unlocks more Hue alignments.
+
+Unaffected by single-hue barriers.
+
+Vulnerable to total hue nullification fields.
+
+UNSTABLE HUE TRANSITION — EXAMPLES
+
+Violet Dreamshards.
+
+Golden Flare Echoes.
+
+Crimson Pulses.
+
+Green Growth Flickers.
+
+Spectral Glitch.
+
+ATTACK CYCLE — GLITCHED ORDER
+
+HUE SURGE
+
+Open.
+
+CORRUPTED SHIFT
+
+Follow-up.
+
+AFTERIMAGE BURST
+
+Evasive.
+
+SPLINTER IMPALEMENT
+
+Pierce.
+
+MEMORY ECHO
+
+Adaptive.
+
+Sequence is never fixed.
+It forgets its own rhythm.
+
+BEHAVIOR PATTERN
+
+1. OBSERVE
+
+Pursues the player slowly.
+Watches. Learns.
+
+2. PROVOKE
+
+Once provoked, erupts with abrupt hue surges.
+
+3. ADAPT
+
+Adapts to player habits and may repeat a spell the player recently used.
+
+4. RECALL
+
+Occasionally pauses mid-fight as if recalling something.
+
+5. ESCALATE
+
+Transitions accelerate.
+Intensity increases as the battle continues.
+
+KNOWN WEAKNESSES
+
+Vulnerable during moments of stasis between hue transitions.
+These windows are brief.
+
+The Nullfield Sigil suppresses its spectrum and reveals its core.
+Use to expose and damage.
+
+Silent spells or attacks without elemental tags confuse it temporarily.
+It struggles to classify what it cannot hear.
+
+Disrupting hue flow with total nullification fields can shut it down completely.
+Rare and difficult to maintain.
+
+LORE FRAGMENT
+
+“We wore colors like crowns.
+Then we drowned in them.
+
+One escaped the palette.
+One became many.”
+
+“The Unform wasn’t made.
+It occurred.
+
+A glitch in memory.”
+
+“They say it remembers your colors before you do.”
+
+“It flickers —
+not because it’s weak, but because the truth burns too brightly to hold still.”
+
+DANGER ESCALATION VS. HUE ALIGNMENTS UNLOCKED
+
+0–1 HUES UNLOCKED — LOW
+
+Predictable pattern.
+Limited palette.
+
+2–3 HUES UNLOCKED — MODERATE
+
+More transitions.
+More adaptive responses.
+
+4–5 HUES UNLOCKED — HIGH
+
+Faster cycles.
+Stronger attacks.
+
+More illusions.
+
+6–7 HUES UNLOCKED — VERY HIGH
+
+Near-constant transitions.
+Punishing mistakes.
+
+ALL HUES UNLOCKED — EXTREME
+
+Relentless.
+Overwhelming.
+
+Few survive.
+
+FIELD NOTES / OBSERVATIONS
+
+Some say defeating it causes a flicker in the environment, revealing a flash of the player’s first memory choice.
+
+Others report no drops —
+only a glow, like mourning.
+
+DROPS
+
+Unknown.
+
+Common report:
+No material drops.
+
+Only a lingering light.
+
+“It is not evil.
+It is absence given motion.”

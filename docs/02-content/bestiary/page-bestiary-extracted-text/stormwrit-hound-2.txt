@@ -1,0 +1,142 @@
+STORMWRIT HOUND
+
+BOLT BETWEEN WORLDS
+
+“It howls in lightning —
+and leaps between bolts.”
+
+TYPE
+
+Lightning Beast / Elemental Predator
+
+THREAT LEVEL
+
+HIGH —
+Fast, Unpredictable, Anti-Casting
+
+FIRST EMERGED
+
+During the Tempest Surge following the Shattering.
+
+ANATOMY BREAKDOWN
+
+1. STORMWIRE FUR
+
+Body made of conductive stormwire strands and ionized vapor.
+Shifts constantly between solid and static.
+
+2. GLASS CLAWS
+
+Crystalline claws cut through metal and arcane barriers alike.
+
+3. STATIC HEART
+
+Core of compressed lightning.
+Powers its teleports and disruptive howls.
+
+4. AFTERIMAGE TRAIL
+
+Moves faster than sight can track, leaving flickering echoes of its last position.
+
+5. THUNDER LUNGS
+
+Breath crackles with ozone and pressure.
+Its growl distorts air and thought.
+
+6. RIFT-BOUND LIMBS
+
+Joints phase between planes for instant leaps and unpredictable angles.
+
+7. STORM SENSE NODES
+
+Detects electrical charge, magical rhythm, and incoming spells before they are cast.
+
+HABITAT / MANIFESTATION
+
+Haunts skybound cliffs, storm relays, and shattered skyglass fields.
+
+Appears during high winds, ritual storms, or heavy arcane buildup.
+
+Lightning nodes, such as skyglass or copper spires, allow it to leap and ambush.
+
+Territory pulses with static —
+distant thunder and flickering lights.
+
+BEHAVIOR / STATE FLOW
+
+PACE CLIFF EDGE → LEAP BETWEEN NODES → FLASH-FANG LUNGE → HOWL & DISRUPT
+
+Paces cliff edges until it senses fast movement or charged spell buildup.
+
+Leaps between lightning nodes, such as skyglass spikes or copper relays.
+
+Uses Flash-Fang Lunge:
+teleports, hits, and leaves a static copy for 2 seconds.
+
+Occasionally howls —
+this stuns rhythm-based abilities and lowers visibility with a storm flash.
+
+HUE INTERACTION
+
+Disrupts spell channeling, especially Cobalt-based spells tied to storm or rhythm.
+
+At high static charge, briefly disables Color Binding UI.
+
+Can be slowed if surrounded by harmonic resonance, such as instruments or echo chimes.
+
+KNOWN WEAKNESSES
+
+Susceptible to wind-grounding relics and Cerulean Cloak effects.
+
+Harmonic instruments, such as skybell chimes or glass flutes, distort its targeting.
+
+Momentarily pacified if its own lightning arc is reflected, such as with Payne’s Prism Pane or a storm mirror.
+
+LORE ENTRY
+
+“We heard it before we saw it —
+not a bark, but a pressure drop.
+
+The air folded in half.
+Then it struck.
+
+It doesn’t follow you.
+It finishes thoughts you haven’t had yet.
+
+And when it howled,
+something behind my eyes shattered.
+
+I left the cliffs that day.
+
+My journal didn’t.”
+
+— Archivist Iol
+
+NOTES
+
+Some monks claim the Stormwrit Hounds carry messages between lightning gods —
+or are the messages.
+
+One relic hunter’s log simply said:
+
+“Don’t blink during thunder.”
+
+POSSIBLE DROPS
+
+STORMWIRE FANG
+
+Crafting material.
+
+RIFT-INSCRIBED CORE
+
+Used in storm-channel relics.
+
+FIELD NOTE
+
+Watch the sky.
+Watch the air.
+
+Watch your rhythm.
+
+If one appears mid-cast…
+you were already late.

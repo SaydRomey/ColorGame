@@ -1,0 +1,181 @@
+HUE LEECHES
+
+THE DRIP OF STOLEN COLOR
+
+“They shimmer with borrowed light—and leave you pale.”
+
+THREAT LEVEL
+
+MINOR
+
+Annoying in small numbers; dangerous when left unchecked in swarms.
+
+TYPE
+
+Color-Parasitic Aberration
+
+FIRST EMERGED
+
+Post-Prism Fracture
+
+HUE INTERACTION
+
+TARGET ACTIVE HUES
+
+Prefer targets with recently activated spells or abilities.
+
+NEUTRAL TO PHYSICAL PRESENCE
+
+Highly reactive to visual spell cues or aura pulses.
+
+TURNS GRAY AND INERT
+
+When exposed to complete hue-suppression fields, such as Nullshade auras or unaligned relics.
+
+KNOWN WEAKNESSES
+
+AOE BURSTS
+
+Vulnerable to area-of-effect bursts, especially of non-hue damage types such as shockwaves or force spells.
+
+PRISM FLASH TALISMANS
+
+Disrupt their hue tethering and repel them briefly.
+Easier to defeat in the moment of disruption.
+
+MIRROR-ANGLED LIGHT
+
+Can be stunned with a precise angle of light, then popped like fragile bubbles.
+
+DESCRIPTION
+
+Hue Leeches resemble globs of suspended ink, tinged with glimmering rainbow pulses.
+
+They drift in the air or hover near hue-aligned shrines, drawn to magic or activated color states.
+
+When they latch onto the player, they drain a hue, causing equipped abilities to “gray out” for several seconds, rendering them unusable.
+
+ANATOMY
+
+COLOR MEMBRANE
+
+Semi-transparent skin ripples with stolen hue resonance.
+
+SIPHON TENTACLES
+
+Absorb active hue energy on contact.
+Secrete dulling fluid that disrupts flow.
+
+DRIP TRAIL
+
+Leaves shimmering residue that may attract more leeches or react to light.
+
+HUE CORE
+
+The pulsing nucleus stores drained color.
+Destroys itself if severely jolted.
+
+GEL CAPILLARIES
+
+Carry absorbed hue throughout the body.
+Glow brighter after a successful drain.
+
+ANTI-ESSENCE GLAND
+
+Excretes a numbing mucus that slows recovery and intuition.
+
+DRAIN EFFECTS
+
+INITIAL LATCH
+
+A leech latches on.
+
+HUE DRAIN
+
+Your active hue is drained.
+
+DEPLETED
+
+Abilities “gray out” and cannot be used until it is removed.
+
+NOTES
+
+Not bound to one realm—they drift wherever color falters or bleeds.
+
+May attach to players, creatures, or even shrine-cores.
+
+Destroying their core releases a burst of unstable hue residue.
+
+Archivists debate their origin:
+Prism Tears... unfinished hues... or something older still?
+
+LORE ENTRY
+
+Excerpt from “Drifting Parasites of the Huefold Realms” by Ashar of Huevale.
+
+“At first, I mistook them for droplets of oil falling upward—mesmerizing, harmless.
+
+But when I cast even the simplest burst of Crimson, they surged like starving children.”
+
+“One latched onto my back, and the world dimmed.
+My fire fizzled to ash. My pulse slowed.”
+
+“In that moment, I understood—they feed not on color... but on intention.”
+
+“Hue Leeches do not kill.
+They erase.”
+
+“What you meant to do fades.
+What you believed, dulls.”
+
+“I survived by flashing a prism shard in their midst—they scattered, furious, luminous.”
+
+“They taught me the cruelest truth:
+color is trust.”
+
+“And they are doubt incarnate.”
+
+BEHAVIOR
+
+SPAWN LOCATIONS
+
+Appear in swarms near prism fractures, old altars, or failed transmutation zones.
+
+PASSIVE UNTIL PROVOKED
+
+Linger passively until provoked by hue use.
+
+SWARM INSTINCT
+
+Group behavior increases drain speed and duration.
+
+FLEE WHEN DISRUPTED
+
+Attempt to escape if stunned or flashed with high-contrast light bursts.
+
+POSSIBLE DROPS
+
+LEECHED HUE GLOB (COMMON)
+
+A viscous drop of drained color.
+Used in crafting, potions, or temporary enchantments.
+
+PRISM CORE FRAGMENT (RARE)
+
+A fractured core still hummed with unstable hue.
+Valuable in high-tier rituals.
+
+DULLTIDE RESIN (UNCOMMON)
+
+Numbing fluid that can be coated on weapons to disrupt enemy spellflow.
+
+FADED INTENTION (VERY RARE)
+
+Whispers of forgotten spells and half-formed outcomes.
+Used in ancient memory binding.
+
+“THEY DO NOT KILL.
+THEY ERASE.
+
+GUARD YOUR COLOR.
+GUARD YOUR PURPOSE.”

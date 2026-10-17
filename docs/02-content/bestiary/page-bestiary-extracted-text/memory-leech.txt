@@ -1,0 +1,152 @@
+MEMORY LEECH
+
+THE FORGETTING HUNGER
+
+“It doesn’t feed on blood.
+It gnaws at your knowing.”
+
+THREAT LEVEL
+MODERATE
+
+Feeds on cognition and interface memory.
+Disrupts skills, HUD, and short-term recall.
+
+TYPE
+Cognitive Parasite / HUD Saboteur
+
+FIRST EMERGED
+During the Prism’s collapse, amid the data loss storm.
+
+HUE INTERACTION
+
+RESISTANT TO BLUE
+Highly resistant to logic- and pattern-based attacks.
+
+VULNERABLE TO MEMORY RESTORATION
+Weak to memory-restoring items and effects such as the Bistre Lantern.
+
+DISORIENTED BY ECHO OR SILENCE
+Temporarily disoriented by Echo-based spells or full silence auras.
+
+KNOWN WEAKNESSES
+
+MEMORY ARTIFACTS
+Repelled by memory artifacts like the “Tethered Locket” or “Truth Echo Scroll.”
+
+FIRE AND LIGHT
+Fire-based AoE flushes them out of stealth.
+They avoid direct sunlight or radiant zones.
+
+OVERFED STATE
+Vulnerable when “full” — after stealing too many prompts, they slow down visibly.
+
+MEMORY ECHO
+Can be knocked off by triggering a memory echo or entering a reflection of a past scene.
+
+DESCRIPTION
+
+A wiry insect-like creature with limbs of glinting obsidian and a core that pulses like a heartbeat.
+
+When close, it emits a whispering hum — like your own thoughts turned alien.
+
+ANATOMY
+
+SHATTERED CARAPACE
+Crystalline plates refract ambient memories, making it hard to target.
+
+CLOCK-EYES
+Each fractured lens records the rhythm of learned actions and UI patterns.
+
+HUNGER CORE
+A pulsing knot of Nullshade energy that stores stolen memories.
+
+MEMORY SPIRES
+Crystals absorb and lock in stolen data.
+Glow intensifies as it “feeds.”
+
+LEECH MANDIBLES
+Pierce cognition instead of flesh, extracting memory tethers.
+
+CLAW TIPS
+Sharp obsidian points inject static that scrambles interface and recall.
+
+MEMORY-STEAL EFFECTS
+
+LOST PROMPTS
+Removes button prompts or action cues for a short duration.
+
+ABILITY DRAIN
+Disables 1–2 hue abilities randomly, or swaps their cost.
+
+UI DISTORTION
+Text flickers, reverses, or becomes unreadable.
+
+NARRATIVE ECHO
+Hears fragments of past dialogue, not always accurate.
+
+NOTES
+
+Rarely appear in groups, but the damage they do accumulates mentally.
+
+Defeating them restores lost prompts gradually.
+
+Some memories return only after interacting with an NPC, shrine, or key location.
+
+Nullshade survivors say:
+“If you hear yourself forget... run.”
+
+LORE ENTRY
+
+Fragment from “Nullborne Ecology,” etched in fading ink by a Bistre Archivist.
+
+“They were first seen crawling from Shatterglass Pools — drawn to forgotten words and interrupted thoughts.”
+
+“One latched onto me during a glyph alignment.
+
+For hours, I couldn’t recall what fire was.
+Only when I held my child’s drawing did the memory return.”
+
+“Their hunger is specific: they consume the shape of memory.
+They feed on the scaffolding of identity.”
+
+“To kill one is easy.
+To recover what it took is not.”
+
+BEHAVIOR
+
+ERRATIC PURSUIT
+Charges the player in unpredictable bursts, using walls and shadows for cover.
+
+MEMORY LATCH
+On successful attack, it drains memory, causing interface and ability disruption.
+
+INTERFACE CORRUPTION
+Disables 1–2 equipped Hue abilities, removes button prompts, and distorts HUD elements.
+
+WHISPERING HUM
+Emits a low, echoing tone — a warped version of the player’s own thoughts, meant to unnerve and disorient.
+
+FLEES WHEN EXPOSED
+Retreats quickly when hit with memory echoes, fire, or sunlight.
+
+POSSIBLE DROPS
+
+FRACTURED RECALL (COMMON)
+A shard of stolen memory.
+Restores a lost prompt or minor HUD element.
+
+MEMORY CORE (UNCOMMON)
+Pulsing core used to craft memory-based augments or interface stabilizers.
+
+LEECH MANDIBLE (RARE)
+Used in alchemical bindings to disrupt enemy recall or pull hidden memories.
+
+SHATTERED CLOCK (RARE)
+A broken timepiece that reveals brief visions of recent stolen memories.
+
+FORGOTTEN NAME (LEGENDARY)
+A name scraped from the leech’s core.
+Used to access locked memory vaults or reawaken buried truths.
+
+“TO REMEMBER IS TO RESIST.
+TO FORGET IS TO BE CONSUMED.”

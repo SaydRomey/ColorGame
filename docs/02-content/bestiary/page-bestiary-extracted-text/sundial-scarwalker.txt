@@ -1,0 +1,156 @@
+SUNDIAL SCARWALKER
+
+THE WEIGHT OF TIME
+
+The shadow that counts every step.
+You can’t run from time. Especially when it’s hunting.
+
+CLASSIFICATION
+
+Type:
+Construct / Solar Chronoknight
+
+Threat Level:
+High — Time-reactive combatant
+
+First Emerged:
+Built pre-Shattering as timekeepers and guardians of sacred solar rituals; corrupted by the Huefall.
+
+Region:
+Luxeran — The Gilded Expanse
+
+ANATOMY BREAKDOWN
+
+1. SUNDIAL FACE
+
+Rotating solar ring judges by shadow, not sight.
+
+2. SUNSTEEL CREST
+
+Ritual metal frame catches and redirects light.
+
+3. SANDSTONE CHRONO-PLATES
+
+Layered timeworn armor built from sun-tempered stone.
+
+4. SHADOW GNOMON
+
+Central blade casts the tracking shadow.
+
+5. HOURSTEP GREAVES
+
+Heavy legs leave clock-hand scorch marks.
+
+6. SOLAR GLYPH CORE
+
+Internal timing engine powers delayed pursuit.
+
+7. CHRONOBLADE / SCARWALKER ARMS
+
+Ancient guardian weaponry for critical slashes.
+
+DESCRIPTION
+
+A towering warrior built from layered sun-tempered stone and obsidian.
+
+Its face is a circular sundial ring that rotates subtly, and it leaves scorch-marks shaped like clock hands where it steps.
+
+It hunts through rhythm, shadow, and inevitability.
+
+HABITAT / MANIFESTATION
+
+Found in solar ruins, ritual courtyards, sun courts, desert roads, collapsed observatories, and sacred timekeeping sites across Luxeran.
+
+Most dangerous in bright open areas at midday, near functioning solar mechanisms, mirrored courts, or sun-lit shrine thresholds.
+
+BEHAVIOR / STATE FLOW
+
+STILL SENTINEL → HOURSTEP TRACKING → SHADOW ALIGNMENT → NONSTRIKE → GLYPH RESET
+
+“HOURSTEP” MECHANIC
+
+Only moves when the player moves, mimicking the player’s last path with a 2-second delay.
+
+“NONSTRIKE”
+
+In bright zones, attacks deal double damage if the player is mid-action.
+
+“SHADOWBIND”
+
+When its shadow aligns with the player’s, it stuns and delivers a critical slash.
+
+Rhythmic drumming announces its approach; ignoring the movement of its shadow leads to ambush.
+
+ABILITIES / STATUS EFFECTS
+
+HOURSTEP
+
+Delayed mimic pursuit.
+
+NONSTRIKE
+
+Punishes actions in bright light.
+
+SHADOWBIND
+
+Shadow-alignment stun and critical hit.
+
+SUNDIAL GLYPH CAST
+
+Creates temporal hazard circles / solar timing zones.
+
+JUDGMENT MARCH
+
+Relentless pressure by rhythm and shadow.
+
+HUE INTERACTION
+
+Ignores illusionary magic completely and tracks true player movement.
+
+Speeds up in bright Aurelian light and slows in shadow.
+
+Temporarily disrupted by Cobalt echo abilities or time-fracture artifacts.
+
+Light-blocking tools and sun disruption interfere with its strongest solar attacks.
+
+KNOWN WEAKNESSES
+
+Predictable with clever timing; pausing or stutter-stepping confuses its delayed tracking.
+
+Most vulnerable when casting its own sundial glyphs due to a slow wind-up.
+
+Blocking light or using sun-disruption tools disables Nonstrike temporarily.
+
+Shadow and dusk conditions reduce its pressure and speed.
+
+LORE ENTRY — EBURNEAN DESERT CHRONICLE
+
+Before there were calendars, there were these things — time given feet and fury.
+
+Each movement carves a moment.
+Each kill, a tick lost.
+
+You notice its approach when your heartbeat syncs to the drag of its shadow.
+
+The sun loves its children orderly.
+The Scarwalker ensures it.
+
+REGIONAL CONTEXT
+
+Luxeran / The Gilded Expanse —
+Radiant desert, solar ruins, mirage courts.
+
+TACTICAL NOTE
+
+Walk without urgency.
+Break line of light.
+
+Watch the shadow.
+Control your rhythm.
+
+Control your fate.
+
+HUNTER’S NOTE
+
+“The shadow doesn’t chase.
+It waits where you were always going.”

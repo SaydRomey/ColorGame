@@ -1,0 +1,178 @@
+SPOREKIN
+
+CHILDREN OF DECAY
+
+Small figures crowned with fungal blooms.
+
+“Born of breath, fed by decay.”
+
+NAME
+
+Sporekin
+
+TYPE
+
+Fungal Creature / Illusionary Hazard
+
+THREAT LEVEL
+
+Moderate —
+Highly disruptive, dangerous in numbers
+
+FIRST EMERGED
+
+Post-Shattering Era
+
+REGION
+
+Huevale —
+Verdant Frontier
+
+ANATOMY
+
+1. FUNGAL CROWN
+
+Delicate glowing mushrooms bloom from the head.
+
+2. MOSS-FACE
+
+Soft mossy features hide deceptive expressions.
+
+3. GLOWING EYES
+
+Curious, childlike, and unsettling.
+
+4. HALLUCINATION SPORE CLOUD
+
+Drifting motes warp vision and perception.
+
+5. AGILE CHILDLIKE FRAME
+
+Small, quick, and difficult to pin down.
+
+6. ROOTED FINGERS / FUNGAL HANDS
+
+Spread spores and cling to damp surfaces.
+
+7. SPOREBURST GROWTHS
+
+Unstable blooms that can burst under flame.
+
+DESCRIPTION
+
+Sporekin appear as small, moss-covered humanoids with glowing fungal crowns.
+
+Innocent at first glance, they emit continuous clouds of spores that warp perception, induce hallucinations, and sow confusion, often causing prey to become lost or disoriented.
+
+HABITAT / MANIFESTATION
+
+Fungal hollows and bioluminescent glades.
+
+Damp shrine gardens and overgrown archive ruins.
+
+Marsh edges and moonlit deep groves of Huevale.
+
+Gather in playful circles, especially where decay and memory-rich growth overlap.
+
+BEHAVIOR / STATE FLOW
+
+PLAYFUL GATHERING → SPORE SATURATION → HALLUCINATION DRIFT → TERRITORIAL SWARM
+
+Dance and laugh softly in groups.
+
+Saturate the air with spores.
+
+Overwhelm intruders through confusion and warped perception.
+
+Rarely rely on direct attacks.
+
+ABILITIES / STATUS EFFECTS
+
+HALLUCINATION SPORES
+
+Induce vivid visions and false landscapes.
+
+VISUAL DISTORTION
+
+Warps light, shapes, and distance.
+
+CONTROL SCRAMBLE
+
+May reverse inputs or cause erratic movement.
+
+DREAM HARVEST
+
+Feeds on memory resonance to strengthen illusion.
+
+SPORE BURST
+
+Explosive bloom that releases a dense, blinding spore cloud.
+
+HUE INTERACTION
+
+Completely immune to poison and Verdant toxins.
+
+Resistant to direct plant or fungal manipulation.
+
+Susceptible to purifying effects from Yellow or Violet hues.
+
+Crimson flame destroys them quickly but can trigger explosive spore bursts.
+
+KNOWN WEAKNESSES
+
+Highly vulnerable to sonic-based attacks;
+disperses spore clouds and temporarily stuns them.
+
+Purifying spells rapidly dissolve their fungal structure.
+
+Flame works, but may create dangerous explosive bursts.
+
+FIELD NOTES FROM A WAYFARER
+
+I saw the dancing lights before I saw the shapes.
+
+Childlike, moss-faced forms crowned in mushrooms, laughing in the mist.
+
+Colors burst into vision.
+Paths folded.
+
+I forgot why I came.
+
+I woke with blooms on my skin and soil in my hair.
+
+Only then did I understand —
+their laughter was not joy.
+
+It was mockery.
+
+HUEVALE — VERDANT FRONTIER
+
+Where living things remember, and what dies may still dream.
+
+SPORE SAMPLE
+
+Collector’s note:
+Emits soft luminescence; reacts to breath, heat, and memory.
+
+HUNTER’S NOTE
+
+Survivors return changed.
+
+Fungal markings bloom where spores linger.
+
+Memories do not fade —
+they are woven deeper.
+
+Treat every whispering circle as a trap of memory and mockery.
+
+TRACKER’S ICONS
+
+Spore Cloud Detected.
+
+Memory Disruption.
+
+Playful Gathering.
+
+Sporeburst Risk.
+
+“In the Verdant Frontier, decay dances, and memory is the deepest soil.”

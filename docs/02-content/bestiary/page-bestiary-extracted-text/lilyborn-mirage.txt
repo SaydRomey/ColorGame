@@ -1,0 +1,169 @@
+LILYBORN MIRAGE
+
+MEMORY WRAPPED IN BLOOM
+
+“What did you just say?
+Are you sure?”
+
+“I just asked you that...”
+
+“Do you remember this?”
+
+“That’s not how it happened...”
+
+“No, that’s not what you said.”
+
+“You always forget the important parts...”
+
+THREAT LEVEL
+MODERATE
+
+Cognitive disruption that can bend reality and choices.
+
+TYPE
+Dream-Construct / Illusory Interrogator
+
+FIRST EMERGED
+During the Bloomwake Season in Myrrala.
+
+HUE INTERACTION
+
+WEAK TO PATTERN DISRUPTION
+Cobalt’s Mind Echo or Violet’s Glamour Pulse can break its illusion loops.
+
+RADIANT TRUTH
+Aurelian’s Radiant Echo reveals which “memories” are false.
+
+ROOT & GROUND
+Verdant tools like Skygrowth Seed can ground its mist.
+
+IMMUNE TO DIRECT DAMAGE
+Physical attacks pass through unless it is made tangible.
+
+KNOWN WEAKNESSES
+
+RHYTHMIC DISRUPTION
+Call-and-response magic, such as Razmatazz Drum, interrupts its loops.
+
+TANGIBLE WINDOWS
+Becomes tangible during the final beat of a rhythmic cycle.
+
+THULIAN MIRROR
+Using the Thulian Mirror reveals the next line it will speak.
+
+EMOTIONAL RELEASE
+Acts weaken if the player speaks a truth aloud or releases pent-up emotion.
+
+DESCRIPTION
+
+An elegant dream-entity birthed from twilight lilies that have rooted in regret.
+It does not fight with force — it unravels by asking.
+
+The Mirage loops scenes or lines the player has heard before, layering them until choice becomes confusion.
+
+Some of its illusions are true.
+Some are almost true. Some are yours.
+
+It casts questions mid-fight, and answering the wrong way replays the action — with damage.
+
+ANATOMY
+
+LILY CROWN
+Absorbs lingering emotion and blooms memories into existence.
+
+PETAL VEIL
+Shifts and refracts form.
+Appears different to every observer.
+
+WHISPERING MIST
+Carries fragments of conversations, choices, and regrets.
+
+GLIMMERING EYES
+Not true eyes — they reflect the player’s unresolved questions.
+
+HEART BLOOM
+A core of compressed memory.
+Destroying it ends the loop.
+
+ROOTED PETALS
+Anchor the Mirage in place.
+Breaking these weakens its hold.
+
+MEMORY LOOP ABILITIES
+
+SHIMMERBURST
+Reverses the last dialogue choice or action.
+Opens most encounters.
+
+MEMORY BLOOM
+Creates an ALCOM that forces the player to “speak,” triggering looped decisions.
+
+ECHO PETALS
+Tracks the player and replays past statements as homing projectiles.
+
+REWIND QUESTION
+Asks a single question.
+Wrong answer rewinds time and deals damage.
+
+NOTES
+
+The Mirage feeds on unanswered questions, regrets, and half-spoken confessions.
+
+Rare scholars have reported that some Mirages remember players across regions.
+
+If you hear your own voice ask you something you never said... run.
+
+LORE ENTRY
+
+Scribbled in wilted dreampetal script.
+
+“They don’t lie.
+They don’t have to.”
+
+“The lilies remember what was said — or what was meant — or maybe just what we wished we said.”
+
+“These things bloom when emotion lingers too long in one place.
+They drink from forgotten farewells and root into questions left unanswered.”
+
+“I spoke to one once.
+Or maybe it spoke to me.”
+
+“It asked what I feared most.
+I told it. Then I told it again. And again. And again.”
+
+“When I came to, the petals had grown teeth.
+And I was bleeding memory.”
+
+— Whisperleaf fragment, found in the Veilgrove Spiral.
+
+BEHAVIOR
+
+SHIMMERS INTO VIEW
+Appears during moments of emotional resonance or near areas of lingering memory, such as ruins, shrines, and graves.
+
+LOOP CASTING
+Repeats 3–5 second memory loops that affect hitboxes, terrain, and even UI elements.
+
+QUESTION WEAVER
+Asks questions that distort reality.
+Wrong answers replay events and cause damage or debuffs.
+
+RETREAT INTO BLOOM
+Disperses into petals and mist when weakened, only to bloom again elsewhere.
+
+POSSIBLE DROPS
+
+PETAL OF RECOLLECTION (RARE)
+Preserves a memory fragment.
+Can be used to replay a cutscene or recover one lost dialogue choice.
+
+BLOOMWHISPER FRAGMENT (RARE)
+Used to craft dream-based talismans and illusion stabilizers.
+
+MIRAGE LILY CORE (LEGENDARY)
+The core memory of a Mirage.
+Allows the player to summon a brief illusion of the Mirage for aid.
+
+ECHOING QUESTION (UNIQUE)
+A mysterious item that asks the player a riddle once per day.
+The answer changes based on your choices.

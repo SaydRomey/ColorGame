@@ -1,0 +1,173 @@
+SPECTRAL HARVESTER
+
+THE REAPER OF WHAT YOU FORGOT
+
+One swing, and your history falls away.
+
+“You failed to remember.
+Now it comes to remember for you.”
+
+CLASSIFICATION
+
+Type:
+Memory-Execution Wraith / Nullshade Reaper
+
+Threat Level:
+Very High —
+Appears only on significant player failure
+
+First Emerged:
+After the First Prism Dissonance Event
+
+Region:
+Nullshade —
+Prism Wound / Colorless Core
+
+Role Tags:
+Failure-State Executioner, Meta, Echoable
+
+ANATOMY BREAKDOWN
+
+1. MIRRORED JUDGMENT MASK
+
+Reflects distorted moments from the player’s journey.
+
+2. VEIL-LIGHT SHROUD
+
+Torn cloak woven from erased memory.
+
+3. HUE-SCOUR BLADE
+
+Half crystal, half blacksteel, trailing broken color.
+
+4. ECHO-DRAGGED STEPS
+
+Each step pulls faded versions of the player through warped soil.
+
+5. FRACTURE HALO
+
+Prism shards and slow-time distortion crown its presence.
+
+6. NULLSHADE CORE
+
+Hollow center of denial and erasure.
+
+7. SCOUR ARC RESIDUE
+
+Each swing strips certainty from map, HUD, and recollection.
+
+DESCRIPTION
+
+Tall, cloaked entity with a shattered hue-scour blade —
+half-crystal, half-blacksteel.
+
+Its face is hidden behind a mirrored mask that shows distorted moments from the player’s journey.
+
+Wields a scythe-like weapon with arcs of fractured color trailing behind it.
+
+Each step drags echoes of faded versions of the player through time-warped soil.
+
+TRIGGER CONDITIONS
+
+Appears if the player fails a Memory Echo segment, Nullshade prism riddle, or refuses to resolve a major lore prompt.
+
+Spawns directly into the area, warping the environment subtly:
+sky darkens, color flickers, geometry buckles.
+
+BEHAVIOR / STATE FLOW
+
+TRIGGERED FAILURE → WARPING ARRIVAL → MEMORY CLEAVE → ECHO BANISH → FROZEN MEMORY
+
+Advances slowly.
+Imposes mnemonic pressure.
+
+A punishment encounter tied to unresolved truth, not a normal ambush.
+
+MECHANICS / ABILITIES / STATUS EFFECTS
+
+MEMORY CLEAVE
+
+If it lands a hit, the player loses part of map progress or recorded lore entries temporarily.
+
+HARVEST SWING
+
+Deletes a portion of active HUD, such as minimap or skill bar.
+
+Restores only after re-solving the triggering riddle.
+
+ECHO BANISH
+
+Calls forth spectral versions of NPCs the player failed to help, each whispering blame or confusion.
+
+FROZEN MEMORY
+
+Brief vulnerable pause while it tries to confirm a version of you.
+
+HUE INTERACTION
+
+Immune to hue magic unless cast with memory-infused relics, such as the Bistre Lantern or Caput Mortuum Phylactery.
+
+Weakened by Hue Reforge relics, which momentarily restore lost history or cancel its abilities.
+
+Using a correct name from earlier lore allows the player to banish it early through a one-use dialogue trigger.
+
+KNOWN WEAKNESSES
+
+Avoidable entirely by completing Echo segments correctly or resolving Nullshade riddles.
+
+Vulnerable during Frozen Memory state, when it pauses to recall a version of you it cannot confirm.
+
+Can be dispelled permanently by presenting a True Memory, an artifact kept unchanged since Act I.
+
+RECOVERED VOICE-ECHO — NULLSHADE, MONOLITH THETA-9
+
+“I missed the glyph.
+Just one.
+
+Didn’t say the right name.
+
+Didn’t speak the truth.
+Then the hum started.
+
+Like glass grinding through silk.
+
+I saw them —
+not me, but the ones I could’ve been.
+
+And it swung.
+
+My journal is gone.
+My name in the Archive turned blank.
+
+That thing didn’t kill me.
+
+It unremembered me.”
+
+SHATTERGLASS POOL FRAGMENT
+
+Pockets of fractured reflection mark where a Harvest swing erased something permanent.
+
+TRUE MEMORY (ACT I)
+
+An intact memory untouched by the Prism Wound.
+Only these can silence a Harvester forever.
+
+BISTRE LANTERN → CAPUT MORTUUM PHYLACTERY
+
+Memory-bound relics that pierce Nullshade’s immunity and restore what the Harvester tries to take.
+
+NULLSHADE — PRISM WOUND / CORE
+
+Where color died.
+Where forgotten things wait to be taken again, unless you remember.
+
+NOTES
+
+Spectral Harvesters do not drop loot.
+
+They drop pages —
+torn from quests or codex entries you once held.
+
+If allowed to land three full swings, the player forgets a key past choice until a lore artifact restores it.
+
+The Prismwalker’s own name may vanish from the title screen for one save file until the Harvester is defeated or forgiven.

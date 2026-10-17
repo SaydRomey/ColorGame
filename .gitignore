@@ -8,6 +8,16 @@ _PRIVATE
 # Assets and Concept Art (w.i.p.)
 assets/
 
+# Compressed archives
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+*.dmg
+*.iso
+*.jar
+
 # ==============================
 # C++
 # ==============================

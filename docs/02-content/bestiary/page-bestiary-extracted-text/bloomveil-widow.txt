@@ -1,0 +1,204 @@
+BLOOMVEIL WIDOW
+
+THE WEB OF DREAMS
+
+“The silence between the threads is louder than her bite.”
+
+THREAT LEVEL
+
+HIGH
+
+Vulnerability Through Charm and Webs
+
+TYPE
+
+Illusionary Arachnid / Dream-Weaver
+
+FIRST EMERGED
+
+Born from nightmares woven into Myrrala’s blooms.
+
+SILKEN VEIL
+
+Living webs woven from memories and dreams.
+They shimmer with bioluminescent pollen and charm unwary prey.
+
+CHARMING PHEROMONES
+
+Emits a sweet, floral scent that lulls victims into trust and lethargy before she strikes.
+
+WEB TELEPORT
+
+Moves in an instant by unraveling and reweaving silk threads across the battlefield.
+
+DREAM POLLEN
+
+Floats in the air like petals.
+Causes slow reaction, dream loops, or false memories.
+
+HUE INTERACTION
+
+IMMUNE TO COBALT
+
+Mind Echo cannot pierce her illusions.
+She is not “real” to it—only a dream.
+
+IMMUNE TO VERDANT
+
+Root Pulse cannot bind what has no root.
+Her web slips through nature.
+
+UNMASKED BY VIOLET
+
+Illusion Clone reveals her true form and interrupts her charm threads.
+
+DISRUPTED BY LIGHT
+
+Light-based spells disrupt her webs, revealing openings and her true shape.
+
+DESCRIPTION
+
+The Bloomveil Widow is a spectral predator created from the collective dreams of the fey.
+
+As much a trickster as a predator, she weaves charming webs that ensnare both mind and body.
+
+Her webs are woven from memories—those not just forgotten, but abandoned.
+Once ensnared, her victims will find themselves questioning their reality.
+
+Her charm pheromones cause those who enter her lair to grow lethargic or entranced before she strikes.
+
+BEHAVIOR
+
+Appears as a calming presence, offering guidance or comfort through enchantment.
+
+Teleports using silk threads, creating traps and choke points across the area.
+
+Lures prey into its web-lined chambers and traps them in dream loops.
+
+Attacks when the player is most vulnerable—emotionally or physically.
+
+LORE ENTRY
+
+From the Wisteria Enchantress’ Lament
+
+“I found her first, but she spoke in threads.
+
+The Widow is not death, nor is she a predator.
+She is a memory woven to this place—something we did in ages long past, when trust and fear were the same word.
+
+Her webs never cease weaving.
+They are grown from moments left unresolved.
+
+Long-forgotten dreams.
+Pains she once whispered to me, and I believed her.
+
+I’ve heard it in her voice: a lullaby laced with scent and silk.
+That’s how she dances—we only feel it when we breathe her in.
+
+And her last dance is always the one we never finish.
+
+Do not speak to her.
+She wears promises, but never gives them back.”
+
+— Wisteria Enchantress
+Evening Twilight, in the Dance of Dreams
+
+ANATOMY & WEB STRUCTURE
+
+PETAL MANE
+
+Grows around her body like a bouquet—releasing charm pollen.
+
+MANY-EYED MASK
+
+Sees countless possibilities—but not always reality.
+
+SILK GLANDS
+
+Produce dream-silk that hardens into trap-web or dissolves into mist.
+
+WEB TALONS
+
+Threaded claws inject sleep toxin through even light contact.
+
+THREAD HEART
+
+A cocoon of woven memories.
+Destroying it ends her illusions.
+
+FLOATING TENDRILS
+
+Sense emotion, memories, and hesitation.
+
+KNOWN WEAKNESSES
+
+TRUE FORM EXPOSURE
+
+Vulnerable only when her real form is revealed via Thulian Mirror or Violet-bound abilities.
+
+SILENCED SONG
+
+Cobalt’s Mind Echo or Aurelian Light Trick can silence her pheromones and lullaby.
+
+RHYTHM DISRUPTION
+
+Her webs follow a pattern.
+Attack when her weaving begins to break the rhythm.
+
+CHARM IMMUNITY
+
+Wears off if Heliotrope Band is equipped—her charm cannot take hold.
+
+ATTACKS & ABILITIES
+
+DREAM LURE
+
+Releases a wave of charm pollen, slowing and entrancing.
+
+SILK SNARE
+
+Shoots binding webs that pull players into place.
+
+WEB TELEPORT
+
+Disappears in a silk burst and reappears elsewhere.
+
+DREAM LOOP
+
+Traps player in an illusion—reality repeats until escaped.
+
+NOTES
+
+Her webs may trap past memories in physical form—players must face illusions of regret, fear, or loss.
+
+Leaving her lair often leaves behind a lingering sense of déjà vu.
+
+Some say she feeds not on flesh but on unfulfilled dreams.
+
+A slain Widow’s lair may collapse into a field of dream-blooms—beautiful, but toxic.
+
+POSSIBLE DROPS
+
+WIDOW’S SILK
+
+Dreamwoven thread.
+Used in stealth gear and illusion amplifiers.
+
+BLOOMVEIL PETAL
+
+A rare petal that holds a fragment of a dream.
+Used in ritual crafting.
+
+PHEROMONE GLAND
+
+Can be distilled into elixirs that induce sleep, charm, or memory recall.
+
+DREAMWEAVER CORE
+
+A volatile core of trapped memories.
+High crafting value, dangerous to hold.
+
+SHE WEAVES WHAT YOU FORGOT.
+SHE SHOWS YOU WHAT YOU FEAR.
+
+DO NOT TRUST WHAT YOU REMEMBER WHEN SHE IS NEAR.

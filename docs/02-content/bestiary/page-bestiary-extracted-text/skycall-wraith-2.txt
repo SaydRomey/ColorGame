@@ -1,0 +1,174 @@
+SKYCALL WRAITH
+
+VOICE OF THE FORGOTTEN WIND
+
+“The wind lost its name.
+So it screams.”
+
+TYPE
+
+Aerial Apparition / Wind-echo Specter
+
+THREAT LEVEL
+
+MODERATE
+
+Highly Disruptive to Traversal
+
+FIRST EMERGED
+
+After the Collapse of the Singing Gate
+(Shattering Era)
+
+ANATOMY
+
+1. WRAITH HOOD
+
+Face lost to the storm.
+Its scream echoes endless grief.
+
+2. TORN AZURE SHROUD
+
+Robes never touch ground —
+moved by forgotten voices.
+
+3. WINDCORE
+
+Essence bound to a broken current.
+Drives its shriek.
+
+4. DISRUPTION VEIL
+
+Emits gusts that unravel movement and sound.
+
+5. ECHO TAIL
+
+Leaves traces of resonance that warp the air.
+
+6. WHISPER BELL
+
+Remnant of the Singing Gate.
+Its toll was never heard in time.
+
+7. DRIFT ANCHOR
+
+Tethers to wind nodes, gullies, and spiral updrafts.
+
+DESCRIPTION
+
+The Skycall Wraith is a spirit-shaped echo —
+the wind given form by grief and repetition.
+
+Often found patrolling high ledges or spiral currents, they disrupt movement with piercing shrieks that unbind gliding abilities and destabilize storm-anchored platforms.
+
+They are not hostile in the traditional sense.
+But they call out — and what they call hurts.
+
+HUE INTERACTION
+
+Dampens all Cobalt-based traversal effects nearby, such as Static Dash glide extensions.
+
+Cries override sound-triggered puzzle inputs.
+
+Vulnerable to grounded or Earth-based counterweights, which temporarily still their flight.
+
+BEHAVIOR / STATE FLOW
+
+PATROL
+
+Wind-linked paths or spiral updrafts.
+
+DISRUPTION CRY
+
+Cancels glide, distorts sound, applies Vertigo.
+
+RETREAT
+
+Flees into fog when silenced or grounded.
+
+Patrols wind tunnels, cliff ledges, or broken sky bridges.
+
+When provoked, emits a Disruption Cry that escalates if ignored.
+
+At high threat stacks, pulls the player down or sideways mid-air.
+
+Will flee if surrounded by silence, such as Cerulean Cloak.
+
+KNOWN WEAKNESSES
+
+Weak to Earthen grounding spells, sound-null zones, or double-jump rhythm breaks.
+
+Silence interrupts their shriek cycle.
+
+Mind Echo can “overwrite” their cry with a stored sound, especially a player’s own voice.
+
+ABILITIES / STATUS EFFECTS
+
+DISRUPTION CRY
+
+Cancels flight/glide, disorients sound, and applies stacks of Vertigo.
+
+VERTIGO PULSE
+
+At high stacks, yanks or shoves the player in mid-air and blinds HUD.
+
+HABITAT / MANIFESTATION
+
+High ledges, spiral updrafts, wind tunnels, broken sky bridges, and storm-crowned ruins.
+
+Often appears during high-wind events or near Singing Gate remnants.
+
+Strong presence near echo-node shrines, wind bells, and air glyph arrays.
+
+More dangerous in open vertical spaces with strong updraft currents.
+
+LORE ENTRY
+
+Recovered from a shattered listening bell atop the Skyglass Spires.
+
+“When the storm broke the tower,
+we thought the cries were just wind in the bells.
+
+But it was the wind forgetting its name.
+Forgetting how to be silent.
+
+The Wraiths came after.
+Not ghosts — echoes of voices torn from those who leapt or were lost among the gusts.
+
+One called my name.
+Not how I say it... how I meant it, once.
+
+I froze.
+I fell.
+
+We ring the bells now not for warning...
+but to remind the sky of silence.”
+
+— Carved by Wind-Monk Rellian
+
+FIELD NOTES
+
+Some wraiths seem drawn to names —
+especially those carved or whispered.
+
+Rumors tell of a Skycall Wraith that hums a lullaby from before the Shattering...
+but always off-key.
+
+ECHO QUOTE
+
+“It calls what you lost.”
+
+“The wind forgets.”
+
+“Voices that weren’t yours still echo.”
+
+HUNTER’S ADVICE
+
+Break line of sight.
+
+Drown the scream.
+
+Silence is shelter.
+
+Don’t fight the wind —
+outlast its memory.

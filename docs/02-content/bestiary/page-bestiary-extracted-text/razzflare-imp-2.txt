@@ -1,0 +1,180 @@
+RAZZFLARE IMP
+
+MISCHIEF UNBOUND
+
+“It giggles in your blind spot.
+That’s when it strikes.”
+
+THREAT LEVEL
+
+MODERATE
+
+Mentally disruptive and chaotic.
+Low physical durability but high potential for disruption.
+
+TYPE
+
+Fey Trickster / Chaos Elemental
+
+FIRST EMERGED
+
+A failed glamour experiment under the Blooming Veil
+
+HUE INTERACTION
+
+WEAK TO HARMONY
+
+Harmonic pulses and music-based artifacts can disrupt and harm the imp.
+
+STUNNED BY LIGHT
+
+Aurelian Light Trick or Cobalt Static Dash can stun it briefly.
+
+IMMUNE TO CHAOS
+
+Unaffected by fear, silence, logic, or truth-based magic.
+
+KNOWN WEAKNESSES
+
+RHYTHMIC TIMING
+
+Striking the imp on the beat cancels its illusion field.
+
+MIRROR DISTRACTION
+
+Drawn to mirrors, shiny surfaces, and echo chambers.
+
+LAUGHTER STAGGER
+
+If hit while mid-laugh, it is grounded and vulnerable briefly.
+
+BESTIARY ENTRY
+
+DESCRIPTION
+
+These volatile little fey are the chaotic laughter of Myrrala made manifest.
+
+They move in unpredictable patterns, warp HUD elements, and cast minor illusion spells that disrupt combat flow.
+
+Their fire is more confusion than flame —
+it burns consistency, not skin.
+
+BEHAVIOR
+
+Dart in and out of combat, leaving trails of visual glitches such as reversed movement and delayed input feedback.
+
+Cast Illusion Bursts that momentarily replace the player’s form with that of nearby enemies or objects.
+
+Upon defeat, may release a Glamour Pulse that causes one random effect, good or bad.
+
+KNOWN WEAKNESSES
+
+Vulnerable to rhythmic timing —
+striking on beat cancels the illusion field.
+
+Easily distracted by mirrored surfaces or echo chambers.
+
+Temporarily grounded if struck while mid-laugh.
+
+NOTES
+
+Their laughter echoes in some dream-recordings.
+
+Scholars believe Razzflare Imps are drawn to places where reality is worn thin by joy or grief.
+
+Despite their danger, some mages keep them as familiars —
+or try to.
+
+ATTACKS & ABILITIES
+
+PINKFIRE DARTS
+
+Fires tiny bolts of illusion flame that cause confusion and minor burn.
+
+GIGGLE BURST
+
+A burst of laughter that scrambles controls and HUD elements briefly.
+
+MIRROR SHUFFLE
+
+Replaces the player with an illusion of an enemy or object for a short time.
+
+RAZZFLARE DASH
+
+Zips erratically between positions, leaving afterimages of pink fire.
+
+GLAMOUR PULSE
+
+Upon defeat, emits a pulse that causes one random effect, good or bad.
+
+LORE ENTRY
+
+From the Notes of Mauveine Spark
+
+“Yes, yes, I made it.
+But I didn’t teach it to laugh.”
+
+“The Razzflare wasn’t born.
+
+It burst into being —
+a byproduct of an unstable glamour brew during one of my more... dazzling accidents.”
+
+“They’re tricksters, sure, but my tricksters.
+
+Pink flames.
+Inverted shadows.
+
+Laughter that bends mirrors.
+
+They mess with minds because they don’t understand shape.
+
+They shift, skip, and dance inside the cracks between what you see and what you think you see.”
+
+“One sang to me once.
+
+I woke up without eyebrows and a spellbook rewritten in jokes.”
+
+“If you hear giggling where there should be silence, it’s already too late.”
+
+— Mauveine Spark,
+Color Alchemist Extraordinaire
+
+BEHAVIOR OVERVIEW
+
+CHAOTIC ENTRY
+
+Appears in bursts of pink and purple sparks, often behind or above the player’s position.
+
+ILLUSION DISRUPTION
+
+Warps screen elements, inverts controls momentarily, and produces false threats or distractions.
+
+UNPREDICTABLE PATTERN
+
+Rarely repeats attacks in the same order.
+Relies on misdirection and sudden bursts of movement.
+
+GLAMOUR ESCAPE
+
+If not defeated quickly, it vanishes in a flare of prankish fire and may return with allies.
+
+POSSIBLE DROPS
+
+SPARK OF MISCHIEF (RARE)
+
+A laughing ember.
+Used to upgrade glamour-based relics.
+
+GLAMOUR THREAD (UNCOMMON)
+
+Thread spun from fey laughter.
+Used in crafting illusion gear.
+
+ECHO OF A JOKE (UNCOMMON)
+
+Contains a random minor effect when triggered.
+
+LAUGHTER SHARD (COMMON)
+
+A fragment of prismatic giggle.
+Sells for a small amount of Sor.

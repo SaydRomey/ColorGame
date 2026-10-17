@@ -1,0 +1,29 @@
+{
+  "id": "BEAST_ASHWEAVER_RECLUSE",
+  "entry": {
+    "name": "Ashweaver Recluse",
+    "type": "Ash-Widow / Emberlace Spinner",
+    "threat_level": "⚠️ Moderate – Environmental Entrapment & Fire Hazard",
+    "first_emerged": "After the Ashfall in Cindertwine Hollows",
+    "description": "A massive spider-like entity weaving threads of living ash. Its silk burns slowly, creating smoldering traps that linger in the environment.",
+    "hue_interaction": "Drawn to Vermilion-bound players. Threads can ignite Hue Overload if fire-aspected color pools are too full.",
+    "behavior": "Creeps near charred architecture. Lays slow-burning web paths. Lures players toward glowing husks to trigger ambushes.",
+    "weaknesses": "Water-based or frost-attuned skills rapidly extinguish its threads. Susceptible to sudden gust-based spells.",
+    "notes": "Many believe the Recluse nests within burnt memories. Webs sometimes shimmer with scenes of past ruins."
+  },
+  "lore": {
+    "title": "Ashweaver Recluse – The Emberlace Widow",
+    "quote": "\"The threads still burn, but nothing escapes.\"",
+    "flavor_description": [
+      "Ash-flecked legs move soundlessly across charred stone.",
+      "Its eyes gleam like cinders — watching from the smoke."
+    ],
+    "field_notes": [
+      "We traced the smoldering silk. It led us nowhere — just ash and echoes.",
+      "I heard someone scream. But it was my own voice, from a different fire.",
+      "It waits near things lost to flame. As if hoping to weave them whole again."
+    ],
+    "source": "From ‘Ash Paths and Flamewalkers,’ recovered in Cindertwine"
+  },
+  "drops": []
+}

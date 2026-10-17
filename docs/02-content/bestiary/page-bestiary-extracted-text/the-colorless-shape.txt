@@ -1,0 +1,195 @@
+THE COLORLESS SHAPE
+
+THE FINAL REFLECTION
+
+“It is everything.
+And it is no one.”
+
+==================================================
+SOURCE IMAGE 1 — the-colorless-shape-0_page.png
+==================================================
+
+CORE IDENTITY
+
+A hollow, shifting humanoid made of voidglass.
+
+It mirrors the player—loadout, hue alignment, and behavior.
+
+It remembers before you do.
+
+DESIGN NOTES
+
+Semi-reflective voidglass form.
+
+Edges shift like ink in water.
+
+Fragments of memory swirl within its hollow core.
+
+It wears your strengths.
+
+It knows your patterns.
+
+It never chose them.
+
+SILHOUETTE VARIANTS
+
+Stance Shift — Aggressive.
+
+Stance Shift — Defensive.
+
+Stance Shift — Evasive.
+
+MOVEMENT BREAKDOWN
+
+Observe.
+
+Mirror.
+
+Anticipate.
+
+Strike.
+
+HEAD DETAIL
+
+Featureless reflection.
+
+No eyes, only depth.
+
+Flickers with faint memory-static.
+
+CORE / HOLLOW CENTER
+
+Hollow void at the core.
+
+Fractured like broken glass.
+
+Contains echoes of stolen decisions.
+
+HAND STUDY
+
+Fingers form like liquid mirrors.
+
+Grips, counters, and casts with your own memory.
+
+NOTES FROM ARCHIVIST REISS
+
+“It is not a monster.
+It is a conclusion.”
+
+“A conclusion the world writes while you are still becoming.”
+
+==================================================
+SOURCE IMAGE 2 — the-colorless-shape-1_page.png
+==================================================
+
+BESTIARY ARCHIVE
+
+Nullshade Region.
+
+LORE ENTRY
+
+Lore Fragment:
+Scratched into a broken blade found in Nullshade.
+
+“It moved before I did.
+Not faster — earlier.”
+
+“It doesn’t mimic.
+It remembers… before you remember yourself.”
+
+“My sword struck it once.
+I bled. Not it.
+
+Not fair, I thought.
+But the Shape never promised fair — only truth.”
+
+“When I saw it raise the Prism, just like I had…
+I understood.
+
+It is not your reflection.
+It is what the world became while you blinked.”
+
+“We are not alone in our choices.
+Not even in our endings.”
+
+AT A GLANCE
+
+Type:
+Voidbound Reflection / Final Mirror.
+
+Threat Level:
+Critical.
+
+Pre-Final Boss Encounter.
+
+First Emerged:
+Only in proximity to the Prism Wound, as hue balance fractures completely.
+
+DESCRIPTION
+
+A shadowy figure echoing the player’s exact loadout, hue alignment, and combat choices — but subtly wrong.
+
+Its timing is always slightly better.
+
+Its spells, just slightly harsher.
+
+It bleeds your decisions and reflects what you’ve become… or what you might have been.
+
+HUE INTERACTION
+
+Copies your most-used hue abilities and traits — often in distorted forms.
+
+Becomes unpredictable when faced with contradictory or unstable hue alignments.
+
+Null-aligned players, colorless or hue-divided, may confuse it briefly.
+
+BEHAVIOR
+
+Engages silently.
+
+No battle music plays until it takes damage.
+
+Opens with a mirrored version of your first ever learned spell or weapon.
+
+Mimics your movement habits, attack rhythms, and even idle animations.
+
+If you pause or hesitate, it does not — striking decisively.
+
+SPECIAL MECHANICS
+
+ECHO SHIFT
+
+Swaps its stance mid-battle to reflect a different hue alignment you’ve used in past regions.
+
+MIMICLASH
+
+Activates your own equipped artifact against you.
+
+If you’re using something like the Citrine Lens or Mind Echo, prepare to see it used in reverse.
+
+FINAL GLANCE
+
+Before defeat, it echoes your very first dialogue choice from the beginning of the game.
+
+KNOWN WEAKNESSES
+
+Paradox spells from Violet, or contradictory color combos, cause it to flicker and destabilize.
+
+Memory Echo interactions may give you an extra dodge window or reveal a false opening.
+
+If you unequip all hue bindings mid-fight, it loses structure briefly.
+
+NOTES
+
+Defeating it grants no loot — only stillness.
+
+The environment pauses for a beat.
+
+And something behind you exhales.
+
+“It is often mistaken as the final boss — but is instead the gatekeeper.
+The self before the choice.”
+
+AFTER DEFEAT
+
+After defeating The Colorless Shape, the player steps toward the Core itself — where the Fractured Core awaits.

@@ -1,0 +1,106 @@
+SOOTSHADE COLLECTOR
+
+THE ASH THAT WHISPERS
+
+It gathers what the fire couldn’t erase.
+
+“It gathers burnt truths. And whispers them.”
+
+CORE IDENTITY
+
+Type:
+Ashbound Specter / Memory Leech
+
+Threat:
+Moderate to High
+
+First Emerged:
+Ash Year 4
+
+After:
+Ember-Library Collapse
+
+DESCRIPTION / APPEARANCE
+
+A faceless figure stitched from charred parchment and drifting ash.
+
+Gathers fragments of scorched memory and half-burnt truth.
+
+Carries ash-scrolls in trailing ribbons, each echoing a forgotten moment.
+
+FACELESS RECALL MASK
+
+No eyes, only listening ash.
+
+CHARRED PARCHMENT
+
+Hide stitched with soot-thread.
+
+ASH-SCROLL RIBBONS
+
+Store forced memory echoes.
+
+BLACK FOG
+
+Replays trauma fragments and lost dialogue.
+
+ENCOUNTER BEHAVIOR
+
+Casts black fog that replays memory fragments.
+
+May paralyze targets by echoing key past dialogue.
+
+Drawn to sites of trauma, betrayal, or burned records.
+
+Lingers over burnt notes and ash-covered artifacts, trying to “read” them.
+
+HUE INTERACTION
+
+IMMUNE:
+Fire / Crimson aggression.
+
+AMPLIFIES:
+Violet dialogue ghosts.
+
+COUNTERED BY:
+Bistre Lantern glow.
+
+KNOWN WEAKNESSES
+
+Silence spells from Verdant or Violet.
+
+Bistre Lantern light.
+
+Reflective glyphs.
+
+Truth spoken during a forced memory sequence.
+
+ASH-BOUND PAGES
+
+Rare consumable scrolls.
+
+Reveal one hidden forgotten event or decision.
+
+Rewrite the memory log… at a cost.
+
+ARCHIVIST NOTES
+
+“Not all things burned are lost.
+Some simply migrate.”
+
+“They do not judge.
+But they never forget.”
+
+THREAT PROFILE
+
+EMOTIONAL DESTABILIZATION
+
+Induces dread, guilt, and psychological collapse.
+
+MEMORY MANIPULATION
+
+Rewrites, replays, and suppresses key memories.
+
+SPECTRAL MOVEMENT
+
+Silent glide through ash, ink, and thought.

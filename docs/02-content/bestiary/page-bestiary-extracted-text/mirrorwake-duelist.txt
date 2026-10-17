@@ -1,0 +1,152 @@
+MIRRORWAKE DUELIST
+
+BLADE BETWEEN REFLECTIONS
+
+“She fights in reflections.
+Yours. Hers. Anyone’s.”
+
+THREAT LEVEL
+HIGH
+
+Unpredictable.
+Fights with perfect reflection of your form, using your own movements against you.
+
+TYPE
+Illusory Swordmaster / Storm-Arena Echo
+
+FIRST EMERGED
+After the Collapse of the Skyglass Arena.
+
+HUE INTERACTION
+
+IMMUNE TO AURELIAN LIGHT SPELLS
+Unless they are truth-aligned.
+
+SUSCEPTIBLE TO COBALT’S MIND ECHO
+Shatters the illusion and exposes her true stance.
+
+DISPELLED BY ILLUSIONS
+Dispelling her glamour with Violet or relics like the Citrine Lens reveals her true form instantly.
+
+KNOWN WEAKNESSES
+
+BREAK REFLECTIONS
+Loses coordination if all local reflections, such as puddles, glass, or fragments, are destroyed.
+
+STORM FOG WEAKENS
+Combat is simplified during storm-induced fog, which dulls mirrored clarity.
+
+PAYNE’S BRUSH ILLUSIONS
+Illusions overwhelm her sense of “who is real,” stunning her briefly.
+
+DESCRIPTION
+
+A duelist bound not to memory, but to mirrored surfaces.
+
+She moves across puddles, fragments, and skyglass panels with eerie grace — her attacks calibrated to the player’s form, reflected with lethal delay.
+
+She does not speak.
+Her blade interprets your posture like a question.
+
+ANATOMY
+
+WATER-WAKE HAIR
+Flows like liquid silver.
+Responds to motion and reflection.
+
+MIRROR-BOUND EYES
+Shine like still water before a storm.
+Read posture, not sight.
+
+RIFT-WOVEN CLOTH
+Garments ripple like mist.
+Fragments of broken reflections cling to her.
+
+REFRACTED BLADE
+Edge of condensed light.
+Leaves no wound — only a fading silhouette.
+
+GLASSVEIL CORE
+Heart is a splinter of the skyglass arena.
+Keeps her bound to reflections.
+
+SLIPPERS OF SURFACE
+Steps only where light can reflect.
+Never leaves a ripple she doesn’t own.
+
+ABILITIES
+
+MIRAGE LUNGE
+Teleports to your last reflected position and slashes in a crescent of radiant mist.
+
+REFRACTED PARRY
+Mirrors your next attack or spell, returning it with increased potency.
+
+GLASSFLAME RIPOSTE
+Appears in another reflection and strikes.
+Harder to dodge from behind.
+
+MIRROR FRACTURE
+Shatters nearby mirrors, creating blinding shards that linger and slow.
+
+NOTES
+
+Reflections can include water, polished stone, glass, metal, or even magical illusions.
+
+If you defeat her without casting a shadow, she will bow... and vanish.
+
+Some say she once had a name.
+The mirrors remember, but she does not speak it.
+
+LORE ENTRY
+
+Whispered in the Skyglass Arena’s Empty Hall.
+
+“Her duels never end.
+Not because she wins, but because the mirror never breaks.”
+
+“In life, she was a master of the Skyglass Pillars — undefeated, yet unremembered.”
+
+“When the storms shattered the arena’s ceiling, she was still mid-swing.”
+
+“Some say her opponent left.
+Others say he never existed.”
+
+“Now, she reflects the one who enters — matching form, speed, and flaw.”
+
+“There are no spectators anymore.
+Only reflections.”
+
+“She draws her sword when your gaze lingers too long.”
+
+— Memory etched into a shard in the arena’s lower tier.
+
+BEHAVIOR
+
+MIRROR LUNGE
+Charges where your reflection last moved.
+
+REFRACTED PARRY
+Blocks frontal Hue spells with a mirrored delay.
+
+GLASSFLAME RIPOSTE
+Strikes from an adjacent reflection after being dodged.
+
+Shifts position by teleporting between reflective zones.
+
+Disappears entirely if not attacked quickly after revealing her true form.
+
+POSSIBLE DROPS
+
+SKYGLASS SHARD (COMMON)
+A fragment of the shattered arena.
+Used in crafting reflective gear.
+
+REFLECTED SIGIL (UNCOMMON)
+Imprints your next evade with a mirrored blink afterimage.
+
+DUELIST’S SILENCE (RARE)
+A passive trait that slightly delays incoming attacks — like a perfect parry.
+
+MIRROR OATH (LEGENDARY)
+A relic that summons a phantom reflection that mimics your combat style for a short duration.

@@ -1,0 +1,160 @@
+MIRRORTHIRST WYRM
+
+THE REFLECTION BENEATH
+
+“It swam through light until it forgot the sky.”
+
+THREAT LEVEL
+HIGH
+
+Elusive apex predator that strikes from beneath the mirage.
+Controls terrain and light itself.
+
+TYPE
+Mirage Predator / Illusory Leviathan
+
+FIRST EMERGED
+Post-Shattering Era; formed during a solar collapse event when mirage illusions solidified.
+
+HUE INTERACTION
+
+FUELED BY LIGHT
+Immune to direct fire damage.
+Radiant and light-based attacks empower it.
+
+ILLUSION REACTIVE
+Only surfaces in proximity to strong light sources or illusion spells.
+
+RHYTHM SENSITIVE
+Reacts unpredictably to rhythmic movement or timed traversal patterns such as dance, music, or cadence.
+
+SHADOW DISRUPTS
+Weakened and confused in true shadow or areas with no light-hue influence.
+
+KNOWN WEAKNESSES
+
+TRUE SHADOW
+Cannot pass through or remain in zones of complete darkness.
+
+REFLECTION BAIT
+Lured by mirrors, reflective surfaces, or illusions of itself.
+
+EMERGENCE WINDOW
+Vulnerable for a short time when fully surfaced.
+
+ECLIPSE WEAKNESS
+Much weaker during solar eclipses or dusk phase events.
+
+DESCRIPTION
+
+An immense serpentine creature, semi-transparent and refracting like broken glass submerged in water.
+
+It leaves undulating shimmer trails that pulse with radiant heat and light distortion.
+
+ANATOMY
+
+PRISMATIC CREST
+Fractured fins of living light that bend and scatter radiance.
+
+GLASSBOUND HIDE
+Body refracts and distorts light, making it nearly invisible beneath the surface.
+
+LIGHT WAKE
+Leaves rippling trails of mirrored light that warp perception and terrain.
+
+VOID EYES
+Black wells ringed with shifting light.
+They seek reflections, not prey.
+
+RAZORFANG MAW
+Teeth of condensed mirage.
+Bites drain hope and clarity.
+
+UNDERTOW CORE
+A radiant nucleus that pulls in light, heat, and life-force.
+
+ABILITIES
+
+MIRAGE SURGE
+Rises beneath player location, causing AoE damage and light distortion.
+
+LIGHT WAKE
+Leaves a trail that distorts movement and summons minor mirage spawns.
+
+OASIS LURE
+Spawns a false oasis or path that collapses when touched, triggering attack.
+
+PRISM BURST
+Erupts in a burst of refracted light shards in all directions.
+
+DEEP DIVE
+Submerges instantly, teleporting to another light-wake location.
+
+NOTES
+
+Its shimmer isn’t just light — it’s thirst, searching for a reflection it once had and lost.
+
+Some scholars believe it was born when an oceanic memory collided with the desert’s unyielding sun.
+
+Step gently on sunlight.
+Something is watching its own reflection... through your shadow.
+
+LORE ENTRY
+
+Fragment from “Sands Untrue,” journal of Fulvous Hunter Jaxem Kresh.
+
+“They told me it was a heat shimmer.
+That you could outrun it.”
+
+“But the ground wasn’t hot.
+It was hollow.”
+
+“The shimmer twisted — like glass half-melted into water.”
+
+“Then the dune rose and I saw the teeth.”
+
+“You don’t kill a Mirrorthirst.
+You distract it with reflections of yourself and pray the real you gets away.”
+
+BEHAVIOR
+
+BURIED STALKER
+Burrows just beneath the desert surface, moving silently through warped light.
+
+FALSE OASIS LURE
+Creates phantom oases, relics, or paths to draw prey closer before striking from below.
+
+LIGHT WAKE TRAIL
+Leaves shimmering trails that pulse and bend vision.
+Following the trail invites ambush.
+
+EMERGENCE STRIKE
+Surfaces violently, shattering sand and stone in a line attack.
+Terrain is altered and hazards remain.
+
+MIRAGE RETREAT
+If not engaged quickly after surfacing, it submerges and becomes untouchable again.
+
+POSSIBLE DROPS
+
+MIRRORFANG SCALE (COMMON)
+A translucent scale that refracts light.
+Used in crafting and enchantments.
+
+REFLECTED ESSENCE (UNCOMMON)
+Condensed mirage energy.
+Can be used to enhance illusion-based abilities.
+
+PRISMATIC SPINE (RARE)
+A shard of the wyrm’s dorsal fin.
+Used to craft light-bending weapons.
+
+THULIAN MIRROR SHARD (VERY RARE)
+A broken piece of ancient mirror-tech that reveals hidden reflections.
+
+WYRMSOUL CORE (LEGENDARY)
+The beating heart of a mirage.
+Used to awaken or bind radiant relics.
+
+“STEP GENTLY ON SUNLIGHT.
+SOMETHING IS WATCHING ITS OWN REFLECTION... THROUGH YOUR SHADOW.”

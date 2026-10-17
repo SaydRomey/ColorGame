@@ -1,0 +1,156 @@
+LAVA-FUSED BEHEMOTH
+
+THE EMBERCROWNED
+
+“Born in magma.
+Tempered by wrath.”
+
+THREAT LEVEL
+EXTREME
+
+Environmental hazard.
+Capable of wiping unprepared parties.
+
+TYPE
+Elemental Beast / Obsidian Juggernaut
+
+FIRST EMERGED
+Deepflare Surge, Post-Prism Fracture.
+
+HUE INTERACTION
+
+IMMUNE TO CRIMSON
+Absorbs fire-based damage and gains power, triggering lava bursts.
+
+VULNERABLE TO COBALT
+Chill or steam attacks cause armor fissures and movement slow.
+
+EARTHEN STONEBIND
+Can root its limbs briefly when targeting exposed fault points.
+
+KNOWN WEAKNESSES
+
+MOLTEN VENT
+Upper back vent overheats and glows.
+Strike it to stun and expose it.
+
+COOLED TERRAIN
+Freezing lava paths beneath it can immobilize limbs and slow movement.
+
+SONIC VIBRATIONS
+Seismic runes, drums, or vibration spells destabilize its footing and balance.
+
+FOCUS FIRE
+Coordinated attacks on legs can topple it, exposing back vent longer.
+
+DESCRIPTION
+
+The Lava-Fused Behemoth is a slow-moving mountain of molten power.
+
+Its armored hide is obsidian-formed, fissured with glowing lava.
+It does not hunt — it erupts.
+
+Territorial, ancient, and nearly unkillable in open terrain, its presence reshapes battlefields and can block entire routes through the Ember Expanse.
+
+ANATOMY
+
+SPINAL LAVA VENTS
+Channel magma to the surface.
+Overcharge leads to explosive bursts of flame.
+
+OBSIDIAN PLATES
+Naturally formed armor that deflects most physical and magical attacks.
+
+MOLTEN CORE
+Heart of liquid fire.
+Unknown if it is alive — or just eternal heat.
+
+EMBERCROWN SPIKES
+Store pressure and release during charges or lava floods.
+
+GLOWING FAULTLINES
+Heat-lines across its body.
+Some are decoys. Some lead deep within.
+
+CRUSHING LIMBS
+Each step causes shockwaves and leaves behind burning terrain.
+
+ATTACKS & ABILITIES
+
+SEISMIC STOMP
+Slams the ground, causing shockwaves that stagger and crack terrain.
+
+LAVA BREATH
+Sweeps a cone of molten fire forward, leaving burning pools behind.
+
+EMBERCROWN BURST
+Vents overpressure from its back, causing radial lava explosions.
+
+MOLTEN CHARGE
+Locks onto a target and charges, ignoring obstacles and dealing massive damage.
+
+NOTES
+
+Immune to most status ailments except freeze, stun, or root.
+
+Lava it leaves behind lasts several seconds.
+
+Fleeing Behemoths will trigger collapse events or volcano eruptions.
+
+LORE ENTRY
+
+Chiseled into a broken obsidian tablet near the Furnace Maw.
+
+“We did not create it.
+We unburied it.”
+
+“They say the Lava-Fused was born from beneath — a beast the size of a siege tower, resting in magma until rage woke it.
+
+Not a dragon, not a titan — just the shape fire chose to wear.”
+
+“Its back vents fury.
+Its breath melts spears.
+
+The earth bends around it.
+Nothing in Vireya moves so slowly — or kills so fast.”
+
+“Some Ember Priests believe it carries a buried heart — the first fire, unquenched and still dreaming of destruction.
+
+Others say it has no heart.
+That’s why it burns so loud.”
+
+— Translation by Elarin Flintwake, shortly before the Furnace Maw collapsed.
+
+BEHAVIOR
+
+TERRITORIAL
+Patrols molten ravines, lava rivers, and ancient forges.
+
+ERUPTIVE CHARGES
+Moves slow until provoked, then charges in a straight line with explosive force.
+
+LAVA BREATH
+Breathes gouts of flame from spinal vents.
+Can melt terrain and force players to reposition.
+
+LAVA FLOODS
+Occasionally bursts the ground, releasing waves of lava that reshape the battlefield.
+
+POSSIBLE DROPS
+
+EMBERCROWN CORE (LEGENDARY)
+Overcharged core used to forge Prism-infused weapons and armor.
+
+LAVA-FUSED SCALE (RARE)
+Resilient obsidian scale that retains elemental resistance.
+
+MOLTEN ESSENCE (UNCOMMON)
+Concentrated fire residue used in crafting and enhancements.
+
+BEHEMOTH’S ROAR (UNIQUE)
+A resonant echo crystal that can be used to unleash a fearsome shockwave ability.
+
+“IT DOESN’T SCREAM.
+IT SIGHS...
+
+AS IF DISAPPOINTED THE WORLD STILL RESISTS BURNING.”

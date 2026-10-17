@@ -1,0 +1,107 @@
+HUEVALE
+NATURE • GROWTH • ALCHEMY • STEALTH
+
+CHARTREUSE INITIATE
+
+MONK OF THE CARTHUSIAN ORDER;
+CHANNELS LIGHT AND LAUGHTER THROUGH HERBAL POTIONS
+
+The Chartreuse Initiate tends to gardens and brews with equal devotion.
+His laughter is prayer, his potions are sermons, and his joy—an offering to the living world.
+
+HE SPEAKS IN GOOD HUMOR
+
+“Joy ferments like herbs—
+bitter, then healing.”
+
+“Laugh, and the gods might laugh with you.
+Or at you.”
+
+“Drink with intent.
+Laugh with abandon.
+
+Regret with wisdom.”
+
+“The gods cackle,
+why shouldn’t we?”
+
+CONTEXTUAL LINE
+
+When giving the player a potion:
+
+“Side effects may include
+euphoria, clarity... and bears.”
+
+THE INITIATE’S DUTIES
+
+HERBAL ALCHEMY
+Brews restorative potions from garden-grown herbs, roots, and blooms.
+
+JOYFUL DEVOTION
+Uses laughter and music as prayer, uplifting spirits and easing burdens.
+
+GARDEN KEEPER
+Tends the living gardens of Huevale, where plants are sacred teachers.
+
+HEALING & RENEWAL
+His tonics restore stamina, vigor, and the will to keep going.
+
+HUMILITY IN ALL THINGS
+Sees divinity in every leaf, every brook, every mistake, and every belly laugh.
+
+KEY ITEM
+
+CHARTREUSE TONIC
+
+Electric-green potion brewed by monks; restores stamina and induces laughter.
+
+Restores stamina over time.
+
+Induces laughter, clearing fear and bringing joy.
+
+Brewed from rare herbs and a little bit of sunshine.
+
+Monastic recipe passed down for generations.
+
+“A sip for the body,
+a laugh for the soul.”
+
+INITIATE ABILITIES
+
+HERBAL INFUSION
+Crafts potions that restore stamina, cure afflictions, or cleanse poison.
+
+JOYFUL CHANT
+Uplifts allies, reducing fear and restoring spirit in the heat of battle.
+
+NATURE’S BLESSING
+Calls on the gardens to heal wounds and remove harmful conditions.
+
+FERMENTED RESILIENCE
+Enhances endurance with tonics that fortify body and mind against exhaustion.
+
+LAUGHTER BURST
+Releases a burst of laughter that staggers foes and restores morale to allies.
+
+WHERE TO FIND HIM
+
+THE VERDANT CLOISTER
+A hidden monastery wrapped in vines and song, where the Initiate tends sacred gardens.
+
+THE LAUGHING APOTHECARY
+A bright pavilion of herbs and potions, where all are welcome to sit and sip.
+
+THE SUNLIT MEADOWS
+Find him under open skies, sharing stories with travelers and the occasional bear.
+
+“THE GARDEN GROWS.
+SO DOES THE JOY.”
+
+They say he was once a stern novice who took everything too seriously.
+Then one day, an old hermit gave him a potion that tasted awful—and made him laugh until he wept.
+
+He realized the gods weren’t far away in distant temples.
+They were in the moment itself.
+
+Now he brews, he laughs, and he reminds us:
+Life is short. Make it delicious.

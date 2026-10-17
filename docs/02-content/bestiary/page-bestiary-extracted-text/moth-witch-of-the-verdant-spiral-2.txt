@@ -1,0 +1,214 @@
+MOTH-WITCH OF THE VERDANT SPIRAL
+
+THE WHISPER IN BLOOM
+
+“She doesn’t cast spells.
+She releases questions that root into you.”
+
+THREAT LEVEL
+
+HIGH
+
+Environmental and mental hazard.
+Distorts perception, manipulates memory, and ensnares through illusion.
+
+TYPE
+
+Verdant/Cobalt Fey-Caster
+Boss Entity
+
+FIRST EMERGED
+
+Unknown — Possibly pre-Color War anomaly
+
+HUE INTERACTION
+
+ALTERNATING HUES
+
+She shifts between Verdant (Green) and Cobalt (Blue) alignment in rhythmic phases.
+
+MOTH ECHOES
+
+Her moths carry hue echoes.
+When struck, they trigger illusion sequences from the player’s past.
+
+DEWING PHASE
+
+Vulnerable only during the “dewing” phase—when her wings pulse and the air becomes thick with spores.
+
+KNOWN WEAKNESSES
+
+SONIC FEEDBACK
+
+Echo-pulse, chord runes, or harmonic attacks interfere with her song and stagger her.
+
+SPEAK HER TRUE NAME
+
+Speaking her true name during the second riddle phase briefly stuns her.
+
+LANTERN REVELATION
+
+Tools like the Bistre Lantern reveal her true form during Whispercloak.
+
+DEWING INTERRUPTION
+
+Use burst damage or hymn spells during dewing phase to exploit vulnerability.
+
+DESCRIPTION
+
+Tall, robed in layered silk woven from moth-skin and flower dust.
+Her eyes bloom and close like petals.
+
+Her wings emit a soporific sound that alters thought and slows reflexes.
+Surrounded by a swarm of Thalera moths that shimmer between green and blue—each tied to emotional memory.
+
+ANATOMY
+
+BLOOMING EYES
+
+Pupils open and close like flower petals.
+They reflect your last regret.
+
+SILK OF WHISPERS
+
+Robes woven from moth-skin, petals and memory dust.
+Absorbs sound and distorts time.
+
+SPIRAL ROOTS
+
+Her presence causes roots to curl in spiral patterns, binding the mind to the grove.
+
+MOTH CROWN
+
+A halo of live moths and blossom-antennae that hum in harmonic riddles.
+
+IRIDESCENT WINGS
+
+Emit a soporific tone.
+Phases between Verdant and Cobalt shimmers.
+
+DREAMBLOOM TRAIL
+
+Leaves behind spores that induce visions or emotional echoes in those who follow.
+
+ABILITIES (EXAMPLES)
+
+PETAL VEIL
+
+Creates a veil of petals that blurs vision and slows movement.
+
+MINDROOT
+
+Roots the target’s mind, causing erratic camera and delayed input.
+
+MOTHMAELSTROM
+
+Summons a swarm of moths that home in and explode in light.
+
+BLOOM OF DOUBT
+
+Implants a vision of past failure, reducing damage and accuracy.
+
+SPIRAL DANCE
+
+A telegraphed dance that fires spiraling blades of light and vine.
+
+NOTES
+
+Her death does not yield treasure.
+
+It yields a question:
+“Was she ever real... or was she your future, grown in the wrong direction?”
+
+Optional encounter.
+
+Found only by following a non-map-marked moth trail in the Verdant region during dusk cycle.
+
+LORE ENTRY
+
+Extract from “Dreambloom Recordings, Entry 17”
+— Archivist Sellen Orvine
+
+“She speaks in riddles while you bleed.
+She hums while your reflection loses its face.
+
+But she’s not cruel.
+She simply doesn’t understand what truth is anymore.”
+
+“The Verdant Spiral wasn’t a place.
+It was a question that grew out of control.
+
+Moss crept into logic.
+Petals wrapped around doubt.
+
+And at the center—her.”
+
+“I saw a thousand moths, all with my face.
+Then none with eyes.
+
+Then only her, smiling as my voice said her name backwards.”
+
+“If you find her, do not speak.
+Let her wings speak first.
+
+That is the test.”
+
+BEHAVIOR
+
+RIDDLE INITIALIZATION
+
+Opens combat with a riddle.
+Your answer alters the battlefield.
+
+Correct answers stabilize terrain.
+Wrong answers create shifting illusions.
+
+SPIRAL BLOOM
+
+Summons a ring of thorned vines and blossoms that grow inward.
+Roots the player unless escaped via blink, dash, or aerial movement.
+
+WHISPERCLOAK
+
+She becomes invisible to the eye.
+Only her moths remain.
+
+Sound and moth movement are your only clues.
+
+MIRRORED MURMURS
+
+Mimics the voice of a known NPC or ally to sow doubt, delay reaction, or lead you into danger.
+
+PHASE 2 — BELOW 50% HP
+
+Her wings shed completely.
+Movement becomes dance-like and erratic.
+
+Moths become volatile, exploding into illusion bursts or emotional debuffs such as Confusion, Hesitation, and Grief.
+
+POSSIBLE DROPS
+
+THALERA BLOOM (LEGENDARY)
+
+Memory sigil.
+Grants resistance to fear, confusion, and dread effects.
+
+Also decodes flora-based glyphs.
+
+MOTH-WEAVE SILK (RARE)
+
+Silk that hums with low tone.
+Used in crafting cloaks that reduce spell cast time.
+
+DEW-NECTAR VIAL (UNCOMMON)
+
+Restores mental clarity.
+Clears illusion and memory distortion.
+
+VERDANT WHISPER (RARE)
+
+A lingering echo of her riddle.
+Used to unlock hidden groves or alter riddle-based puzzles.
+
+“SHE DOESN’T GIVE ANSWERS.
+SHE GROWS THEM.”

@@ -1,0 +1,163 @@
+NULLBORN HUSK
+
+SPAWN OF THE SHATTER
+
+“They are not undead.
+They are unmade...”
+
+THREAT LEVEL
+
+MODERATE
+
+Unnatural.
+Corrupts color perception and erodes memory.
+
+Dangerous in groups or confined spaces.
+
+TYPE
+
+Aberration / Colorless Horror
+
+FIRST EMERGED
+
+Post-Shattering Era
+
+HUE INTERACTION
+
+IMMUNE TO COLOR-BASED MANIPULATION
+
+Unaffected by color-based manipulation.
+
+PROXIMITY DISTORTS HUE UI AND DISABLES PASSIVE COLOR REGEN
+
+Proximity distorts Hue UI and disables passive color regeneration.
+
+CONTACT MAY CAUSE HUE DRAIN
+
+Strips active hue-binding.
+
+EMITS FAINT COLOR-STATIC
+
+Like someone whispering a forgotten name.
+
+KNOWN WEAKNESSES
+
+VULNERABLE TO CRIMSON FLAME
+
+VULNERABLE TO EARTHEN DECAY
+
+MOMENTARILY STUNNED BY MEMORY ECHO EFFECTS
+
+DESCRIPTION
+
+When the Prismatic Core shattered, it tore color from beings too close to the explosion.
+
+The Nullborn Husks are the result—creatures not dead, but unmade.
+
+Their eyes are black wells of absence, their skin like dried ash, and their voices rasp forgotten names.
+
+They crawl rather than walk, twitching with phantom memories of what they once were.
+
+ANATOMY
+
+VOID-FILLED EYES
+
+Black wells that drink light and memory alike.
+They do not blink.
+
+ASH-DRIED SKIN
+
+Parched and cracked, flaking like burnt bone under the slightest touch.
+
+HUE-DRAINING CLAWS
+
+Rake through color itself, unraveling hue-bindings on contact.
+
+STATIC-LACED SPINE
+
+Fractured vertebrae leak hue-static that distorts nearby reality.
+
+HOLLOW CORE
+
+Where a heart should be lies a void that echoes with forgotten names.
+
+GLITCHING LIMB JOINTS
+
+Joints jitter and slip between frames, causing erratic, stuttering motion.
+
+ABILITIES & ATTACKS
+
+NULL SCRATCH
+
+Rakes forward with void-tainted claws.
+Applies Hue Drain.
+
+STATIC BURST
+
+Releases a pulse of color-static that distorts vision and interrupts ability use.
+
+NAME WHISPER
+
+Whispers a forgotten name.
+Targets may forget abilities or bindings.
+
+REALITY TWITCH
+
+Causes the world to stutter.
+Creates brief glitches that displace or misalign foes.
+
+NOTES
+
+Some survivors hear their own voices echoed back moments before an attack.
+
+They may still “remember” color—faint dreams and flickers linger.
+
+Destroying the body does not silence the whisper.
+The name may remain.
+
+LORE ENTRY
+
+“They came after the Core broke—
+pale crawling things, not blank but hollowed.”
+
+“One touched my companion and in an instant she forgot her own name.”
+
+“They are what is left when all birth,
+all memory, all color has bled out.”
+
+“If you hear your name from their mouths—
+it is already too late.”
+
+— Last Verdant Archivist, on the eve of the Tyrian Eclipse
+
+BEHAVIOR
+
+Drawn to strong hues and relics.
+They seem to feed on color’s essence.
+
+Found near shattered color sites, ritual grounds, and corrupted relics.
+
+Avoid light but are not harmed by it.
+
+Their movements briefly glitch nearby reality.
+
+POSSIBLE DROPS
+
+NULLSPUN VINE (RARE)
+
+A tendon-like vine woven from color-static.
+Used in high-tier hue-forging.
+
+HOLLOW EYE (UNCOMMON)
+
+A socket of absence that still flickers with stolen memory.
+
+WHISPER ASH (UNCOMMON)
+
+Ash that echoes names in the wind.
+Used in memory-altering rituals.
+
+FRAGMENT OF UNCOLOR (LEGENDARY)
+
+A crystalline shard of what came before color.
+Extremely rare and sought by many.

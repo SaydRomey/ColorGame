@@ -1,0 +1,173 @@
+NULLSHADE ECHO
+
+REFLECTION WITHOUT MERCY
+
+“You moved first.
+It simply responded... eventually.”
+
+THREAT LEVEL
+
+UNIQUE
+
+Mechanically Unconventional.
+Not defined by strength—defined by reflection.
+
+TYPE
+
+Mirror Construct / Memory Apparition
+
+FIRST EMERGED
+
+Unknown—only seen in Nullshade’s Wound
+
+HUE INTERACTION
+
+IMMUNE TO HUES
+
+Immune to all hue-based attacks—any color used is reflected with inverted effect.
+
+VULNERABLE TO TRUTH AND INACTION
+
+Only inaction, truth, or nonviolent choices can disrupt its presence.
+
+BISTRE LANTERN REVEAL
+
+Use of the Bistre Lantern reveals its source echo—what memory it’s drawn from.
+
+KNOWN APPEARANCES
+
+Shardspire Walkway
+(before the collapse)
+
+Vault of Forgotten Names
+(behind the third seal)
+
+The Hollow Archive
+(inner echo stacks)
+
+Shatterglass Pools
+(when truth is revealed)
+
+Appears only where memory, regret, or unresolved choices linger.
+
+BESTIARY ENTRY
+
+DESCRIPTION
+
+Nullshade Echo appears as a translucent silhouette of the player, or at times, a past version of them.
+
+It moves a second after the player moves, mimicking attacks, spells, or decisions already taken—sometimes even copying full combat stances or dialogue trees.
+
+It doesn’t initiate combat.
+Instead, it responds—and reflects.
+
+Striking it may result in your own health dropping, a past NPC line replaying, or reversing a recent action.
+
+Sometimes, it undoes your progress if it recognizes guilt or contradiction.
+
+BEHAVIOR
+
+Appears at critical memory junctions or lore-rich areas.
+
+Mimics player behavior with a one-second delay, including pausing, dodging, or emoting.
+
+Occasionally, it will “speak”—using past lines the player said in other regions.
+
+KNOWN WEAKNESSES
+
+Standing perfectly still causes it to vanish after 12 seconds.
+
+Reciting or triggering remembered truths via collected lore calms it.
+
+Touching a Shatterglass Pool while near it causes mutual reflection—both vanish.
+
+NOTES
+
+Multiple Nullshade Echoes can appear in NG+ modes—each based on a different past choice.
+
+Some can be interacted with through dialogue.
+One was seen whispering a phrase the player had never spoken aloud.
+
+If defeated properly, it fades whispering:
+“It wasn’t wrong. It was just... before.”
+
+EFFECTS ON THE PLAYER
+
+HEALTH REVERSAL
+
+Taking damage while attacking the Echo may harm the player instead.
+
+HUE DRAIN
+
+Extended exposure may drain active Hue Shards or invert abilities temporarily.
+
+UI DISTORTION
+
+The HUD flickers or rewinds.
+Dialogue choices may reverse or become unavailable.
+
+MEMORY STATIC
+
+Short-term memory loss or fragmented objectives may occur after interaction.
+
+PROGRESS LOOP
+
+In rare cases, the Echo can reset the last checkpoint if guilt conditions are met.
+
+LORE ENTRY
+
+Entry recorded by the Caput Mortuum Ascetic in “Reverberations of Unselfing”
+
+“I watched one retrace my sister’s footsteps—even though she died in the war of hues.
+
+The Echo did not bleed.
+It did not speak.
+
+It simply... reminded.”
+
+“It mimicked her hesitation, her step backward, the way her hands shook when she refused to strike.
+
+I had forgotten that about her.
+And yet, the Echo hadn’t.”
+
+“Some say they are mirror fragments of the Prismwalker.
+
+Others believe they are the world’s last attempt to remind us what we once swore never to do again.”
+
+“Whatever they are, they cannot be bested.
+They can only be forgiven.”
+
+BEHAVIOR OVERVIEW
+
+DELAYED REFLECTION
+
+Echo mirrors all player actions with a one-second delay.
+
+This includes movement, attacks, spells, UI input, and emotes.
+
+MEMORY VOICE
+
+May speak lines the player has said before in other regions, revealing forgotten choices or lost dialogue.
+
+REVERSAL POTENTIAL
+
+Certain interactions may reverse or undo recent actions—opening doors, healing wounds, or resetting puzzles.
+
+NON VIOLENT ENTITY
+
+Does not begin combat.
+It exists only to remind, reflect, and respond.
+
+TIPS FOR ENCOUNTER
+
+Use the Bistre Lantern to understand what memory it reflects.
+
+Do not rush.
+Inaction is sometimes the only answer.
+
+Collect and read lore entries before encounter—truth weakens its hold.
+
+If cornered, seek water.
+A Shatterglass Pool may offer escape—or release.
+
+Forgiveness, not force, is the path that ends the reflection.

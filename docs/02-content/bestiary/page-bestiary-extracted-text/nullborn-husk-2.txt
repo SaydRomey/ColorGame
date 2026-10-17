@@ -1,0 +1,176 @@
+NULLBORN HUSK
+
+SPAWN OF THE SHATTER
+
+“They are not undead.
+They are unmade...”
+
+NULLSHADE ARCHIVES
+Bestiary Compendium
+
+BESTIARY ENTRY
+
+TYPE
+
+Aberration / Colorless Horror
+
+THREAT LEVEL
+
+Moderate
+
+Highly Disruptive to Hue-Bound Players
+
+FIRST EMERGED
+
+Post-Shattering Era
+
+ALIGNMENT
+
+Chaotic / Hunger-Driven
+
+HABITAT
+
+Shattered Color Sites, Ruins, Corrupted Relics
+
+SIZE (AVG.)
+
+1.6 m at the shoulder
+
+Their movements glitch reality briefly—distorting hue around them.
+
+They emit a faint color static, a sound like someone whispering a name you’ve forgotten.
+
+Attacking them risks being drained of hue—causing temporary colorblindness or ability inversion.
+
+ANATOMY BREAKDOWN
+
+VOID EYES
+
+Black wells of absence.
+Reflect nothing. See hue signatures.
+
+ASHEN SKIN
+
+Dried, dimmed flesh.
+Unstable and brittle.
+
+GLITCH FIBERS
+
+Reality-torn strands leak Null static.
+
+CORE HOLLOW
+
+Where color once resided.
+Now a well of hunger.
+
+DESCRIPTION
+
+When the Prismatic Core shattered, it did not just scatter hues—it tore color from beings too close to the explosion.
+
+The Nullborn Husks are the result: creatures not dead, but unmade.
+
+Their eyes are black wells of absence, their skin like dried ash, their voices a rasp of forgotten names.
+
+They crawl rather than walk, twitching with phantom memories of what they once were.
+
+SIZE COMPARISON
+
+Human: 1.8 m.
+Nullborn Husk: 1.6 m.
+
+HUE INTERACTION
+
+Immune to color-based manipulation.
+
+Proximity distorts Hue UI and disables passive color regen.
+
+Contact may cause Hue Drain: temporarily strips player of active hue-binding.
+
+NORMAL HUE VISION
+
+Near Nullborn Husk, hue vision becomes distorted.
+
+LORE ENTRY
+
+From the Scroll of [placeholder],
+Last Verdant Archivist
+
+“I write this in root-ink, though I know not if ink can hold what I must say.
+
+They came after the Core broke—crawling things, pale and featureless, like clay left out too long.
+
+But they were not blank.
+No... they were hollowed.
+
+I watched a beast shudder and fall, not from wound, but from forgetting itself entirely.
+
+One touched my companion, and in an instant her eyes dimmed.
+
+She forgot her name.
+Forgot mine.
+
+When I wept for her, the husk smiled.
+It had taken something—not her blood, not her life, but her hue.
+
+I believe they were once like us.
+Carriers of color.
+
+When the Prism ruptured, they were caught in the lightless tide that followed—and in that moment, they were rewritten by absence.
+
+We call them Nullborn, but that name is a mercy.
+They are not born.
+
+They are what’s left when all birth, all memory, all color has bled out.
+
+If you see one, do not speak.
+They remember sounds.
+
+If you feel yourself forgetting, run.
+And if you hear your name from their mouths—it is already too late.”
+
+— [placeholder], on the eve of the Tyrian Eclipse
+
+BEHAVIOR
+
+Drawn to strong hues and relics.
+
+Often found near shattered color sites, old ritual grounds, or corrupted relics.
+
+Avoid light but are not harmed by it.
+
+KNOWN WEAKNESSES
+
+Vulnerable to Crimson flame and Earthen decay.
+
+Momentarily stunned by Memory Echo effects from Cobalt or Earthen.
+
+NOTES
+
+Whispers suggest these husks still “remember” color.
+
+Some report hearing their own voices echoed back moments before an attack.
+
+“It called my name...
+But I hadn’t spoken.”
+
+HUE DRAIN EFFECTS
+
+COLORBLINDNESS
+
+Hue wheel grays out.
+Harder to distinguish colors.
+
+ABILITY INVERSION
+
+Abilities may cast opposite hue effect, such as heal becoming harm.
+
+HUE EXHAUSTION
+
+Faster hue depletion.
+Passive regen disabled.
+
+ARCHIVIST WARNING
+
+Do not engage without preparation.
+
+Your hue is their hunger.

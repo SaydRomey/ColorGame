@@ -1,0 +1,156 @@
+FRACTAL SHARDLING
+
+RECURSION MADE SHARP
+
+“Hit it once, and it remembers forever.”
+
+OVERVIEW
+
+Floating prisms shaped like broken math.
+
+They loop movement in recursive spirals, obeying no natural gravity.
+
+Every strike splinters them — not into pieces, but smaller selves.
+
+THREAT LEVEL
+
+Moderate → Escalating
+
+FIRST EMERGED
+
+Post-Shattering Splinterfall
+
+TYPE
+
+Recursive Entity / Prism Construct
+
+LORE ENTRY
+
+Fragmented scrawl found etched on a Nullshade monolith.
+
+“They fractured the Core, hoping each splinter might forget what the whole once knew.
+Instead, it remembered too well.”
+
+“Repeated.
+Echoed. Over and over.”
+
+“A Shardling does not die.
+It subdivides — each generation forgetting more... and hurting more.”
+
+“One split into five.
+Then twenty-five.”
+
+“Then still it sang.
+Until even its song forgot the words, but not the rhythm.”
+
+“Only one truth breaks recursion:
+memory without repetition.”
+
+DESCRIPTION
+
+Appears as jagged crystal fragments rotating in impossible loops.
+Movement paths loop on invisible, recursive tethers.
+
+When struck, each Shardling splits into two smaller, faster versions, gaining speed and unpredictability.
+
+This continues until their recursion limit is hit — usually five generations.
+At that point, they collapse inward with a silent burst, altering terrain geometry or shifting level logic.
+
+RECURSION CYCLE
+
+GEN 0: Initial form.
+
+GEN 1: First split.
+
+GEN 2: Further subdivision.
+
+GEN 3: Faster, more numerous shards.
+
+GEN 4: Increased speed and unpredictability.
+
+GEN 5: Terminal collapse.
+
+Speed and unpredictability increase with each generation.
+
+HUE INTERACTION
+
+Changes color slightly with each split.
+Mimics hue gradients but never fully displays them.
+
+Immune to direct hue magic.
+However, light-based illusions, especially Yellow and Violet, delay their recursion.
+
+Yellow Delay.
+
+Violet Delay.
+
+BEHAVIOR
+
+Patrols fixed paths until disturbed.
+
+Targets the last source of impact.
+
+Each smaller version emits a fainter hum.
+Eventually it becomes silent, but more dangerous.
+
+KNOWN WEAKNESSES
+
+Can be halted early with a perfectly timed sound burst, such as Echo Pulse.
+
+Violet’s Glamour Pulse confuses their recursion, forcing false splits.
+
+Reflecting their movement back into themselves using mirror terrain causes instant collapse.
+
+COMBAT TACTICS
+
+Do not attack blindly.
+Each hit makes the swarm harder to control.
+
+Watch their pathing loops.
+They follow invisible, recursive tethers.
+
+Use sound, illusion, or reflection to break their recursion early.
+
+INVISIBLE TETHER LOOP
+
+Predictable until provoked.
+
+After impact, loop begins unraveling.
+
+POTENTIAL DROP
+
+FRACTAL RESIDUE
+
+When destroyed at any generation, may drop Fractal Residue.
+
+Used to craft unstable hue grenades or Prism Shard keys.
+
+NOTES
+
+If more than five are allowed to split, level geometry around them may deform subtly.
+Floating platforms may misalign, and doors may shift location.
+
+Occasionally whisper math-like patterns:
+“One becomes two. Two becomes... error.”
+
+ARCHIVIST REMARK
+
+They are not evil.
+They are results.
+
+Results of a story that could not stop dividing itself.
+
+FIELD TIP
+
+Listen.
+Look. Reflect.
+
+Break the loop before the loop breaks you.
+
+RELATED ENTRIES
+
+Huefractals
+
+Doppelshade
+
+Prism Glyph Anchor

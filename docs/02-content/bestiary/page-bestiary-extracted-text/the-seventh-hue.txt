@@ -1,0 +1,156 @@
+THE SEVENTH HUE
+
+THE COLOR THAT REFUSED
+
+It was never named.
+So it never died.
+
+“It is not between colors.
+It is beneath them.”
+
+SOURCE IMAGE — the-seventh-hue_page.png
+
+CLASSIFICATION
+
+Type:
+Forgotten Antithesis / Hue Paradox.
+
+Threat Level:
+EXTREME — Optional Meta-Encounter.
+
+First Emerged:
+Behind sealed prism gates unlocked by full riddle solutions.
+
+Region:
+Nullshade — Prism Wound.
+
+Role Tags:
+Antithesis / Final Mirror / Endgame Anomaly.
+
+ANATOMY BREAKDOWN
+
+1. ERASED FACE
+
+A nearly featureless mirror-mask with faint suggestion of the viewer.
+
+2. VOIDGLASS SKIN
+
+Semi-reflective, fractured surface that bends light without holding color.
+
+3. PRISM SCAR CORE
+
+A dark crystalline cavity that consumes affirmed truths and holds none.
+
+4. INVERTED AURA
+
+Monochrome halo that swallows hue, memory, and chosen meaning.
+
+5. UNNAMED LIMBS
+
+Clean humanoid form with wrong-shadow afterimages that trail one step behind.
+
+6. REFLECTION SEAMS
+
+Fine fractures that stitch together alternate selves and erased timelines.
+
+7. SILENT SHARD
+
+A black prism fragment that pulses between unchosen names.
+
+DESCRIPTION
+
+An anomaly wrapped in shadowlight.
+
+Its form cannot be fully described; its edges blur the longer one looks.
+
+It counters the player’s essence, inverts strengths into weaknesses, defies chosen builds, and embodies a hue that does not belong.
+
+HABITAT / MANIFESTATION
+
+Appears only beyond sealed prism gates in Nullshade after solving five or more prism riddles without error.
+
+Manifests within the Prism Wound — fractured monoliths, hollow void, and architecture that remembers what should not exist.
+
+BEHAVIOR / STATE FLOW
+
+Veiled Dormancy → HUD Strip → Inversion → Unname → Final Truth.
+
+Opens combat by stripping the HUD and fading the world to monochrome.
+
+Speaks only in reflection, using the player’s voice in distorted form.
+
+If the player hesitates, it pressures decisively.
+
+ABILITIES / STATUS EFFECTS
+
+UNNAME
+
+Erases traits, stat modifiers, or emotional cues.
+
+ECHO INVERSION
+
+Reverses strengths and weaknesses.
+
+MIRROR RECALL
+
+Mimics the player’s build or most-used approach in distorted form.
+
+STAT REVERSAL
+
+Chosen affinities invert.
+
+FINAL REFLECTION
+
+Echoes what the player has tried not to become.
+
+HUE INTERACTION
+
+Nullifies all active hues on contact.
+
+Forces a reversed state where strengths become weaknesses.
+
+Use of Silent Hue alignment temporarily reveals its true form.
+
+Certain dialogue echoes from The Blooming Veil or Auralith provide resistance.
+
+KNOWN WEAKNESSES
+
+Only defeated by confronting a final player-typed truth prompt at combat midpoint.
+
+Paradox-resistant truth choices weaken it.
+
+Silent Hue briefly stabilizes its silhouette.
+
+Memory Echo resistance can reveal a false opening.
+
+LORE SOURCE — DECODED NULLSHADE PRISM RIDDLES
+
+“We recorded six.
+The seventh recorded itself.”
+
+“It spoke only once —
+not in words, but in silence that hurt.”
+
+“It was never painted.
+Only erased.”
+
+“We called it a heresy.
+So it survived.”
+
+NOTES
+
+Defeating it grants no loot — only stillness.
+
+ARCHIVE TAG
+
+The Forbidden Color.
+
+UNLOCK
+
+If defeated, unlocks optional dialogue before the final boss:
+
+“What if the Prism was wrong?”
+
+SPARED OUTCOME
+
+Leaves behind a black shard that pulses between names never chosen.

@@ -1,0 +1,181 @@
+RUSTWORN JUDGE
+
+THE VERDIGRIS VERDICT
+
+“Silence is guilt.
+Speak, and be tested.”
+
+THREAT LEVEL
+
+HIGH
+
+Triggers zone-wide “duel” state.
+Highly punishing to liars or oathbreakers.
+
+TYPE
+
+Spectral Adjudicator / Trialbound Duelist
+
+FIRST EMERGED
+
+Post-Shattering —
+Bound to the Isabelline Tribunal Ruins.
+
+HUE INTERACTION
+
+VIOLET BLIND SPOT
+
+Cannot perceive illusions.
+Violet-bound players may delay confrontation.
+
+EARTHEN TRUTH
+
+Attuned to Earthen truths;
+lying in dialogue triggers its full aggression.
+
+CRIMSON TRIAL
+
+Will challenge Crimson-bound characters more harshly, invoking blood-duel rites.
+
+KNOWN WEAKNESSES
+
+PAUSED OPENING
+
+During the “Paused” phase, offer a Memory Token from a known past regret to delay the duel.
+
+NAME OF THE JUDGE
+
+Light the Bistre Lantern at the edge of the arena to reveal its original name.
+Speaking this name aloud weakens its form.
+
+VERDICT INTERRUPT
+
+A perfect parry during its “Judged” strike, or ending the duel through confession, can defeat it.
+
+BESTIARY ENTRY
+
+DESCRIPTION
+
+Tall, silent, and clad in lacquered remnants of gold and crimson armor, the Rustworn Judge emerges in areas where too many lies or falsehoods have been spoken.
+
+Its sword drags across the ground like a gavel across cracked marble.
+
+When it engages, the HUD disappears.
+Only heartbeats, footfalls, and spoken choices remain.
+
+BEHAVIOR
+
+Begins neutral;
+approaches only if a dialogue deception or broken vow is detected nearby.
+
+Upon engagement, all other threats vanish from the arena —
+this becomes a Trial Zone.
+
+Speaks only in verdicts:
+“Guilty,” “Paused,” “Judged.”
+
+Each phase tightens its aggression.
+
+KNOWN WEAKNESSES
+
+See left panel.
+
+NOTES
+
+Players who lie or misremember their past actions during combat will have movement briefly impaired.
+
+It is not the Judge’s blade that slays —
+but your own dishonesty echoing back.
+
+ATTACKS & ABILITIES
+
+VERDICT SLASH
+
+A sweeping cut that leaves a rustbrand.
+Causes Bleed and reduces healing effectiveness.
+
+GAVEL DRAG
+
+Drags its blade like a judge’s gavel.
+Slows movement and stuns after a short delay.
+
+SCALE OF TRUTH
+
+Lifts its scales to expose your true nature.
+Increases damage if you are lying or hiding.
+
+SILENT EDICT
+
+Speaks a single verdict.
+Locks your abilities for a time based on your response.
+
+RUSTENING BIND
+
+Chains of corroded justice.
+Reduces max stamina and prevents sprinting while bound.
+
+LORE ENTRY
+
+Fragment from “The Tribunal of Dust” —
+Sootleaf Scroll, Mortuum Hold
+
+“He presided over the Ash Trials —
+where guilt was presumed, and memory was the only plea.
+
+His blade struck truth from hesitation.”
+
+“When the Catacombs crumbled, the Judge did not fall.
+
+He simply waited,
+verdict unspoken, blade still angled toward indecision.”
+
+“We say:
+do not argue with the rust.
+
+It has waited longer than you have drawn breath.”
+
+BEHAVIOR OVERVIEW
+
+TRIAL INITIATION
+
+Detected lies, false oaths, or broken promises draw the Judge.
+Calm and silent until provoked.
+
+DUEL REALM
+
+Upon combat, the area seals into a Trial Zone.
+Allies and enemies vanish.
+
+Only the Judge and the challenged remain.
+
+VERDICT PHASES
+
+Cycles through “Guilty,” “Paused,” and “Judged.”
+Each phase alters attack patterns and pressure.
+
+JUDGMENT STRIKE
+
+Final strike in “Judged” phase is near-instant.
+Parry or confess — there is no dodge.
+
+POSSIBLE DROPS
+
+VERDIGRIS SENTENCE (RARE)
+
+A rusted tablet engraved with the Judge’s final line.
+Used to unlock trial-based gear.
+
+TRIAL TOKEN (UNCOMMON)
+
+A tarnished scale weight.
+Used in crafting oathkeeper weapons.
+
+CORRODED LACQUER (UNCOMMON)
+
+Flakes of lacquered armor.
+Used to enhance defense against charm and mind effects.
+
+FORGOTTEN VERDICT (RARE)
+
+A memory-bound echo of a truth long denied.
+Used to alter dialogue outcomes in future playthroughs.

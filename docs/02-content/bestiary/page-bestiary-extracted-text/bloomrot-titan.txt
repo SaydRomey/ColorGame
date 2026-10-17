@@ -1,0 +1,180 @@
+BLOOMROT TITAN
+
+THE ROOT THAT OVERREACHED
+
+“It doesn’t breathe.
+It spores.”
+
+THREAT LEVEL
+
+HIGH
+
+Wide-area corruption, persistent damage fields
+
+TYPE
+
+Verdant Aberration / Rot Elemental
+
+FIRST EMERGED
+
+Late Verdant Bloom Cycle — Region unknown.
+
+FUNGAL CROWN
+
+Constantly releases toxic spores.
+Destroys projectiles and increases nearby spore density.
+
+ROT BLOSSOMS
+
+Bloom with corrupted pollen.
+Hit or destroyed, they release clouds that cause confusion, hallucinations, or control reversal.
+
+HOLLOW HEART
+
+Glowing core of accumulated rot.
+Vulnerable when exposed during attacks or abilities.
+
+ROOT CLUSTERS
+
+Drag entire root systems.
+Can snare players and corrupt the ground.
+
+HUE INTERACTION
+
+ALIGNED TO GREEN
+
+Embodies growth without limit — a corrupted Verdant essence.
+
+VULNERABLE TO CRIMSON
+
+Purifying flame burns away rot and disrupts regeneration.
+
+WEAK TO BROWN
+
+Memory disruption weakens its will and halts growth feedback loops.
+
+SENSITIVE TO YELLOW
+
+Aura manipulation distorts its life-forces and spore resonance.
+
+DESCRIPTION
+
+The Bloomrot Titan resembles a twisted colossus of animated bark, fungal caps, and rotting wildflowers.
+
+Its core pulses with toxic light—a hollow, glowing knot where its heart might’ve been.
+
+It moves slowly but with explosive force, uprooting itself to crash down with trunk-sized limbs.
+
+BEHAVIOR
+
+Spawns poisonous pollen clouds when struck—linger in air, causing hallucinations or reversed controls.
+
+Launches explosive seed pods—each explodes into parasitic seedlings unless destroyed in time.
+
+Occasionally “roots” itself to regenerate—vulnerable but emits thick fungal fog.
+
+LORE ENTRY
+
+Field Record — “Rot in the Rootlands”
+by Huewarden Lilael
+
+“Verdant magic was never supposed to be this... greedy.
+It heals, yes — but healing without judgment becomes infestation.
+
+The Titan wasn’t born.
+It accumulated.
+
+Dead treants, overgrown shrines, corrupted spores, blood-fed vines — all swallowed into the same groaning body.
+
+It threw pods that screamed when they landed.
+And its chest.... Gods, its chest was hollow, glowing green, as if the thing was ashamed of the rot it wore like bark.
+
+I cast a growth-stall glyph.
+It laughed.
+
+The sound came from its blossoms.
+From its moss. From inside me.
+
+We left that grove.
+Burned what we could.
+
+What we couldn’t still whispers in the roots.”
+
+ANATOMY & ATTACK PATTERNS
+
+SPORE VENTS
+
+Tiny vents along its back release spores continuously.
+More active during rage phase.
+
+FUNGAL SHELVES
+
+Store nutrients and spores.
+Destroying several can reduce its regeneration.
+
+HEAVY LIMBS
+
+Trunk-like arms can be swung in wide arcs or slammed into the earth to cause shockwaves.
+
+TOXIC TRAIL
+
+Leaves behind corrupted ground that slows players and damages over time.
+
+KNOWN WEAKNESSES
+
+GLOWING CORE
+
+Its chest core is vulnerable when attacking—exposes inner rot for brief moments.
+
+BURNING TERRAIN
+
+Fire limits its healing capacity and prevents full regrowth during rest phases.
+
+TRUTHROOT SALTS
+
+Alchemical salts or powders greatly slow its regeneration and spore production.
+
+SONIC DISRUPTION
+
+Loud sonic pulses can rupture spore sacs and interrupt major abilities.
+
+WHERE IT DWELLS
+
+Overgrown ruins and lost sanctuaries.
+
+Burial groves and corrupted gardens.
+
+Failed Verdant shrines.
+
+Deep within rooted caverns.
+
+POSSIBLE DROPS
+
+BLOOMROT HEART
+
+Rare material pulsing with corrupted life.
+Used in advanced alchemy or craft.
+
+TITAN SPORE SACK
+
+Volatile spore cluster.
+Used in bombs or area-denial concoctions.
+
+ROOTBOUND BARK
+
+Tough, rot-resistant bark.
+Great for high-tier Verdant gear.
+
+WHISPERING PITH
+
+Fragment of memory-filled core.
+Lets you hear one of its echoes.
+
+SIZE COMPARISON
+
+Estimated Height: 25–30 meters.
+
+Weight: immeasurable (root mass).
+
+THE MORE IT GROWS, THE LESS IT REMEMBERS.
+THE MORE IT FORGETS, THE MORE IT HURTS.

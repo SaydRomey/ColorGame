@@ -1,0 +1,554 @@
+VERDANT MAW
+
+BLOSSOM OF HUNGER
+
+A flower whose petals hide teeth and hunger.
+
+“A flower with teeth is still a flower.”
+
+==================================================
+SOURCE IMAGE 1 — verdant-maw-2_page.png
+==================================================
+
+CLASSIFICATION
+
+Type:
+Carnivorous Plant / Ambush Predator.
+
+Threat Level:
+High — Lethal if caught unaware.
+
+First Emerged:
+Early Post-Shattering Era.
+
+OVERVIEW
+
+Stationary but deadly predator, camouflaged as a lush, inviting blossom.
+
+Emits enticing illusions or fragrances to attract prey into striking range.
+
+Snaps shut rapidly, trapping victims with powerful vines and thorn-lined petals.
+
+DESCRIPTION
+
+The Verdant Maw disguises itself as an enormous, vibrant flower nestled amidst lush vegetation.
+
+Hidden beneath its radiant petals lies a cavernous maw lined with thorn-like teeth and ensnaring vines, patiently waiting to snap shut upon unsuspecting prey.
+
+HUE INTERACTION
+
+Emits powerful Verdant illusions and intoxicating scents to lure prey.
+
+Resistant to direct plant manipulation; vulnerable to charm-based music or flute magic.
+
+Can detect and target players strongly bound to Green, Verdant, or Brown, Earthen, hues.
+
+BEHAVIOR
+
+Completely stationary; relies solely on luring prey into its reach.
+
+Often found near relic-rich areas or points of emotional resonance, exploiting travelers’ curiosity or nostalgia.
+
+Can be temporarily pacified by certain musical artifacts, for example Limerick Druid’s flute.
+
+AMBUSH CYCLE
+
+1. LURE PREY
+
+Radiant bloom and alluring scents attract curious prey.
+
+2. INDUCE TRANCE
+
+Illusions and fragrance cloud the mind, inducing drowsy euphoria.
+
+3. SNAP SHUT
+
+Petals clamp down in blinding speed, and thorn-teeth impale and restrain.
+
+4. DRAG UNDERGROUND
+
+Vines ensnare and drag the victim beneath the soil to be digested.
+
+KNOWN WEAKNESSES
+
+Highly susceptible to fire.
+
+Crimson flame attacks immediately neutralize its lures.
+
+Sensitive to intense vibrations or sonic disruptions that disturb its senses.
+
+Vulnerable to Earthen decay spells, causing rapid wilting and temporary paralysis.
+
+FIELD NOTES
+
+“Our scouts spoke excitedly of finding a flower larger and more radiant than any before.”
+
+“The bloom shimmered gently, exuding a fragrance that numbed our fears.”
+
+“Never trust beauty too bright or fragrance too sweet.”
+
+“The Verdant Maw feeds on desires just as readily as flesh, and Huevale is full of desires.”
+
+— Chartreuse Initiate, Herbalist Codex, Sapreach Expedition.
+
+NOTES
+
+Locals tell cautionary tales of Verdant Maws imitating voices of lost loved ones, reciting half-remembered lullabies or promises to entice prey closer.
+
+These stories suggest that even plants in Huevale know the power of longing.
+
+HUE / ELEMENT INTERACTION
+
+Crimson / Fire:
+Highly Effective.
+
+Brown / Earthen:
+Effective.
+
+Indigo / Sonic:
+Effective.
+
+Azure / Water:
+Neutral.
+
+Amber / Light:
+Low Effect.
+
+Violet / Void:
+Low Effect.
+
+Green / Verdant:
+Ineffective.
+
+FINAL NOTE
+
+Beauty is its bait.
+
+Hunger is its truth.
+
+==================================================
+SOURCE IMAGE 2 — verdant-maw-3_page.png
+==================================================
+
+TITLE NOTES
+
+A flower whose petals hide teeth and hunger.
+
+“A flower with teeth is still a flower.”
+
+FEATURES
+
+THORN-LINED PETALS
+
+Conceal rows of hardened, tooth-like thorns that shred and hold prey.
+
+BEGUILING SCENT
+
+Emits intoxicating fragrances and illusions to lure prey closer.
+
+ENSNARING VINES
+
+Powerful, prehensile vines erupt from within to seize and drag victims under.
+
+OVERVIEW
+
+Stationary but deadly predator, camouflaged as a lush, inviting blossom.
+
+Emits enticing illusions or fragrances to attract prey into striking range.
+
+Snaps shut rapidly, trapping victims with powerful vines and thorn-lined petals.
+
+LORE ENTRY
+
+Field notes from the Herbalist Codex of Chartreuse Initiate, Sapreach Expedition.
+
+Our scouts spoke excitedly of finding a flower larger and more radiant than any before — blooming in colors vibrant enough to eclipse the dawn itself.
+
+I was suspicious; beauty so pronounced always has a hidden cost.
+
+We approached carefully, yet even caution felt foolish as the bloom shimmered gently, exuding a fragrance that numbed our fears.
+
+Then came the whispers, soft promises and visions of memories we longed to relive.
+
+It was the flower speaking in illusions, luring us deeper.
+
+My trance broke only when I saw the petals twitch, revealing rows of thorn-teeth lining the maw beneath.
+
+By then, our guide had already reached out his hand.
+
+The flower’s embrace was instant, final — a silent snap followed by dragging vines pulling his still-struggling form underground.
+
+Never trust beauty too bright or fragrance too sweet.
+
+The Verdant Maw feeds on desires just as readily as flesh, and Huevale is full of desires.
+
+— Chartreuse Initiate, final entry before abandoning Sapreach Expedition.
+
+ATTACK SEQUENCE
+
+1. LURE
+
+Emits fragrance and illusions, attracting prey with beauty and whispered promises.
+
+2. SNAP
+
+Petals twitch — then clamp shut in a blur of thorned teeth and crushing force.
+
+3. ENSNARE
+
+Vines erupt and drag prey underground to be digested beyond reach.
+
+BESTIARY ENTRY
+
+Name:
+Verdant Maw.
+
+Type:
+Carnivorous Plant / Ambush Predator.
+
+Threat Level:
+High — Lethal if caught unaware.
+
+First Emerged:
+Early Post-Shattering Era.
+
+Scale:
+Approximately 3.5 m shown in the reference.
+
+DESCRIPTION
+
+The Verdant Maw disguises itself as an enormous, vibrant flower nestled amidst lush vegetation.
+
+Hidden beneath its radiant petals is a cavernous maw lined with thorn-like teeth and ensnaring vines, patiently waiting to snap shut upon unsuspecting prey.
+
+HUE INTERACTION
+
+Emits powerful Verdant illusions and intoxicating scents to lure prey.
+
+Resistant to direct plant manipulation; vulnerable to charm-based music or flute magic.
+
+Can detect and target players strongly bound to Green, Verdant, or Brown, Earthen, hues.
+
+BEHAVIOR
+
+Completely stationary; relies solely on luring prey into its reach.
+
+Often found near relic-rich areas or points of emotional resonance, exploiting travelers’ curiosity or nostalgia.
+
+Can be temporarily pacified by certain musical artifacts, for example Limerick Druid’s flute.
+
+KNOWN WEAKNESSES
+
+Highly susceptible to fire.
+
+Crimson flame attacks immediately neutralize its lures.
+
+Sensitive to intense vibrations or sonic disruptions that disturb its senses.
+
+Vulnerable to Earthen decay spells, causing rapid wilting and temporary paralysis.
+
+HABITAT & SPAWN
+
+Typically found in overgrown ruins, ancient clearings, and places of emotional resonance where memories linger in the air.
+
+Common spawn areas are marked on the displayed map.
+
+ELEMENTAL RESISTANCES
+
+Fire:
+Weak.
+
+Sonic:
+Sensitive.
+
+Earth:
+Vulnerable.
+
+Water:
+Resistant.
+
+Ice:
+Resistant.
+
+FIELD ADVICE
+
+Do not approach alone.
+
+Carry fire or sound-based tools.
+
+Trust no whisper in the wild.
+
+==================================================
+SOURCE IMAGE 3 — verdant-maw-4_page.png
+==================================================
+
+BESTIARY ENTRY
+
+No. VM-17.
+
+VERDANT MAW
+
+BLOSSOM OF HUNGER
+
+“A flower whose petals hide teeth and hunger.”
+
+Stationary but deadly predator, camouflaged as a lush, inviting blossom.
+
+Emits enticing illusions or fragrances to attract prey into striking range.
+
+Snaps shut rapidly, trapping victims with powerful vines and thorn-lined petals.
+
+FEATURES
+
+VIBRANT PETALS
+
+Radiant colors and patterns mimic rare, alluring blooms to draw in prey.
+
+ENTICING AROMA
+
+Emits intoxicating fragrances that dull caution and cloud the mind.
+
+THORN-TEETH
+
+Rows of backward-facing thorns line the maw.
+
+Once snapped shut, escape is nearly impossible.
+
+SNAP TRAP
+
+Petals close in a blinding instant, crushing and impaling prey.
+
+ENSNARING VINES
+
+Hidden vines burst from below, seizing victims and dragging them beneath.
+
+LORE ENTRY
+
+Field notes from the Herbalist Codex of Chartreuse Initiate, Sapreach Expedition.
+
+“Our scouts spoke excitedly of finding a flower larger and more radiant than any before — blooming in colors vibrant enough to eclipse the dawn itself.
+
+I was suspicious; beauty so pronounced always has a hidden cost.
+
+We approached carefully, yet even caution felt foolish as the bloom shimmered gently, exuding a fragrance that numbed our fears.
+
+Then came the whispers, soft promises and visions of memories we longed to relive.
+
+It was the flower speaking in illusions, luring us deeper.
+
+My trance broke only when I saw the petals twitch, revealing rows of thorn-teeth lining the maw beneath.
+
+By then, our guide had already reached out his hand.
+
+The flower’s embrace was instant, final — a silent snap followed by dragging vines pulling his still-struggling form underground.
+
+Never trust beauty too bright or fragrance too sweet.
+
+The Verdant Maw feeds on desires just as readily as flesh, and Huevale is full of desires.”
+
+— Chartreuse Initiate, final entry before abandoning Sapreach Expedition.
+
+BESTIARY DATA
+
+Type:
+Carnivorous Plant / Ambush Predator.
+
+Threat Level:
+High — Lethal if caught unaware.
+
+First Emerged:
+Early Post-Shattering Era.
+
+Approximate Diameter:
+3.5–5.5 m.
+
+BEHAVIOR
+
+Completely stationary; relies solely on luring prey into its reach.
+
+Often found near relic-rich areas or points of emotional resonance, exploiting travelers’ curiosity or nostalgia.
+
+Can be temporarily pacified by certain musical artifacts, for example Limerick Druid’s flute.
+
+ATTACK SEQUENCE
+
+1. LURE
+
+Uses scent, color, and illusions to attract prey.
+
+2. ENSNARE
+
+Vines erupt and seize the target.
+
+3. SNAP
+
+Petals clamp shut in a violent instant.
+
+4. DRAG
+
+Victim is pulled beneath the earth to be digested.
+
+HUE INTERACTION
+
+LURES WITH VERDANT
+
+Emits powerful Verdant illusions and intoxicating scents to lure prey.
+
+TARGETS BOUND BEINGS
+
+Can detect and target players strongly bound to Green, Verdant, or Brown, Earthen, hues.
+
+RESISTANT
+
+Resistant to direct plant manipulation; vulnerable to charm-based music or flute magic.
+
+KNOWN WEAKNESSES
+
+FIRE
+
+Highly susceptible to fire.
+
+Crimson flame attacks immediately neutralize its lures.
+
+VIBRATION / SOUND
+
+Sensitive to intense vibrations or sonic disruptions that disturb its senses.
+
+EARTHEN DECAY
+
+Vulnerable to Earthen decay spells, causing rapid wilting and temporary paralysis.
+
+NOTES & LOCAL TALES
+
+Locals tell cautionary tales of Verdant Maws imitating voices of lost loved ones, reciting half-remembered lullabies or promises to entice prey closer.
+
+These stories suggest even plants in Huevale know the power of longing.
+
+==================================================
+SOURCE IMAGE 4 — verdant-maw_page.png
+==================================================
+
+CLASSIFICATION
+
+Type:
+Carnivorous Plant / Ambush Predator.
+
+Threat Level:
+High.
+
+First Emerged:
+Early Post-Shattering Era.
+
+FEATURES
+
+RADIANT PETALS
+
+Visual lure.
+
+THORN-TEETH MAW
+
+Snaps shut instantly.
+
+FRAGRANCE GLANDS
+
+Intoxicating scent.
+
+ILLUSION BLOOM
+
+Whispers, memories, false comfort.
+
+ENSNARING VINES
+
+Trap and drag prey underground.
+
+ROOT ANCHOR
+
+Stationary ambush organism.
+
+SCALE & PRESENCE
+
+Bloom diameter:
+12–16 meters.
+
+Height at full spread:
+Approximately 10 meters.
+
+Hazard Class:
+A.
+
+ROOT ANCHOR — CROSS-SECTION
+
+Petal Column:
+Central stem.
+
+Nutrient Siphons:
+Absorb prey fluids.
+
+Tendon Roots:
+Anchor to bedrock.
+
+Digestive Cavity:
+Underground.
+
+BEHAVIOR SEQUENCE
+
+1. LURE
+
+Fragrance, voices, and nostalgic visions draw prey closer.
+
+2. SNAP
+
+Petals close with sudden crushing force.
+
+3. DRAG
+
+Vines pull still-struggling victims below.
+
+HUE INTERACTION
+
+Emits powerful Verdant illusions and intoxicating scents.
+
+Resistant to direct plant manipulation.
+
+Targets travelers strongly bound to Verdant or Earthen hues.
+
+Charm-based music or flute magic can pacify it temporarily.
+
+KNOWN WEAKNESSES
+
+Crimson flame neutralizes its lures.
+
+Sonic disruption and intense vibrations disturb its senses.
+
+Earthen decay spells cause rapid wilting and temporary paralysis.
+
+HABITAT & ENCOUNTER NOTES
+
+Often found near relic-rich areas or places of emotional resonance.
+
+Stationary but lethal if caught unaware.
+
+Listen for faint whispers, sweet scent, or distant humming — then stay vigilant.
+
+SCENT PROFILE
+
+Top:
+Sweet pollen, honeyed mist.
+
+Mid:
+Warm greens, crushed petals.
+
+Base:
+Earth, musk, faint rot.
+
+FIELD QUOTE
+
+“Never trust beauty too bright or fragrance too sweet.”
+
+— Chartreuse Initiate, Herbalist Codex.
+
+FINAL NOTE
+
+Beauty is the bait.
+
+Hunger is the truth.

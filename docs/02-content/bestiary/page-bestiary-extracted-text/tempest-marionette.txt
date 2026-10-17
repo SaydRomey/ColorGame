@@ -1,0 +1,167 @@
+TEMPEST MARIONETTE
+
+STRINGS OF LIGHTNING
+
+Dancer suspended by lightning and sorrow.
+
+“She dances on wires strung from lightning.”
+
+CLASSIFICATION
+
+Type:
+Skybound Construct / Elemental Dancer
+
+Threat Level:
+High — Agile, Reflective, Grace-Locked
+
+First Emerged:
+After the Skyglass Amphitheater’s collapse
+
+Region:
+Iriseld — Tidespire Reach
+
+ANATOMY BREAKDOWN
+
+1. SILK-PAINTED EYES
+
+Eyes painted on silk;
+blink once and they seem open somewhere else.
+
+2. GLASSY LIMBS
+
+Ceremonial glasswork arms and legs, elegant but razor-fragile.
+
+3. STORM-THREADED JOINTS
+
+Charged articulation points that spark with motion.
+
+4. LIGHTNING STRINGS
+
+Filaments of current suspend and guide each motion overhead.
+
+5. ARCSTEP AFTERIMAGE
+
+Circular dashes leave delayed ghost-images in the air.
+
+6. GLASS POINTE FEET
+
+Precision footwork used to parry and redirect attacks.
+
+7. CURTAIN FALL CORE
+
+A storm-bright center that charges the downward lightning finisher.
+
+DESCRIPTION
+
+A once-ceremonial construct created for aerial rituals and performances, the Tempest Marionette was left unfinished when the sky fell silent.
+
+Reanimated by the Iriseld storm network, it moves not with malice but with unending choreography.
+
+Each motion is precise, beautiful — and deadly.
+
+HABITAT / MANIFESTATION
+
+Patrols abandoned amphitheaters, wind shrines, sky-ritual rings, and broken skyglass performance halls.
+
+Appears in storm-lashed high places, especially where ritual acoustics and lightning paths overlap.
+
+Most active during charged weather, thunder surges, or echoing aerial rites.
+
+BEHAVIOR / STATE FLOW
+
+PATROL → ARCSTEP WALTZ → GLASS POINTE → CURTAIN FALL
+
+Uses Arcstep Waltz:
+rapid circular dashes with after-image delay.
+
+Activates Glass Pointe to parry midair attacks.
+
+Charges Curtain Fall:
+a downward lightning spear with a shock pulse.
+
+Moves like an endless performance rather than a direct brawl.
+
+ABILITIES / STATUS EFFECTS
+
+ARCSTEP WALTZ
+
+Circular dash sequence with delayed afterimages.
+
+GLASS POINTE
+
+Parry stance that reflects or deflects attacks midair.
+
+CURTAIN FALL
+
+Downward lightning spear followed by a shock pulse.
+
+TEMPO LOCK
+
+Punishes players who match her rhythm too predictably.
+
+STORM ENCORE
+
+Builds momentum as combat becomes more rhythmic.
+
+HUE INTERACTION
+
+Reflects low-grade projectile spells, especially Cobalt bolts, with a pirouette spin.
+
+Near Crimson, the Marionette’s tempo increases as it mimics combat rhythms.
+
+Weak to disruptive beats or tempo-breaking pulses.
+
+Mind Echo cast at odd intervals can interrupt her flow.
+
+KNOWN WEAKNESSES
+
+Overloadable with high-intensity storm surge spells from certain weather events or relics.
+
+Disrupted by the Glaucous Feather’s silence aura.
+
+Temporarily stunned when her dance rhythm is broken by clashing tempo illusions or uneven terrain shifts.
+
+Vulnerable during the wind-up to Curtain Fall.
+
+LORE ENTRY — STORMGLASS THEATER SCRIPT
+
+The dancer enters.
+She does not walk.
+
+She is carried by memory and wire.
+
+Every bow is a goodbye.
+Every step is applause from the storm.
+
+She spins —
+and the sky answers in thunder.
+
+The strings glow.
+The audience vanishes.
+
+The silence remains.
+
+Recovered from the drowned vault of the Skyglass Amphitheater.
+
+IRISELD CONTEXT
+
+The Tidespire Reach is carved with stormbound cliffs and skyglass theaters.
+
+Copper relays hum across the void, conducting lightning for ritual and signal alike.
+
+Here, weather is guided and applause echoes between clouds.
+
+TACTICAL NOTE
+
+Break the rhythm;
+survive the finisher.
+
+Deny her flow channels.
+
+Watch for the wind-up before Curtain Fall.
+
+HUNTER’S NOTE
+
+Some say she still performs for an audience only she can see.
+
+Others believe she was designed not to entertain, but to mourn.

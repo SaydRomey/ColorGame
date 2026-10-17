@@ -1,0 +1,190 @@
+GROVEBOUND SENTINEL
+
+THE SLEEPING WARDEN
+
+“The trees gave it orders.
+It never stopped listening.”
+
+THREAT LEVEL
+
+VARIABLE
+
+Immobile unless provoked.
+Nearly impossible to defeat by force.
+
+TYPE
+
+Living Construct / Ruin Guardian
+
+FIRST EMERGED
+
+Pre-Shattering design.
+Active in Post-Shattering Era.
+
+HUE INTERACTION
+
+IMMUNE TO ELEMENTAL DAMAGE
+
+All elemental and direct hue-based attacks are completely ineffective.
+
+ENVIRONMENTAL ACTIVATION
+
+Triggered by tampering with relics, puzzles, or sacred shrines.
+
+COLOR ALIGNMENT REQUIRED
+
+Can only be pacified through puzzle-solving, sequence restoration, or color alignment.
+
+TRUE HUE RESONANCE
+
+Responds to the harmony, or disharmony, of the surrounding hue combination.
+
+KNOWN WEAKNESSES
+
+NOT VULNERABLE TO FORCE
+
+Cannot be damaged or defeated through direct combat or magic.
+
+KNOT CORES EXPOSED
+
+Glowing knot cores become exposed when incorrect color combinations are attempted nearby.
+
+MEMORY ECHO RESONANCE
+
+Vulnerable to Memory Echoes that resonate with its original oath, purpose, or bonded spirit.
+
+PUZZLE DISRUPTION DELAY
+
+Disrupting its activation sequence can delay awakening, though not prevent it entirely.
+
+DESCRIPTION
+
+Colossal guardians entwined with the roots of Huevale’s sacred ruins, Grovebound Sentinels are carved from ancient hardwood and infused with slow, steady thought.
+
+They remain still for centuries, indistinguishable from surrounding trees—until something violates the sanctity of what they were made to protect.
+
+ANATOMY
+
+CROWN OF BARK
+
+Interwoven branches act as sensory antennas, attuned to vibrations and hue shifts.
+
+MOSSVEIL DRAPES
+
+Living moss and vines conceal the Sentinel while dormant, blending it with the forest.
+
+STONEBOUND ROOTS
+
+Roots extend deep into ruins and ley-veins, anchoring the Sentinel and powering its awakened form.
+
+GLOWING KNOT CORE
+
+The core stores ancient memory and oath.
+Only exposed during incorrect hue sequences or when its trust is broken.
+
+VINEWHIP ARMS
+
+Can extend and lash out with tremendous force, infused with draining sap and binding thorn-vines.
+
+RUNEWOOD PLATES
+
+Carved with protective runes that nullify magic and deflect energy of all kinds.
+
+ACTIVATION TRIGGERS
+
+RELIC TAMPERING
+
+Touching, removing, or altering sacred artifacts.
+
+PUZZLE BYPASS
+
+Ignoring or bypassing ancient rune puzzles.
+
+SHRINE DESECRATION
+
+Defiling, breaking, or polluting sacred shrines.
+
+HUE IMBALANCE
+
+Disrupting the correct hue sequence or alignment.
+
+REPEATED TRESPASS
+
+Persistent intrusion into protected grounds.
+
+Some triggers can be delayed or avoided by proper ritual or alignment.
+
+NOTES
+
+Many explorers mistake them for harmless statues until it is too late.
+
+Sentinels are bound to places, not people.
+Even if destroyed, which is nearly impossible, they will regrow.
+
+Some forest guides swear that Sentinels occasionally move imperceptibly when no one watches.
+
+LORE ENTRY
+
+Recovered Archive Whisper — Transcribed by the Celadon Archivist.
+
+“When words fail, the forest builds its silence.
+And silence, once shaped, stands eternal.”
+
+“The Grovebound Sentinels were not made—they were grown.
+Not by hands, but by decree.”
+
+“Root, stone, and memory braided into form by the elders of Huevale to guard what should never be touched, and to remember what must never be spoken.”
+
+“They do not breathe.
+They do not speak.”
+
+“Yet they listen, eternally attuned to vibrations of trespass and desecration.
+Their vines reach deeper than the ruins they protect, and they rise not with anger, but purpose.”
+
+“One does not slay a Sentinel.
+One reasons with it—not through words, but by proving worth.”
+
+“Solve the forest’s puzzle, and the Sentinel sleeps once more.
+Fail... and the forest will erase the mistake with quiet precision.”
+
+— Transcribed by the Celadon Archivist, from the root-code of an awakened Sentinel.
+
+BEHAVIOR
+
+DORMANT WATCHER
+
+Remains perfectly still for centuries, camouflaged as part of the forest or ruins.
+
+ACTIVATION TRIGGERS
+
+Awakens when relics, puzzles, or shrines are mishandled, defiled, or forcefully bypassed.
+
+DELIBERATE RESPONSE
+
+Moves with slow inevitability but strikes with tremendous force and precision.
+
+RETURN TO SLEEP
+
+Returns to dormancy once the nearby puzzle or shrine is resolved or when the trespass ends respectfully.
+
+POSSIBLE RESOLUTIONS
+
+SEQUENCE RESTORATION
+
+Recreate the correct order of symbols, pedestals, or colored relics.
+
+HUE ALIGNMENT
+
+Align the surrounding hues according to the forest’s original harmony.
+
+MEMORY PROOF
+
+Present a Memory Echo, relic, or action that proves your alignment with the Sentinel’s original oath.
+
+RESPECTFUL WITHDRAWAL
+
+Leave the area without further disturbance.
+The Sentinel will return to its silent watch.
+
+“YOU DO NOT PASS THE SENTINEL.
+YOU EARN THE PRIVILEGE TO BE IGNORED.”

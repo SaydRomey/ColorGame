@@ -1,0 +1,154 @@
+CRIMSON ECHO
+
+LOOP OF THE FALLEN BLADE
+
+“Battle never ends when memory screams louder than death.”
+
+THREAT LEVEL
+
+HIGH
+
+Adaptive Combatant
+
+TYPE
+
+Spectral Duelist / Memory Construct
+
+FIRST EMERGED
+
+Post-War of Cinders, first recorded in Ember Pits.
+
+HUE INTERACTION
+
+COPIES YOUR OFFENSE
+
+Copies the last offensive ability used on it, including hue-bound attacks, and reuses it within moments.
+
+VULNERABLE TO COBALT
+
+Vulnerable to Cobalt or Violet anti-loop magic, such as time-slow or echo disrupt.
+
+TRICKED BY ILLUSION
+
+Immune to direct memory manipulation, but can be tricked by illusion-based stutters or false rhythm.
+
+IGNORES PHYSICAL ARMOR
+
+Its attacks bypass physical defenses by striking memory pressure points.
+
+DESCRIPTION
+
+A Crimson Echo is the lingering combat memory of a warrior who died mid-duel, their rage and discipline imprinted on the battlefield itself.
+
+These echoes manifest when triggered — hovering apparitions that flawlessly mirror the final moves that defined their lives.
+Their weapons are ghost-steel and their movements eerily perfect, sharpened by eternity.
+
+ANATOMY
+
+SHATTERED HELM
+
+Fragments of the final blow that ended them.
+
+MEMORY CORE
+
+Glowing ember where their last thought is locked.
+
+ECHO TRAIL
+
+Leaves behind red residue of repeated actions.
+
+GHOST-STEEL ARMOR
+
+Forged from memory and rage.
+Unaffected by rust or time.
+
+LOOP BLADE
+
+Always replays the last successful attack it was shown.
+
+BINDING SIGIL
+
+Appears when duel is triggered.
+Anchors the echo to the field.
+
+LORE ENTRY
+
+From the journal of Vellidra Pyrehand, Cobalt Seer of the Ninth Ember Watch.
+
+“There is a scream in Vireya that never ends.
+It circles the same word. The same wound. Over and over again.”
+
+“The Crimson Echo is not a ghost — it’s a loop.
+A memory caught in the final moments of a duel, so loud and furious that it tore itself free of death.
+
+Each one is different, shaped by a fallen warrior’s last strike, last scream, last regret.
+Some lash out with broken spears. Others parry shadows long gone.
+
+But all of them... remember the blade.”
+
+“They react only when challenged — a look, a drawn weapon, a step into a circle scorched into the ground.
+Once provoked, the duel begins.
+
+And until the pattern is broken — or the echo is silenced — it will never end.”
+
+— Vellidra, two days before she vanished in the Arena of Sighs
+
+BEHAVIOR
+
+Activates only when a duel zone is entered or eye contact is made.
+
+Attacks with increasing aggression each time its pattern is interrupted.
+
+Copies and reuses the last successful attack the player used against it.
+
+Disappears if ignored for long enough, but reappears on repeat visits.
+
+KNOWN WEAKNESSES
+
+RHYTHM BREAKERS
+
+Rhythm-breaking actions, such as sudden pauses or feints, can momentarily unbalance its loop.
+
+SILENCE STOPS IT
+
+Crumbles to silence-based spells, muting both sound and ability reuse.
+
+UNREMEMBERED ACTIONS
+
+Temporarily resets if hit by an unremembered action, such as a non-hue environmental hazard.
+
+NOTES
+
+Some Crimson Echoes whisper the name of the one who killed them.
+
+Others whisper the name of the one they couldn’t.
+
+Skilled duelists claim they’ve learned new techniques simply by surviving a full cycle.
+
+Many others never finish the pattern.
+
+POSSIBLE DROPS
+
+ECHO CORE
+
+Condensed memory ember.
+Used to craft echo-bound weapons.
+
+BLADE MEMORY SHARD
+
+Contains a recorded technique from the echo’s final strike.
+
+CRIMSON RESIDUE
+
+Lingering essence.
+Used in alchemy or to empower loop-breaking spells.
+
+DUELIST’S REMNANT
+
+A token of the fallen warrior’s will.
+Can be traded or purified.
+
+YOU DO NOT KILL AN ECHO.
+YOU SILENCE ITS MEMORY.
+
+ONLY THEN DOES THE BLADE FINALLY REST.

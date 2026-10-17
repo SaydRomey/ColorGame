@@ -1,0 +1,156 @@
+MEMORY HUSK
+
+THE MIRROR UNASKED
+
+“A shell of who you were...
+or might become.”
+
+THREAT LEVEL
+MODERATE
+
+Echoed shade capable of mimicking past actions and overwhelming unprepared foes.
+
+TYPE
+Echoed Shade / Identity Wraith
+
+FIRST EMERGED
+Post-Shattering, near early alchemical fault-lines.
+
+HUE INTERACTION
+
+REACTS TO BOUND HUES
+Adapts to the hues the player has previously bound and uses them against you.
+
+MIMICS COMBAT RHYTHM
+Copies the attack cadence and spell patterns based on your prior usage.
+
+UNSTABLE TO CONFLICT
+Inconsistent past choices cause the Husk to flicker and become erratic.
+
+REFLECTS MEMORY
+Stronger when you fight using old habits or repeat familiar sequences.
+
+KNOWN WEAKNESSES
+
+NOVEL ACTIONS
+Temporarily pacified when the player performs an action or ability they never used before.
+
+MEMORY ECHO (EARTHEN)
+Earthen Bound’s “Memory Echo” ability exposes the Husk and weakens its form.
+
+REPLAY THE PAST
+Correctly replaying a sequence of past dialogue lines or actions can unravel it.
+
+DISRUPT RECALL
+Spells that scramble memory or cause confusion break its focus and delay its attacks.
+
+DESCRIPTION
+
+The Memory Husk appears as a ghostly copy of the player, often wearing older gear or casting long-abandoned spells.
+
+It inhabits places where you have previously died, failed, or made a significant choice.
+
+It is not bound by hatred or hunger—only by the imprint of your will.
+It tries to finish what you started, or what you avoided.
+
+ANATOMY
+
+FADING FORM
+Semi-transparent shell composed of fractured memory threads.
+
+ECHOED GEAR
+Wields weapons and artifacts you once used—or wanted.
+
+GLITCHED CORE
+Flickering nucleus of remorse, doubt, and unfinished choices.
+
+MIRRORED GAIT
+Moves like you, but with slight delay or imperfect timing.
+
+HOLLOW VOICE
+Speaks in fractured lines of your past dialogue.
+
+SHATTERED FOOTFALL
+Leaves behind fragments of memory that distort terrain and visibility.
+
+ECHOED ABILITIES
+
+MIMIC STRIKE
+Copies a recent melee combo with reduced accuracy.
+
+ECHO CAST
+Repeats a spell or ability you used in the past battle.
+
+PHANTOM DEFLECT
+Reflects projectiles or blocks using your own timing against you.
+
+MEMORY SHARD
+Summons fading copies of you to confuse and zone.
+
+RECALL STEP
+Teleports to a location where you previously died or rested.
+
+NOTES
+
+Some Memory Husks may retain knowledge of secrets or paths you once uncovered.
+
+They cannot gain new information—only what you have already lived.
+
+Rarely, a Husk will kneel instead of attack—as if waiting for you to forgive it.
+
+When defeated, it disperses into whispers that sound like your own thoughts.
+
+LORE ENTRY
+
+Fragment from “The Hollow Reflections,” recovered from the Isabelline Catacombs.
+
+“They stand just where you stood.
+Speak in your cadence. Swing with your uncertainty.”
+
+“In Auralith, death lingers — not as punishment, but as a rehearsal.
+
+The Husk is what remains when the soul forgets which version of itself it died as.”
+
+“I watched mine draw breath.
+I do not remember breathing that way.”
+
+— Author Unknown, though the handwriting is eerily familiar.
+
+BEHAVIOR
+
+MIMICS YOUR HISTORY
+Spawns in areas tied to your past—especially where you failed, died, or made a major choice.
+
+STUDIES BEFORE IT STRIKES
+Observes your first few moves to mimic your style and timing.
+
+ADAPTS MID-FIGHT
+Changes attack patterns if you switch weapons, equip new gear, or change tactics.
+
+DISTORTS MEMORY
+Utters fragments of your old dialogue or dreams, attempting to shake your focus.
+
+FADES OR FLOURISHES
+Weakens if ignored or confused.
+Grows stronger the more you hesitate.
+
+POSSIBLE DROPS
+
+FADED SELF (COMMON)
+A ghostly imprint of gear you once wore.
+Non-functional, but can be used for lore or crafting.
+
+MEMORY FRAGMENT (RARE)
+Shard containing echoes of your past choices.
+Used to unlock hidden dialogue or alternate resolutions.
+
+HUSKED CORE (RARE)
+Essence core that stores residual versions of player abilities.
+Used in experimental infusions.
+
+UNWRITTEN CHOICE (LEGENDARY)
+A rare scroll that reveals a path or option you once ignored.
+May open secret questlines or endings.
+
+“WE ARE NOT OUR MEMORIES.
+BUT THEY REMEMBER US.”

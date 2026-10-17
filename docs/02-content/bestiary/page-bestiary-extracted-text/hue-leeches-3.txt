@@ -1,0 +1,169 @@
+BESTIARY FILE — COLOR-PARASITIC ABERRATION
+
+HUE LEECHES
+
+PARASITES OF RADIANCE, SOFT AS JELLY, CRUEL AS HUNGER
+
+“They shimmer with borrowed light—and leave you pale.”
+
+THREAT LEVEL
+
+MINOR
+
+But disruptive in swarms.
+
+FIRST EMERGED
+
+Post-Prism Fracture
+
+TYPE
+
+Color-Parasitic Aberration
+
+LORE ENTRY
+
+Excerpt from “Drifting Parasites of the Huefold Realms” by Ashar of Huevale.
+
+“At first, I mistook them for droplets of oil falling upward—mesmerizing, harmless.
+
+But when I cast even the simplest burst of Crimson, they surged like starving children.”
+
+“One latched onto my back, and the world dimmed.
+My fire fizzled to ash. My pulse slowed.”
+
+“In that moment, I understood—they feed not on color... but on intention.”
+
+“Hue Leeches do not kill.
+They erase.”
+
+“What you meant to do fades.
+What you believed, dulls.”
+
+“I survived by flashing a prism shard in their midst—they scattered, furious, luminous.”
+
+“They taught me the cruelest truth:
+color is trust.”
+
+“And they are doubt incarnate.”
+
+ANATOMY
+
+SEMI-LIQUID BODY
+
+Composed of suspended ink, stolen radiance, and unstable pigment.
+Holds no true form.
+
+PRISM SCARS
+
+Fractured membranes refract stolen light.
+These scars pulse when the leech is agitated or starving.
+
+SIPHON MOUTHS
+
+Hollow, tubular feeding orifices that latch onto skin or gear to extract color, light, and intent.
+
+HUE SENSORS
+
+Prismatic nodules and filaments detect active hues, emotions, and magical resonance.
+
+COLOR CORE
+
+A volatile knot of purloined essence.
+Destroying it disperses the leech—but risks a prismatic burst.
+
+PARASITIC TENDRILS
+
+Ribbon-like leeches that anchor, drain, and unravel color and magical abilities.
+
+They retract when deprived of vibrant hues.
+
+DESCRIPTION
+
+Hue Leeches resemble globs of suspended ink, tinged with glimmering rainbow pulses.
+
+They drift in the air or hover near hue-aligned shrines, drawn to magic or activated color states.
+
+When they latch onto the player, they drain a hue, causing equipped abilities to “gray out” for several seconds, rendering them unusable.
+
+HUE INTERACTION
+
+TARGET ACTIVE HUES
+
+Prefer targets with recently activated spells or abilities.
+
+NEUTRAL TO PHYSICAL PRESENCE
+
+Highly reactive to visual spell cues or aura pulses.
+
+TURN GRAY AND INERT
+
+Turn gray and inert when exposed to complete hue-suppression fields, such as Nullshade auras or unaligned relics.
+
+BEHAVIOR
+
+SPAWN
+
+Spawn in swarms near prism fractures, old altars, or failed transmutation zones.
+
+PROVOKE
+
+Linger passively until provoked by hue use.
+
+LEECH
+
+Latch on to siphon color and abilities.
+The victim’s HUD fades and skills gray out.
+
+FLEE
+
+Attempt to escape if stunned or flashed with high-contrast light bursts.
+
+KNOWN WEAKNESSES
+
+AREA-OF-EFFECT BURSTS
+
+Especially vulnerable to non-hue damage types such as shockwaves or force spells.
+
+PRISM FLASH TALISMANS
+
+Disrupt their hue tethering and scatter swarms.
+
+MIRROR-LIGHT
+
+Vulnerable to mirror-angled light, which can stun them and then pop them like bubbles.
+
+NOTES
+
+Hue Leeches are not bound to one realm.
+They are the drifting parasites of a broken system—showing up wherever color falters or bleeds.
+
+Some archivists believe they evolved from the Prism’s tears.
+Others say they are what remains of unfinished hues—the ones never chosen.
+
+SIZE COMPARISON
+
+Average Diameter: 0.6 m–1.2 m.
+
+With tendrils: up to 2.5 m.
+
+COMBAT TACTIC TIP
+
+Avoid spamming abilities when surrounded.
+
+Use wide bursts, light flashes, or draw them into suppression zones to neutralize swarms.
+
+DROPS
+
+Leech Residue — Crafting.
+
+Unstable Hue Gel — Alchemical.
+
+Captured Color Core — Quest.
+
+LOCATION SPAWN POINTS
+
+Prism Fractures.
+
+Old Altars.
+
+Failed Transmutation Zones.

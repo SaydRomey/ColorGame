@@ -1,0 +1,89 @@
+TAPESTRY WATCHER
+
+NULLSHADE VARIANT — THE ECHO THAT WASN’T
+
+LORE ENTRY
+
+Lore Fragment:
+Unstable echo found near a Nullshade monolith gate.
+
+“I saw her again, the one who never answered me.
+
+She wore the regrets I never voiced.”
+
+“These Watchers don’t judge.
+They haunt.
+
+They remind.”
+
+“Each one is a reflection —
+not of who you were, but of who you could’ve been.”
+
+“They unravel the story you didn’t tell.”
+
+AT A GLANCE
+
+Type:
+Regret Construct / Decision Echo
+
+Threat Level:
+High — Metaphysical Disruptor
+
+First Emerged:
+Phase echo bleed near Core Wound’s south ridge
+
+DESCRIPTION
+
+Each Nullshade variant of the Tapestry Watcher appears mid-animation —
+flickering, distorted, always mid-threading or mid-turn.
+
+They do not speak, but the environment around them whispers dialogue choices you never made, twisting the player’s perception.
+
+HUE INTERACTION
+
+Immune to color-aligned spells —
+reacts only to anti-aligned or unselected hues.
+
+Glows when within range of unfulfilled side quests or unused dialogue trees.
+
+BEHAVIOR
+
+Appears in mirrored paths or failed puzzles.
+
+Paralyzes the player momentarily with threads of “missing memory” —
+visuals from dialogue branches never taken.
+
+Will teleport behind the player if they ignore a manifested regret.
+
+KNOWN WEAKNESSES
+
+Can be defeated only by rewriting through new decisions at reflection altars.
+
+If engaged while carrying a Prism Archive Key, allows one skipped regret to be resolved retroactively.
+
+Silence spells pause its animation.
+
+The Bistre Lantern shows its original Auralith form for a moment.
+
+NOTES
+
+If defeated in all its variants, unlocks the full tapestry mural in Nullshade’s archive vault —
+a visual display of the player’s total unchosen truths.
+
+Final Watcher, if spared, leaves behind a whisper:
+
+“The next you may still choose better.”
+
+DROPS
+
+None
+
+REGION
+
+Nullshade — Core Wound
+
+ARCHIVE TAG
+
+Echo Constructs
+
+Unchosen Paths

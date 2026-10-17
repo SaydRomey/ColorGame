@@ -1,0 +1,101 @@
+VEILSHIFT MATRON
+
+MISTRESS OF THE BLOOMPATHS
+
+SOURCE IMAGE — veilshift-matron_page.png
+
+CLASSIFICATION
+
+Type:
+Boss-Class Illusionist / Spatial Weaver.
+
+Threat:
+Major — Terrain & Memory Manipulation.
+
+First Emerged:
+After the Withering of the Dreamroot Grove.
+
+QUOTE
+
+“You’re in her garden now.
+
+She decides where the paths go.”
+
+LORE
+
+Once a gardener of the Veilgrove paths, she began pruning time after the Core Shattered.
+
+Now the bloompaths obey her fears.
+
+Or perhaps she simply wants you to get lost — with her.
+
+ANATOMY / FEATURES
+
+1. FLICKER MASK
+
+Warmth and emptiness alternate.
+
+Cracks during hesitation.
+
+2. PETAL MANTLE
+
+Ceremonial dusk petals hide phase shifts.
+
+3. BLOOMPATHS
+
+She rewrites routes, safe ground, and memory.
+
+4. EMOTION-DRIVEN ILLUSIONS
+
+Grief, protection, and forgotten names shape her magic.
+
+BEHAVIOR & COMBAT PROFILE
+
+Teleports during dodges.
+
+Shifts arena tiles with her.
+
+Can swap the player with their illusion.
+
+FALSE-NAME PHASE
+
+A wrong response blooms the arena into 6 mirrored fragments.
+
+FALSE-NAME PHASE — ARENA SPLIT
+
+The arena fractures into mirrored sections around the Matron.
+
+HUE INTERACTIONS
+
+COBALT’S MIND ECHO
+
+Reveals the true map briefly.
+
+VIOLET-BOUND MIMICRY
+
+Can counter terrain shifts.
+
+AURELIAN LIGHT
+
+Distorts illusions, but enrages her.
+
+WEAKNESSES
+
+Strike when she hesitates after whispering a name.
+
+Thulian Mirror reveals the real terrain for 6 seconds.
+
+Walking backward can stall illusion paths.
+
+REWARDS & NOTES
+
+Defeat unlocks the Bloomfold Archive in Myrrala.
+
+Illusion-bound victory grants the title:
+Pathless Pilgrim.
+
+FINAL NOTE
+
+She does not seek to kill you.
+
+She seeks to reshape the story you walk.

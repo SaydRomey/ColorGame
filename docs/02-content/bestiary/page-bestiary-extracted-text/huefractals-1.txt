@@ -1,0 +1,182 @@
+HUEFRACTALS
+
+FRAGMENTS OF FORGOTTEN COLOR
+
+“They don’t attack.
+They collide with the possibility of you.”
+
+THREAT LEVEL
+
+VARIABLE
+
+Safe when still, catastrophic when agitated.
+
+TYPE
+
+Prismatic Fragment / Living Hue Relic
+
+FIRST EMERGED
+
+Post-Core Collapse — Nullshade Genesis
+
+HUE INTERACTION
+
+REACTS TO HUE MAGIC
+
+React violently to concentrated hue magic—especially if multiple hues are active.
+
+CARRIES HUE ECHOS
+
+Each fragment holds an unstable echo of a specific hue.
+When struck, it may cast random low-tier spell effects of that hue.
+
+HUE CASCADE
+
+When three or more collide, they create a Hue Cascade—a zone-wide chromatic distortion that disables all hue-bound abilities temporarily.
+
+KNOWN WEAKNESSES
+
+SILENCE STABILIZES
+
+Complete silence—no music, no abilities, no movement—stabilizes or stills them.
+
+PRISM GLYPH ANCHORS
+
+Can be grounded by Prism Glyph Anchors or Nullpulse fields, created via Nullshade puzzle completion.
+
+FRAGILE BY DESIGN
+
+Their unstable form shatters under precise force or vibration resonance.
+
+DESCRIPTION
+
+Small, floating crystal shards, each glowing with unstable prismatic flickers.
+
+They rotate in recursive motion patterns and emit soft harmonic tones, sometimes syncing with the player’s hue state.
+
+In groups, they create harmonic interference that destabilizes the environment—breaking light physics and bending geometry.
+
+ANATOMY
+
+FRACTAL CORE
+
+Unstable energy knot.
+Contains the hue echo memory.
+
+PRISM SHELL
+
+Crystalline lattice that refracts and amplifies light and magic.
+
+HARMONIC EDGE
+
+Emits tonal frequencies that interact with hue and space.
+
+COLOR ECHO
+
+Residual hue memory that drives behavior and spell response.
+
+SHARD SPINES
+
+Micro-prisms that tear at hue fields and scatter light.
+
+NULLSHADE DUST
+
+Tiny particles shed constantly.
+Can interfere with magic and equipment.
+
+COMBAT INTERACTIONS
+
+PROVOKED
+
+Struck by hue magic or area effects.
+Becomes volatile.
+
+HUE CASCADE
+
+Three or more collide.
+Triggers chromatic overload.
+
+OVERLOADED
+
+Player abilities gray out.
+HUD flickers and distorts.
+
+STABILIZED
+
+Silenced or anchored.
+Fragments become still and inert.
+
+NOTES
+
+Huefractals are not bound to the realm.
+They drift where color falters or bleeds.
+
+Some Archivists claim they are remnants of the Seventh Hue.
+
+Resonating with one long enough without combat may trigger a memory scene—showing the moment the Prism broke, from a non-human perspective.
+
+LORE ENTRY
+
+Fragment from “The Spectrum that Broke” — Scrawlings in Nullshade Dust.
+
+“They were once part of something sacred.
+The Core sang with their chorus.”
+
+“But when the Prism cracked, the notes scattered and forgot the tune.”
+
+“Some tried to collect them.
+None returned whole.”
+
+“Not dead—just... chromatically incorrect.”
+
+“One danced near me once.
+It laughed in teal.”
+
+“Then wept in a color I didn’t have a word for.”
+
+“They want to return.
+But they don’t remember where they began.”
+
+“So they collide with anything that might have been their origin.”
+
+BEHAVIOR
+
+PASSIVE BY NATURE
+
+Not aggressive unless provoked by hue alignment, spells, or AoE proximity.
+
+RESONANCE SEEKER
+
+May follow the player briefly, attempting to “resonate”—which can overload equipment or inflict hue blur.
+
+HARMONIC FLOCKING
+
+Drift in recursive patterns.
+In swarms, create harmonic interference that distorts light and geometry.
+
+LOST MEMORY
+
+In rare Nullshade time loops, may align and “sing” a lost color, triggering a puzzle glyph sequence.
+
+POSSIBLE DROPS
+
+FRACTAL RESIDUE (COMMON)
+
+Crystalline dust humming with residual hue.
+Used in crafting.
+
+UNSTABLE HUE CORE (RARE)
+
+A volatile core that stores a random hue echo.
+Handle with care.
+
+PRISM SHARD KEY (RARE)
+
+A shaped fragment that fits ancient prism locks and warded barriers.
+
+SEVENTH HARMONIC (LEGENDARY)
+
+A perfectly resonant shard that reveals hidden glyphs and forgotten color truths.
+
+“COLOR REMEMBERS.
+EVEN WHEN THE WORLD DOES NOT.”

@@ -1,0 +1,168 @@
+SUNBURNT JACKAL
+
+THE SCORCHED HOWL
+
+A skeletal predator of burning dunes.
+
+“It never learned the difference between shadow and prey.”
+
+CLASSIFICATION
+
+Name:
+Sunburnt Jackal
+
+Type:
+Desiccated Predator / Heat-Hound
+
+Threat Level:
+Moderate —
+Lethal in packs or near radiant spells
+
+First Emerged:
+Late Color War —
+After the Dawn Siege of Luxeran
+
+Region:
+Luxeran —
+The Gilded Expanse
+
+ANATOMY
+
+1. BLISTERED EYES
+
+Milky, mostly blind from generations of sun.
+
+2. HEAT-SENSE MUZZLE
+
+Grotesquely overdeveloped scent and radiant detection.
+
+3. CRACKED FANG MAW
+
+Teeth are jagged and cracked;
+bite sears from residual heat.
+
+4. MANGY COPPER HIDE
+
+Sun-scorched fur, blistered skin, flaked and raw in places.
+
+5. ECHO HOWL THROAT
+
+Howl ricochets strangely in heat haze, disorienting prey.
+
+6. LONG SKELETAL LIMBS
+
+Hyper-lean and jointed for explosive speed across dunes.
+
+7. CINDER-PAD PAWS
+
+Thickened pads resist scorching sand and hot stone.
+
+DESCRIPTION
+
+The Sunburnt Jackal is a lean, copper-hued beast with mangy fur and blistered skin.
+
+Mostly blind from generations of sun, it relies on a grotesquely overdeveloped heat-sense to track prey.
+
+Fiercely territorial, it is drawn to radiant sources —
+spells, relics, or campfires.
+
+Its bite sears with residual heat, and its howl disrupts auditory clarity, making it as deadly as it is disorienting.
+
+HABITAT / MANIFESTATION
+
+Found around burning dunes, mirage fires, broken clay braziers, abandoned ruins, and heat-saturated desert routes.
+
+Often circles dying torches or radiant relic sites.
+
+Most active at midday.
+
+BEHAVIOR / STATE FLOW
+
+SCENT HEAT → CIRCLE SOURCE → PACK HOWL → LUNGE HUNT → SCATTER AT DUSK
+
+Hunts by triangulating body heat and radiant echoes.
+
+Chases thrown torches or glowing relics as distractions.
+
+Packs coordinate using howls that ricochet in heat haze.
+
+Cowers from dusk or cloudy conditions.
+
+ABILITIES / STATUS EFFECTS
+
+HEAT-SEEKER LUNGE
+
+Snaps toward radiant or warm targets with blinding speed.
+
+MIRAGE FIXATION
+
+Can become obsessed with false flames or decoy heat.
+
+ECHO HOWL
+
+Distorts auditory clarity and coordination.
+
+PACK TRIANGULATION
+
+Multiple jackals lock down prey through layered howls.
+
+SEARING BITE
+
+Residual heat damage on contact.
+
+HUE INTERACTION
+
+Drawn to Aurelian (Yellow) magic or any active light source.
+
+Avoids deep shadow or cold environments.
+
+Can be stunned by Cobalt flashburst spells.
+
+Illusions or magic that mask heat can break pursuit.
+
+KNOWN WEAKNESSES
+
+Ice and shadow spells dampen senses.
+
+Easily misled by artificial light or false heat signatures.
+
+Loud noises, explosives, or sonic artifacts disorient pack coordination.
+
+Shade and nightfall reduce aggression and speed.
+
+LORE SCRAP — ATTRIBUTED TO A FULVOUS HUNTER
+
+It circles the mirage fire for hours,
+not quenched, not fed.
+
+It is not blind as we are blind —
+it is worse.
+
+It feels heat like scent,
+reads the air as we read books.
+
+At night, when the stars cut the breath from the dunes,
+it whimpers at the cold ones.
+
+REGIONAL CONTEXT
+
+LUXERAN / THE GILDED EXPANSE
+
+Endless sun, shattered empires, and radiant spellscars forged creatures that track heat instead of sight.
+
+TROPHY / DROP
+
+SUNBLISTER FANG
+
+Used in crafting Mirage-Scent Cloaks.
+
+HUNTER NOTE
+
+Experienced guides carry heat-absorbent stones and cold-blood salves to mask presence and dull the jackal’s heat-sense.
+
+FIELD OBSERVATION
+
+Howls ricochet in heat haze —
+listen with more than your ears.
+
+“If a Sunburnt Jackal howls at an empty flame, it is mourning prey that never burned.”

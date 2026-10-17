@@ -1,0 +1,117 @@
+WICKBONE LANTERN
+
+THE LIGHT THAT JUDGES
+
+A cage of ribs, a candle of memory.
+
+SOURCE IMAGE — wickbone-lantern_page.png
+
+BESTIARY PLATE
+
+47B.
+
+CLASSIFICATION
+
+Type:
+Undead Construct / Memory Beacon.
+
+Threat:
+Moderate — passive until provoked or followed.
+
+First Emerged:
+Post-Shattering, Collapse of the Phylactery Vault.
+
+ANATOMY
+
+CRACKED SKULL
+
+Hollow sockets, no gaze yet always watching.
+
+SOULFLAME CORE
+
+Pale orange with a grey edge; reveals, not burns.
+
+RIBCAGE LANTERN
+
+Swaying muted glow, beacon and trap.
+
+SHADOW CAST
+
+Elongated, erratic, often reveals hidden glyphs.
+
+SCALE & STATURE
+
+Average Height:
+2.4 m.
+
+Mass:
+Unknown.
+
+Hollow bones, bound by intent.
+
+HABITAT — FORGOTTEN HALLS
+
+Its light awakens murals and glyphs that react only to its flame.
+
+ARCANE RESPONSE
+
+1. VIOLET-BOUND ILLUSIONS
+
+Strong reaction; terrain warps into false memories.
+
+2. YELLOW-BOUND ATTUNEMENT
+
+Safer to follow for longer without springing traps.
+
+3. EARTHEN SPELLS
+
+Dim or brighten the flame to expose hidden lore.
+
+ENCOUNTER PATTERN
+
+Passive drift through crypts.
+
+If attacked:
+hostile response.
+
+If followed:
+may guide intruders into soultrap zones.
+
+Possible outcomes:
+sealed memory puzzle / past-decision room / ghost ambush.
+
+If extinguished carelessly:
+emits a scream, summoning 1–3 Memory Husks.
+
+COUNTERMEASURES
+
+BISTRE LANTERN
+
+Bistre Lantern light stabilizes the flame, exposing its last burial site for peaceful dispelling.
+
+ALCHEMICAL COLD / GLAMOUR PULSE
+
+Alchemical cold or illusions of stillness can halt it briefly.
+
+CAPUT MORTUUM PHYLACTERY
+
+Can bind it temporarily for traversal or puzzle use.
+
+OBSERVER’S WARNING / FIELD NOTE
+
+Ignoring its path can mean missing hidden vaults and Memory Echo entries.
+
+Following too closely without proper hue-balance risks Reflection Bleed — a later debuff in which the player’s reflection attacks them.
+
+QUOTE
+
+“Its flame does not burn, but it reveals.”
+
+ARCHIVE FOOTER
+
+Study & Record.
+
+Knowledge is survival.
+
+Issued by:
+Conclave of the Last Scribe.

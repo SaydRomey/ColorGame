@@ -1,0 +1,175 @@
+SUNFLARE MARIONETTE
+
+THE DANCE OF SCORCHING STRINGS
+
+Delicate limbs, deadly threads.
+
+“Dances on beams.
+Cracks like porcelain.”
+
+CLASSIFICATION
+
+Type:
+Construct / Solar Puppet
+
+Threat Level:
+Moderate–High in bright open spaces
+
+First Emerged:
+Believed to have been a ceremonial guardian of the Aurelion Courts animated by forgotten rites of sun devotion.
+
+Region:
+Luxeran / The Gilded Expanse
+
+Aurelion Courts, solar temples, desert court architecture, radiant open plazas, mirrors, sandstone, gold, ivory, sunlit haze.
+
+ANATOMY BREAKDOWN
+
+1. PORCELAIN FACE / MASK
+
+Serene, expressionless, cracked with heat.
+
+2. GOLDEN-GLASS LIMBS
+
+Hollow limbs reinforced with radiant tracery.
+
+3. SUN-THREAD FILAMENTS
+
+Burning puppet strings of focused sunlight.
+
+4. SUNBURST JOINTS
+
+Bright pivots that flash during movement.
+
+5. RIBBON-LASH ARMS
+
+Slicing solar ribbons used to strike targets.
+
+6. MIRRORSTEP ANKLES
+
+Allow reflection-based teleportation.
+
+7. SOLAR CORE
+
+Radiant inner glow that powers the dance.
+
+DESCRIPTION
+
+A glasslike humanoid figure suspended by searing filaments of sunlight.
+
+Limbs are hollow porcelain, reinforced with gold tracery.
+
+Its joints flicker with sunbursts as it pirouettes across battlefield mirages.
+
+HABITAT / MANIFESTATION
+
+Appears in bright open spaces, Aurelion Courts, sun temples, reflective courtyards, desert shrines, mirror plazas, and exposed ceremonial arenas.
+
+Drawn to reflective surfaces and direct sunlight.
+
+Weakened in shade or cloud.
+
+BEHAVIOR / STATE FLOW
+
+SUNLINE STEPS
+
+Marks healing zones under solar focus and dances between them.
+
+RIBBON-LASH ATTACKS
+
+Uses ribbon-lash arms to slice and sever targets.
+
+SOLAR BLOOM — 50% HEALTH
+
+Enters Solar Bloom, emitting flares that detonate if not dodged in rhythm with her gestures.
+
+MIRRORSTEP
+
+Can teleport via reflected surfaces during battle.
+
+ABILITIES / STATUS EFFECTS
+
+SUNLINE STEPS
+
+Creates solar nodes that pulse healing to the Marionette.
+
+RIBBON-LASH
+
+Long-range slashes that inflict Bleed and Scorch.
+
+SOLAR BLOOM
+
+Emits explosive flares that build Scorch stacks.
+
+MIRRORSTEP
+
+Teleports between reflections and leaves an afterimage.
+
+HEALING WAVE
+
+Releases a radial wave that converts incoming Yellow damage into self-healing.
+
+HUE INTERACTION
+
+Aurelian / Yellow spells energize it.
+
+Damaging it with Yellow hue causes it to emit healing waves for itself.
+
+Disrupted by Violet illusions and smoke- or sand-based concealment that break beam threads.
+
+Weakens in heavy cloud or artificial shade.
+
+KNOWN WEAKNESSES
+
+Use shadow-creating terrain or artifacts to sever solar tethers.
+
+Cobalt’s Mind Echo or illusions can stagger it mid-spin.
+
+Highly vulnerable when caught without light for more than 10 seconds.
+
+LORE ENTRY — RECOVERED FROM AN AURELION COURT ARCHIVE
+
+“They said the dancer was too beautiful to cast a shadow.
+
+So the sun made one —
+and gave it strings.
+
+Her dance was a prayer.
+Her silence, a punishment.
+
+Now she dances alone,
+untethered and unwatched.
+
+But the beams remember —
+and burn those who turn away.”
+
+NOTES
+
+Ancient performance scrolls suggest the Marionette was once a celebrant, not a killer.
+
+Some dancers in Eburnea still perform her final dance at dusk, praying to blind the sun just long enough to forget their debts.
+
+“If you step into the spotlight…
+be sure you’re ready to bow.”
+
+LUXERAN CONTEXT
+
+The Aurelion Courts revere the sun as law and witness.
+
+To dance in its light is honor —
+to be judged by it is to be measured against perfection.
+
+HUNTER’S NOTE
+
+Break her rhythm.
+Take the light.
+
+Make her dance in darkness.
+
+She can be shattered, but only when she stops believing the sun is hers.
+
+SHADEBREAK LANTERN
+
+A Luxeran device that projects a field of deep shade, severing sun-threads within its radius.
+
+Essential for hunters who face the sun’s own puppets.

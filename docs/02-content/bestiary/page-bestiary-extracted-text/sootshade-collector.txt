@@ -1,0 +1,148 @@
+SOOTSHADE COLLECTOR
+
+THE ASH THAT WHISPERS
+
+“It gathers burnt truths. And whispers them.”
+
+TYPE
+
+Ashbound Specter / Memory Leech
+
+THREAT LEVEL
+
+MODERATE TO HIGH
+
+Emotionally destabilizing.
+
+FIRST EMERGED
+
+Ash Year 4, after the Ember-Library Collapse.
+
+ANATOMY BREAKDOWN
+
+1. ASHEN HOOD
+
+A voided cowl that swallows form and face alike.
+No identity, only memory.
+
+2. SCORCH-STITCHED WRAPS
+
+Robes and ribbons sewn from charred parchment and forgotten pages.
+
+3. EMBERLESS CORE
+
+A hollow heart of ash where memories are stored, not felt.
+
+4. DRIFTING SOOT RIBBONS
+
+Trail in the air like burned whispers, collecting stray thoughts.
+
+5. MEMORY SCROLLS
+
+Ash-scrolls carry stolen fragments of truth, relived by force.
+
+6. INKSMOKE WAKE
+
+Leaves behind a fog that replays the past in distorted echoes.
+
+7. TRUTH-SEEKING HANDS
+
+Long, frayed fingers that reach for texts, artifacts, and minds.
+
+HABITAT / MANIFESTATION
+
+Haunts burned archives, collapsed libraries, and ash-covered ruins.
+
+Attracted to scorched notes, half-burnt texts, and memory echoes.
+
+Feeds on forgotten confessions, hidden regrets, and abandoned truths.
+
+The more a place is forgotten, the stronger it becomes.
+
+BEHAVIOR / STATE FLOW
+
+EMERGE → MEMORY FOG → DIALOGUE ECHO → PARALYZE
+
+Casts black fog that replays memory fragments, cutscenes, or flashbacks.
+
+May paralyze the player by echoing key past dialogue or trauma.
+
+Hovers near burnt notes or ash-covered artifacts, attempting to “read” them.
+
+Becomes more aggressive when memories are resisted.
+
+ABILITIES / STATUS EFFECTS
+
+MEMORY FOG
+
+Projects a fog that triggers vivid flashbacks and visual distortion.
+
+DIALOGUE ECHO
+
+Repeats haunting lines from the player’s past, causing paralysis if unchecked.
+
+INK-LEECH
+
+Drains memory stability, weakening lore resistance and clarity of thought.
+
+ASH-BIND
+
+Roots the target in place through whispered truths and forgotten regrets.
+
+HUE INTERACTION
+
+Immune to fire and Crimson-based aggression.
+
+Amplifies lingering dialogue ghosts from Violet-aligned encounters.
+
+Neutralized temporarily by the Bistre Lantern’s glow.
+
+Certain relics and truth-bound artifacts sever its connection to memory.
+
+KNOWN WEAKNESSES
+
+Vulnerable to silence spells, especially from Verdant or Violet sources.
+
+Disperses briefly when caught in the light of the Bistre Lantern or reflective glyphs.
+
+Becomes unstable when the player speaks truth during a forced memory sequence.
+
+LORE ENTRY
+
+Notes from the Bistre Archivist, smudged but intact.
+
+“Not all things burned are lost.
+Some simply migrate.”
+
+“The Sootshade comes not to kill, but to recall —
+to trap you in a page you never turned — and make you read it aloud.”
+
+“One stepped into my archive once.
+It didn’t walk. It lingered.
+
+When it passed, an entire section of blackened scrolls whispered back into ink —
+confessions no one meant to leave behind.”
+
+“They do not judge.
+But they never forget.
+
+And memory, when weaponized, burns colder than any fire.”
+
+— Bistre Archivist
+
+NOTES
+
+Sootshades leave behind “Ash-Bound Pages” —
+rare consumable scrolls that reveal one hidden event or decision the player has forgotten.
+
+ASH-BOUND PAGE
+
+A fragment of stolen memory.
+Using one rewrites a portion of the memory log… at a cost.
+
+FIELD NOTE
+
+Survivors often report voices whispering their own secrets back to them.
+
+The Collector does not forgive.
+It only collects.

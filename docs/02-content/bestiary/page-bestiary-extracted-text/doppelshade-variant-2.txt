@@ -1,0 +1,92 @@
+DOPPELSHADE
+
+MIRROR OF THE SELFLIED
+
+“...Your face, your stance, your fear —
+a heartbeat behind you.”
+
+“I saw myself dodge.
+But I hadn’t moved yet.”
+
+TYPE
+
+Illusory Mimic / Mirrorborne Trickster
+
+THREAT LEVEL
+
+Variable — Based on player complexity.
+
+FIRST EMERGED
+
+Post-Shattering; earliest recorded in Myrrala.
+
+DESCRIPTION
+
+A self-propagating illusion created from unfulfilled choices, ego residue, and mirrorborne emotion.
+
+Forms when lingering doubt is reflected too long in the Blooming Veil’s mirrorstones.
+
+Mimics appearance, equipment, and behavioral tics — even spellcasting stutters or dodge habits.
+
+ENCOUNTER TRAITS
+
+1. Mimics the player’s current appearance and equipment loadout.
+
+2. Reacts to your last 3 movement patterns, trying to catch your next input.
+
+3. Damaging it before revealing its illusion form causes hue feedback — a psychic jolt that scrambles your HUD.
+
+4. They are never quite perfect.
+That’s their trap. That’s your warning.
+
+5. Appears behind or near mirrors, often posing mid-gesture.
+
+6. Opens with your most frequent spell or attack combo — but slightly early.
+
+7. Adapts quickly.
+Second encounter includes all choices made in first.
+
+8. A self-propagating illusion created from unfulfilled choices, ego residue, and mirrorborne emotion.
+
+A. HUE INTERACTION
+
+Weak to truth-bound light, Aurelian.
+
+Weak to sound-based rhythm, Cobalt.
+
+Immune to illusions unless constructed by the player using Violet.
+
+Reflected projectiles strike for full damage if released with reversed timing.
+
+B. BEHAVIOR PATTERN
+
+1. Poses mid-gesture near reflective surfaces.
+
+2. Copies your frequent combo.
+
+3. Predicts the next input slightly early.
+
+C. KNOWN WEAKNESSES
+
+Temporarily stuns if caught in a Thulian Mirror beam or Heliotrope Band aura.
+
+Becomes unstable when confronted by multiple dialogue paths or player contradictions.
+
+LORE ENTRY
+
+“Reflections should show truth.
+But in dreams, even mirrors lie kindly.”
+
+“There are things that wear your face.
+Not out of malice — but because they don’t know their own anymore.”
+
+“If your reflection attacks first, it was never yours.”
+
+— Fragmented Memory from the Thulian Mirror
+
+FIELD NOTES
+
+Some say killing a Doppelshade removes a fear.
+Others say it replaces one.
+
+Fey scholars advise not to look into your reflection after — just in case it blinks when you don’t.

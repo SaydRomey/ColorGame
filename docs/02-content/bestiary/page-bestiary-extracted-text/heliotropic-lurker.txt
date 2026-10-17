@@ -1,0 +1,172 @@
+HELIOTROPIC LURKER
+
+THORN IN THE TWILIGHT
+
+“It sees only light.
+But dreams in shadow.”
+
+THREAT LEVEL
+
+HIGH
+
+Ambush predator that thrives in twilight and bloom.
+
+TYPE
+
+Lurking Flora / Light-Stalker
+
+FIRST EMERGED
+
+After the Withering Bloom, under Liseran Shrine.
+
+HUE INTERACTION
+
+AMPLIFIED BY LIGHT
+
+Glows stronger and more aggressive when struck with Radiant Echo or other light-based magic.
+
+WEAKENED BY DARKNESS
+
+Shadow, darkness, and veiling abilities reduce its strength and senses.
+
+HELIOTROPE AWARENESS
+
+If the player wears the Heliotrope Band, it becomes aware but hesitant—waiting for your guard to drop.
+
+KNOWN WEAKNESSES
+
+SUDDEN DARKNESS
+
+Vulnerable to shadow bursts or darkness illusions, which cause it to recoil.
+
+DISTRACTION BY LIGHT
+
+Can be distracted by moving light sources like fireflies, glow-orbs, or illusions.
+
+MID-BLOOM VULNERABILITY
+
+If caught mid-bloom, its petals become brittle.
+A precise strike can destroy its nerve-center.
+
+DESCRIPTION
+
+A vine-creature that moves only when light shifts.
+It uses heliotrope blossoms as sensors, blooming toward sources of hue.
+
+Its strikes are sudden—from petal to fang in less than a heartbeat.
+
+It is silent, but players report feeling “watched” before it strikes.
+
+ANATOMY
+
+HELIOTROPE BLOOMS
+
+Sensitive petals detect hue and radiant energy.
+When threatened, they flare open.
+
+PETAL-FANGS
+
+Inner petals split into barbed maws in an instant, delivering poisoned bites.
+
+THORNED TENDRILS
+
+Flexible, barbed vines latch onto prey, draining hue over time.
+
+COIL OF MEMORY
+
+Its body spirals like sunlight trying to become memory—each loop stores echoes of warmth it once knew.
+
+ROOTED HIDE
+
+Covered in bark-like armor and moss, resistant to blunt or elemental force.
+
+NERVE-CORE
+
+Hidden deep within the bloom cluster.
+Exposed only when Best-bloom.
+
+ATTACK PATTERNS
+
+BLOOM BURST
+
+Erupts from the ground, scattering petal-shards that inflict hue bleed.
+
+TENDRIL GRASP
+
+Lunges with thorned vines to pull the target close, applying slow and hue drain.
+
+SUNKISS SPIRE
+
+Coils upward, summoning light-seeking vines that track the player.
+Best dodged in shadow.
+
+All attacks intensify when exposed to light.
+Seek shade to survive.
+
+NOTES
+
+Some believe the Lurker can remember those it failed to catch, and will follow them across regions, reappearing near heliotrope growths.
+
+Defeating it may yield a Withered Bloom-Core, usable in memory-bound rituals or light-sensitive traps.
+
+LORE ENTRY
+
+From the Garden Notes of the Liseran Caretaker.
+
+“The lilies grieve when it feeds.
+They know it was once part of them.”
+
+“The Heliotropic Lurker was not planted.
+It grew from sorrow, a vine that refused to wither when the sun set on its garden.”
+
+“It stalks by scent, by shadow-angle, by memory of warmth.
+It never hunts in full light, but flares when dawn rises—a final hunger before retreat.”
+
+“Some say it only appears to those carrying heliotrope—the band, the bloom, or the guilt.
+Others believe it is drawn to unresolved farewells.”
+
+“If it sees you, it won’t chase.
+It will wait.”
+
+— Liseran Caretaker, beneath the Weeping Lilies.
+
+BEHAVIOR
+
+AMBUSH HUNTER
+
+Burrows under bloom-pools and vine walls; bursts up when the player lingers or casts healing spells.
+
+THORNED LATCH
+
+Latches with thorned tendrils that drain hue slowly over time.
+
+TWILIGHT STALKER
+
+Most active in low light and twilight.
+Retreats during full light or after being seen through a Thulian Mirror.
+
+WATCHER’S PATIENCE
+
+Does not pursue.
+It waits in silence, observing movement, warmth, and lingering light.
+
+POSSIBLE DROPS
+
+WITHERED BLOOM-CORE (RARE)
+
+Pulsing core of dried light.
+Used in memory rituals and advanced traps.
+
+TWILIGHT VINE (COMMON)
+
+Flexible vine still warm with fading hue.
+Used in alchemical binds.
+
+HELIOTROPE PETAL (COMMON)
+
+Residual petal that retains a faint light-memory.
+Can be infused into gear.
+
+LURKER’S ESSENCE (UNIQUE)
+
+Rare essence that whispers locations of hidden blooms when held at night.

@@ -1,0 +1,30 @@
+{
+  "id": "BEAST_TEMPEST_MARIONETTE",
+  "entry": {
+    "name": "Tempest Marionette",
+    "type": "Skybound Construct / Elemental Dancer",
+    "threat_level": "⚠️ High – Agile, Reflective, Grace-Locked",
+    "first_emerged": "After the Skyglass Amphitheater's collapse",
+    "description": "An elegant puppet with glassy limbs and storm-threaded joints.\n\nHangs in midair, twirling along currents of charged wind.\n\nEyes are painted on silk — blink once, and they're open elsewhere.\n\nEach motion is precise, beautiful — and deadly.",
+    "hue_interaction": "Reflects low-grade projectile spells (especially Cobalt bolts) with a pirouette spin.\n\nWhen Crimson is nearby, the Marionette’s tempo increases — mimicking combat rhythms.\n\nWeak to disruptive beats or tempo-breaking pulses (e.g. off-rhythm chimes, Mind Echo at odd intervals).",
+    "behavior": "Patrols abandoned amphitheaters, wind shrines, or sky-ritual rings.\n\nUses Arcstep Waltz: rapid circular dashes with after-image delay.\n\nActivates Glass Pointe to parry midair attacks.\n\nCharges a finisher: Curtain Fall — triggers a downward lightning spear and midair shock pulse.",
+    "weaknesses": "Overloadable with high-intensity storm surge spells (from certain weather events or relics).\n\nDisrupted by the Glaucous Feather’s silence aura.\n\nTemporarily stunned if her dance is rhythmically broken (by clashing tempo illusions or uneven terrain shifts).",
+    "notes": "Some say she still performs for an audience only she can see — perhaps trapped echoes in the skyglass.\n\nOthers believe she was designed not to entertain, but to mourn."
+  },
+  "lore": {
+    "title": "Excerpt from a stormglass theater script — ink warped by rain",
+    "quote": "\"Every bow is a goodbye. Every step is applause from the storm.\"",
+    "flavor_description": [
+      "Dancer suspended by lightning and sorrow"
+    ],
+    "field_notes": [
+      "Act II, Scene IV – The Last Performance of Aeria, Storm-Bound",
+      "\"Every bow is a goodbye.\"",
+      "\"Every step is applause from the storm.\"",
+      "She spins — and the sky answers in thunder.\nThe strings glow. The audience vanishes. The silence remains.",
+      "– Recovered from the drowned vault of the Skyglass Amphitheater."
+    ],
+    "source": "Stormglass theater script, recovered from the drowned vault of the Skyglass Amphitheater"
+  },
+  "drops": []
+}
