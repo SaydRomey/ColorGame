@@ -44,9 +44,33 @@ This is a standalone browser-based design prototype, not a game-engine implement
 
 ---
 
+## [Prismwalker — Bestiary & Encounter Design Explorer][bestiary-prototype-html]
+
+- [Launch the Bestiary & Encounter Design Explorer][bestiary-prototype-launch]
+
+### What's included
+
+- **Searchable bestiary:** Browse 83 enemy entries extracted from `bestiary-draft.pdf`.
+- **Regional filters:** Explore Huevale, Vireya, Iriseld, Myrrala, Luxeran, Auralith, Nullshade, and Unbound creatures.
+- **Archetype and encounter tags:** Filter by the documented tags, including `DRAINER`, `ILLUSIONIST`, `CONSTRUCT`, `REVENANT`, `TRAPPER`, `REFLECTION`, and `META`.
+- **Enemy detail panels:** View each entry's documented role, visual identity, behavior, counterplay, and notes.
+- **Artifact references:** Review artifact/tool names identified in enemy counterplay and notes; references are not proof of a universal interaction.
+- **Hue-versus-enemy tester:** Inspect explicitly documented interactions, enemy-specific counters, and general hue countermeasure guidance while distinguishing unspecified interactions.
+- **Hypothetical combat balancer:** Experiment with example enemy HP and player DPS. These values are **non-canonical** and should not be interpreted as design specifications.
+
+### How to run it
+
+Download the HTML file and open it in Chrome, Firefox, or Edge. No installation, server, dependencies, or game engine required.
+
+The explorer is a browser-based **encounter-design reference and test tool**, not an in-engine combat simulation. Its enemy descriptions and tags are derived from the uploaded bestiary draft. **Undocumented hue interactions remain unspecified** rather than being assigned invented resistances or weaknesses. Numeric combat assumptions are hypothetical.
+
+---
+
 <!-- Links -->
 
 [hud-prototype-html]: ./prototypes/prismwalker_hud_prototype.html
 [hud-prototype-launch]: https://saydromey.github.io/ColorGame/__prototypes/prototypes/prismwalker_hud_prototype.html
 [personality-prototype-html]: ./prototypes/prismwalker_personality_simulator.html
 [personality-prototype-launch]: https://saydromey.github.io/ColorGame/__prototypes/prototypes/prismwalker_personality_simulator.html
+[bestiary-prototype-html]: ./prototypes/prismwalker_bestiary_explorer.html
+[bestiary-prototype-launch]: https://saydromey.github.io/ColorGame/__prototypes/prototypes/prismwalker_bestiary_explorer.html
