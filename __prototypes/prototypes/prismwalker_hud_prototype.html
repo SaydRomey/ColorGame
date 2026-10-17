@@ -1,0 +1,675 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Prismwalker — Diegetic HUD Prototype</title>
+  <style>
+    :root {
+      --accent: #cb5b5b;
+      --ink: #eef0f4;
+      --muted: #a5b0bd;
+      --panel: rgba(10, 15, 27, .91)
+    }
+
+    * {
+      box-sizing: border-box
+    }
+
+    body {
+      margin: 0;
+      background: #080d17;
+      color: var(--ink);
+      font-family: ui-monospace, SFMono-Regular, Consolas, monospace
+    }
+
+    button,
+    input {
+      font: inherit
+    }
+
+    button {
+      cursor: pointer
+    }
+
+    button:focus-visible,
+    input:focus-visible {
+      outline: 2px solid #f9e7ae;
+      outline-offset: 3px
+    }
+
+    .app {
+      max-width: 1420px;
+      margin: auto;
+      padding: 20px
+    }
+
+    .eyebrow {
+      letter-spacing: .22em;
+      color: #84afa9;
+      font-size: 11px;
+      text-transform: uppercase
+    }
+
+    h1 {
+      font-size: clamp(23px, 3.5vw, 38px);
+      font-weight: 600;
+      margin: 6px 0 8px
+    }
+
+    p {
+      color: var(--muted);
+      line-height: 1.5
+    }
+
+    .layout {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 320px;
+      gap: 16px;
+      margin-top: 20px
+    }
+
+    .stage {
+      position: relative;
+      height: min(650px, 70vh);
+      min-height: 480px;
+      overflow: hidden;
+      border: 1px solid #374356;
+      border-radius: 12px;
+      isolation: isolate;
+      background: radial-gradient(ellipse at 50% 35%, #344253 0, #192537 45%, #0b111e 100%)
+    }
+
+    .stage:before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: repeating-linear-gradient(90deg, transparent 0 87px, #a1b7c908 88px 89px), linear-gradient(transparent 70%, #060914bb), radial-gradient(circle at 50% 82%, #45685c55, transparent 38%);
+      pointer-events: none
+    }
+
+    .ruin {
+      position: absolute;
+      bottom: 24%;
+      width: 13%;
+      height: 30%;
+      border: 1px solid #8bb9a430;
+      background: linear-gradient(90deg, #253b3c, #101922);
+      box-shadow: 10px 8px 0 #090f1a77
+    }
+
+    .ruin.left {
+      left: 8%;
+      clip-path: polygon(0 14%, 50% 0, 100% 10%, 100% 100%, 0 100%)
+    }
+
+    .ruin.right {
+      right: 8%;
+      height: 38%;
+      clip-path: polygon(0 10%, 60% 0, 100% 16%, 100% 100%, 0 100%)
+    }
+
+    .ground {
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      height: 27%;
+      background: linear-gradient(#213d37aa, #081019), repeating-linear-gradient(110deg, #314a3c33 0 3px, transparent 3px 39px);
+      border-top: 1px solid #6aa9904d
+    }
+
+    .avatar {
+      position: absolute;
+      left: 50%;
+      bottom: 22%;
+      transform: translateX(-50%);
+      width: 105px;
+      height: 174px;
+      filter: drop-shadow(0 0 22px var(--accent));
+      transition: filter .3s
+    }
+
+    .avatar svg {
+      height: 100%;
+      width: 100%
+    }
+
+    .title-layer {
+      position: absolute;
+      top: 16px;
+      left: 50%;
+      transform: translateX(-50%);
+      font-size: 11px;
+      letter-spacing: .25em;
+      text-transform: uppercase;
+      color: #c6d8d1a8;
+      white-space: nowrap
+    }
+
+    .health {
+      position: absolute;
+      top: 22px;
+      left: 25px;
+      display: flex;
+      align-items: center;
+      gap: 12px
+    }
+
+    .health svg {
+      width: 88px;
+      height: 115px;
+      overflow: visible;
+      filter: drop-shadow(0 0 12px var(--accent))
+    }
+
+    .health .meter-text {
+      font-size: 11px;
+      letter-spacing: .09em
+    }
+
+    .fracture {
+      stroke: #e4f6ff;
+      stroke-linecap: square;
+      fill: none;
+      stroke-width: 1.5
+    }
+
+    .health.low svg {
+      animation: unstable .65s infinite alternate
+    }
+
+    .health.low .meter-text {
+      color: #ff8585
+    }
+
+    .wheel {
+      position: absolute;
+      left: 50%;
+      bottom: 20px;
+      transform: translateX(-50%);
+      display: flex;
+      align-items: center;
+      flex-direction: column;
+      gap: 10px
+    }
+
+    .wheel-row {
+      display: flex;
+      gap: 12px;
+      align-items: center
+    }
+
+    .hue-slot {
+      width: 60px;
+      height: 60px;
+      display: grid;
+      place-items: center;
+      position: relative;
+      background: #111827ce;
+      border: 1px solid #758a955e;
+      clip-path: polygon(50% 0, 96% 25%, 96% 76%, 50% 100%, 4% 76%, 4% 25%);
+      color: var(--slot);
+      box-shadow: inset 0 0 22px #b5fbe611
+    }
+
+    .hue-slot.active {
+      background: color-mix(in srgb, var(--slot) 23%, #101827);
+      outline: 0;
+      filter: drop-shadow(0 0 13px var(--slot));
+      transform: translateY(-8px)
+    }
+
+    .hue-slot span {
+      font-size: 24px
+    }
+
+    .hue-slot small {
+      position: absolute;
+      bottom: 5px;
+      font-size: 9px;
+      color: #e7eff7
+    }
+
+    .bar {
+      display: flex;
+      gap: 3px;
+      padding: 6px;
+      background: #050b14d9;
+      border: 1px solid #5e7d83;
+      border-radius: 4px
+    }
+
+    .segment {
+      height: 11px;
+      width: 19px;
+      transform: skew(-10deg);
+      background: #26303a;
+      border: 1px solid #68778255
+    }
+
+    .segment.full {
+      background: var(--accent);
+      box-shadow: 0 0 8px var(--accent)
+    }
+
+    .relics {
+      position: absolute;
+      right: 23px;
+      bottom: 30px;
+      display: flex;
+      gap: 8px
+    }
+
+    .relic {
+      display: grid;
+      place-items: center;
+      width: 36px;
+      height: 36px;
+      border: 1px solid #8c8669;
+      border-radius: 50%;
+      background: #0d131bd9;
+      color: #d0ba89
+    }
+
+    .hud-caption {
+      position: absolute;
+      left: 24px;
+      bottom: 18px;
+      font-size: 10px;
+      letter-spacing: .12em;
+      color: #b0c5cb
+    }
+
+    .ornate .health svg,
+    .ornate .hue-slot {
+      filter: drop-shadow(0 0 10px var(--accent))
+    }
+
+    .ornate .stage-deco {
+      display: block
+    }
+
+    .stage-deco {
+      display: none;
+      position: absolute;
+      inset: 10px;
+      border: 1px solid #b5a87950;
+      pointer-events: none;
+      clip-path: polygon(0 0, 14% 0, 14% 2px, 86% 2px, 86% 0, 100% 0, 100% 100%, 0 100%)
+    }
+
+    .stage-deco:before,
+    .stage-deco:after {
+      content: '✧';
+      position: absolute;
+      color: #e3d19b;
+      top: 8px;
+      font-size: 24px
+    }
+
+    .stage-deco:before {
+      left: 12px
+    }
+
+    .stage-deco:after {
+      right: 12px
+    }
+
+    .nullshade .stage {
+      filter: saturate(.48)
+    }
+
+    .nullshade .stage:after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+      background: repeating-linear-gradient(0deg, transparent 0 8px, #e9f4ff0a 9px 10px);
+      animation: distort 2.6s steps(2) infinite;
+      mix-blend-mode: screen
+    }
+
+    .nullshade .title-layer {
+      color: #d6c4e9;
+      animation: unstable .3s infinite alternate
+    }
+
+    .nullshade .wheel {
+      animation: distort 3.4s steps(2) infinite
+    }
+
+    .controls {
+      background: var(--panel);
+      border: 1px solid #344355;
+      border-radius: 12px;
+      padding: 18px;
+      align-self: start
+    }
+
+    .controls h2 {
+      font-size: 15px;
+      font-weight: 600;
+      margin: 0 0 14px
+    }
+
+    .controls h3 {
+      font-size: 12px;
+      text-transform: uppercase;
+      color: #aabfc0;
+      letter-spacing: .12em;
+      margin: 22px 0 10px
+    }
+
+    .control-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      margin: 11px 0;
+      font-size: 12px
+    }
+
+    .control-row label {
+      color: #c8d2d8
+    }
+
+    .control-row output {
+      color: #ffffff
+    }
+
+    input[type=range] {
+      width: 100%;
+      accent-color: #66b7b4
+    }
+
+    .btn-row {
+      display: flex;
+      gap: 7px;
+      flex-wrap: wrap
+    }
+
+    .btn {
+      border: 1px solid #526677;
+      background: #182538;
+      color: #f0f4f7;
+      border-radius: 6px;
+      padding: 9px 12px;
+      font-size: 12px
+    }
+
+    .btn:hover {
+      background: #253c4a
+    }
+
+    .btn.primary {
+      background: #24554e;
+      border-color: #40847b
+    }
+
+    .btn.selected {
+      border-color: #d4c38b;
+      color: #ffdfa0;
+      background: #2c3032
+    }
+
+    .palette {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 7px
+    }
+
+    .color-btn {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      text-align: left;
+      justify-content: flex-start;
+      padding: 8px;
+      border-radius: 6px;
+      border: 1px solid #4e5a65;
+      background: #131e2a;
+      color: #e5eaf0;
+      font-size: 11px
+    }
+
+    .color-btn .dot {
+      width: 12px;
+      height: 12px;
+      border-radius: 3px;
+      background: var(--c)
+    }
+
+    .color-btn.bound {
+      border-color: var(--c);
+      background: #253039
+    }
+
+    .color-btn:disabled {
+      opacity: .45;
+      cursor: not-allowed
+    }
+
+    .status {
+      min-height: 50px;
+      padding: 11px;
+      margin-top: 15px;
+      border: 1px solid #394e53;
+      background: #101b24;
+      color: #b9d6cb;
+      font-size: 12px;
+      line-height: 1.5
+    }
+
+    .hint {
+      font-size: 11px
+    }
+
+    .footer {
+      font-size: 11px;
+      color: #8fa2ae;
+      padding: 13px 2px
+    }
+
+    .resource-label {
+      font-size: 10px;
+      letter-spacing: .15em;
+      color: #c4c9c0
+    }
+
+    .mobile-only {
+      display: none
+    }
+
+    @keyframes unstable {
+      from {
+        opacity: 1;
+        filter: drop-shadow(0 0 6px #f64)
+      }
+
+      to {
+        opacity: .65;
+        filter: drop-shadow(0 0 22px #ff4d6d)
+      }
+    }
+
+    @keyframes distort {
+
+      0%,
+      88%,
+      100% {
+        transform: translateX(0)
+      }
+
+      90% {
+        transform: translateX(5px)
+      }
+
+      92% {
+        transform: translateX(-4px)
+      }
+
+      95% {
+        transform: translateX(2px)
+      }
+    }
+
+    @media(max-width:850px) {
+      .layout {
+        grid-template-columns: 1fr
+      }
+
+      .stage {
+        height: 550px
+      }
+
+      .controls {
+        width: 100%
+      }
+    }
+
+    @media(max-width:520px) {
+      .app {
+        padding: 10px
+      }
+
+      .stage {
+        min-height: 470px;
+        height: 480px
+      }
+
+      .health {
+        top: 13px;
+        left: 9px
+      }
+
+      .health svg {
+        width: 63px;
+        height: 90px
+      }
+
+      .wheel {
+        bottom: 24px
+      }
+
+      .hue-slot {
+        width: 49px;
+        height: 49px
+      }
+
+      .relics {
+        right: 8px;
+        bottom: 18px
+      }
+
+      .relic {
+        width: 25px;
+        height: 25px
+      }
+
+      .segment {
+        width: 14px
+      }
+
+      .hud-caption {
+        left: 8px;
+        bottom: 12px;
+        font-size: 8px
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <main class="app" id="app">
+    <div class="eyebrow">INTERACTIVE DESIGN PROTOTYPE / PIXEL-SHARD STUDY</div>
+    <h1>Prismwalker — Diegetic HUD</h1>
+    <p>Test a cracked health core, three bound hues, segmented charges, and Nullshade interference. This is a browser
+      mockup, not exported game-engine UI.</p>
+    <div class="layout">
+      <section class="stage" id="stage" aria-label="Prismwalker gameplay HUD preview">
+        <div class="title-layer" id="region">HUEVALE · THE VERDANT FRONTIER</div>
+        <div class="ruin left"></div>
+        <div class="ruin right"></div>
+        <div class="ground"></div>
+        <div class="stage-deco"></div>
+        <div class="avatar"><svg viewBox="0 0 100 180" aria-hidden="true">
+            <path d="M24 37 L37 8 L64 8 L77 40 L66 58 L81 102 L91 176 L12 176 L21 100 L32 59 Z" fill="#101821"
+              stroke="#799093" stroke-width="2" />
+            <path d="M37 26 L50 16 L64 28 L62 46 L39 46 Z" fill="#05090f" />
+            <path d="M50 66 L61 82 L50 102 L39 82Z" fill="var(--accent)" stroke="#e8ecf3" stroke-width="1.5" />
+            <path d="M50 66 L50 102 L39 82 Z" fill="#ffffff" opacity=".25" />
+            <path d="M26 100 L10 151 M74 100 L91 151 M41 102 L34 174 M60 102 L70 174" stroke="#657e84"
+              stroke-width="6" />
+            <path d="M28 40 L12 88 L24 125 M73 40 L89 88 L76 125" stroke="#a3abad" opacity=".4" stroke-width="2"
+              fill="none" />
+          </svg></div>
+        <div class="health" id="healthBadge"><svg viewBox="0 0 90 120" role="img" aria-label="Health prism">
+            <defs>
+              <linearGradient id="prismFill" x1="0" x2="1" y1="0" y2="1">
+                <stop offset="0" stop-color="#dae9ee" />
+                <stop offset=".55" stop-color="var(--accent)" />
+                <stop offset="1" stop-color="#151924" />
+              </linearGradient>
+              <clipPath id="shardClip">
+                <path d="M45 5 L79 29 L70 87 L45 114 L16 88 L9 30 Z" />
+              </clipPath>
+            </defs>
+            <path d="M45 5 L79 29 L70 87 L45 114 L16 88 L9 30 Z" fill="#0b121b" stroke="#bfd5e4" stroke-width="2" />
+            <g clip-path="url(#shardClip)">
+              <rect id="hpFill" x="0" y="5" width="90" height="109" fill="url(#prismFill)" />
+              <path d="M45 5 L45 114 M9 30 L45 60 L79 29 M16 88 L45 60 L70 87" stroke="#ffffff" stroke-opacity=".32"
+                fill="none" />
+            </g>
+            <g id="cracks"></g>
+          </svg>
+          <div class="meter-text">
+            <div>ESSENCE</div><strong id="hpText">100 / 100</strong>
+          </div>
+        </div>
+        <div class="wheel">
+          <div class="wheel-row" id="slots"></div>
+          <div class="resource-label" id="resourceName">MNEME / HUE CHARGE</div>
+          <div class="bar" id="bar"></div>
+        </div>
+        <div class="relics" aria-label="illustrative relic slots">
+          <div class="relic">✦</div>
+          <div class="relic">◇</div>
+          <div class="relic">◈</div>
+        </div>
+        <div class="hud-caption" id="hudCaption">PRISM CORE STABLE</div>
+      </section>
+      <aside class="controls">
+        <h2>Prototype controls</h2>
+        <div class="control-row"><label for="health">Health</label><output id="healthValue">100%</output></div><input
+          id="health" type="range" min="0" max="100" value="100">
+        <div class="btn-row"><button class="btn" id="hit">Take 25 damage</button><button class="btn" id="heal">Heal
+            25</button></div>
+        <h3>Mneme / charge</h3>
+        <div class="control-row"><label>Remaining segments</label><output id="chargeValue">12 / 12</output></div>
+        <div class="btn-row"><button class="btn primary" id="cast">Cast active hue (−2)</button><button class="btn"
+            id="refill">Refill at shrine</button></div>
+        <h3>Bound hues · select three</h3>
+        <div class="palette" id="palette"></div>
+        <p class="hint">Click a hue to replace the currently active binding. Click a shard in the preview, or press 1,
+          2, 3, to switch active hues.</p>
+        <h3>Visual mode</h3>
+        <div class="btn-row"><button id="minimal" class="btn selected">Minimal</button><button id="ornate"
+            class="btn">Ornate</button></div>
+        <div class="control-row"><label for="nullshade">Nullshade distortion</label><input type="checkbox"
+            id="nullshade"></div>
+        <div class="status" id="status" role="status">The Prismwalker is stable. Try taking damage or changing a hue.
+        </div>
+        <p class="hint">Prototype assumptions: 100 HP, 12 shared resource segments and 2 units per test cast are
+          editable design placeholders, not locked canon.</p>
+      </aside>
+    </div>
+    <div class="footer">Based on UI Design Concepts, Bound Hues in the Crystal Shard, UI in the Shard-Pixel Style, and
+      Wireframe Set Ideas. Keyboard: 1–3 = active hue; Space = cast.</div>
+  </main>
+  <script>
+    (() => { 'use strict'; const hues = [{ name: 'Crimson', color: '#db6058', glyph: '✦' }, { name: 'Cobalt', color: '#5aa6ec', glyph: '◈' }, { name: 'Verdant', color: '#70c888', glyph: '❧' }, { name: 'Aurelian', color: '#e2c46b', glyph: '☼' }, { name: 'Violet', color: '#ab82e6', glyph: '✧' }, { name: 'Earthen', color: '#be916a', glyph: '◆' }]; let bound = ['Crimson', 'Cobalt', 'Verdant'], active = 0, hp = 100, charge = 12, style = 'minimal', nullshade = false; const $ = id => document.getElementById(id); const say = msg => $('status').textContent = msg; function draw() { const hue = hues.find(x => x.name === bound[active]); document.documentElement.style.setProperty('--accent', hue.color); $('health').value = hp; $('healthValue').textContent = hp + '%'; $('hpText').textContent = hp + ' / 100'; $('hpFill').setAttribute('y', 5 + (100 - hp) * 1.09); $('hpFill').setAttribute('height', hp * 1.09); $('healthBadge').classList.toggle('low', hp <= 25); const paths = ['M45 60 L33 47 L22 52', 'M45 60 L58 70 L73 66', 'M45 60 L43 78 L29 96', 'M33 47 L28 33 L13 25', 'M58 70 L64 93 L56 110', 'M43 78 L52 88 L45 114']; $('cracks').innerHTML = paths.slice(0, Math.ceil((100 - hp) / 17)).map(p => `<path class="fracture" d="${p}"/>`).join(''); $('slots').innerHTML = bound.map((name, i) => { let h = hues.find(x => x.name === name); return `<button class="hue-slot ${i === active ? 'active' : ''}" style="--slot:${h.color}" data-slot="${i}" aria-label="Activate ${name}" aria-pressed="${i === active}"><span>${h.glyph}</span><small>${i + 1}</small></button>` }).join(''); $('bar').innerHTML = Array.from({ length: 12 }, (_, i) => `<span class="segment ${i < charge ? 'full' : ''}"></span>`).join(''); $('chargeValue').textContent = charge + ' / 12'; $('palette').innerHTML = hues.map(h => `<button class="color-btn ${bound.includes(h.name) ? 'bound' : ''}" style="--c:${h.color}" data-hue="${h.name}" aria-pressed="${bound.includes(h.name)}"><span class="dot"></span>${h.name}${bound.includes(h.name) ? ' ✓' : ''}</button>`).join(''); $('hudCaption').textContent = nullshade ? 'COHERENCE UNSTABLE' : hp <= 25 ? 'CRITICAL FRACTURE' : 'PRISM CORE STABLE'; $('region').textContent = nullshade ? 'NULLSHADE · THE PRISM WOUND' : 'HUEVALE · THE VERDANT FRONTIER'; $('app').classList.toggle('ornate', style === 'ornate'); $('app').classList.toggle('nullshade', nullshade); $('minimal').classList.toggle('selected', style === 'minimal'); $('ornate').classList.toggle('selected', style === 'ornate'); $('cast').disabled = charge < 2; $('cast').textContent = 'Cast ' + hue.name + ' (−2)'; } function cast() { if (charge < 2) { say('Insufficient Mneme. Refill at a shrine.'); return } charge -= 2; say(bound[active] + ' ability cast. −2 shared charge segments.' + (charge === 0 ? ' Resource exhausted.' : '')); draw() } $('health').oninput = e => { hp = Number(e.target.value); say(hp <= 25 ? 'Prism core fractured. Low-health flicker active.' : 'Health updated.'); draw() }; $('hit').onclick = () => { hp = Math.max(0, hp - 25); say('Damage taken. Fractures spread across the prism.'); draw() }; $('heal').onclick = () => { hp = Math.min(100, hp + 25); say('Essence restored. Cracks begin to fuse.'); draw() }; $('cast').onclick = cast; $('refill').onclick = () => { charge = 12; say('Shrine resonance restored all Mneme segments.'); draw() }; $('slots').onclick = e => { const b = e.target.closest('[data-slot]'); if (b) { active = Number(b.dataset.slot); say(bound[active] + ' is now active.'); draw() } }; $('palette').onclick = e => { const b = e.target.closest('[data-hue]'); if (!b) return; const name = b.dataset.hue; let existing = bound.indexOf(name); if (existing >= 0) { active = existing; say(name + ' activated.') } else { const old = bound[active]; bound[active] = name; say(name + ' bound in place of ' + old + '. Binding changes are modeled as shrine actions.') } draw() }; $('minimal').onclick = () => { style = 'minimal'; say('Minimal HUD selected.'); draw() }; $('ornate').onclick = () => { style = 'ornate'; say('Ornate HUD selected.'); draw() }; $('nullshade').onchange = e => { nullshade = e.target.checked; say(nullshade ? 'Nullshade exposure: HUD instability and desaturation enabled.' : 'Nullshade distortion cleared.'); draw() }; document.addEventListener('keydown', e => { if (['INPUT', 'TEXTAREA', 'BUTTON'].includes(document.activeElement.tagName)) return; if (['1', '2', '3'].includes(e.key)) { active = Number(e.key) - 1; say(bound[active] + ' activated.'); draw() } if (e.code === 'Space') { e.preventDefault(); cast() } }); draw() })();
+  </script>
+</body>
+
+</html>
