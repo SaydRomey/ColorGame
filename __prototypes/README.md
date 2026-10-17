@@ -26,4 +26,4 @@ The mechanics use placeholder values where your design documents haven't finaliz
 <!-- Links -->
 
 [hud-prototype-html]: ./prototypes/prismwalker_hud_prototype.html
-[hud-prototype-launch]: https://SaydRomey.github.io/ColorGame/prismwalker_hud_prototype.html
+[hud-prototype-launch]: https://saydromey.github.io/ColorGame/__prototypes/prototypes/prismwalker_hud_prototype.html
