@@ -74,8 +74,6 @@ Numeric combat assumptions are hypothetical.
 
 ---
 
----
-
 ## [Prismwalker — Regional Mechanics Lab][regional-lab-html]
 
 - [Launch Prismwalker — Regional Mechanics Lab][regional-lab-launch]
@@ -140,6 +138,29 @@ this prototype is a mechanics test, not the finalized combat specification.
 
 ---
 
+## [Prismwalker — Page-Turning Bestiary][bestiary-book-html]
+
+[Launch the page-turning bestiary][bestiary-book-launch]
+
+### What's included
+- A two-page, animated field-journal layout with page-turn transitions.
+- **83 creature entries** across Huevale, Vireya, Iriseld, Myrrala, Luxeran, Auralith, Nullshade, and Unbound.
+- Original creature names, flavor quotes, and field observations drawn from `Bestiary_Index.docx`.
+- Regional encounter themes drawn from `Bestiary_Reference.docx`.
+- Region filters, full-text search, clickable creature index, bookmarks, page navigation, and keyboard controls.
+- Decorative archive seals to reserve space for future creature illustrations. **These are not canonical creature art.**
+
+### How to run it
+Download the HTML file and open it in a modern browser.  
+Use **← / →** to turn pages, **/** to search, and **B** to save a bookmark.  
+The prototype works offline; 
+the font falls back to local serif/sans-serif fonts without network access.
+
+This is a browser-based reading prototype, not a game-engine UI.  
+It preserves WIP gaps and carries no invented statistics.
+
+---
+
 <!-- Links -->
 [hud-prototype-html]: ./prototypes/prismwalker_hud_prototype.html
 [hud-prototype-launch]: https://saydromey.github.io/ColorGame/__prototypes/prototypes/prismwalker_hud_prototype.html
@@ -153,3 +174,5 @@ this prototype is a mechanics test, not the finalized combat specification.
 [affinity-lab-launch]: https://saydromey.github.io/ColorGame/__prototypes/prototypes/prismwalker_hue_affinity_balancing_lab.html
 [combat-lab-html]: ./prototypes/prismwalker_hue_binding_combat_sandbox.html
 [combat-lab-launch]: https://saydromey.github.io/ColorGame/__prototypes/prototypes/prismwalker_hue_binding_combat_sandbox.html
+[bestiary-book-html]: ./prototypes/prismwalker_page_turning_bestiary.html
+[bestiary-book-launch]: https://saydromey.github.io/ColorGame/__prototypes/prototypes/prismwalker_page_turning_bestiary.html
